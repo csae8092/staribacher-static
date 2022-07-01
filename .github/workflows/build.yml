@@ -1,0 +1,29 @@
+name: Build and publish
+
+on: 
+  push:
+
+jobs:
+  build_pages:
+    name: Publish Edition as GitHub Pages Website
+    runs-on: ubuntu-latest
+    env:
+      ANT_OPTS: -Xmx5g
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v2
+    - name: Install Saxon, Ant and Fundament
+      run: |
+        apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
+        ./script.sh
+    - name: Fetch and Process data
+      run: |
+        ./fetch_data.sh
+    - name: Build
+      run: |
+        ant
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{secrets.GITHUB_TOKEN}}
+        publish_dir: ./html
