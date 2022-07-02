@@ -5,6 +5,9 @@
     <delete>
         <fileset dir="${target}" includes="*.html"/>
     </delete>
+    <delete>
+        <fileset dir="${target}" includes="*.xml"/>
+    </delete>
     <delete dir="${target}/static-search"/>
     <xslt style="./xslt/editions.xsl"  basedir="./data/editions" destdir="${target}" includes="*.xml">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>

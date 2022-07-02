@@ -12,6 +12,7 @@ data/
 __pycache__/
 *.py[cod]
 *$py.class
+secret.sh
 
 # C extensions
 *.so
@@ -143,3 +144,4 @@ desktop.ini
 
 # MacOS
 .DS_Store
+html/calendarData.js

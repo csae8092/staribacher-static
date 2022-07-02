@@ -18,3 +18,6 @@ add-attributes -g "./data/indices/*.xml" -b "https://id.acdh.oeaw.ac.at/staribac
 
 echo "write back-elements"
 python add_back_elements.py
+
+echo "create calendar data"
+python make_calendar_data.py
