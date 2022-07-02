@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700722.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700721.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700723.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 22. Juli 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-07-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-07-22">Mittwoch, 22. Juli 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-31">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0399" facs="02_1970-07-22_0399.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-07-22">Mittwoch, 22. Juli 1970</date>
+            </dateline>
+            <p xml:space="preserve">Der österr. Gesandte in Teheran, <name type="person">Seiffertitz</name>, der auf Urlaub<lb/>
+in Wien war, berichtete mit, dass die Iraner grösstes Interesse<lb/>
+daran hätten, dass wir Österreicher persisches Öl kaufen. Ausserdem<lb/>
+sollten gemeinsame Betriebsgründungen, Joint <choice><choice><sic>advanger,</sic><corr>venture</corr></choice></choice> in grösserem<lb/>
+Umfange versucht werden. Die ÖMV hat sich jetzt an einem europäi<lb break="no"/>schen Konsortium mit 5 % beteiligt, die in Iran Ölbohrungen durch<lb break="no"/>führen.werden. Ich verwies ihn auf die ÖMV, insbesondere Gen.Dir.<lb/>
+<name type="person" ref="#per__97337">Bauer</name>, mit der sowieso eine Besprechung vorgesehen hatte, und<lb/>
+<name type="person" ref="#per__97429">Feichtinger</name>. Da ich wusste, dass Österreich versucht, derzeit<lb/>
+300.000 t Rohöl zusätzlich zu importieren. Betreffend Management<lb break="no"/>schulung erklärte mir der Botschafter, dass vor einigen Monaten<lb/>
+er mit dem Rektor der Technischen Hochschule, <name type="person" ref="#per__146059">Amin</name>, diesbezügliche<lb/>
+Besprechungen geführt hatte und <name type="person" ref="#per__146059">Amin</name> sehr einverstanden war, dass<lb/>
+eine Managementschulung in ISFAHAN geschaffen werden sollte. In<lb/>
+Teheran wird derzeit überhaupt nichts mehr zusätzlich gebaut oder<lb/>
+errichtet, da mit 3 Mio Einwohnern diese Stadt bereits ein Sperr<lb break="no"/>gebiet ist und im Umkreis von 150 km überhaupt nichts errichtet<lb/>
+werden darf. Deshalb wird auch eine zweite Fachschule, die erste<lb/>
+besteht in Teheran und wird von Direktor <name type="person" ref="#per__147396">Müller</name>, einem Österreicher,<lb/>
+geleitet, in Asfahal errichtet werden. Die Russen selbst errichten<lb/>
+in Isfahan ein Stahlwerk und werden dort auch eine Werkschule auf<lb break="no"/>bauen. Besitzer dieser Schulen ist die kaiserliche Wohlfahrtsorgani<lb break="no"/>sation. Teheran ist derzeit ein Diskussion im Gange, ob Iran eine<lb/>
+Pipeline in die Türkei bis SKENDERUM bauen sollen oder ob nicht der<lb/>
+Hafen wesentlich ausgebaut werden sollte, um die grossen japani<lb break="no"/>schen Öltanker mit 600.000 BRT laden zu können. Das internationale<lb/>
+Ölkonsortium hat sich für Frachtschiffe entschieden und da Iran<lb/>
+einen grossen Export nach Japan hat, ist anzunehmen, dass sich daher<lb/>
+auch der Staat für einen Ausbau des Seehafens und der Frachtschiffe<lb/>
+entscheidet. Die Lage ist nach Meinung des Botschafters sehr stabil<lb/>
+Österreich hat ja in dieses Land den grössten Exportanteil vom<lb/>
+Nahen Osten, und wird in der nächsten Zukunft auch so bleiben.<lb/>
+Die von den westlichen Staaten immer wieder verlangte Garantie<lb/>
+gegen Verstaatlichung wurde nur den Amerikanern und der Bundes<lb break="no"/>republik Deutschland vor längerer Zeit vertraglich gegeben, wird<lb/>
+derzeit aber keinem anderen Staat mehr ausgestellt. Unter anderem<lb/>
+<pb n="02-0400" facs="02_1970-07-22_0400.jpg"/>verlangt die Niederlande eine solche Regelung.</p>
+            <p xml:space="preserve">Frau Generaldirektor <name type="person">Bühn</name> von der Austria Versicherung war wegen<lb/>
+eines ERP-Kredites gekommen. Sie selbst auf dem Karltheater-Grund,<lb/>
+den sie mit 7 Mio S erworben hat, ein Hotel bauen. Direktor <name type="person" ref="#per__146936">Krebs</name> von<lb/>
+der Hoteltreuhand AG hat ihr empfohlen und gesagt, dass nur der Mini<lb break="no"/>ster dafür sorgen könnte, dass sie für die 80 Mio S Kosten, die sie<lb/>
+hat, ca. 30 Mio von ERP in Dreijahresraten a 10 Mio kriegen könnte.<lb/>
+Seinerzeit hat sie nämlich Hotel Prinz Eugen mit 60 % ERP-Anteil<lb/>
+bauen können. Ich erklärte ihr sofort, dass dies vollkommen unmöglich<lb/>
+ist, denn zur Errichtung Prinz Eugens mit 60 % ERP-Anteil war es nur<lb/>
+gekommen, weil zu diesem Zeitpunkt keiner ERP-Mittel wollte und des<lb break="no"/>halb leicht zur Verfügung gestellt werden konnten. Erster Versuch war,<lb/>
+mir die Entscheidung vorzulegen, ob sie ein Geschäfts- oder Warenhaus<lb/>
+daraus bauen sollte, welches einen höheren Profit für die Gesellschaft<lb/>
+abwirft als ein Hotel mit 400 Betten. In der weiteren Diskussion aller<lb break="no"/>dings war sie bereit mir zuzugestehen, dass sie sowieso nur ein Hotel<lb/>
+bauen kann, da sie die notwendigen Baupläne bereits eingereicht hat<lb/>
+und auch schon genehmigt. Für den Bau zeigte ich das grösste Interessse<lb/>
+denn bekanntlicherweise fehlen in Wien mindestens 2 moderne Hotels<lb/>
+und Österreich und Wien inbesondere in an einem solchen Hotelbau sehr<lb/>
+interessiert. Sie selbst konnte mir auch mitteilen, dass Hilton und<lb/>
+ITT immer wieder zu ihr kommen, um sie um Geld für entsprechende Hotel<lb break="no"/>bauten zu bitten. Die Austria-Versicherung führt eine eigene Hotel<lb break="no"/>betriebs AG, die von Komm.Rat <name type="person">Scheiner</name> geführt wird und derzeit über<lb/>
+1.000 Betten bereits hat. Vor Jahren hat die CA ihren Hotelbetrieb<lb/>
+abgestossen, da sie jährlich 2 Mio S Verlust gehabt hat. Sie, die<lb/>
+Austria-Versicherung, hat nun über die Hotelbetriebs AG sowohl <name type="person" ref="#per__122012">Hübner</name>,<lb/>
+Schönbrunn, als auch <name type="person">Kummer</name> und ein Hotel in Graz und Zell am See<lb/>
+zu einem Hotelring zusammengefasst mit zentralem Reservierungssystem<lb/>
+wie es in den USA üblich ist und durch den Neubau von Prinz Eugen<lb/>
+bereits über 1.000 Betten und gebahrt aktiv.</p>
+            <p xml:space="preserve">Nachmittag kam Bürgermeister <name type="person">Achhamer</name> von Telfs und ersuchte ebenfalls<lb/>
+um einen entsprechenden ERP-Kredit in der Höhe von 6 Mio S, da sie<lb/>
+ein Schwimmbad mit 20 Mill. bauen müssen. Als sozialistische Gemeinde<lb/>
+sind sie für 7.000 Bewohner verpflichtet, ein zweckmässiges Bad auch<lb/>
+im Interesse des Fremdenverkehrs zu errichten. <name type="person" ref="#per__98048">Wallnöfer</name> hat gesagt,<lb/>
+in seiner Gemeinde Mirming, die nur 1.000 Personen umfasst, hat er<lb/>
+<pb n="02-0401" facs="02_1970-07-22_0401.jpg"/>ein entsprechendes Bad bereits hingebaut. Das Jahresbudget der Gemeinde<lb/>
+beträgt 20 Mill. S und das Schwimmbad allein wird auch 20 Mill. S<lb/>
+kosten. Da die Mittel im Fremdenverkehrsteil des ERP mit 150 Mio S<lb/>
+beschränkt sind und 300 Mill. Ansuchen vorliegen, ersuchte ich beide<lb/>
+unverzüglichst einzureichen, wobei ich allerdings natürlich den Telfsern<lb/>
+den Vorrang geben würde . Denn die Austria Versicherung wird das<lb/>
+Hotel unter allem Umständen auch dann bauen, wenn sie keinen ERP-Kredit<lb/>
+oder nur einen geringen Anteil der gewünschten 30 Mio bekommt.</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="#per__97543">Heindl</name>: Bitte, dieses Problem mit den soz. Vertretern<lb/>
+im ERP besprechen.</p>
+            <p xml:space="preserve"><name type="person" ref="#per__97493">Gröger</name> ersuchte, dass ich den Präsidenten der Firma ARCAIR, <name type="person">Steppart</name>,<lb/>
+empfange. Die Firma selbst will sich in Österreich mit Graphitelek<lb break="no"/>troden-Erzeugung niederlassen und 90 % ihrer Produkte zumindestens<lb/>
+exportieren. Er war von der Botschaft falsch informiert worden, denn<lb/>
+er sucht nicht in Ostösterreich eine Betriebsstätte sondern in ganz<lb/>
+Europa sieht er sich um und wird gegebenenfalls im Westen Österreichs<lb/>
+ansiedeln. Die Firma ist aber ein kleines Unternehmen, das ca. 3 Mio<lb/>
+$ Umsatz und 80 Angestellte in Ohio. Diese Unterlagen konnte mir <name type="person" ref="#per__114117">Mayer<lb break="no"/>hofer</name> von der Wiener Betriebsansiedlungsgesellschaft geben, im Hause<lb/>
+wussten wir über die Firma übehaupt nichts. Der Präsident selbst teilte<lb/>
+uns dann mit, dass er 8 – 10.000 m3 Grund sucht. Die Vertreter NÖ waren<lb/>
+nur sehr unzulänglich informiert und nicht bereit. konkretes Material<lb/>
+zur Verfügung zu stellen. Das von der Handelskammer zur Verfügung ge<lb break="no"/>stellte Material ist veraltet und unbrauchbar. Deshalb hat <name type="person" ref="#per__97493">Gröger</name><lb/>
+die Niederösterreicher ersucht, sie sollten ihm endlich ein besseres<lb/>
+Material geben und ausserdem mehr zusammenarbeiten. Da sie dies bis<lb/>
+jetzt nicht gemacht haben, wird <name type="person" ref="#per__97493">Gröger</name> einen Brief an die nö. Landes<lb break="no"/>regierung schicken.</p>
+            <p xml:space="preserve">Dr. <name type="person">Ottel</name> von der ÖCI, der Bank die eigentlich bei Altmann den grössten<lb/>
+Schuldenanteil hat, war gekommen, um mir zu erklären, warum die Bank<lb/>
+den gerichtlichen Ausgleich beantragt hat. Die Erklärung war absolut<lb/>
+unbefriedigend, denn es ist richtig, dass vom Grundkapital 40 Mio<lb/>
+mit 30.6.1969 nur mehr 12 Mio Eigenkapital vorhaden waren, weil Ver<lb break="no"/>lust und Verlustvortrag von 28 Mio S und bei allen Konstruktionen,<lb/>
+die man durchführt bereits eine Überschuldung von 8 Mio S mit 31.12.69<lb/>
+festgestellt werden musste, sodass der gerichtliche Ausgleich berechtigt<lb/>
+war.</p>
+            <pb n="02-0402" facs="02_1970-07-22_0402.jpg"/>
+            <p xml:space="preserve">Unbefriedigend ist aber dennoch diese Erklärung. Die Bank hat<lb/>
+immerhin 240 Mio S Kredit an diese Firma gegeben, bei einem derzei<lb break="no"/>tigen Umsatz von 120 Mio S und einen Monatsverlust von 1 Mio 3<lb/>
+ist daher kaum anzunehmen, dass sie einen Grossteil dieses Geldes<lb/>
+wieder herauskriegen wird. <name type="person">Ottel</name> behauptete auch, dass die Firmen<lb break="no"/>leistung, also nicht Generaldirektor <name type="person">Benedikt</name>, der mit 40 % u d<lb/>
+nicht wie angenommen wird mit 25 % an der Firma beteiligt ist,<lb/>
+sondern auch Dkfm. <name type="person">Saller</name> und der Betriebsdirektor <name type="person">Erlmann</name> bereits<lb/>
+vor Monaten auf die Liquidation hingewiesen wurde. Eine Rücksprache<lb/>
+mit <name type="person">Saller</name> hat ergeben, dass dies nicht stimmt, sondern dass er erst<lb/>
+vor acht Wochen das erste Mal direktt von der Bank erfahren hat, um<lb/>
+was es hier bei dem Betrieb geht. Es ist für mich und insbesondere<lb/>
+für <name type="person" ref="#per__97311">Androsch</name> auch gar keine Frage, dass hier noch Hintermänner –<lb/>
+<name type="person" ref="#per__97311">Androsch</name> vermutet den ehemaligen Generaldirektor von der ÖCI, <name type="person">Weninger</name>,<lb/>
+an dieser Sache beteiligt und deshalb keine wirklich offene Aussprache<lb/>
+auch im Finanzministerium geführt wird. Laut Mitteilung von <name type="person">Ottel</name><lb/>
+hätte er mit einem Schweizer Konzern Schiesser Verhandlungen geführt,<lb/>
+die unmittelbar vor dem Abschluss gestanden wären, Schiesser hätte<lb/>
+für das Grundkapital 40 Mio S auch wirklich 40 Mio S bezahlen wollen,<lb/>
+währenddem die Aktionäre 60 Mio gefordert hätte. Die Bank wäre nach<lb/>
+Mitteilung <name type="person">Ottels</name> bereit gewesen, die 20 Mio in irgendeiner Weise<lb/>
+zuzuschiessen oder zu überbrücken, im letzten Moment hätte sich<lb/>
+Schiesser aber überlegt und vom Kauf Abstand genommen. Nach Mit<lb break="no"/>teilung <name type="person">Ottels</name> verhandelt er ununterbrochen mit Interessenten<lb/>
+und glaubt, dass er auch tatsächlich, wenn der Betrieb durch<lb/>
+die Liquidation sich gesundgeschrumpft hat, dann verkaufen wird<lb/>
+können. Der Betrieb in Zwettl wurde bereits an ERG verkauft.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97311">
+               <persName type="label">Androsch, Hannes</persName>
+               <persName><surname>Androsch</surname><forename>Hannes</forename></persName>
+               <occupation>Finanzminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118503049</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810820.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            <person xml:id="per__122012">
+               <persName type="label">Hübner, Johannes</persName>
+               <persName><surname>Hübner</surname><forename>Johannes</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810826.xml"/>
+            </person>
+            <person xml:id="per__98048">
+               <persName type="label">Wallnöfer, Eduard</persName>
+               <persName><surname>Wallnöfer</surname><forename>Eduard</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/118764136</idno>
+               <ptr type="mentioned" target="#staribacher__19710617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810501.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810610.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810707.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810720.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810804.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+            </person>
+            <person xml:id="per__97429">
+               <persName type="label">Feichtinger, Friedrich</persName>
+               <persName><surname>Feichtinger</surname><forename>Friedrich</forename></persName>
+               <occupation>ÖMV</occupation>
+               <idno type="GND">http://d-nb.info/gnd/132912112</idno>
+               <ptr type="mentioned" target="#staribacher__19710122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780516.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780829.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780906.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780908.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800424.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800603.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+            </person>
+            <person xml:id="per__97337">
+               <persName type="label">Bauer, Ludwig</persName>
+               <persName><surname>Bauer</surname><forename>Ludwig</forename></persName>
+               <occupation>GD ÖMV</occupation>
+               <ptr type="mentioned" target="#staribacher__19710120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810812.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810831.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            <person xml:id="per__97543">
+               <persName type="label">Heindl, Kurt</persName>
+               <persName><surname>Heindl</surname><forename>Kurt</forename></persName>
+               <occupation>1970-1973 Büro Staribacher, SPÖ-NR-Abg., stv. Vors.
+                  SPÖ-Landstraße</occupation>
+               <idno type="GND">http://d-nb.info/gnd/102318379X</idno>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            <person xml:id="per__114117">
+               <persName type="label">Mayerhofer, Anton</persName>
+               <persName><surname>Mayerhofer</surname><forename>Anton</forename></persName>
+               <occupation>Wr. Betriebsansiedlungsgesellschaft, Schwager Staribachers</occupation>
+               <ptr type="mentioned" target="#staribacher__19710222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710403.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780403.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801024.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801121.xml"/>
+            </person>
+            <person xml:id="per__97493">
+               <persName type="label">Gröger, Adolf</persName>
+               <persName><surname>Gröger</surname><forename>Adolf</forename></persName>
+               <occupation>MR HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810318.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810330.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810520.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810527.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810731.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

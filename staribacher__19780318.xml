@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19780318.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19780317.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19780328.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 18. März 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band42_1978-03-18</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-03-18">Samstag, 18. März 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-05-03">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="42-0312" facs="42_1978-03-18_0312.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 18. März 1978<lb/>
+</p>
+            <p xml:space="preserve">Der Besuch des Bergbauministers <name type="person" ref="#per__114076">Mahabir</name> aus Trinidad wird,<lb/>
+so hoffe ich, ein voller Erfolg. Ministerpräsident <name type="person" ref="#per__114077">Williams</name><lb/>
+hat seinerzeit unserem österreichischen Botschafter in Venezuela<lb/>
+Dr. <name type="person" ref="#per__114078">Wotava</name> bei seinem Besuch in Trinidad zugesagt, Österreich<lb/>
+müsste sich mehr um dieses Ölland kümmern. <name type="person" ref="#per__114078">Wotava</name> war fest davon<lb/>
+überzeugt, dass es möglich ist, bei stärkerem Einsatz österrei<lb break="no"/>chischerseits einige Grossprojekte dort zu bekommen. Dies war der<lb/>
+Grund, warum ich namens der VOEST und der SGP Minister <name type="person" ref="#per__114076">Mahabir</name><lb/>
+eingeladen habe. Dies war aber auch vor allem der Grund, dass ich<lb/>
+meinen Osterurlaub um einen Tag verschoben habe, damit ich doch<lb/>
+auch Gelegenheit habe, mit <name type="person" ref="#per__114076">Mahabir</name> über die Projekte zu sprechen<lb/>
+und ihm vor allem ein offizielles Essen zu geben. <name type="person" ref="#per__114076">Mahabir</name> ver<lb break="no"/>sicherte mir unter vier Augen, dass die VOEST die Zementfabrik<lb/>
+garantiert bekommt. Der Auftragswert von 40 Mio US-$ hat ergeben,<lb/>
+dass die VOEST zwar im Vergleich zu anderen Offerten teurer ist,<lb/>
+doch wurde ich vorher dahingehend informiert, dass sie eine tech<lb break="no"/>nisch bessere Fabrik angeboten hat als die anderen Offerte. Der<lb/>
+Wunsch der SGP, bei der Erweiterung der staatseigenen Trintoc-<lb/>
+Raffinerie, Auftragswert 170 Mio $, und bei dem petrochemischen<lb/>
+Projekt Äthylen, <choice><choice><sic>Protylen</sic><corr>?</corr></choice></choice>, Chlor, Auftragswert 850 Mio $, durch<lb/>
+Teillieferungen berücksichtigt zu werden, hat eine gewisse Chance.<lb/>
+Trinidad ist aber ganz besonders interessiert mit der ÖMV eine<lb/>
+Kooperation zu erreichen. Computer-Application, Personal-Training,<lb/>
+Environment sollte zwischen ÖMV und der verstaatlichten Ölgesell<lb break="no"/>schaft behandelt werden. Diesbezügliche Gespräche hat <name type="person" ref="#per__114076">Mahabir</name><lb/>
+mit der ÖMV geführt. Interessant, für mich aber verständlich war<lb/>
+auch, dass sie bei ihren Ausflug nach Burgenland den Neusiedler<lb/>
+See und ganz besonders aber den Eisernen Vorhang sehen wollte.<lb/>
+Die Frau von <name type="person" ref="#per__114076">Mahabir</name> meinte, dies sei für sie sehr interessant.<lb/>
+Aber so nahe wollten sie aber auch nicht hingehen. Ich bin sehr<lb/>
+gespannt, ob tatsächlich die grosse Hoffnung, die sich die Firmen<lb/>
+machten und die insbesondere dann bei der Aussprache auch von <name type="person" ref="#per__114076">Mahabir</name><lb/>
+genährt wurde, sich erfüllen wird, oder ob es doch nur bei einer<lb/>
+Einladung von <name type="person" ref="#per__114076">Mahabir</name> bleibt. In diesem Fall gelte dann das<lb/>
+Prinzip, ausser Spesen nichts gewesen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__114077">
+               <persName type="label">Williams, Eric Eustace</persName>
+               <persName><surname>Williams</surname><forename>Eric Eustace</forename></persName>
+               <occupation>PM Trinidad u. Tobago</occupation>
+               <ptr type="mentioned" target="#staribacher__19780318.xml"/>
+            </person>
+            <person xml:id="per__114076">
+               <persName type="label">Mahabir, Errol</persName>
+               <persName><surname>Mahabir</surname><forename>Errol</forename></persName>
+               <occupation>Bergbauminister Trinidad u. Tobago</occupation>
+               <ptr type="mentioned" target="#staribacher__19780318.xml"/>
+            </person>
+            <person xml:id="per__114078">
+               <persName type="label">Wotava, Richard</persName>
+               <persName><surname>Wotava</surname><forename>Richard</forename></persName>
+               <occupation>öst. Botschafter in Venezuela</occupation>
+               <ptr type="mentioned" target="#staribacher__19780318.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

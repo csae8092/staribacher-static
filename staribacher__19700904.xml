@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700904.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700903.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700905.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  4. September 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-09-04</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-09-04">Freitag, 4. September 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-30">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0479" facs="02_1970-09-04_0479.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-09-04">Freitag, 4. September 1970</date>
+            </dateline>
+            <p xml:space="preserve">Bei der Grundsteinlegung in Amstetten für die Keksfirma General<lb/>
+Biscuits De Beukelaer hatte ich die Möglichkeit, auch Amstetten<lb/>
+kennenzulernen. Der Bürgermeister fuhr mit mir durch den Ort<lb/>
+und ich konnte feststellen, dass <name type="person" ref="#per__97828">Pölz</name> sehr viele Projekte gleich<lb break="no"/>zeitig in Angriff genommen hat. U.a. hat er jetzt das Spital mit<lb/>
+Hilfe eines Kredites der Unfallversicherung vergrössert und will<lb/>
+jetzt gleichzeitig ein sehr schönes Schwimmbad als Hallenbad noch<lb/>
+ausbauen. Er gibt freimütig zu, dass die Gemeinde schon derartig<lb/>
+verschuldet ist, dass er z.B. dringend erwartet, dass bei der<lb/>
+Budgetberatung 100 Mill. S die Unfallversicherung bekommt, bekannt<lb break="no"/>licherweise hat jeder Finanzminister bis jetzt 200 Mill. S der Un<lb break="no"/>fallversicherung weggenommen, damit diese die Finanztransaktion mit<lb/>
+Amstetten machen kann. Die Firma De Beukelaer, deren Präsident ge<lb break="no"/>kommen war, ist der erste im EFTA-Raum errichtete Betrieb, ausgelöst<lb/>
+wurde die Investition, da sich beim Absatz der im Ausland erzeugten<lb/>
+und nach Österreich importierten Produkte grosse Schwierigkeiten er<lb break="no"/>gaben. Wie der Präsident sagte, hat die Konkurrenz sich immer da<lb break="no"/>gegen beklagt und deshalb wurden auch mit Hilfe von Schutzzöllen<lb/>
+und wahrscheinlich womöglich mit administrativen Schwierigkeiten<lb/>
+diese Importe immer schwieriger. Deshalb entschloss sich die Firma<lb/>
+in Österreich diesen modernen Betrieb zu errichten. <name type="person" ref="#per__147014">List</name> hatte<lb/>
+seinerzeit Erziehungsschutzzölle verlangt und nun könnte man sagen,<lb/>
+dass sich durch die Schutzzollpolitik eine internationale Konzern<lb break="no"/>firma bereiterklärt, in Österreich dann einen eigenen Betrieb zu<lb/>
+errichten. Eine neue Variante der Zollschutzpolitik. Da diese<lb/>
+internationalen Firmen nicht mit einem Zollschutz dann in Öster<lb break="no"/>reich rechnen, sondern eben auf Grund ihrer Arbeitsteilung und ihrer<lb/>
+auf wenige Produkte konzentrierte Produktion nicht nur in Österreich<lb/>
+sondern auch von hier aus in die Oststaaten und sonstige Staaten<lb/>
+Produkte liefern werden. Der Direktor glaubt z.B., dass er imstan<lb break="no"/>de sein wird, von Österreich auch in die EWG nach Deutschland seine<lb/>
+Produkte liefern zu können. Bei der Grundsteinlegung war auch<lb/>
+Ing. <name type="person">Riedl</name> von Manner anwesend und erklärte mir, dass in der Frage<lb/>
+der Schokoladeverordnung die Firma Suchard einverstanden ist mit<lb/>
+der 90 gr-Tafel aber erst im Laufe des Monats November in Kraft<lb/>
+<pb n="02-0480" facs="02_1970-09-04_0480.jpg"/>setzen kann, da sie bereits die Emballagen und vor allem die<lb/>
+Schachteln auf 80 gr auf Vorrat hat und deshalb erst aufbrauchen.<lb/>
+-muss und neue Schachterln erzeugt werden müssen.</p>
+            <p xml:space="preserve">Bei unserer Besprechung fraktioneller Art über die Fremdenver<lb break="no"/>kehrspolitik hat <name type="person" ref="#per__111730">Newole</name> für Kärnten im Auftrag seiner Finanz<lb break="no"/>referenten deponiert, dass sie eine Vereinheitlichung der Fremden<lb break="no"/>verkehrszinsenzuschüsse nicht wollen. Derzeit ist es so, dass die<lb/>
+entsprechenden Zuschüsse, sei es von der Bürges oder vom Ministerium<lb/>
+in der Höhe von 3 % gegeben werden, ohne dass das Land gegebenenfalls<lb/>
+einen zusätzlichen Zuschuss gibt. Nach unserem neuen Konzept sollte<lb/>
+aber zwischen Land und Bund eine Teilung erfolgen, da nur auf<lb/>
+diese Weise die ca. 500 Mill. S subventioniert werden können, die<lb/>
+der Fremdenverkehr angeblich im nächsten Jahr investieren muss.<lb/>
+Über diese Frage werde ich noch mit den soz. Finanzreferenten reden<lb/>
+müssen.</p>
+            <p xml:space="preserve">Eine Vorsprache von Lord <name type="person">Nelson</name> of Stafford und dem Generalsekre<lb break="no"/>tär <name type="person">Groenhart</name> von der ORGALIME zeigte, wie sehr die Engländer ver<lb break="no"/>stehen öffentliche Funktionen mit ihren Privatfirmeninteressen<lb/>
+ich will nicht sagen zu verquicken, aber doch sehr gut in Einklang<lb/>
+bringen. Bei dieser Besprechung, bei der Min.Rat <name type="person">Peschke</name> und<lb/>
+Koll. <name type="person" ref="#per__97469">Gehart</name> teilnahmen, sagte insbesondere der letztere, dass ihn<lb/>
+dies am meisten verwundert hat. Die Orgalime, die nichttarifarische<lb/>
+Handelshemmnisse zum Verschwinden bringen soll und sowohl in EFTA<lb break="no"/>wie auch in EWG-Staaten aktiv ist, hat in Österreich eine Sitzung gehabt,<lb/>
+an der von Seiten der Bundeskammer <name type="person">Bucher</name> für den Fachv<lb break="no"/>erband Maschinen, <name type="person" ref="#per__97396">Dolinay</name>, Fachverband Elektrotechnik und <name type="person" ref="#per__147022">Maier</name> für<lb/>
+den Fachverband Eisenverarbeitende Industrie, teilgenommen haben.<lb/>
+Die staatlichen Stellen sind bei Orgalime nicht vertreten und ich<lb/>
+glaube der tiefere Grund liegt darin, dass sie dann befürchtet, dass<lb/>
+diese Organisation keine so guten Fortschritte erzielen als<lb/>
+angeblich jetzt zu erreichen ist, wo nur Interessenvertretungen an<lb/>
+diesen Besprechungen teilnehmen. Ich glaube, wenn ich das Tages<lb break="no"/>programm mir überdenke, dass es ein Fehler ist, in diesem Tages<lb break="no"/>programm immer unsere fraktionellen Besprechungen mit dem vollen<lb/>
+Titel anzuführen. Z.B. ist es unzweckmässig, die kleine Fremden<lb break="no"/>verkehrskommission im Haus hier aufzuführen, da ja bekanntlicherweise<lb/>
+<pb n="02-0481" facs="02_1970-09-04_0481.jpg"/>dieses Programm im Präsidium und wahrscheinlich auch an anderen<lb/>
+Stellen bekannt wird. Da im Haus sofort recherchiert werden kann,<lb/>
+dass weder ein Beamter noch irgendjemand von einer anderen Seite<lb/>
+an einer kleinen Fremdenverkehrskommission teilnimmt, so liegt nahe,<lb/>
+dass es sich hier um eine fraktionelle Sitzung handelt. Endergebnis<lb/>
+sind dann Artikeln, wie wir sie in der Presse feststellen können,<lb/>
+die zwar gar nicht gehässig, aber doch sachlich richtig feststellen<lb/>
+können, dass <name type="person" ref="#per__97985">Staribacher</name> ein fraktionelles Beratungsgremium sich ge<lb break="no"/>schaffen hat. Ich schlage deshalb vor, dass wir in Zukunft z.B. nur<lb/>
+eintragen: Besprechung mit <name type="person" ref="#per__97543">Heindl</name>, und mit intern dann nur mitgeteilt<lb/>
+wird, dass es sich um die fraktionelle Sitzung der Fremdenverkehrs<lb break="no"/>kommission handelt.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__97469">
+               <persName type="label">Gehart, Friedrich</persName>
+               <persName><surname>Gehart</surname><forename>Friedrich</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780424.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780522.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780523.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780605.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780905.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781016.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800327.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800414.xml"/>
+            </person>
+            <person xml:id="per__97828">
+               <persName type="label">Pölz, Johann</persName>
+               <persName><surname>Pölz</surname><forename>Johann</forename></persName>
+               <occupation>SPÖ-NR-Abg., Bgm. Amstetten</occupation>
+               <ptr type="mentioned" target="#staribacher__19780216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800604.xml"/>
+            </person>
+            <person xml:id="per__97396">
+               <persName type="label">Dolinay, Stefan</persName>
+               <persName><surname>Dolinay</surname><forename>Stefan</forename></persName>
+               <occupation>Sekr. Fachverband Elektroindustrie [1971]</occupation>
+               <ptr type="mentioned" target="#staribacher__19710913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780810.xml"/>
+            </person>
+            <person xml:id="per__97985">
+               <persName type="label">Staribacher, Josef</persName>
+               <persName><surname>Staribacher</surname><forename>Josef</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/125942052</idno>
+               <ptr type="mentioned" target="#staribacher__19710120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810324.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810525.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810601.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810828.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+            </person>
+            <person xml:id="per__111730">
+               <persName type="label">Newole, Wolfgang</persName>
+               <persName><surname>Newole</surname><forename>Wolfgang</forename></persName>
+               <occupation>Fremdenverkehrsverband Ktn.</occupation>
+               <ptr type="mentioned" target="#staribacher__19780120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781113.xml"/>
+            </person>
+            <person xml:id="per__97543">
+               <persName type="label">Heindl, Kurt</persName>
+               <persName><surname>Heindl</surname><forename>Kurt</forename></persName>
+               <occupation>1970-1973 Büro Staribacher, SPÖ-NR-Abg., stv. Vors.
+                  SPÖ-Landstraße</occupation>
+               <idno type="GND">http://d-nb.info/gnd/102318379X</idno>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

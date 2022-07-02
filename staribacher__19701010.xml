@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701010.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701009.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701012.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 10. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-10">Samstag, 10. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0631" facs="03_1970-10-10_0631.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-10">Samstag, den 10. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Wir sollten verhältnismässig früh nach Varna fliegen, aber das<lb/>
+Flugzeug hatte Verspätung. Zu diesem Zweck fuhren wir in die Nähe<lb/>
+von Sofia an einen See, der künstlich gespeichert wurde. Unsere<lb/>
+Begleiter erzählten, dass dies aus sportlichen Gründen geschehen sei.<lb/>
+Tatsächlich sollte ein Kanal eine Bewässerungsanlage ergeben, doch<lb/>
+wurde der Kanal jetzt wieder zugeschüttet, da das Wasser für das<lb/>
+metallurgische Werk im Norden von Sofia benötigt wird. 14 Kilometer<lb/>
+nördlich von Varna befindet sich der Goldene Strand. Hier wurden<lb/>
+unter Aufwendung von mindestens 6 – 700 Mill. S eine ganze Hotelkette<lb/>
+vom Balkantourist geschaffen. Architektonisch ist dies prachtvoll ge<lb break="no"/>löst, der zuständige Stadtrat erklärte mir, dass 20.000 Betten zur<lb/>
+Verfügung stehen. Ebenso seien 20.000 Betten für die Gewerkschaftsmit<lb break="no"/>glieder im Raume von Varna vorhanden. Nach seiner Mitteilung sind von<lb/>
+den 20.000 noch 9.500 Betten belegt, dies erscheint mir aber unmöglich,<lb/>
+da weder am Strand noch in den Anlagen Menschen in dieser Masse zu sehen<lb/>
+waren. Handelsdelegierte erzählte mir, dass im Sommer natürlich alles<lb/>
+pummvoll ist auch am Strand und in den Strassen. Ansonsten aber ist<lb/>
+es die schönste architektonische Lösung, die ich jemals gesehen hatte.<lb/>
+Selbst in Jugoslawien und in Italien ist so etwas nicht vorhanden.<lb/>
+Wie lange dies in einem brauchbaren Zustand erhalten wird, weiss ich<lb/>
+nicht und wahrscheinlich auch sonst niemand.</p>
+         </div>
+      </body>
+    
+  <back/></text>
+</TEI>

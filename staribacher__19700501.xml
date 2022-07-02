@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700501.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700430.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700503.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  1. Mai 1970 bis Samstag, der  2. Mai 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band01_1970-05-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1970-05-01" to="1970-05-02">Freitag, 1. Mai 1970 bis Samstag, 2. Mai 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
+      <body>
+         <pb n="01-0051" facs="01_1970-05-01_1970-05-02_0051.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date from="1970-05-01" to="1970-05-02">Freitag 1. Mai 1970</date>
+            </dateline>
+            <p xml:space="preserve">Ich hatte Gelegenheit beim 1. Mai – Aufmarsch auf der Tribüne<lb/>
+mit <name type="person" ref="#per__97311">Androsch</name> zu sprechen und ersuchte ihn neuerdings, er möge<lb/>
+dringend versuchen, die Richtlinien, die der Finanzminister zu<lb/>
+der Erstellung des Budgets an die einzelnen Ministerien schickt,<lb/>
+zu ändern, denn ansonsten könnte es passieren, daß die ÖVP er<lb break="no"/>klärt, das neue Budget sei auf Grund der<lb/>
+erfahrenen und bewährten Richtlinien des Finanzminister <name type="person" ref="#per__97647">Koren</name><lb/>
+erstellt worden. Er sagte mir zu, er würde sich über das Wochen<lb break="no"/>ende die ganze Sache anschauen und am Montag neuederdings ent<lb break="no"/>sprechend mit mir reden. Ich habe Montag Gelegenheit mit <name type="person" ref="#per__97423">Fabricius</name><lb/>
+bei ihm zu sein. <name type="person" ref="#per__97423">Fabricius</name> ersuchte mich ich möchte zu einer Be<lb break="no"/>sprechung kommen, die er mit dem Finanzminister vereinbart hatte.<lb/>
+<name type="person" ref="#per__97311">Androsch</name> war sehr einverstanden mit diesem Vorschlag, so daß<lb/>
+wir am Montag sehen werden, wie weit wir die Richtlinien ge<lb break="no"/>ändert bekommen. Dies ist deshalb notwendig, weil das Haus bei<lb/>
+mir bereits mit Erarbeitung eines Budgetsvorschlages auf Grund<lb/>
+der alten Richtlinien begonnen hat.<lb/>
+Nachmittags<add>2. Mai 1970</add> wurde vom Handelsministerium Sportverein, einer<lb/>
+sehr aktiven Sportlergruppe, das Bootshaus an der alten Donau<lb/>
+feierlich eröffnet und zwar eine 20 jährige Jubiläumsgabe. Als<lb/>
+mich Amtsrat <name type="person" ref="#per__140260">Kneissler</name> aufsuchte und mir mitteilte, daß eine solche<lb/>
+Eröffnung stattfindet und devot erst anfragte ob ich daran teilnehmen<lb/>
+würde, erklärte ich spontan nicht nur zu dieser Eröffnungszeremonie<lb/>
+<pb n="01-0052" facs="01_1970-05-01_1970-05-02_0052.jpg"/>mich bereit, sondern erklärte auch gleichzeitig, daß ich in dem<lb/>
+Verein als aktiver Sportler teilnehmen möchte, Amtsrat <name type="person" ref="#per__140260">Kneissler</name><lb/>
+ist nämlich im Handelsministerium in seinem sehr guten Ruf. Er<lb/>
+versteht es, alle Leute für seine Ideen zu gewinnen. Er erklärte<lb/>
+mir gleichzeitig, daß der Sportclub Handelsministerium keinem<lb/>
+Dachverband angehört und daß ihm das in der Vergangenheit große<lb/>
+Schwierigkeiten bereitet hat, weil man immer versuchte, ihn<lb/>
+der UNION anzugliedern. Es war sehr gut, daß ich an dieser Er<lb break="no"/>öffnungsfeier teilgenommen hatte, denn es erschien der ehenalige<lb/>
+Handelminister <name type="person" ref="#per__97358">Bock</name> mit seiner Gattin und der Bezirksvorsteher<lb/>
+vom 22. Bezirk sagte, er wäre sonst der einzige Sozialist dort<lb/>
+gewesen. Ich erinnerte ihn seiner Ansprache an die spontane<lb/>
+Reaktion meines Beitrittes und überreichte mir den Mitglieds<lb break="no"/>ausweis mit einer kleinen Plakette, die sehr nett war.<lb/>
+Als ich mich für die SALT-Konferenz Donauschiffahrt ent<lb break="no"/>schuldigt hatte, glaube ich richtig entschieden zu haben, nämlich<lb/>
+anstelle der Repräsentation eine wirklich zweckmäßige Veranstaltung<lb/>
+mit den Beschäftigten des Handelsministeriums gemacht zu haben<lb/>
+und dadurch das Vertrauen dieser Leute zu gewinnen. Den<lb/>
+Diplomaten auf der Donaufahrt bin ich sicher nicht abgegangen<lb/>
+und habe damit zu erkennen gegeben, daß mir, ohne daß ich es<lb/>
+natürlich gesagt habe, aber das spricht sich sicher im Haus herum,<lb/>
+eine Veranstaltung der Belegschaft wichtiger erscheint, als ein<lb/>
+diplomatischer Empfang mit Festessen auf der Theodor Körner.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97358">
+               <persName type="label">Bock, Fritz</persName>
+               <persName><surname>Bock</surname><forename>Fritz</forename></persName>
+               <occupation>ehem. ÖVP-Vizekanzler, Präs. Donaueurop. Institut, AR-Vors.
+                  Leykam</occupation>
+               <ptr type="mentioned" target="#staribacher__19710127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780908.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800506.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800514.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800610.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800702.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800708.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810113.xml"/>
+            </person>
+            <person xml:id="per__97311">
+               <persName type="label">Androsch, Hannes</persName>
+               <persName><surname>Androsch</surname><forename>Hannes</forename></persName>
+               <occupation>Finanzminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118503049</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810820.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            <person xml:id="per__97423">
+               <persName type="label">Fabricius, Otto(kar)</persName>
+               <persName><surname>Fabricius</surname><forename>Otto(kar)</forename></persName>
+               <occupation>GD Alpine, GD-Stv. VÖEST, Bergrat</occupation>
+               <ptr type="mentioned" target="#staribacher__19710201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710305.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710409.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720216.xml"/>
+            </person>
+            <person xml:id="per__97647">
+               <persName type="label">Koren, Stephan</persName>
+               <persName><surname>Koren</surname><forename>Stephan</forename></persName>
+               <occupation>Finanzminister, ÖVP-NR-Abg., OeNB-Präs.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800616.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810402.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810522.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

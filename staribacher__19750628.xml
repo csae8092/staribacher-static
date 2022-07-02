@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19750628.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750627.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750630.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 28. Juni 1975 bis Sonntag, der 29. Juni 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-06-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date from="1975-06-28" to="1975-06-29">Samstag, 28. Juni 1975 bis Sonntag, 29. Juni 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0796" facs="26_1975-06-28_1975-06-29_0796.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 28., und Sonntag 29. Juni 1975<lb/>
+</p>
+            <p xml:space="preserve">Im Lignano, das ich seit Jahrzehnten nicht mehr besucht habe,<lb/>
+war ich über die gigantischen baulichen Investitionen überrascht.<lb/>
+Als wir vor längerer Zeit wegen der Kinder den Urlaub dort verbrach<lb break="no"/>ten, war es wirklich noch ein unbedeutender kleiner Strand in<lb/>
+Sabbiadoro mit einigen Hotels, keine Hochhäuser und nichts von<lb/>
+der Spitze bis zum Tagliamento alles verbaut. Die Saison läuft<lb/>
+aber dort auch sehr schlecht an. Die Gaststätten sind nicht über<lb break="no"/>füllt, man bekommt ohne weiteres entsprechende Zimmer, nur Bungalows<lb/>
+wo die Leute selbst kochen und daher billiger leben können, sind<lb/>
+einigermassen frequentiert. Die Preise sind verhältnismässig sehr<lb/>
+hoch, ich bin sehr gespannt, wie die Fremdenverkehrssaison in<lb/>
+Italien verlaufen wird.<lb/>
+</p>
+            <p xml:space="preserve">Mit <name type="person" ref="#per__140632">Stenzel</name> besprach ich die Abstimmung zwischen den Arbeits<lb break="no"/>inspektoraten und der Unfallversicherung auf der einen Seite<lb/>
+sowie der Bergbehörde auf der anderen. Min.Rat <name type="person" ref="#per__110981">Pelzl</name> hat sich<lb/>
+bei diversen Besprechungen ganz entschieden dagegen gewendet, dass<lb/>
+Arbeitsinspektorate oder Unfallsicherungsdienste der Unfallver<lb break="no"/>sicherungsanstalt Bergbaue allein betreten dürfen. Dabei handelt<lb/>
+es sich nicht um Tätigkeiten unter Tag sondern auch um Betriebs<lb break="no"/>stätten. Erst durch monatelange Verhandlungen hat er jetzt nachge<lb break="no"/>geben. Es ist unwahrscheinlich, wie die Bürokratie ängstlich bedacht<lb/>
+ist, ihre Kompetenz unter gar keinen Umständen auch nur um einen<lb/>
+Millimeter zu ändern, geschweige denn aufzugeben. Ob es sinnvoll<lb/>
+ist oder nicht, wird dabei gar nicht im besonderen untersucht oder<lb/>
+gewürdigt. Wichtig ist nur seine eigene Kompetenz, um mit <name type="person" ref="#per__112983">Chruschtschow</name><lb/>
+zu reden, seine eigenen Garten abzustecken und in Ordnung zu halten.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__110981">
+               <persName type="label">Pelzl, Leopold</persName>
+               <persName><surname>Pelzl</surname><forename>Leopold</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19711221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800724.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+            </person>
+            <person xml:id="per__112983">
+               <persName type="label">Chruschtschow, Nikita S.</persName>
+               <persName><surname>Chruschtschow</surname><forename>Nikita S.</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19720118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780406.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

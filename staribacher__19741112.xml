@@ -1,0 +1,672 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19741112.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19741111.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19741118.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der 12. November 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band23_1974-11-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-11-12">Dienstag, 12. November 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-02-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band23/">
+      <body>
+         <pb n="23-1357" facs="23_1974-11-12_1357.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Dienstag, 12. November 1974</p><p xml:space="preserve">Bei einer Aussprache mit Gen.Sekr. <name type="person" ref="#per__97769">Mussil</name>, <name type="person" ref="#per__97872">Rief</name>, <name type="person" ref="#per__98112">Zöllner</name>, <name type="person" ref="#per__114598">Hruby</name><lb/>
+unter Beiziehung von <name type="person" ref="#per__112011">Kurzel</name> und Dr. <name type="person" ref="#per__98040">Wais</name> wegen der beantragten Strom<lb break="no"/>preiserhöhung für die Stadtwerke Wien, wäre bald meine Taktik<lb/>
+nicht aufgegangen. Die 130 Mill. S, welche die Gen.Direktion der<lb/>
+Stadtwerke vom E-Werk erwirtschaften will, war unglückseligerweise<lb/>
+durch die Ölpreiserhöhungen begründet. <name type="person" ref="#per__98112">Zöllner</name> sagte mit Recht,<lb/>
+dass auch die anderen Firmen die selben Forderungen hätten und des<lb break="no"/>halb mussten wir eine spezifische Wiener Regelung treffen. Richtig<lb/>
+war, dass 1955 die Gemeinde Wien aus mir unerklärlichen, in Wirk<lb break="no"/>lichkeit aus politisch optischen Gründen die Grundtarife abschaffte.<lb/>
+Die Massnahme selbst war sehr sozial, doch ergab sich dadurch ein<lb/>
+Mindererlös für Wien gegenüber NÖ, von <name type="person" ref="#per__97963">Slavik</name> wurde sie dann irgend<lb break="no"/>einmal wieder für die ersten zwei Tarifräume mit 2.- S eingeführt,<lb/>
+sicherlich in der Idee, zu einem späteren Zeitpunkt sie wieder anzu<lb break="no"/>heben. Wenn wir nun nur Wien diese Strompreiserhöhung geben wollen,<lb/>
+dann war die Gelegenheit durch Nachziehung der Grundtarife von vor<lb/>
+allem der Einführung der Messgebühr von 7.- S die günstigste Lösung.<lb/>
+<name type="person" ref="#per__98112">Zöllner</name> wehrte sich mit Recht dagegen, weil er darin einen dem<lb/>
+Stromsparen entgegengesetzte Tarifgestaltung sieht. Er möchte am<lb/>
+liebsten die Arbeitspreise progressiv erhöhen, d.h. je grösser der<lb/>
+Verbrauch, umso grösser die Stromkosten je Einheit. <name type="person" ref="#per__97769">Mussil</name> wehrt<lb/>
+sich natürlich gegen eine solche Tarifpolitik, weil dadurch gerade<lb/>
+die Industrie und teilweise das Gewerbe am meisten belastet wird.<lb/>
+Es gelang mir daher, für diese Tarifrunde beide auf einen Nenner<lb/>
+zu bringen, nämlich ausnahmsweise der Grundgebührerhöhung zuzustimmen,<lb/>
+wobei <name type="person" ref="#per__98112">Zöllner</name> gleichzeitig verlangte, dass bei der neuen Tarifge<lb break="no"/>staltung für die gesamten EVUs, frühestens allerdings nach den<lb/>
+nächsten Wahlen schon ein Stromspartarif eingeführt wird. Hier<lb/>
+wird ihm insoferne entgegengekommen, als jetzt die Mindestabnahme<lb/>
+verschwinden wird, dafür wird in zwei Etappen der Stromarbeitspreis<lb/>
+pro Stunde, d.h. kWh um je 11 Groschen erhöht. <name type="person" ref="#per__112011">Kurzel</name> wollte anfangs<lb/>
+überhaupt eine Generaldebatte, ob eine Strompreiserhöhung jetzt<lb/>
+gemacht werden sollte. Ohne dass ich ihn desavouierte, gelang es<lb/>
+dann doch, auch diese Klippe zu umschiffen.</p><p xml:space="preserve"><name type="person" ref="#per__98112">Zöllner</name> ersuchte ich neuerdings, dass wir wegen der Liberalisierung<lb/>
+gegen die Staatshandelsländer jetzt dringend einen gemeinsamen Be<lb break="no"/>schluss über die Obst- und Gemüsekonservenkontingente fassen sollten.</p><pb n="23-1358" facs="23_1974-11-12_1358.jpg"/><p xml:space="preserve"><name type="person" ref="#per__98112">Zöllner</name> versprach mit <name type="person" ref="#per__112010">Blaha</name> darüber zu sprechen und am Mittwoch<lb/>
+bei einer Besprechung eine gemeinsame Lösung anzustreben.</p><p xml:space="preserve">In der Ministerratsvorbesprechung wurde der Verwaltungsreformbericht<lb/>
+vom Bundeskanzleramt zurückgestellt. Im Ministerrat selbst berichtete<lb/>
+ich anstelle von <name type="person" ref="#per__97350">Bielka</name>, der im Budgetausschuss festgehalten wurde,<lb/>
+über Österreichs Absicht zum Beitritt zur internationalen Energie<lb break="no"/>agentur. Im Prinzip waren wir uns alle einig, dass Österreich<lb/>
+sofort beitreten sollte, wenn die entsprechende Neutralitätsklausel,<lb/>
+die die Schweiz, Schweden und Österreich verlangten, angenommen wird.</p><p xml:space="preserve"><name type="person" ref="#per__98034">Veselsky</name> berichtete auch in der Ministerratsvorbesprechung noch<lb/>
+über den Grund der Zurücknahme wegen der 2. Raumordnungskonferenz<lb/>
+mit der BRD in Berchtesgaden, ohne allerdings den wahren Grund<lb/>
+auch nur anzudeuten. Ich sah mich deshalb veranlasst, ihm vor allem<lb/>
+zu sagen, dass die Hauptschwierigkeit bei den Gegensätzen bei dem<lb/>
+FDP-Wirtschaftsminister <name type="person" ref="#per__97457">Friderichs</name> und dem Raumplanungsminister<lb/>
+SPD <name type="person" ref="#per__140762">Vogel</name> besteht. Da wir unsere guten Beziehungen über die Grenz<lb break="no"/>landbesprechungen und Abstimmung der Förderungen nicht gefährden<lb/>
+wollten, schlug ich ihm vor, wir sollten auf alle Fälle uns<lb/>
+in diesen Streit nicht einmischen, sondern auf der bisherigen Basis<lb/>
+Handelsministerium mit dem bayrischen und Bonner Wirtschaftsstellen<lb/>
+den bisherigen Kontakt und die Besprechungen aufrechtzuerhalten.<lb/>
+Eine Integrierung, wie Vorarlberg das jetzt im österr. Raumordnungs<lb break="no"/>konzept wünscht, würde endgültig diese Möglichkeit gefährden.<lb/>
+<name type="person" ref="#per__98034">Veselsky</name> war damit einverstanden. Ob er es durchziehen wird,<lb/>
+weiss ich nicht.</p><p xml:space="preserve">Die Reise und die Verhandlungen in Bagdad brachten die von mir er<lb break="no"/>warteten Erfolge, die Vorbereitungen durch den früher in Bulgarien<lb/>
+tätigen Aussenhandelsstellenleiter, der jetzt nach Wien einberufen<lb/>
+wurde, weil dort einem Protektionskind und weitschichtigen<lb/>
+Verwandten von LH <name type="person" ref="#per__112031">Maurer</name> Platz gemacht werden musste, waren einmalig.<lb/>
+Er hat mit allen Firmen, die auf dem irakischen Markt schon zu tun<lb/>
+hatten, oder die sich auch für den irakischen Markt interessierten,<lb/>
+englische Prospekte in Mappen für jede Firma zusammengefasst,<lb/>
+dadurch konnte ich mein System verbessern, indem ich nicht nur<lb/>
+die Listen der österr. Firmen, die liefern wollen, die Listen, die<lb/>
+Kooperationen wünschen und grössere Anlagen laufen haben und die<lb/>
+<pb n="23-1359" facs="23_1974-11-12_1359.jpg"/>Liste, wo Firmen sich beworben haben und bis jetzt keinen Zu<lb break="no"/>schlag oder keine Antwort bekommen haben, mit entsprechendem<lb/>
+Material ergänzt den Irakern übergeben. Die Hauptschwierigkeit<lb/>
+aber war, dass Botschafter <name type="person" ref="#per__97696">Linhart</name> befürchtete, wie er mir<lb/>
+gleich bei meiner Ankunft gestand, dass wir überhaupt so schnell<lb/>
+gar keine Verhandlungspartner haben würden, weil vor zwei Tagen<lb/>
+die Regierung grösstenteils ausgetauscht wurde. Der seinerzeitige<lb/>
+Ölminister Dr. <name type="person" ref="#per__97512">Hammadi</name>, mit dem ich im Vorjahr den Vertrag unter<lb break="no"/>zeichnet hatte, wurde Aussenminister. Als neuer Ölminister wurde<lb/>
+ein Parteifunktionär, der bis jetzt für die Landwirtschaftsfragen<lb/>
+verantwortlich war, durch seine Parteizugehörigkeit aber ein<lb/>
+starker Mann, wie der Botschafter glaubt, mit dem Ölministerium<lb/>
+betraut. <name type="person" ref="#per__126956">Abdul Karim</name> sprach perfekt Englisch und ich wäre bei<lb/>
+den Verhandlungen dadurch in eine schlechtere Position gekommen.<lb/>
+Zum Glück war von Steyr-Daimler-Puch der Vertreter, ein Syrer,<lb/>
+Dkfm. <name type="person" ref="#per__146488">Isa</name> mit, der sich als Dolmetsch anbot. Mit der Vorbereitung<lb/>
+und dem Dolmetsch war daher die Verhandlung wirklich sehr angenehm.<lb/>
+Botschafter <name type="person" ref="#per__97696">Linhart</name> hatte natürlich wie immer versucht, recht<lb/>
+viele Minister zu mobilisieren. Ich besuchte deshalb auch den<lb/>
+wirklich starken Mann im Irak, nämlich den Industrieminister,<lb/>
+der auch im Revolutionskomitee sitzt, wie sie es nennen follow up,<lb/>
+d.h. Nachfolgekomitee des Revolutionsrates macht in Wirklich<lb break="no"/>keit die Politik. Sie entspricht weitestgehend im Organisations<lb break="no"/>aufbau und auch in der Durchführung den Oststaaten. Ich klammerte<lb/>
+gleich von Anfang an die Möglichkeit, dass wir Kredite in<lb/>
+irgendeiner Form geben, aus. Im weiteren Verlauf stellte sich<lb/>
+dann heraus, dass entgegen dem Bericht des Botschafters die<lb/>
+Iraker sehr wohl dran interessiert waren, unser Abkommen vom<lb/>
+Vorjahr zu ergänzen, die ersten Vorschläge waren verheerend.<lb/>
+Unter anderem wollte Irak in das Abkommen eine Be<lb break="no"/>stimmung, dass Österreich, das als befreundete Nation gilt,<lb/>
+jede Menge Rohöl bekommen könnte, doch würde sich die Lieferung<lb/>
+nach den Anteilen, den Österreich an dem Entwicklungsprojekt,<lb/>
+d.h. an der Hilfe, die wir Irak gewähren, richten. Ausserdem wollte<lb/>
+sie dann, dass wir zwar nicht Irak einen Kredit geben, dass<lb/>
+wir aber die österreichischen Firmen, die nach dem Irak liefern,<lb/>
+besondere Kreditkonditionen für den Export einräumen, damit<lb/>
+sie konkurrenzfähiger werden. Die Minister beschwerten sich bei<lb/>
+mir, dass sie um 30 – 40 % höhere Offerte bekommen als von<lb/>
+<pb n="23-1360" facs="23_1974-11-12_1360.jpg"/>Frankreich, Italien, Japan usw. Der Industrieminister importiert<lb/>
+grösstenteils die Anlagen der Wirtschaftsminister, ein kommuni<lb break="no"/>stischer Vertreter im Kabinett, wurde zumindestens mir gegen<lb break="no"/>über behauptet, war für Holzimporte und Stahlimporte, an denen<lb/>
+er besonders interessiert war, zuständig. Wir hatten von den<lb/>
+meisten grösseren beteiligten Firmen im Irak Experten, d.h. Firmen<lb break="no"/>vertreter mit. Ich wollte sie am liebsten viel stärker<lb/>
+in die Verhandlungen einschalten, doch hat Botschafter <name type="person" ref="#per__97696">Linhart</name><lb/>
+gemeint, dass dies die Iraker unter gar keinen Umständen akzeptieren,<lb/>
+Ich ersuchte deshalb in einer Vorbesprechung die Firmenvertreter<lb/>
+und setzte dann auch durch, dass die zumindestens in Ministerien<lb/>
+anwesend waren und wir dann durch ständige Rückfragen Einzelinfor<lb break="no"/>mationen über ihre Wünsche, ihre Liefermöglichkeiten insbesondere<lb/>
+über die Termine, die sie einhalten müssten, machen konnten.<lb/>
+Die Iraker legen grössten Wert darauf, so schnell als möglich<lb/>
+ihre Waren zu beziehen, die Österreicher vermuteten wegen der<lb/>
+steigenden Preise, ich dagegen glaube, dass sie wirklich die Waren<lb/>
+dringend brauchen und daher weniger wegen der Inflationspreiserhö<lb break="no"/>hung als wegen der Notwendigkeit, sie lieber heute als morgen zu<lb/>
+haben, auch bereit sind, in Hinkunft mehr zu bezahlen. Dies habe<lb/>
+ich zumindestens allen Ministern eingeredet, besser gesagt, ver<lb break="no"/>sucht einzureden. Ausgesprochen unglückselig war die Holzdelega<lb break="no"/>tion zeitlich gelegen, denn sie ist drei Tage bevor ich<lb/>
+gekommen bin fortgefahren und der Wirtschaftsminister hat mich<lb/>
+dann natürlich wegen eventueller Holzexporte angewiesen. Ich<lb/>
+konnte ihm nur versprechen, in Wien sofort alles wieder zu mobi<lb break="no"/>lisieren, um die gewünschten Anbote zu stellen. Interessant war,<lb/>
+dass die Iraker streng unterscheiden zwischen der österreichischen<lb/>
+verstaatlichten oder genossenschaftlichen Industrie und der Privat<lb break="no"/>industrie. Sie glauben, dass die ersteren wegen, wie sie vermuten,<lb/>
+starken Unterstützung des Staates, ähnlich ist es nämlich bei<lb/>
+ihnen, besser liefern können und auch wir imstande wären, ihre<lb/>
+Wünsche zu erfüllen. Sie selbst würden auf alle Fälle der<lb/>
+verstaatlichten Industrie eine grössere Präferenz einräumen.<lb/>
+Da wir derzeit in Österreich einen starken Holzüberschuss infolge<lb/>
+Nichtabnahme der Italiener haben, sind die Preise, wie <name type="person" ref="#per__113607">Sirowatka</name><lb/>
+von der Handelskammer, der auch dieses Gebiet sehr gut vorbe<lb break="no"/>reitet hat, mir mitteilte, von 2.500 S/fm auf extrem 1.500 – 1.700<lb/>
+gefallen. Österreich wäre demnach wirklich lieferfähig, der einzige<lb/>
+<pb n="23-1361" facs="23_1974-11-12_1361.jpg"/>Nachteil ergibt sich daraus, dass viel zu viele kleine Exporteure<lb/>
+in Erscheinung treten. Die Iraker wünschen eine Einhand womöglich<lb/>
+und grosse Schlüsse.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__98040">WAIS</name>: Bitte sofort NR <name type="person" ref="#per__97558">Hobl</name> verständigen.</p><p xml:space="preserve">In den offiziellen Sitzungen und auch nachher versuchte ich bei jeder<lb/>
+Gelegenheit, die einzelnen Projekte, die wir vorher mit den Firmen<lb break="no"/>vertreter selbst durchbesprochen haben, den Irakern klarzumachen<lb/>
+und erreichte damit, dass die Firmenvertreter sehr zufrieden waren.<lb/>
+Weniger allerdings waren sie begeistert, dass sich – wie sie sich<lb/>
+ausdrückten beim Heimflug mir gegenüber, ich ständig abgeschirmt<lb/>
+war. Teils von den Irakern, teils aber natürlich auch von dem Bot<lb break="no"/>schafter und den offiziellen Delegationsmitgliedern. Ganz besonders<lb/>
+enttäuscht war der Vertreter des Evidenzbüros des österr. Aussenhandels,<lb/>
+der sich schon als Delegationsmitglied fühlte, ich hätte dagegen<lb/>
+nicht einzuwenden gehabt, weil er aber durch den Botschafter seiner<lb break="no"/>zeit nicht als Delegationsmitglied den Irakern gemeldet und der nach<lb/>
+Auffassung von <name type="person" ref="#per__97696">Linhart</name> unter gar keinen Umständen als Delegations<lb break="no"/>mitglied aufscheinen konnte. Die Firmenvertreter hatten aber dann in<lb/>
+Gesprächen mit ihren Partnern grosse Gelegenheiten teilweise neue<lb/>
+Geschäfte zu entrieren. Das gelang ganz besonders der Fa. Ruthner<lb/>
+mit Schoeller-Bleckmann gemeinsam, den Vertreter der VÖEST-Alpine<lb/>
+wegen ihrer gewünschten vier Ziegeleien, die sie einrichten möchten,<lb/>
+und wegen der Melamin-Anlage sowie der Fa. Cincinnati Austria mit<lb/>
+einem Anschluss-Antrag ihrer PVC-Röhrenfabrik-Einrichtung. Wir be<lb break="no"/>sichtigten diese Fabrik, die gerade die Arbeit aufgenommen hat, und<lb/>
+ich war sehr erstaunt. Die Iraker mussten bis jetzt fast alle Waren<lb/>
+importieren, weil sie in der englischen Besatzungszeit fast keine<lb/>
+eigene Industrie errichtet hatten. Sie errichten deshalb jetzt<lb/>
+gigantisch auf allen Gebieten entsprechende Fabriken. In diesem<lb/>
+Zement-Kombinat, wo sie auf der einen Seite Zement, dann aber<lb/>
+gleichzeitig daneben Asbest-Rohrzementanlagen hatten, die allerdings<lb/>
+grosse Anlaufschwierigkeiten hat, also auch jetzt die PVC-Fabrik,<lb/>
+die ebenfalls anfangs Anlaufschwierigkeiten hatte, soll ein<lb/>
+richtiggehendes Industriegebiet dort am Rande der Stadt am Tigris<lb/>
+errichtet werden. Irak hat jetzt einen Arbeitskräftemangel, zu<lb break="no"/>mindestens behauptet man das mir gegenüber, sogar an ungelernten<lb/>
+Arbeitern. Als wir dann allerdings ein bisschen durch die Stadt<lb/>
+gingen und in weiterer Folge das Land besichtigten, stellte ich fest,<lb/>
+<pb n="23-1362" facs="23_1974-11-12_1362.jpg"/>dass natürlich überall Araber herumsassen und der offizielle<lb/>
+Begleiter vom Protokoll der in der MIOG, der nationalen Ölgesell<lb break="no"/>schaft sitzt, meinte, es wäre höchste Zeit, wenn die Araber jetzt<lb/>
+endlich vom Coca-Cola-Trinken und Nichtstun aufhören würden. Sie<lb/>
+haben also ihre Reserven in der Landwirtschaft und am Land nur teil<lb break="no"/>weise mobilisieren können. Das Land steht und fällt mit der Industria<lb break="no"/>lisierung. Die Landwirtschaft selbst kann nur schwerlich ohne entspre<lb break="no"/>chende Bewässerungssystem vergrössert und produktiver werden.<lb/>
+Jetzt hängt es grösstenteils doch von den Ernteschwankungen ab,<lb/>
+ob Irak Selbstversorger ist für Getreide und Reis, oder ob es<lb/>
+exportieren kann in Extremfällen oder vielleicht gar dringendst<lb/>
+Importe benötigt.</p><p xml:space="preserve">Auf einem Ölbericht des Botschafters an das Aussenamt, den er mir<lb/>
+zu lesen gab, bemerkte ich, dass seine Informationen vor Jahren<lb/>
+schon dahingingen, dass die ÖMV keinesfalls so bereit war, mit Irak<lb/>
+einen Vertrag über Öllieferungen abzuschliessen, wie sie mir gegen<lb break="no"/>über immer wieder behauptete. Nach Auffassung von <name type="person" ref="#per__97696">Linhart</name> musste er<lb/>
+sehr auf den ÖMV überhaupt drängen, dass sie einen solchen Liefer<lb break="no"/>vertrag dann 1973 erst abschloss. Auch jetzt hat mir Dr. <name type="person" ref="#per__114135">Fischer</name>,<lb/>
+der der ÖMV-Vertreter, für das Trainingszentrum und für eine Zentral<lb break="no"/>werkstätte, die errichtet werden soll, ist, keine Detailinformationen<lb/>
+über die zukünftige Ölpolitik im Irak der ÖMV geben können. Er meinte,<lb/>
+freimütig, dies müsste erst bei ihnen abgestimmt werden. Ich habe<lb/>
+volles Verständnis, dass sich die ÖMV nicht ausschliesslich auf Irak<lb/>
+verlassen will und auch wahrscheinlich gar nicht in Hinkunft weiss,<lb/>
+wieviel Rohöl sie tatsächlich wird fest abnehmen können. Die Ver<lb break="no"/>brauchsentwicklung hat in der letzten Zeit doch nicht zuletzt durch<lb/>
+die Sparmassnahmen einen anderen Lauf genommen, als prognostiziert<lb/>
+wurde. Trotzdem wird es notwendig sein, dass die ÖMV sehr bald<lb/>
+ein konkretes Ölkonzept entwickelt. In Wirklichkeit hätten wir dies<lb/>
+ja in unserem Energieplan tun müssen. Zu meinem Leidwesen aber wurde<lb/>
+er niemals und auf keinem Sektor sehr konkret. Wenn es nun aber um<lb/>
+die Verträge geht, muss die ÖMV ganz konkrete Vorstellungen haben<lb/>
+und sie letzten Endes dann auch vertraglich vereinbaren.</p><p xml:space="preserve">Dkfm. <name type="person" ref="#per__146488">Isa</name> hat durch Zufall den Vertreter von Steyr-Daimler-Puch<lb/>
+Thessaloniki getroffen, der bestrebt war, Traktoren, resp.<lb/>
+Motorfahrzeuge nach Irak zu verkaufen. Die Iraker haben 10.000 LKW<lb/>
+bei Mercedes gekauft und 5.000 Kleinbusse und grössere Busse.</p><pb n="23-1363" facs="23_1974-11-12_1363.jpg"/><p xml:space="preserve">Steyr ist bei dieser gigantischen Ausschreibung nicht zum Zuge<lb/>
+gekommen. Angeblich auch nicht zuletzt deshalb, weil die Iraker<lb/>
+auch hier nur ganz grosse Serien wünschen. Da Steyr selbst<lb/>
+nicht liefern kann, Saloniki aber Möglichkeiten hätte, ergibt<lb/>
+sich vielleicht daraus eine mögliche gemeinsame Anboterstellung.<lb/>
+Ich würde dies Dkfm. <name type="person" ref="#per__146488">Isa</name> wünschen, nicht nur im Interesse der<lb/>
+österreichischen Wirtschaft, sondern auch in seinem Interesse.<lb/>
+Er hat sich wirklich nicht nur um meine Übersetzung sehr verdient ge<lb break="no"/>macht, sondern auch für seine Tätigkeit.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__97377">BUKOWSKI</name>: Bitte einen Dankbrief mit entsprechendem<lb/>
+Herausstreichen der Leistung von <name type="person" ref="#per__146488">Isa</name> an Gen.Dir. <name type="person" ref="#per__97854">Rabus</name> von Steyr-<lb/>
+Daimler-Puch.</p><p xml:space="preserve">Der allgemeine Eindruck im Irak ist, dass es sich hier mehr oder<lb/>
+minder um einen Polizeistaat handelt. Ich selbst hatte ein Polizei-<lb/>
+Auto mit 4 Polizei-Beamten, dazu noch in der Stadt drei Polizeimotor<lb break="no"/>radfahrer, die mich ständig begleiteten, und wo immer ich hinkam<lb/>
+und ausstieg war sofort die Polizei zu meinem Schutz anwesend.<lb/>
+Ob wir gefährdet waren, kann ich nicht feststellen, eines weiss<lb/>
+ich nur, dass wir uns kaum allein bewegen konnten. Was uns am<lb/>
+meisten interessierte, waren die Kunstwerke, und in die Moscheen<lb/>
+durften wir nur bis zum Vorhof, in gewissen Städten nicht einmal<lb/>
+bis dahin und die Frauen liessen sie oft nicht einmal in einer<lb/>
+Stadt vom Auto aussteigen. <name type="person" ref="#per__97426">Fälbl</name> war auch sehr überrascht, als wir<lb/>
+bei unserem Gegenessen feststellen mussten, dass wir fast 2/3 der<lb/>
+offiziell Geladenen auch Polizisten, Chauffeure und wahrscheinlich<lb/>
+auch sonstige Sicherheitsbeamte nicht an unserer Tafel, aber gleich<lb/>
+im Nebenraum verköstigen mussten. Dort hatte ich allerdings die<lb/>
+Gelegenheit, den ehemaligen Ölminister Dr. <name type="person" ref="#per__97512">Hammadi</name> zu treffen und<lb/>
+ihm unter vier Augen, so wie ich vorher auch schon unter vier<lb/>
+Augen den jetzigen Ölminister mitzuteilen, dass Österreich der<lb/>
+Energieagentur beitreten wird. Wenn unsere Neutralitätsklausel<lb/>
+angenommen wird. Der neue Ölminister, der erst zwei Tage im<lb/>
+Amt war, hat ganz allgemein mir nur bei diesem Vier-Augen-Gespräch<lb/>
+erklärt, dass die amerikanischen Imperialisten hier wieder eine<lb/>
+neue Möglichkeit suchen, sich aber nicht geäussert, was sie über<lb/>
+den Beitritt Österreichs denken und sagen oder reagieren werden.<lb/>
+Bei Dr. <name type="person" ref="#per__97512">Hammadi</name> wieder wurde gerade zu diesem Zeitpunkt dann der<lb/>
+Kaffee in einem anderen Saal serviert und er kam auch nicht mehr<lb/>
+auf dieses Thema zu sprechen. Ich war darüber nicht sehr unglücklich<lb/>
+<pb n="23-1364" facs="23_1974-11-12_1364.jpg"/>ganz im Gegenteil, weil ich mit dieser Information gar nichts<lb/>
+anderes wollte, als dass die Iraker nicht über die Zeitung dann<lb/>
+erfahren, dass Österreich beitritt. Ich habe mit dieser Infor<lb break="no"/>mationstaktik bei den seinerzeitigen EG-Verhandlungen mit den<lb/>
+Oststaaten die besten Erfahrungen gemacht. Sie hätten das später<lb/>
+sowieso alles erfahren, wenn sie in Brüssel nur die Zeitungen<lb/>
+gelesen haben, wussten sie alle Details oder vielleicht sogar mehr<lb/>
+als ich ihnen sagte, und doch ist ein gewisses Vertrauensverhältnis<lb/>
+zwischen den Oststaatenvertretern und mir dadurch entstanden.<lb/>
+Ich hoffe, dass es auch jetzt bei Irak geglückt ist. Ich habe<lb/>
+von diesem Gespräch natürlich dann sofort unsere Delegation und<lb/>
+ganz besonders den Botschafter informiert.</p><p xml:space="preserve">Wirklich beeindruckend für mich war dann, als wir zum Schluss nach<lb/>
+Libanon, Beirut, fuhren. Wir hatten dort zwar nur einige<lb/>
+Stunden Zeit, da die AUA nicht kam, mussten wir sogar noch eine<lb/>
+Nacht dort verbringen, und konnten bei der Gelegenheit feststellen,<lb/>
+den grossen Unterschied zwischen Bagdad, einer uralten und tradi<lb break="no"/>tionsreichen aber in Wirklichkeit armen Stadt, und der reichen, ganz<lb/>
+neu entstandenen Stadt Beirut, einen ärgeren Gegensatz kann man sich<lb/>
+eigentlich gar nicht vorstellen. Bedrückend für mich in Beirut<lb/>
+war nur, dass sie dort auch Flüchtlingslager der Palästinenser<lb/>
+haben, die in einem unvergleichlichen Elend daneben leben.<lb/>
+Die Polizeibegleitung in den beiden Städten war schon ein krasser<lb/>
+Unterschied. Wenn man dann noch gelegentlich auf die Märkte ging<lb/>
+oder wie sie es nennen insbesondere in den <choice><choice><sic>Soug,</sic><corr>?</corr></choice></choice> dann war nicht<lb/>
+nur das Warenangebot unvergleichlich, sondern auch die dort<lb/>
+kaufenden, flanierenden Menschen. In Beirut irrsinnige Massen<lb/>
+gut gekleidet, in Bagdad auch nicht wenige aber doch weniger und<lb/>
+vor allem einmal das Warenangebot schlechter und die Leute un<lb break="no"/>vergleichlich schlechter gekleidet. Die soziale Differenzierung<lb/>
+spielt deshalb ohne das Flüchtlingsproblem schon eine sehr grosse<lb/>
+Rolle in der Auseinandersetzung in der arabischen Welt. Sicherlich<lb/>
+kann durch die Öleinkünfte Iraks sich das einmal ändern, doch<lb/>
+wird es dann immer reiche arabische Staaten und arme geben.<lb/>
+Für Syrien und Ägypten schaut dieses Problem nämlich wesentlich<lb/>
+anders aus als für Irak und die anderen Golfstaaten, die Öl haben.<lb/>
+Eine Sonderstellung dürfte eben die, wie ich schon erwähnte, Libanon<lb/>
+seit eh und je einnehmen. Dieses Land hat zwar kein Öl, ja<lb/>
+<pb n="23-1365" facs="23_1974-11-12_1365.jpg"/>nicht einmal eine eigene grössere Industrie und allein durch den<lb/>
+Handel und die Tüchtigkeit und durch die liberale Politik, die sie<lb/>
+immer betrieben haben, heute den höchsten Standard, der vielleicht<lb/>
+sogar über Israel liegt. Mein erster Eindruck, den man sich bei<lb/>
+stunden- oder tageweisem Aufenthalt allerdings nicht endgültig<lb/>
+machen soll, war zumindestens so. Wie diese internationalen Spannun<lb break="no"/>gen, jetzt noch verstärkt durch der Flüchtlingsproblem, friedlich<lb/>
+gelöst werden soll und kann, kann ich mir nicht vorstellen.</p><p xml:space="preserve"/></div>
+      </body>
+      <back><listPerson><person xml:id="per__97558">
+               <persName type="label">Hobl, Hans</persName>
+               <persName><surname>Hobl</surname><forename>Hans</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710708.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710713.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711004.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720229.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780302.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780529.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780613.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810507.xml"/>
+            </person>
+            <person xml:id="per__97377">
+               <persName type="label">Bukowski, Dietrich</persName>
+               <persName><surname>Bukowski</surname><forename>Dietrich</forename></persName>
+               <occupation>Büro Staribacher, Botschafter in Sofia/Straßburg</occupation>
+               <ptr type="mentioned" target="#staribacher__19780214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780712.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800410.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+            </person>
+            <person xml:id="per__97854">
+               <persName type="label">Rabus, Karl</persName>
+               <persName><surname>Rabus</surname><forename>Karl</forename></persName>
+               <occupation>GD Steyr-Daimler-Puch</occupation>
+               <ptr type="mentioned" target="#staribacher__19710602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800319.xml"/>
+            </person>
+            <person xml:id="per__98112">
+               <persName type="label">Zöllner, Otto</persName>
+               <persName><surname>Zöllner</surname><forename>Otto</forename></persName>
+               <occupation>AK</occupation>
+               <ptr type="mentioned" target="#staribacher__19710119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810720.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__114598">
+               <persName type="label">Hruby, Roman</persName>
+               <persName><surname>Hruby</surname><forename>Roman</forename></persName>
+               <occupation>AK</occupation>
+               <ptr type="mentioned" target="#staribacher__19710120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711025.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780518.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780804.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780915.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800418.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+            </person>
+            <person xml:id="per__112031">
+               <persName type="label">Maurer, Andreas</persName>
+               <persName><surname>Maurer</surname><forename>Andreas</forename></persName>
+               <occupation>nö. LH (ÖVP), AR-Vors. DoKW</occupation>
+               <ptr type="mentioned" target="#staribacher__19710303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720414.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800312.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800318.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800325.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800417.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800908.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801105.xml"/>
+            </person>
+            <person xml:id="per__97350">
+               <persName type="label">Bielka, Erich</persName>
+               <persName><surname>Bielka</surname><forename>Erich</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/130327808</idno>
+               <ptr type="mentioned" target="#staribacher__19710325.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800506.xml"/>
+            </person>
+            <person xml:id="per__114135">
+               <persName type="label">Fischer, A</persName>
+               <persName><surname>Fischer</surname><forename>A</forename></persName>
+               <occupation>Dir. Elan</occupation>
+               <ptr type="mentioned" target="#staribacher__19780405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+            </person>
+            <person xml:id="per__97426">
+               <persName type="label">Fälbl, Maximilian</persName>
+               <persName><surname>Fälbl</surname><forename>Maximilian</forename></persName>
+               <occupation>Beamter HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720424.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810706.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810810.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810818.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810819.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811009.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__97457">
+               <persName type="label">Friderichs, Hans</persName>
+               <persName><surname>Friderichs</surname><forename>Hans</forename></persName>
+               <occupation>BRD-Wirtschaftsminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118535498</idno>
+               <ptr type="mentioned" target="#staribacher__19780602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780810.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810304.xml"/>
+            </person>
+            <person xml:id="per__126956">
+               <persName type="label">Karim, Tayeh Abdul</persName>
+               <persName><surname>Karim</surname><forename>Tayeh Abdul</forename></persName>
+               <occupation>irak. Ölminister</occupation>
+               <ptr type="mentioned" target="#staribacher__19800915.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810521.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810527.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810528.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+            </person>
+            <person xml:id="per__112011">
+               <persName type="label">Kurzel-Runtscheiner, Oswald</persName>
+               <persName><surname>Kurzel-Runtscheiner</surname><forename>Oswald</forename></persName>
+               <occupation>MR HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19720222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810707.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810708.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810713.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810730.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810904.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810928.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            <person xml:id="per__112010">
+               <persName type="label">Blaha, Hermann</persName>
+               <persName><surname>Blaha</surname><forename>Hermann</forename></persName>
+               <occupation>AK</occupation>
+               <ptr type="mentioned" target="#staribacher__19710524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810227.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810309.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810313.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810710.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810713.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810720.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+            </person>
+            <person xml:id="per__98034">
+               <persName type="label">Veselsky, Ernst Eugen</persName>
+               <persName><surname>Veselsky</surname><forename>Ernst Eugen</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/12254711X</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720413.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810121.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810413.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+            </person>
+            <person xml:id="per__97872">
+               <persName type="label">Rief, Siegfried</persName>
+               <persName><surname>Rief</surname><forename>Siegfried</forename></persName>
+               <occupation>HK</occupation>
+               <ptr type="mentioned" target="#staribacher__19720203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800708.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810610.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810616.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810730.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+            </person>
+            <person xml:id="per__97963">
+               <persName type="label">Slavik, Felix</persName>
+               <persName><surname>Slavik</surname><forename>Felix</forename></persName>
+               <occupation>Wr. Bgm. bis 1973</occupation>
+               <idno type="GND">http://d-nb.info/gnd/107489872</idno>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720313.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780403.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800318.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800414.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800616.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800821.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800909.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801009.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801013.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810323.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810325.xml"/>
+            </person>
+            <person xml:id="per__97769">
+               <persName type="label">Mussil, Arthur</persName>
+               <persName><surname>Mussil</surname><forename>Arthur</forename></persName>
+               <occupation>Gen.Sekr. HK, ÖVP-NR-Abg., später AR-Präs. Verbund</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800826.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800909.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810402.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+            </person>
+            <person xml:id="per__98040">
+               <persName type="label">Wais, Anton</persName>
+               <persName><surname>Wais</surname><forename>Anton</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/1017902909</idno>
+               <ptr type="mentioned" target="#staribacher__19780109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780509.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780510.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780511.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780516.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780517.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780530.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780606.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780614.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780831.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801014.xml"/>
+            </person>
+            <person xml:id="per__113607">
+               <persName type="label">Syrovatka, Karl</persName>
+               <persName><surname>Syrovatka</surname><forename>Karl</forename></persName>
+               <occupation>HK, Handelsattaché öst. Botschaft Sofia</occupation>
+               <ptr type="mentioned" target="#staribacher__19710302.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780305.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

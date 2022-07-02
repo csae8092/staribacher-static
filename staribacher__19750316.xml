@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19750316.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750315.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750317.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 16. März 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band25_1975-03-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-03-16">Sonntag, 16. März 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="25-0340" facs="25_1975-03-16_0340.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, den 16. März l975<lb/>
+</p>
+            <p xml:space="preserve">Zur Diskussion <name type="person" ref="#per__97668">Kreiskys</name> mit Chefredakteuren erfuhr ich jetzt<lb/>
+durch das Fernsehen, was <name type="person" ref="#per__97668">Kreisky</name> unter Differenzen in der Regierung<lb/>
+bezüglich des Kernkraftwerkausbaus versteht. Er meint, daß das<lb/>
+erste Atomkraftwerk in Bau ist, das zweite jetzt in Planung und<lb/>
+vor Beschlußfassung und daß man jetzt darüber nachdenken müßte, wie<lb/>
+es weitergehen soll. In einer Riesendiskussion, er würde sagen<lb/>
+Konfrontation mit der Bevölkerung, soll jetzt festgestellt werden<lb/>
+wo der Strom herkommt und ob sie bereit ist, entsprechende Ein<lb break="no"/>sparungen vorzunehmen. Da ich aber überzeugt bin, daß jeder unter<lb/>
+Einsparung versteht der andere soll sparen, die optischen Ein<lb break="no"/>sparungen aber z.B. Lichtreklame überhaupt nichts bringen, nicht<lb/>
+einmal 2 % ist der Lichtstromanteil, wird die ganze Diskussion aus<lb break="no"/>gehen wie das Hornberger Schießen. Der einzige Vorteil der sich<lb/>
+dabei ergeben kann ist, daß die Öffentlichkeit auf die Probleme<lb/>
+angesprochen wird, sensibilisiert wird und dann vielleicht nicht<lb/>
+mehr, wenn sie die Fakten kennt, auf Verlangen der Umweltschützer<lb/>
+den Naturschützern wenn es sich um Wasserkraftwerke handelt die<lb/>
+ausgebaut werden sollen, bedingungslos folgt.<lb/>
+</p>
+            <p xml:space="preserve">Die Diskussion über das VÖEST Geschäft, welche fast 3/4 der<lb/>
+Sendung ausmachte, war ein Streit wo sich die Öffentlichkeit<lb/>
+wahrscheinlich überhaupt gar nicht auskennt und hier wäre es<lb/>
+viel zweckmäßiger gewesen viel früher schon entsprechende Auf<lb break="no"/>klärungsarbeit zu leisten. Wenn man bedenkt, daß ich mich aber mit<lb/>
+Ach und Krach informieren mußte, so kann ich mir vorstellen wie<lb/>
+wenig andere von den Details wissen.<lb/>
+</p>
+            <p xml:space="preserve">Die Messe die ich besuchte und insbesondere die Schuhmesse, die<lb/>
+ja nur für Wiederverkäufer abgeführt wurde hat eine unterschied<lb break="no"/>liche Entwicklung in den Ergebnissen. Teilweise ist sie gut,<lb/>
+manchmal sogar sehr gut, teilweise gibt es einzelne Firmen die<lb/>
+furchtbar klagen. Ich bin Gott sei Dank zufrieden weil die Prognose<lb/>
+es wird auch diese Messe gute Abschlüsse bringen und nicht die<lb/>
+negativen Prognosen recht behalten werden, sich teilweise<lb/>
+zumindestens bestätigten. Ich muß meine optimistische Linie, die<lb/>
+ich seit 5 Jahren vertrete nicht verlassen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97668">
+               <persName type="label">Kreisky, Bruno</persName>
+               <persName><surname>Kreisky</surname><forename>Bruno</forename></persName>
+               <occupation>Bundeskanzler</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118566512</idno>
+               <ptr type="mentioned" target="#staribacher__19700423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

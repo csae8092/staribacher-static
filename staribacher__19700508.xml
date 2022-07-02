@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700508.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700506.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700509.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  8. Mai 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band01_1970-05-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-05-08">Freitag, 8. Mai 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
+      <body>
+         <pb n="01-0080" facs="01_1970-05-08_0080.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-05-08">Freitag, 8. Mai</date>
+            </dateline>
+            <p xml:space="preserve">Die beabsichtigte Besprechung bei Minister <name type="person" ref="#per__97372">Broda</name> über den Gesetz<lb break="no"/>entwurf des ehelichen Güterrechtes, welcher im letzten Ministerrat<lb/>
+auf meinen Antrag um acht Tage zurückgestellt wurde, fand im<lb/>
+Justizministerium statt. Es kamen von der Bundeskammer Dr. <name type="person" ref="#per__97769"><sic>Musil</sic></name><lb/>
+und Dr. <name type="person" ref="#per__97353">Blaschek</name>, und von der Präsidentenkonferenz der Landwirt<lb break="no"/>schaftskammer anstelle des verhinderten Generalsekretärs <name type="person" ref="#per__97368">Brandstätter</name><lb/>
+Dr. <name type="person" ref="#per__97756">Moskat</name>. <name type="person" ref="#per__97372">Broda</name> wies darauf hin, daß es dringend notwendig sei<lb/>
+sowohl das Uneheliche-Kinder-Recht als auch das Eheliche-Güter-Recht<lb/>
+einer Novelle zu unterziehen. Er verwies darauf, daß jetzt eine –<lb/>
+1968 wesentlich verbesserte – Vorlage im Ministerrat eingebracht<lb/>
+wird. Bei der Diskussion stellte sich heraus, daß Musil einige<lb/>
+Forderungen stellte die bereits im Entwurf berücksichtigt gewesen<lb/>
+sind. Für mich ergibt sich die Frage ob es nicht zweckmäßiger ist,<lb/>
+ihm in Zukunft den konkreten Gesetzentwurf zeitgerecht zuzustellen,<lb/>
+damit er überprüfen kann, ob überhaupt ein Einwand von ihm dagegen<lb/>
+erhoben werden soll. <name type="person" ref="#per__97769"><sic/></name> zeigte sich von der Vorgangsweise –<lb/>
+zumindesten nach außen hin – befriedigt und erklärte,man würde<lb/>
+gegebenenfalls im Parlament noch bei Beratung des Gesetzentwurfes<lb/>
+entsprechende Abänderungsanträge stellen. Mein Hinweis, daß wenn<lb/>
+die Bundesregierung entsprechende Vorschläge erstattet,es für uns<lb/>
+von größtem Interesse ist zu erfahren, ob es unüberwindliche<lb/>
+Schwierigkeiten im einen oder anderen Punkt bei den Interessensver<lb break="no"/>tretungen gibt, wurde scheinbar befriedigt zur Kenntnis genommen.<lb/>
+Wir wissen allerdings noch nicht ob und inwieweit dies alles nur<lb/>
+formelle Diskussionen sind und im Grunde genommen die ÖVP auch über<lb/>
+die Interessensvertretungen versuchen wird, die Regierung so schwer<lb/>
+wie möglich zu attackieren. Wenn die Ankündigungen stimmen, daß die<lb/>
+ÖVP für jedes Ministerium einen Schattenminister mit einem Büro<lb/>
+errichten wird, dann müßte über die Interessensvertretungen dieser<lb/>
+Schattenminister, respective dessen Büro, entsprechend informiert<lb/>
+und mit Angriffsmaterial ausgestattet werden. Wieweit dann unserer<lb break="no"/>seits eigenes Material an diesen Stellen abgegeben wird und dadurch<lb/>
+Munition für den Kampf gegen uns geliefert, müßte dann natürlich<lb/>
+im Konkreten noch untersucht werden. Eine Bemerkung von Minister<lb/>
+<name type="person" ref="#per__97372">Broda</name> ließ mich aufhorchen, denn er erklärte rundwegs, daß in<lb/>
+Zukunft die Kartellfragen bei mir ressortieren würden. Ich hatte<lb/>
+angenommen, daß Musil dies positiv vermerken würde, er erklärte nur,<lb/>
+<pb n="01-0081" facs="01_1970-05-08_0081.jpg"/>dies müßte man sich von ihrem Standpunkt noch genau überlegen.<lb/>
+Auf meinen Einwand, daß dies eine Forderung der Handelskammer<lb/>
+gewesen ist, hat er nur erklärt man müßte eben die Lage neu über<lb break="no"/>denken.<lb/>
+Bei meinem Antrittsbesuch beim Herrn Bundespräsidenten habe ich<lb/>
+gleich die Frage angeschnitten, wieweit er Wert darauf legt dem<lb/>
+Protokoll entsprechend die Kleidung und die Ordensverleihung<lb/>
+einzuhalten. Der Bundespräsident zeigte größtes Verständnis für<lb/>
+meinen Standpunkt, daß ich erstens weder beabsichtige mir einen<lb/>
+Frack, Cut, Stresemann oder sonstige hochnoble protokollmäßige<lb/>
+Kleidung anzuschaffen, noch bereit bin einen Orden anzunehmen. Er<lb/>
+sagte, dies liege ausschließlich in meiner Ingerenz, er möchte<lb/>
+allerdings nur bitten, daß ich ihn entsprechend verständigen würde.<lb/>
+Dies hatte ich sowieso vor und erklärte,selbstverständlich in<lb/>
+loyalster Weise auch diese Frage stets mit ihm zu besprechen. Was<lb/>
+den Bundespräsidenten nur in der Vergangenheit geärgert hat war,<lb/>
+daß manchmal Leute die zuerst erklärten kein Interesse an Orden zu haben, sich<lb/>
+nachher darum rissen welche zu bekommen, oder zuerst die ganzen<lb/>
+Protokollfragen und Protokollregeln gerne mitmachten um nachher<lb/>
+dann zu erklären, dies sei alles Humbug. Ich erklärte dem Bundes<lb break="no"/>präsidenten, daß ich diese Vorgangsweise auch mißbillige sondern,<lb/>
+wenn man schon eine abweichende Meinung in diesem Punkt hat, dann<lb/>
+sollte man still und leise – ohne irgendwelche großen Ankündigungen,<lb/>
+oder nachherigen Erklärungen – eben so vorgehen wie es das eigene<lb/>
+Gewissen vorschreibt.<lb/>
+Ich konnte andiesem Tag endlich damit beginnen die Damen und Herren<lb/>
+meines Hauses in ihren Arbeitsstätten zu besuchen, das heißt ich<lb/>
+begann mit Sektionschef <name type="person" ref="#per__97915">Schipper</name> und meinem Büro in den Präsidial<lb break="no"/>abteilungen mich vorzustellen.<lb/>
+Am Nachmittag ergab sich eine sehr peinliche Situation, da ich von<lb/>
+einem Redakteur der "Presse", Kollegen <name type="person" ref="#per__97927">Schuhmeier</name>, angerufen wurde<lb/>
+der mich fragte ob ich wüßte, daß auf der EWG-Ministerratssitzung,<lb/>
+Mitte Mai, auch das Problem Österreich auch auf die Tagesordnung<lb/>
+gesetzt wurde. Da in unserem Hause bis zu diesem Zeitpunkt nichts<lb/>
+bekannt war veranlaßte ich, daß unmittelbar festgestellt wurde,<lb/>
+wieso wir nicht verständigt wurden. Es stellte sich bei einer<lb/>
+genaueren Untersuchung heraus, daß im Außenministerium bereits um<lb/>
+10 Uhr bereits ein diesbezügliches chiffriertes Fernschreiben einge<lb break="no"/>laufen ist welches dort hängen blieb und nicht an uns weitergeleitet<lb/>
+<pb n="01-0082" facs="01_1970-05-08_0082.jpg"/>wurde. Der Außenminister, der sich für diese Vorgangsweise sehr<lb/>
+höflich entschuldigte, sicherte mir zu, daß er sofort alle Veranlassun-<lb/>
+gen treffen würde, daß dies in Zukunft nicht mehr der Fall sein wird.<lb/>
+Ich ersuchte ihn, Dr. <name type="person" ref="#per__97543">Heindl</name> von meinem Büro, bei dieser Frage zuzu<lb break="no"/>ziehen um eine wirkliche Informationslücke die für uns äußerst<lb/>
+peinlich ist zu schließen.<lb/>
+Da sich der Finanzminister mit den 200.000 Schilling, die wir zur<lb/>
+Aufstockung der Forschung zur Verfügung stellten nicht zufriedengab,<lb/>
+wurde aus einer anderen Post – nämlich Druckaufträge -ein weiterer<lb/>
+Betrag von 200.000 Schilling flüssiggemacht. Die Hauptschwierigkeit<lb/>
+liegt darin, daß das Budget für das Bundesministerium für Handel,<lb/>
+Gewerbe und Industrie äußerst knapp gehalten ist und deshalb Frei<lb break="no"/>machung von Beträgen auf große Schwierigkeiten stoßen. Bei anderen<lb/>
+Ministerien ist das sicher anders. Wenn z.B. das Bautenministerium<lb/>
+1,5 Mio. Schillinge zur Verfügung stellt, so konnte ich feststellen,<lb/>
+daß dort insgesamt 3 Mio. Schillinge auch für diese Zwecke budgetiert<lb/>
+waren.</p>
+            <p xml:space="preserve">Da ich noch immer mit einem Ersatzauto fahre, versuchte der Sekt.<lb/>
+Chef <name type="person" ref="#per__97915">Schipper</name> jetzt eine Lösung dahingehend zu finden, dass er einen<lb/>
+neuen Dienstwagen, der angeblich vorgesehen ist, für mich anschaffen<lb/>
+wollte. Ihm schwebt ein Mercedes vor, wobei er sogar schon mit der<lb/>
+Farbenskala in mein Büro kam, um endgültig dieses Problem zu fina<lb break="no"/>lisieren. Ich erklärte sofort, dass ich nicht daran denke, für mich<lb/>
+einen neuen Wagen anzuschaffen, solange nicht eine Möglichkeit be<lb break="no"/>steht, diesen amerikanischen Schlitten gegen einen zweckmässigen<lb/>
+Wagen zu tauschen, werde ich nach wie vor mit irgendeinem kleinen<lb/>
+Dienstwagen weiterfahren. Ich bin überzeugt davon, dass dies erstens<lb/>
+meinem Stil entspricht, zweitens wirklich mein unabdingbarer Wille<lb/>
+ist und drittens sich sicher eine Möglichkeit finden lässt, die<lb/>
+General Motors-Vertreter in dem Fall Opel Kandl, davon zu überzeugen,<lb/>
+dass es zweckmässig ist, diesen neuen amerikanischen Schlitten, der<lb/>
+unmöglich gross und teuer im Betrieb kommt gegen einen zweckmässigen<lb/>
+Opel-Wagen zu tauschen, ohne dass wir,entsprechende Mittel dafür<lb/>
+aufwenden müssen.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97915">
+               <persName type="label">Schipper, Hans</persName>
+               <persName><surname>Schipper</surname><forename>Hans</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720424.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800410.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+            </person>
+            <person xml:id="per__97769">
+               <persName type="label">Mussil, Arthur</persName>
+               <persName><surname>Mussil</surname><forename>Arthur</forename></persName>
+               <occupation>Gen.Sekr. HK, ÖVP-NR-Abg., später AR-Präs. Verbund</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800826.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800909.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810402.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+            </person>
+            <person xml:id="per__97368">
+               <persName type="label">Brandstätter, Ernst</persName>
+               <persName><surname>Brandstätter</surname><forename>Ernst</forename></persName>
+               <occupation>GS Präs.konf. LWK AR Verbund</occupation>
+               <idno type="GND">http://d-nb.info/gnd/12906288X</idno>
+               <ptr type="mentioned" target="#staribacher__19710303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720313.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720404.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720414.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780614.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780621.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780706.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780927.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800319.xml"/>
+            </person>
+            <person xml:id="per__97543">
+               <persName type="label">Heindl, Kurt</persName>
+               <persName><surname>Heindl</surname><forename>Kurt</forename></persName>
+               <occupation>1970-1973 Büro Staribacher, SPÖ-NR-Abg., stv. Vors.
+                  SPÖ-Landstraße</occupation>
+               <idno type="GND">http://d-nb.info/gnd/102318379X</idno>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            <person xml:id="per__97372">
+               <persName type="label">Broda, Christian</persName>
+               <persName><surname>Broda</surname><forename>Christian</forename></persName>
+               <occupation>Justizminister</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801007.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810325.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811024.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

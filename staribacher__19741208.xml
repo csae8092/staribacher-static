@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19741208.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19741207.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19741209.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der  8. Dezember 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band23_1974-12-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-12-08">Sonntag, 8. Dezember 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-03-13">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band23/">
+      <body>
+         <pb n="23-1494" facs="23_1974-12-08_1494.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Sonntag, 8. Dezember 1974</p><p xml:space="preserve">Bei der Wachaufahrt betätigte ich mich als Fremdenführer, obwohl<lb/>
+ich eigentlich wenig Details kenne, dafür aber mit dem Wiener<lb/>
+Schmäh arbeitete. Dies hat auf die Deutschen, wie mir <name type="person" ref="#per__97969">Sölle</name><lb/>
+selbst sagte, ungeheuren Eindruck gemacht. Abends im Piaristen<lb break="no"/>keller, wo ich auch <name type="person" ref="#per__114511">Fritz Muliar</name> gewinnen konnte, daß er uns<lb/>
+besuchte, erzählten wir auch von unserer gemeinsamen Wahlpropa<lb break="no"/>ganda. <name type="person" ref="#per__97969">Sölle</name> wollte wissen, ob bei uns die Künstler und Schau<lb break="no"/>spieler sich zur sozialistischen Partei bekennen und war sehr<lb/>
+erstaunt, als ich erklären mußte, sich nur wenige zu uns be<lb break="no"/>kennen. <name type="person" ref="#per__97969">Sölle</name> meinte, bei ihnen seien die Künstler und Schau<lb break="no"/>spieler zur Partei und zum Staat sehr positiv eingestellte außer<lb/>
+einige Querköpfe. Er meinte auch, es sei äußerst wichtig, wenn man<lb/>
+diese Gruppe für sich hat, weil sie eben einen ungeheuren Einfluß<lb/>
+ausüben können, wem sagt er das? Nur in einer Demokratie ist es<lb/>
+halt schwieriger solche zu gewinnen. Außerdem sagte ich ihm,<lb/>
+unser System ist mühsamer, mir aber lieber.</p></div>
+      </body>
+      <back><listPerson><person xml:id="per__114511">
+               <persName type="label">Muliar, Fritz</persName>
+               <persName><surname>Muliar</surname><forename>Fritz</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711007.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780517.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800122.xml"/>
+            </person>
+            <person xml:id="per__97969">
+               <persName type="label">Sölle, Horst</persName>
+               <persName><surname>Sölle</surname><forename>Horst</forename></persName>
+               <occupation>Außenhandelsminister DDR</occupation>
+               <idno type="GND">http://d-nb.info/gnd/126882177</idno>
+               <ptr type="mentioned" target="#staribacher__19710308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780330.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

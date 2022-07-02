@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701003.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701002.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701004.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  3. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-03">Samstag, 3. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0607" facs="03_1970-10-03_0607.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-03">Samstag, 3. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Ich hatte die Aufgabe, die Grazer Messe zu eröffnen und konnte<lb/>
+bei dieser Gelegenheit wieder feststellen, dass <name type="person" ref="#per__97664">Krainer</name> ein ganz<lb/>
+schlauer Fuchs ist. In seiner Ansprache kam er sehr geschickt<lb/>
+auf die Unterstützung zu sprechen, die die Bundesregierung Steier<lb break="no"/>mark geben müsste. Bei dieser Gelegenheit kritisierte er aber die<lb/>
+Bundesregierung in vielen Punkten. Ich hatte deshalb die Ge<lb break="no"/>legenheit, als letzter Rede auf alle diese Anwürfe entsprechend ein<lb break="no"/>zugehen. Die Herren des diplomatischen Corps sagten mir anschlies<lb break="no"/>send, dass ihnen dieses Ping Pong sehr gut gefallen hatte. Das<lb/>
+grösste Lob aber sprach mir <name type="person" ref="#per__97664">Krainer</name> selbst aus, indem er mir<lb/>
+coram publico sagte, ich sei eben ein liebenswürdiger Gegner, mit<lb/>
+dem er gerne diskutiert. Auf eine Bemerkung eines ÖVP-Mandatars, 0<lb/>
+dass er dies scheinbar mit mir lieber macht als mit meinem Amts<lb break="no"/>vorgänger, kam letzten Endes aus dieser Diskussion, an der sich mehr<lb break="no"/>ere beteiligten, der lapidare Satz heraus: Der is a besser!</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97664">
+               <persName type="label">Krainer, Josef sen.</persName>
+               <persName><surname>Krainer</surname><forename>Josef sen.</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710509.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710905.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710919.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710923.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800827.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800927.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

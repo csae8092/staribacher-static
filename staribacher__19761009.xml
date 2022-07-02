@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19761009.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19761008.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19761010.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  9. Oktober 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band32_1976-10-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-10-09">Samstag, 9. Oktober 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-01-31">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="32-1121" facs="32_1976-10-09_1121.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 9. Oktober 1976<lb/>
+</p>
+            <p xml:space="preserve">Nachdem ich den Bericht über den Bruch in den Maschinen von Alten<lb break="no"/>wörth gelesen hatte, wollte ich mir unbedingt einmal in der Praxis<lb/>
+die Montage und vor allem einmal den Schaden besichtigen. Zu meiner<lb/>
+grössten Verwunderung war am frühen Nachmittag kein Ingenieur mehr<lb/>
+anwesend. Ich brauchte allerdings keinen, da ich sofort Kontakt mit den<lb/>
+Arbeitern von Elin aufnahm. Diese wollten natürlich auch vorerst<lb/>
+einen Ingenieur finden, waren dann aber bereit, mir alles zu zeigen.<lb/>
+Nachdem wir sehr kompliziert in den Generator hineingekrochen sind,<lb/>
+musste ich zu meiner Überraschung feststellen, dass die Haarrisse<lb/>
+ich wahrscheinlich, wenn man mich nicht besonders darauf aufmerksam<lb/>
+gemacht hätte, gar nicht entdeckt hätte. Allen ist unerklärlich,<lb/>
+wieso gerade die dritte Maschine noch läuft und keinen Bruch hat,<lb/>
+obwohl sie aus derselben Serie stammt wie die erste und die zweite.<lb/>
+Alle drei Maschinen haben genau dieselbe lange Laufdauer, seit April,<lb/>
+niemand kann sich den Bruch erklären, alle sind allerdings überzeugt,<lb/>
+dass es jetzt wieder bei Elin hängen bleibt. Materialfehler kann es<lb/>
+nicht sein, denn es handelt sich ja fest um Serienbrüche. Wenn es ein<lb/>
+Konstruktionsfehler ist, wieso funktioniert dann die dritte Maschine<lb/>
+noch immer. Wenn es Schwingungsfehler sind, wo kommen diese her.<lb/>
+Und wieso nicht auf allen Maschinen gleichmässig. Die Arbeiter sind<lb/>
+sehr gedeftet<add>[= bedrückt, niedergeschlagen; Anm.]</add>, obwohl sie natürlich gar nichts dafür können. Ganz<lb/>
+im Gegenteil haben sie eine Rückstand, der bei der Montage gewesen<lb/>
+ist, aufgeholt und haben Monat für Monat je eine Maschine fertig<lb/>
+gemacht. Jetzt arbeiten sie an den nächsten und letzten zwei, damit<lb/>
+das Wasser einigermassen abgearbeitet werden kann. Derzeit läuft<lb/>
+viel Wasser über <choice><choice><sic>die</sic><corr>das</corr></choice></choice> Wehr. Ich hatte auch Gelegenheit, den Arbeiter<lb/>
+zu sprechen, der den Schaden entdeckte. Ich habe ihm für seine Auf<lb break="no"/>merksamkeit gedankt und erklärt, da soll niemand sagen, dass die<lb/>
+österreichischen Arbeiter nicht einsatzfreudig sind. Leider habe<lb/>
+ich seinen Namen nicht notiert, ich möchte ihm aber und werde ihm<lb/>
+auch ein Dankschreiben und eine kleine Anerkennung schicken.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__98040">WAIS</name>: Bitte bei Elin feststellen, wie er heisst. <add>Troppauer</add>.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__98040">
+               <persName type="label">Wais, Anton</persName>
+               <persName><surname>Wais</surname><forename>Anton</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/1017902909</idno>
+               <ptr type="mentioned" target="#staribacher__19780109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780509.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780510.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780511.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780516.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780517.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780530.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780606.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780614.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780831.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801014.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

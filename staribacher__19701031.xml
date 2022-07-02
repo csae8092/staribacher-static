@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701031.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701030.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701102.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 31. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-31</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-31">Samstag, 31. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0722" facs="03_1970-10-31_0722.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-31">Samstag, 31. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Die Vorstandsfraktion des Arbeiterkammertages in Wien beschäftigte<lb/>
+sich mit der Resolution, die die nächste Vollversammlung beschliessen<lb/>
+soll. Bei dieser Gelegenheit konnte ich feststellen, dass der ÖAAB ver<lb break="no"/>sucht, ganz konkrete Forderungspunkte in die Resolution unterzubringen<lb/>
+Da ich die erste Formulierung des ÖAAB nicht kenne, konnte ich nur bei<lb/>
+der verabredeten Formulierung meine Bedenken geltend machen. z.B. der<lb/>
+Satz: Ein sehr wesentliches Anliegen der Vollversammlung stellt auch<lb/>
+die Sicherstellung der notwendigen Investitionen der Verstaatlichten<lb/>
+Industrie dar. Es müsste Vorsorge getroffen werden, dass dafür aus<lb break="no"/>reichende Mittel zur Verfügung stehen, – kann so verstanden werden,<lb/>
+dass im Budget wieder die ÖIAG die Mittel zur Aufstockung des Kapi<lb break="no"/>tals bei den einzelnen Gesellschaften bereitgestellt wird. Diese<lb/>
+Forderung wird sicherlich auch vom ÖAAB in den Verstaatlichten Betrie<lb break="no"/>ben aufgestellt werden. Da <name type="person" ref="#per__97311">Androsch</name> aber kein Geld hat und auch<lb/>
+andererseits die ÖIAG in Zukunft die Finanzierung in eigener Regie<lb/>
+durchführen soll, kann eine solche Resolution nur gegen die Regierung<lb/>
+ausgelegt werden. Andererseits wieder hat der LAAB ganz entschieden<lb/>
+dagegen ausgesprochen, dass in der SPÖ- Entwurf vorgesehen war, die<lb/>
+Vollversammlung begrüsst daher die bisherigen Initiativen der Bundes<lb break="no"/>regierung zur Verbesserung verschiedener Wirtschaftsgesetze, so<lb/>
+etwa des Preistreibereigesetzes, des Preisregelungsgesetzes und das<lb/>
+Gesetz gegen den unlauteren Wettbewerb und erwartet, dass diese im<lb/>
+NR einer positiven Erledigung zugeführt werden. Wenn der ÖAAB dieser<lb/>
+Forderung zugestimmt hätte, die übrigens seit Jahrzehnten immer von<lb/>
+den Arbeiterkammern und dem Gewerkschaftsbund aufgestellt wurde,<lb/>
+dann hätte es eine zweckmässige Unterstützung der Parlamentfraktion<lb/>
+der SPÖ bedeutet. Ich bin neugierig, ob es unsere Genossen in der<lb/>
+Arbeiterkammer gelingt, den ÖAAB zu einer Resolution zu bewegen,<lb/>
+die in irgendeiner Weise aussagekräftig ist und doch noch einstimmig<lb/>
+gefasst werden kann. Wenn die Voraussetzung, um eine solche Resolution<lb/>
+in der Öffentlichkeit politischen Kampf verwenden zu können ist, wenn<lb/>
+eine solche Resolution einstimmig mit allen Fraktionen gegebenenfalls<lb/>
+gegen die Stimme der KPÖ oder bei Stimmenthaltung der KPÖ gefasst<lb/>
+wird.</p>
+            <p xml:space="preserve">Da sich die Fraktionssitzung länger dahinzog, traf ich beim Weggehen<lb/>
+<name type="person" ref="#per__97398">Drennig</name>, der mit folgende Mitteilung machte. Er kannte den Vortrag<lb/>
+von <name type="person" ref="#per__98003">Taus</name> in der Betriebswirtschaftlichen Woche, wahrscheinlich hat<lb/>
+er ihn ja sogar ausgearbeitet und auch die Stellungnahme zu den<lb/>
+<pb n="03-0723" facs="03_1970-10-31_0723.jpg"/>300 Mill. S Investitionsprojekt Investitionskredit AG, die über die<lb/>
+Nationalbank finanziert werden soll. Er bestätigte mit, dass innerhalb<lb/>
+der ÖVP von einzelnen Bankfachleuten die Meinung auch vertreten wird,<lb/>
+man sollte diese Schlussfinanzierung der Industrie über diesen Weg<lb/>
+versuchen. Allerdings sprach er sich – wie sein Chef – ganz entschieden<lb/>
+dagegen aus, dass die Investitionskredit AG allein diese Finanzierungs<lb break="no"/>möglichkeit eingeräumt bekommen soll. Bei dieser Gelegenheit konnte ich<lb/>
+in Erfahrung bringen, dass <name type="person" ref="#per__98003">Taus</name> darauf reflektierte, in die Credit<lb break="no"/>anstalt als Generaldirektor zu kommen. Die ÖAAB-Fraktion innerhalb der<lb/>
+ÖVP war aber zu schwach, und es wird nun Dr. <name type="person" ref="#per__122965">Treichl</name>, der im Apparat<lb/>
+der CA aufgewachsen ist, diesen Posten einnehmen. <name type="person" ref="#per__97398">Drennig</name> ist ein ganz<lb/>
+gewiegten und tüchtiger junger Mann und ich könnte mir sehr gut vorstellen,<lb/>
+dass er einmal der Taus-Nachfolger wird, er meint allerdings, dass dies<lb/>
+noch zu früh ist, auch dann wenn <name type="person" ref="#per__98003">Taus</name> wirklich in die CA abgeschwommen<lb/>
+wäre. <name type="person" ref="#per__97398">Drennig</name> versprach mir aber ziffernmässige Unterlagen für die End<lb break="no"/>finanzierung der Industrie und ich bin neugierig, ob und in welchem Aus<lb break="no"/>mass er sie uns zur Verfügung stellen wird. Auf alle Fälle wäre es<lb/>
+zweckmässig, wenn wir interfraktionell dieses Problem besprechen, ihn<lb/>
+jedenfalls zu den Besprechungen heranziehen. Er ist letzten Endes auch<lb/>
+als Vertreter des nö. Bürgschaftsfonds ein bedeutender Mann auf dem<lb/>
+Sektor, der für uns Fremdenverkehr- und Gewerbeförderung von grosser<lb/>
+Bedeutung ist.</p>
+            <p xml:space="preserve">Bei meinem Referat vor den Bauarbeitern wurde auch meine Fernsehaufzeich<lb break="no"/>nung der Bauarbeiterfraktion mit einem Videorekorder durchgeführt. Die<lb/>
+Bauarbeiter verwendet verhältnismässig sehr viel Geld für neue Einrichtung<lb/>
+nicht nur ihrer Heime, sondern auch vor allem für die technische Ausrüstung<lb/>
+ihrer Gruppe. Ich glaube, zwar dass es vorerst notwendig wäre, dass auch<lb/>
+der Interviewer sich entsprechend schult, aber im grossen und ganzen halte<lb/>
+ich einen solchen Videorekorder, der imstande ist, bei den einzelnen<lb/>
+Bauarbeiterversammlung dann gespielt zu werden, für sehr zweckmässig.</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__97646">KOPPE</name>: Sollten wir nicht versuchen, diese Videorekorder<lb/>
+besser einzusetzen, und vor allem durch Schulung der Interviewer<lb/>
+ein wirklich lebhafteres Programm zu erstellen.</p>
+            <p xml:space="preserve">Der Betriebsrat der Hohenauer Zuckerfabrik hatte mich ersucht, ich sollte<lb/>
+unbedingt ihr Werk besichtigen. Da er nächstes Jahr Betriebsratwahlen<lb/>
+hat, brauchte er dringend meine Anwesenheit. Ich bin zwar nicht davon<lb/>
+überzeugt gewesen, aber habe ihm dann letzten Endes doch zugesagt, dem<lb/>
+Betrieb zu besichtigen. In diesem Fall meldeten sich sofort dann die<lb/>
+<pb n="03-0724" facs="03_1970-10-31_0724.jpg"/>Besitzer, <name type="person" ref="#per__136114">Strakosch</name> und <name type="person">Habich</name> , und luden mich als Handelsminister ganz<lb/>
+offiziell zu dieser Betriebsbesichtigung ein. Dies war deshalb vom<lb/>
+grossen Vorteil, da der Rundfunk ebenfalls anwesend sein wollte. Das<lb/>
+Interview, welches der Reporter sofort von <name type="person">Habich</name> und von mir verlangte,<lb/>
+war über das Problem des Zuckerpreises. Ich konnte mich sehr gut ausreden<lb/>
+da ich bei der 100 Jahr-Feier vor 3 Jahren nicht anwesend sein konnte,<lb/>
+und versprochen hatte, bei der erstbesten Gelegenheit, die Fabrik zu be<lb break="no"/>suchen und dies sei jetzt der Fall. Der Dr. <name type="person">Habich</name> dagegen wurde ununter<lb break="no"/>brochen gefragt, was sich die Industrie nun vorstellt und sagte zum Schluss<lb/>
+doch zwischen 8 und 16 % würde sich maximal der Antrag der Zuckerindustrie<lb/>
+bewegen. Bei einer abschhiessenden Besprechung, an der nur Dr. <name type="person">Strakos</name>, der<lb/>
+Besitzer der Hohenauer Zuckerfabrik und Dr. <name type="person" ref="#per__117100">Habig</name>, ein Mitbesitzer und<lb/>
+entfernter Verwandter der Familie <name type="person">Strakos</name>, und ich teilnahmen wurde tat<lb break="no"/>sächlich von ihnen das Ersuchen gestellt, ich sollte ihren Zuckerpreis<lb break="no"/>antrag entsprechend unterstützen. Ich ließ sie nicht im Zweifel, daß der<lb/>
+jetzige Zeitpunkt der denkbar schlechteste sei. Es stimmt zwar, daß<lb/>
+ihre Kosten entsprechend erhöht wurden, so unter anderem eine neuerliche<lb/>
+Lohnerhöhung vor der Kampagne. Außerdem mußten sie für den Kokspreis fast<lb/>
+den doppelten Ansatz als im Vorjahr in Kalkulation stellen. Auch bei<lb/>
+Öl sind sie derzeit noch mit Mobil in Verhandlungen, die um 16 % einen<lb/>
+höheren Preis verlangt als im Vorjahr. Trotzdem glaube ich, daß in der<lb/>
+jetzigen Phase eine Zuckerpreiserhöhung kaum möglich sein wird. Ich ver<lb break="no"/>wies darauf, daß die Bundesregierung daransetzt um die Margarinepreis<lb break="no"/>erhöhung zu verhindern. Sollte die ÖVP wider Erwarten dieser Umsatzsteuer<lb break="no"/>senkung für Margarine und Öle nicht zustimmen, dann würde eine Belastung<lb/>
+auf diesem Sektor unumgänglich sein. Ich könnte mir dann nicht gut vor<lb break="no"/>stellen, daß gleichzeitig auch noch eine Zuckerpreiserhöhung genehmigt<lb/>
+würde. Der Zuckerpreis ist in seinen Hauptsorten noch immer preisgeregelt<lb/>
+und deshalb ist eine Zustimmung der Preisbehörde erforderlich. Außerdem<lb/>
+wird Zucker derzeit in einem Ausmaß produziert wie er überhaupt nicht im<lb/>
+Konsum verwendet werden kann. Tatsache ist, daß derzeit bei Beginn der<lb/>
+Kampagne 80.000 t Zucker noch aus der vorhergehenden Kampagne lagern und<lb/>
+der Verbrauch maximal mit 270.000 t angenommen wird und die heurige Ernte<lb/>
+wird wahrscheinlich mindestens diese 270.000 t bringen. Ich schlug deshalb<lb/>
+den beiden Herren vor, sie sollten sich den Kopf zerbrechen wie man den<lb/>
+überschüssigen Zucker so schnell wie möglich im Inland durch entsprechende<lb/>
+Abgabe an bevorzugte Verbraucher wie Bauern zum silagieren oder weiterver<lb break="no"/>arbeitende Industrie für die Süßwarenerzeugung wegbringen könnte. Insbe<lb break="no"/>sondere der Präsident der Zuckerindustrie, Dr. <name type="person" ref="#per__117100">Habig</name>, wehrte sich gegen<lb/>
+die Idee einen zweiten Zuckerpreis offiziell zu installieren, da er die<lb/>
+<pb n="03-0725" facs="03_1970-10-31_0725.jpg"/>Angst hat, daß damit der offizielle Zuckerpreis auch für den<lb/>
+Konsumenten ins Wanken gerät. Vor Jahren sind die Bauern an ihn<lb/>
+herangetreten und haben gesagt, sie wären bereit zur Silagierung<lb/>
+als Silagemittel Zucker zu verwenden, wenn dieser ungefähr 400,- S<lb/>
+pro Zentner zu haben sei. Die Zuckerfabriken haben darauf im<lb/>
+Vorjahr von den ca. 47,- S pro Meter-Zentner für die Rübe 12,- S<lb/>
+von der plus-plus-Rübe die für Silagezucker verwendet wurde abge<lb break="no"/>zogen. Für die anderen plus-plus-Rüben wurden nur 6,- S pro Meter<lb break="no"/>Zentner in Abzug gebracht. Dadurch glauben die Zuckerfabriken, daß<lb/>
+sie den Silagezucker tatsächlich um diesen Preis abgeben können.<lb/>
+Die Kalkulation sieht nun folgendermaßen aus: 400,- S Silagezucker<lb/>
+franko Verbraucher, 20,- S abzüglich Fracht ist 380,- S; die Kosten<lb/>
+für die Fabrik 140,- S = 240,- S minus 30,- S Transport Rübe zur<lb/>
+Fabrik verbleibt für den Bauern 210,- S, dies ist bei 7 x 30,- S<lb/>
+für die Rübe 210,- S Einstandspreis für die Bauern als Verrechnungs<lb break="no"/>ansatz. Die Zuckerindustrie hat nun dieser Silageproduktion und dem<lb/>
+zweiten Zuckerpreis zugestimmt, wenn sie von der Preisbehörde den<lb/>
+schriftlichen Bescheid kriegt, daß dieser Zucker nicht ihrer<lb/>
+normalen Kalkulation angerechnet wird, das heißt, daß man nicht<lb/>
+diese Zuckermenge als Divisor verwendet, wenn es gilt die anlaufen<lb break="no"/>den Kosten zu errechnen. Präsident <name type="person" ref="#per__97691">Lehner</name> von der Präsidentenkonfe<lb break="no"/>renz der Landwirtschaftskammern hat mich vor längerer Zeit wissen<lb/>
+lassen, daß diese Angelegenheit als erledigt zu betrachten ist. Zu<lb/>
+meiner größten Verwunderung hat <name type="person" ref="#per__117100">Habig</name> mir aber mitgeteilt, daß er<lb/>
+auf eine schriftliche Mitteilung – um nicht zu sagen auf einen<lb/>
+Bescheid – der Preisbehörde noch immer wartet und solange nicht<lb/>
+bereit ist Silagezucker im größeren Ausmaß zu erzeugen. Seiner<lb/>
+Meinung nach, und insbesondere Dr. <name type="person">Strakos'</name> Meinung nach, könnte<lb/>
+aber hier ein wesentlicher Absatzmarkt gewonnen werden. Man schätzt<lb/>
+daß dies bis zu 80.000 t Zucker gehen könnte, derzeit ist nur<lb/>
+maximal 10.000 t geplant. Ich schlug den beiden Herren vor, sie<lb/>
+sollten innerhalb ihrer Organisation einen konkreten Plan für<lb/>
+weitere Absatzmaßnahmen ausarbeiten, den dann über die Interessens<lb break="no"/>vertretunggan die Regierung herantragen und ich bin überzeugt<lb/>
+davon, daß wir gemeinsam ein solches Arrangement beschließen<lb/>
+könnten, wenn in der Paritätischen Kommission die Bundesregierung<lb/>
+zu einem solchen Arrangement aufgefordert wird Stellung zu nehmen.<lb/>
+Dadurch hätte die Zuckerindustrie die größte Gewähr, daß auch dann,<lb/>
+wenn eine andere Bundesregierung einmal sein würde die Interessens<lb break="no"/>vertretungen nach wie vor die Linie vertreten müßten, die sie<lb/>
+<pb n="03-0726" facs="03_1970-10-31_0726.jpg"/>jetzt dann mit der Bundesregierung gemeinsam beschlossen haben.<lb/>
+Die Angst der Zuckerindustrie, daß ein für die Zucker verarbeitende<lb/>
+oder für die Landwirtschaft verbilligter Preis, letzten Endes alle<lb/>
+anderen Abnehmer auf den Plan ruft, ist zweifelsohne richtig, muß<lb/>
+aber im Interesse des Zuckerabsatzes unter Verhinderung einer Preis<lb break="no"/>steigerung aufgegeben werden.</p>
+            <p xml:space="preserve">Bei einem Österreich-Gespräch in Gänserndorf am Abend, wo – wie mir<lb/>
+der Bürgermeister versicherte – nur lauter Genossen anwesend waren,<lb/>
+wurden zwei Minister, ein Nationalrat, der Präsident des nieder<lb break="no"/>österreichischen Landtagklubs und der Bürgermeister bemüht. Hier<lb/>
+müßte eine ökonomischere Einteilung Platz greifen.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97398">
+               <persName type="label">Drennig, Manfred</persName>
+               <persName><surname>Drennig</surname><forename>Manfred</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/107960850</idno>
+               <ptr type="mentioned" target="#staribacher__19710206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780620.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+            </person>
+            <person xml:id="per__97311">
+               <persName type="label">Androsch, Hannes</persName>
+               <persName><surname>Androsch</surname><forename>Hannes</forename></persName>
+               <occupation>Finanzminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118503049</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810820.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            <person xml:id="per__97691">
+               <persName type="label">Lehner, Hans</persName>
+               <persName><surname>Lehner</surname><forename>Hans</forename></persName>
+               <occupation>Präs. LWK</occupation>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810506.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810518.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810611.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810713.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810730.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811203.xml"/>
+            </person>
+            <person xml:id="per__122965">
+               <persName type="label">Treichl, Heinrich</persName>
+               <persName><surname>Treichl</surname><forename>Heinrich</forename></persName>
+               <occupation>Bankier</occupation>
+               <ptr type="mentioned" target="#staribacher__19710208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710712.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720121.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800724.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801009.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801021.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+            </person>
+            <person xml:id="per__117100">
+               <persName type="label">Habig, Fritz</persName>
+               <persName><surname>Habig</surname><forename>Fritz</forename></persName>
+               <occupation>Präs. Verb. d. öst. Zuckerindustrie</occupation>
+               <ptr type="mentioned" target="#staribacher__19710128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710521.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781218.xml"/>
+            </person>
+            <person xml:id="per__98003">
+               <persName type="label">Taus, Josef</persName>
+               <persName><surname>Taus</surname><forename>Josef</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/118756265</idno>
+               <ptr type="mentioned" target="#staribacher__19710218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710905.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801025.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810318.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810610.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+            </person>
+            <person xml:id="per__97646">
+               <persName type="label">Koppe, Fritz</persName>
+               <persName><surname>Koppe</surname><forename>Fritz</forename></persName>
+               <occupation>Sekr. JS, ab 1973 GF VKI</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__136114">
+               <persName type="label">Strakosch-Feldringen, Hans</persName>
+               <persName><surname>Strakosch-Feldringen</surname><forename>Hans</forename></persName>
+               <occupation>Zuckerfabrik Hohenau [Vorname/Identifikation nicht völlig
+                  sicher]</occupation>
+               <ptr type="mentioned" target="#staribacher__19710201.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

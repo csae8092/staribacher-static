@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19710520.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710519.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710521.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 20. Mai 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band06_1971-05-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-05-20">Donnerstag, 20. Mai 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="06-0621" facs="06_1971-05-20_0621.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Donnerstag, 20. Mai 1971<lb/>
+</p>
+            <p xml:space="preserve">Ich hatte es übernommen, für die Bundesregierung den Sonnen<lb break="no"/>zug zu verabschieden. Der Sonnenzug ist eine Aktion, wo karitat<lb break="no"/>ive Verbände aber auch die Arbeiterkammer und sonstige Inter<lb break="no"/>essenvertretungen Spenden leisten, damit die körperbehinderten<lb/>
+einmal durch Österreich, die Schweiz und Jugoslawien fahren<lb/>
+können. Mein Büro teilte mir mit, dass um <choice><choice><sic>9.45</sic><corr>9.55?</corr></choice></choice> Uhr ich die<lb/>
+Verabschiedung machen sollte. Zu meiner grössten Verwunderung<lb/>
+kam ich um 1/2 10 Uhr auf einen leeren Bahnhof. Die Fahrdienst<lb break="no"/>leitung teilte mir mit, dass der Sonnenzug bereits um 7.30<lb/>
+abgefahren ist. Ich kann mir nicht erklären, wieso derartige Fehler<lb/>
+passieren können.<lb/>
+</p>
+            <p xml:space="preserve">Eine Besprechung mit den Freunden aus der illegalen Zeit, die<lb/>
+heute alle bereits in meinem Alter oder älter sind und deren<lb/>
+Kinder heute schon 14–16 Jahre sind, bestätigte mir, dass<lb/>
+der Zusammengehörigkeitssinn noch immer existiert. Da mich<lb/>
+diese Genossinnen und Genossen seit Jahrzehnten kennen, bin<lb/>
+ich überzeugt, würden sie sich kein Blatt vor den Mund nehmen.<lb/>
+Aus der Diskussion konnte ich feststellen, dass man noch immer<lb/>
+sehr starkes Vertrauen zu unserem Führungsteam hat und dass man<lb/>
+hofft, dass alles gut gehen wird. Die einzelnen Berufsgruppen<lb/>
+haben natürlich Spezialprobleme. Z.B. ist die Frage des Polizei<lb break="no"/>nachwuchses und des 24-Stunden-Dreier-Radls sehr kritisch disku<lb break="no"/>tiert worden. Ich glaube, dass man hier im Einzelfall viel<lb/>
+mehr Kontakt mit den unteren Dienststellen haben müsste. Dies<lb/>
+gilt aber nicht nur für die Polizei sondern wahrscheinlich für<lb/>
+alle nachgeordneten Dienststellen in Bund, Land und Gemeinde.<lb/>
+Da ich ausser der Bergbehörde und der Kraftfahrzeugüberprüfung<lb/>
+keine nachgeordneten Dienststellen habe, müsste ich eigentlich<lb/>
+mich mit diesem Problem nicht auseinandersetzen. Ich bin aber<lb/>
+überzeugt, solange die unteren Zellen oder Gruppen unserer<lb/>
+Genossen in den nachgeordneten Dienststellen halten, solange<lb/>
+kann auch die Regierung entsprechend oben <choice><choice><sic>maniferieren</sic><corr>manövrieren?</corr></choice></choice>.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back/></text>
+</TEI>

@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19750607.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750606.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750608.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  7. Juni 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band26_1975-06-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-06-07">Samstag, 7. Juni 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="26-0688" facs="26_1975-06-07_0688.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">SAMSTAG, 7. Juni 1975<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Swarovski hat einen Kooperationsvertrag mit der Sowjet<lb break="no"/>union über reflektierende Kennzeichen und Strassenbegrenzungen<lb/>
+usw. Dieses 5-jährig bestehende Kooperationsabkommen wird nun<lb/>
+auf weitere 5 Jahre verlängert. <name type="person" ref="#per__97500">Gwischiani</name> ist deshalb extra nach<lb/>
+Wien gekommen. Da ich immer wieder gerne mit <name type="person" ref="#per__97500">Gwischiani</name> zusammen<lb break="no"/>treffe, gleichzeitig auch unterstreichen wir welche Bedeutung wir<lb/>
+Kooperationsabkommen mit der Sowjetunion beimessen und ganz besonders<lb/>
+um Swarovski zu dokumentieren, dass sich das Handelsministerium in<lb/>
+jeder Beziehung um sie kümmern, bin ich während der Unterzeichnungs<lb break="no"/>zeremonie anwesend. Die Vertreter von Stolllack, Linz-Chemie,<lb/>
+übrigens eine Frau die perfekt Russisch spricht, und Swarovski die<lb/>
+ebenfalls anwesend sind, möchten gerne eine Vertretung in Moskau.<lb/>
+<name type="person" ref="#per__97500">Gwischiani</name> hat eine gute Idee, er meint die Firmen sollen sich<lb/>
+ihr eigenes Domizil dort bauen. Durch Vorfinanzierung der Mieten<lb/>
+könne dies möglich sein und die sowjetische Seite würde dann,<lb/>
+der das Gebäude gehört, ihnen vermieten. Ich weiss und flüstere es<lb/>
+den Vertretern zu, dass dies grosse Schwierigkeiten machen wird.<lb/>
+Die Sowjets haben an eine amerikanische Gesellschaft ein Trade Center<lb/>
+für 120 Millionen Rubel vergeben. Dies wird in der Nähe vom Hotel<lb/>
+Ukraine auf einem Gelände, wo die Internationale Ausstellung ent<lb break="no"/>stehen soll, gebaut werden. Ich kann mit nicht vorstellen, dass die<lb/>
+Sowjets jetzt bereit sind, den einzelnen Ländern und einzelnen Firmen<lb/>
+zusätzliche Möglichkeiten für Vertretungen zu schaffen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG für <name type="person" ref="#per__97377">BUKOWSKI</name>: <name type="person" ref="#per__97426">Fälbl</name> soll das ganze Projekt noch einmal<lb/>
+prüfen und mir referieren, damit man die Firmen verständigen kann.<lb/>
+</p>
+            <p xml:space="preserve">Beim Fussballspiel gegen die Tschechoslowakei treffe ich nicht nur<lb/>
+den tschechischen Botschafter und Handelsrat, sondern auch noch<lb/>
+den Vizeminister vom Aussenhandelsministerium <name type="person" ref="#per__140622">Patzan</name>. Ich erkläre<lb/>
+allen dreien den Wunsch der Polen von dem sie übrigen schon wussten<lb/>
+und alle sind der Ansicht, dass sich dies ohne weiteres machen<lb/>
+lässt. Von dem tschechischen Vizeminister erfahre ich, dass sie jetzt in<lb/>
+Düsseldorf eine grosse Ausstellung haben, da sie nach Deutschland<lb/>
+noch immer äusserst günstig exportieren können. Selbst Maschinen und<lb/>
+Ausrüstungen können sie gut in Westdeutschland verkaufen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97426">
+               <persName type="label">Fälbl, Maximilian</persName>
+               <persName><surname>Fälbl</surname><forename>Maximilian</forename></persName>
+               <occupation>Beamter HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720424.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810706.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810810.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810818.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810819.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811009.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__97500">
+               <persName type="label">Gwischiani, Dschermen</persName>
+               <persName><surname>Gwischiani</surname><forename>Dschermen</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710329.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710528.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710606.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720309.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780908.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800919.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801121.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810928.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811119.xml"/>
+            </person>
+            <person xml:id="per__97377">
+               <persName type="label">Bukowski, Dietrich</persName>
+               <persName><surname>Bukowski</surname><forename>Dietrich</forename></persName>
+               <occupation>Büro Staribacher, Botschafter in Sofia/Straßburg</occupation>
+               <ptr type="mentioned" target="#staribacher__19780214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780712.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800410.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19790210.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19790209.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19790212.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 10. Februar 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band46_1979-02-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-02-10">Samstag, 10. Februar 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="46-0177" facs="46_1979-02-10_0177.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, den 10. Februar 1979<lb/>
+</p>
+            <p xml:space="preserve">Eine eingehende Aussprache mit Min.Rat <name type="person" ref="#per__149795">Decker</name> von der Generalpost<lb break="no"/>direktion ergab, daß keine Möglichkeit besteht, die vorgesehene<lb/>
+Sonderpostmarke Energiesparen im Oktober durch eine Ausschreibung<lb/>
+größere Popularität zu verschaffen. Min.Rat <name type="person" ref="#per__149795">Decker</name> hat bereits im<lb/>
+Februar 1977 im Handelsministerium angefragt, ob nicht eine Energie<lb break="no"/>sparmarke kommen sollte. Eine solche Sondermarke wurde von ihm<lb/>
+einkalkuliert, die Post kann nämlich nur im laufenden Jahr eine<lb/>
+gewisse Anzahl von Marken auflegen. Der Markenwert darf 130 S nicht<lb/>
+übersteigen, da sich das Handelsministerium nicht gerührt hat,<lb/>
+sondern jetzt erst und dies dürfte wirklich auf die Intervention<lb/>
+<name type="person" ref="#per__113069">Weiser</name>, EVA, zurückzuführen sein, vor einiger Zeit ein Interesse an<lb/>
+einer Sondermarke gezeigt hat, muß jetzt schnell noch eine neue<lb/>
+Marke eingeschoben werden. Die Marke wird auch eine verhältnis<lb break="no"/>mäßig geringen Wert haben, nämlich 2,50 S, und soll von einem Ent<lb break="no"/>werfer, der sehr gut ist und auch die Umweltschutzmarke entworfen<lb/>
+hat, hergestellt werden. Min.Rat <name type="person" ref="#per__149795">Decker</name> hat vorgeschlagen, wenn<lb/>
+wir eine Ausschreibung wegen der größeren Propaganda machen wollen,<lb/>
+dann könnte könnte er sich vorstellen, daß wir den Sonderstempel<lb/>
+wenn die Post eventuell bereit ist zuzugestehen, jetzt sofort in<lb/>
+Angriff nehmen und für eine Ausschreibung machen. Das Handels<lb break="no"/>ministerium muß, ohne daß es sich auf meine Aussprache mit <name type="person" ref="#per__149795">Decker</name><lb/>
+bezieht, an die Generalpostdirektion den Wunsch herantragen, daß<lb/>
+anläßlich der Auflage der Energiesparmarke in allen Bundesländern<lb/>
+ein Sonderpostamt mit Sonderstempel geöffnet wird. Normal müßte<lb/>
+man dafür 10.000 S pro Postamt und Tag rechnen, in diesem Fall<lb/>
+wird aber die Post die Kosten übernehmen. Der dort dann zur Ver<lb break="no"/>wendung gelangende Sonderstempel könnte von uns im Prinzip unter<lb/>
+Einhaltung von gewissen Normen entworfen werden und wahrscheinlich<lb/>
+dann auch von der Post übernommen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__107956">SATZINGER</name>: Bitte das Schreiben sofort veranlassen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__113069">
+               <persName type="label">Weiser, Peter</persName>
+               <persName><surname>Weiser</surname><forename>Peter</forename></persName>
+               <occupation>Energieverwertungsagentur</occupation>
+               <ptr type="mentioned" target="#staribacher__19780329.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800324.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800624.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801021.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810121.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810928.xml"/>
+            </person>
+            <person xml:id="per__107956">
+               <persName type="label">Satzinger, Heinz</persName>
+               <persName><surname>Satzinger</surname><forename>Heinz</forename></persName>
+               <occupation>Büro des Bundesministers</occupation>
+               <ptr type="mentioned" target="#staribacher__19780601.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

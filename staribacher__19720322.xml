@@ -1,0 +1,573 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19720322.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19720321.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19720404.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der 22. März 1972</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band10_1972-03-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1972-03-22">Mittwoch, 22. März 1972</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="10-0413" facs="10_1972-03-22_0413.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, den 22. März 1972<lb/>
+</p>
+            <p xml:space="preserve">Kranzniederlegung beim Arc de Triomphe ist ein ungeheures<lb/>
+eindrucksvolles Schauspiel. Der ganze Champs-Élysées ist abgesperrt,<lb/>
+man kann sich vorstellen, wie die Autofahrer fluchen. Fußgänger<lb/>
+sieht man keine, oder fast keine. Anschließend wird das neue<lb/>
+Büroviertel Défense besucht. 6.000 Menschen werden dort wohnen,<lb/>
+aber 100.000 arbeiten. Alles ist sehr großzügig geplant und die<lb/>
+Bauten entsprechen einem vielfachen des UNIDO-Projektes an der<lb/>
+Donau. Das Verkehrsproblem wird durch eine Schnellmetro, die<lb/>
+100 km fährt, wie ich mich selbst im Führerstand überzeugen konnte,<lb/>
+gelöst.<lb/>
+</p>
+            <p xml:space="preserve">Wichtig ist aber die Besprechung beim Mittagessen mit Minister<lb break="no"/>präsident <name type="person" ref="#per__139470">Chaban-Delmas</name>. Ich lerne den GenDir. und wichtigen<lb/>
+Mann des Patronats <name type="person" ref="#per__139802">Montet</name> kennen. Er wird mit der Industriellen<lb break="no"/>vereinigung nach Wien kommen und ersucht, ob er nachher eine<lb/>
+Privataudienz bei mir bekommen kann, was ich ihm selbstverständlich<lb/>
+sofort zusage. Die Firma <choice><choice><sic>Usin perron pro gil</sic><corr>Ugine, Rhône Progil?</corr></choice></choice>, die wir<lb/>
+Freitag besuchen, die Mutterfirma von Donau-Chemie. Ich versuche<lb/>
+sofort herauszubekommen und Unterstützung zu bitten wegen Landeck.<lb/>
+Der Generaldirektor ist sehr genau informiert und meint, er hätte<lb/>
+hier keine Sorge wenn der Karbidabsatz jetzt zurückgegangen ist,<lb/>
+man wäre mit anderen Produkten Ferrometall, die Produktion auf<lb break="no"/>rechterhalten können. Schwierigkeiten sieht er nur bezüglich Brückl.<lb/>
+Hier kommt es sofort zu einer Diskussion über den Salz- und Energie<lb break="no"/>preis. Ich erkläre, warum der Finanzminister bei uns 310,–– gegen<lb break="no"/>über 110,–– bis 120,–– S Tonne Salz verlangt und warum der Energie<lb break="no"/>preis bei uns doch wesentlich höher ist als in anderen Ländern.<lb/>
+Ich glaube aber darauf hinweisen zu können, daß wenn Brückl wir<lb break="no"/>lich zugrunde gehen würde, man sicherlich einen Ausweg aus dem<lb/>
+Dilemma finden kann. Da die Produkte ja bei uns erzeugt werden<lb/>
+und auch werden sollen. Anders, wesentlich schlechter beurteile<lb/>
+ich die Situation in Landeck beim Generaldirektor ist es gerade<lb/>
+umgekehrt.<lb/>
+</p>
+            <pb n="10-0414" facs="10_1972-03-22_0414.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="#per__139804">Obletta</name>, der ebenfalls bei diesem Dejeuner ist, erklärte mir,<lb/>
+daß er sehr froh ist über unsere Industriepolitik. Er hat das<lb/>
+Gefühl, daß das erste Mal im Handelsministerium man sich diesem<lb/>
+Problem stärker widmet und er dadurch als Vertreter Österreichs<lb/>
+bei der OECD einigermaßen positiv auftreten kann. Er möchte auch<lb/>
+gerne wissen wieweit die Abgrenzung zwischen Gesundheitsministerium<lb/>
+und Umweltschutzfrage und Handelsministerium ist. Ich kann ihm<lb/>
+auseinandersetzen, daß natürlich die grundsätzlichen Beschlüsse<lb/>
+jetzt im Gesundheitsministerium getroffen werden, im Einvernehmen<lb/>
+mit den beteiligten oder betroffenen Ministerien, daß über die<lb/>
+konkrete Arbeit natürlich im Handelsministerium erfolgen muß.<lb/>
+Ich weise z.B. auf Lärmschutzbestimmungen aufgrund der neuen<lb/>
+Gewerbeordnung, wo die Phonzahl der Maschinen gleich bei der Ge<lb break="no"/>nehmigung festgelegt wird. In der OECD gibt es jetzt als große<lb/>
+Diskussion die Frage, wieweit der Umweltschutz durch Finanzierung<lb/>
+der Verursacher oder durch die öffentliche Hand vorgenommen werden<lb/>
+soll. Die OECD neigt eher zum Verursacherprinzip, möchte aber auf<lb/>
+alle Fälle verhindern, daß dadurch Konkurrenzungleichheiten ent<lb break="no"/>stehen. Wenn z.B. in den nordischen Staaten die Papierindustrie<lb/>
+die Umweltschutzauflagen nicht selbst bezahlen und kalkulieren<lb/>
+müssen, sondern von der öffentlichen Hand geleistet wird, kommt<lb/>
+es zu Konkurrenzverschiebungen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Tisch sitze ich neben dem Ministerpräsidenten und nütze na<lb break="no"/>türlich die Gelegenheit, um unsere Integrationswünsche unterzu<lb break="no"/>bringen Der Ministerpräsident versichert dann auch in der Tisch<lb/>
+rede, daß aus Brüssel gute Nachrichten für Österreich bestehen.<lb/>
+Im Laufe der Besprechung stellt sich dann heraus, daß er scheinbar<lb/>
+gemeint hat, daß der Ministerrat, der Vormittag getagt hat, sich<lb/>
+mit Österreich beschäftigt hat. Ich versuche immer ohne lästig zu<lb/>
+fallen und ohne den Eindruck zu erwecken, daß wir den Staatsbe<lb break="no"/>such ausschließlich dazu verwenden, um unsere kleinlichen Probleme<lb/>
+jedem immer wieder zu präsentieren, dennoch natürlich die Integrations<lb break="no"/>fragen an der Spitze meiner Ausführungen zu stellen. Um es unauf<lb break="no"/>dringlicher zu machen erkläre ich, als wir Käse und Butter serviert<lb/>
+bekommen, daß dieses köstliche franz. Produkt für unsere Landwirt<lb break="no"/>schaft auch eine große Bedeutung hat. Wenn z.B. jetzt England bei<lb break="no"/><pb n="10-0415" facs="10_1972-03-22_0415.jpg"/>tritt und wir 60 % unseres Futterexportes die wir jetzt dorthin<lb/>
+liefern verlieren würden, so ist dies für unsere Bauern natürlich<lb/>
+eine fast unakzeptable Situation. Da in Brüssel gerade mit der<lb/>
+Landwirtschaft ein riesen Krach war, meint der Ministerpräsident,<lb/>
+daß es überall mit der Landwirtschaft Schwierigkeiten gibt. Er<lb/>
+ist aber überzeugt, daß ich auch wie in Brüssel, die anderen land<lb break="no"/>wirtschaftlichen Probleme lösen lassen.<lb/>
+</p>
+            <p xml:space="preserve">Anschließend an das Mittagessen hätte eine Aussprache mit <name type="person" ref="#per__97632">Kirch<lb break="no"/>schläger</name>, Aussenminister <name type="person" ref="#per__139771">Schumann</name> und mir stattfinden sollen.<lb/>
+<name type="person" ref="#per__139771">Schumann</name> hat aber neuerdings mir einen anderen Termin und hat<lb/>
+sogar das Essen vorzeitig verlassen. Dafür ist dann der Regierungs<lb break="no"/>sprecher <name type="person" ref="#per__139805">Arramon</name> später gekommen. Da dieser neben mir sitzt, beginne<lb/>
+ich natürlich auf sofort über die Integrationsfrage mit ihm zu disk<lb break="no"/>utieren. Es handelt sich doch um z.B. auch die Textil<lb break="no"/>regelung im schweiz.-österr.-brit.-Verfahren der EFTA, wie wir es<lb/>
+jetzt handhaben. Hier es natürlich ein leichtes, daß ich <name type="person" ref="#per__114486">Giscard<lb/>
+d'Estaing</name> erklären konnte, wie eben ein kumulativer Ursprung zu<lb break="no"/>stande kommt. Zum Glücke hatte er die erste Äußerung noch nicht<lb/>
+übersetzt bekommen, da aber auch gegenüber den Anwesenden für<lb/>
+mich sehr blamabel. In diesem Fall war es ein echtes Übersetzungs<lb break="no"/>problem. In Hinkunft werde ich aber nie mehr zugeben, in dem Falle<lb/>
+nichts zu wissen, sondern halt wie es sicherlich auch andere machen,<lb/>
+herumreden. Als er meine Übersetzungsfrage auch noch geht, kann man<lb/>
+wahrscheinlich ohne weiteres erklären, das nicht verstanden zu<lb/>
+haben oder auf eine Anfrage eine Antwort zu geben, daß man dann wahr<lb break="no"/>scheinlich mehr oder minder der Übersetzung anlastet.<lb/>
+<name type="person" ref="#per__114486">Giscard</name> begleitete uns dann und <name type="person" ref="#per__97632">Kirchschläger</name> wehrte dies zumindestens<lb/>
+dies drei Mal ab, bis zum Ausgang.<lb/>
+</p>
+            <p xml:space="preserve">Die österreichischen Pressevertreter waren sehr interessiert über<lb/>
+mein Ergebnis der Aussprache. Ich erklärte einzelnen von ihnen,<lb/>
+dies war der Nachteil, daß die Presse dort von <name type="person" ref="#per__139807">Stalnig</name> nur sehr<lb/>
+sporadisch betreut wurde, was natürlich <name type="person" ref="#per__114486">Giscard d'Estaing</name> keine kon<lb break="no"/>kreten Zusagen machte, daß aber immer wir über das Elaborat sehr<lb/>
+eingehend diskutiert haben. Der österr. Außenhandelsstellenleiter<lb/>
+<name type="person" ref="#per__146917">Kourimsky</name> erklärte mir und auch den anderen, daß es noch niemals<lb/>
+<pb n="10-0416" facs="10_1972-03-22_0416.jpg"/>der Fall gewesen ist, daß ein Minister sich so lange mit Detail<lb break="no"/>problemen mit einem anderen Ministerkollegen unterhalten hätte.<lb/>
+Dies sei äußerst ungewöhnlich, dadurch trug mit dieser Aussage<lb/>
+her an den Gefühl in der Presse bei, daß damit ein ganz großer<lb/>
+Erfolg zu verzeichnen sei. Da die einzelnen Presseleute insbeson<lb break="no"/>dere der vom Kurier immer die Unterlagen längere Zeit behalten<lb/>
+wollte, habe ich sie ihm und den anderen auch tatsächlich zur<lb/>
+Verfügung gestellt und bis jetzt, obwohl er mir's versprochen hat,<lb/>
+noch nicht zurückgekommen.<lb/>
+</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="#per__97646">KOPPE</name>:<lb/>
+Bitte dies von <name type="person" ref="#per__138749">Klima</name> verlangen, ohne ihm einen Vorwurf zu machen.<lb/>
+</p>
+            <p xml:space="preserve">Presse war zwar nicht mit der ersten Garnitur, wie dies z.B. bei<lb/>
+dem Staatsbesuch in Italien der Fall, vertreten, aber doch ver<lb break="no"/>hältnismäßig mit guten Redakteuren vertreten. <name type="person" ref="#per__133398">Mahr</name> - Kronen-Zeitung,<lb/>
+<name type="person" ref="#per__137288">Christian</name> - Salzburger Nachrichten, <name type="person" ref="#per__139810">Habig</name> – Süd-Ost-Tageszeitung,<lb/>
+<name type="person" ref="#per__122298">Weissenberger</name> – Kleine Zeitung, <name type="person" ref="#per__139812">Ender</name> – AZ, <name type="person" ref="#per__138749">Klima</name> – Kurier, <name type="person" ref="#per__139815">Wink<lb break="no"/>warter</name> – APA, <name type="person" ref="#per__139816">Arton</name> – Presse, <name type="person" ref="#per__139817">Hamminger</name> – Neue Zeit, <name type="person" ref="#per__139818">Zilcher</name> -<lb/>
+OÖ. Nachrichten, <name type="person" ref="#per__139819">Fluch</name> – Wiener Zeitung. Das franz. Protokoll,<lb/>
+aber ich glaube auch, daß unseres nicht ganz unschuldig ist,<lb/>
+hat die Journalisten von den Bundespräsidenten und natürlich<lb/>
+damit auch von uns systematisch getrennt. Sie schliefen in anderen<lb/>
+Hotels, wurden zu den Empfängen fast nie geladen, was allerdings<lb/>
+auch in Österreich nicht immer der Fall ist, und hatten ein wesent<lb break="no"/>lich anderes Programm. Nur bei den offiziellen Höhepunkten, w. Z.<add>[?]</add><lb/>
+Empfang im Élysée oder Besichtigungen, waren sie mit uns gemeinsam,<lb/>
+allerdings auch verschieden transportiert. <choice><choice><sic>Wo</sic><corr>Sowohl</corr></choice></choice> <name type="person" ref="#per__97632">Kirchschläger</name> als auch<lb/>
+ich versuchten deshalb immer wieder die Presse bei jeder Gelegenheit<lb/>
+zu informieren, und sie damit natürlich zu beeinflussen. <name type="person" ref="#per__97632">Kirchschläger</name><lb/>
+legte insbesondere größten Wert darauf, damit nicht dieser ganze<lb/>
+Staatsbesuch in einer Bittstellung über EWG Detailfragen ausartete.<lb/>
+In diesem Falle spielten wir gut zusammen. Ich selbst legte natürlich<lb/>
+immer größten Wert darauf, daß dies meine Hauptaufgabe sei und dies<lb/>
+wurde auch von der Presse anerkannt. Einmal meinten sie sogar wir<lb/>
+spielen sehr gut auf verschiedenen Klavieren. <name type="person" ref="#per__108322">Meisl</name> meinte dazu,<lb/>
+<pb n="10-0417" facs="10_1972-03-22_0417.jpg"/>nicht auf verschiedenen Klavieren, sonder vierhändig auf einem<lb/>
+Klavier. Als sicherlich in der Vergangenheit und Koalition oder<lb/>
+ÖVP–Alleinregierung ein so gute Zusammenarbeit zwischen dem<lb/>
+Aussenminister und dem Handelsminister nie gegeben hat, ist es<lb/>
+natürlich besonders aufgefallen. Obwohl <name type="person" ref="#per__97632">Kirchschläger</name> natürlich<lb/>
+eine andere Aufgabe und andere Fragestellungen und Politik als<lb/>
+Aussenminister verfolgt, kann ich immer wieder feststellen, daß<lb/>
+er auch in der Integrationsfrage und in Details sehr gute Kenntnisse<lb/>
+hat. In meinen Augen ist er auch ein überragender Politiker, dessen<lb/>
+Ideen und Führung ich mich gerne anschließe. <choice><choice><sic>Ein</sic><corr>In</corr></choice></choice> stundenlangen Aus<lb break="no"/>sprachen, die wir natürlich auch privat unter vier Augen führen,<lb/>
+muß ich feststellen, daß ihm am meisten in der letzten Zeit die<lb/>
+Abweichung von <name type="person" ref="#per__97668">Kreiskys</name> Aussenpolitik beunruhigt. Er selbst meinte,<lb/>
+er sei angetreten, daß seine ideologiefreie, offene Politik<add>[?]</add> gemacht<lb/>
+werden kann und dies hätte der Kanzler ihm auch zugesichert. Er<lb/>
+glaubt nämlich, und da hat er vollkommen recht, daß man für Öster<lb break="no"/>reich nicht eine sozialistische oder ÖVP oder sonstige Aussen<lb break="no"/>politik machen könnte. Österreich könnte nur, und dies wird bei<lb/>
+der österreichischen Bevölkerung auch anerkannt und ist einmal<lb/>
+honoriert worden, eine Außenpolitik machen, die er vertritt und<lb/>
+die am Neutralitätsstatus nichts ändert, doch eine gute Lösung<lb/>
+für die österreichischen Probleme in der Welt geben sollte. Er<lb/>
+meint, daß das schwedische Experiment, wo man geglaubt hat soz.<lb/>
+Aussenpolitik machen zu müssen, dazu geführt hat, daß man die<lb/>
+einen enttäuscht und die anderen verärgert hat. Nun beginnt in<lb/>
+der letzten Zeit <name type="person" ref="#per__97668">Kreisky</name> insbesondere auch über die Ideologie-<lb/>
+Diskussion und im Hinblick auf den Parteitag hat er ja bei den<lb/>
+Vorbesprechungen erklärt, auch die Aussen- und Wehrpolitik müßte<lb/>
+man unter den sozialistischen Ideologiegesichtspunkt sehen und<lb/>
+machen. Mich beunruhigt vielmehr, daß <name type="person" ref="#per__97668">Kreisky</name> natürlich,<lb/>
+da er immer mehr Agenten an sich zu ziehen glaubt, glaubt zumindestens<lb/>
+dies machen zu müssen, so überarbeitet wird und daher natürlich<lb/>
+dann mit den einzelnen Ressortministern immer mehr Reibungspunkte<lb/>
+entstehen. Diese, habe ich das Gefühl, resignieren einer nach<lb/>
+dem anderen. <name type="person" ref="#per__97632">Kirchschläger</name> meinte auch, daß die glatte Zusammen<lb break="no"/>arbeit, wie wir dies in der Minderheitsregierung gehabt haben,<lb/>
+jetzt eigentlich schön langsam doch zu Ende geht oder gegangen<lb/>
+<pb n="10-0418" facs="10_1972-03-22_0418.jpg"/>ist.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Handelskammer in Paris war ein riesiger Empfang in<lb/>
+einem herrlichen Palais, welches diese besitzt und ihren Sitz<lb/>
+hat. Gelegenheit um einige bedeutende Persönlichkeiten kennenzu<lb break="no"/>lernen. Das Patronat ist zwar so wie bei uns als Industriellen<lb break="no"/>vereinigung eine eigene Organisation, hat aber politisch<lb/>
+dort mehr zu reden. Die Handelskammer dürfte aber die reichere<lb/>
+Organisation sein. Ich hatte ausdrücklich die Bundeshandelskammer<lb/>
+ersucht, man möge mir ein Papier mitgeben, das ich dem Präsidenten<lb/>
+der Handelskammer überreichen wollte. Ich hätte dies dann dazu<lb/>
+benützt, um zu erklären, da auch die Handelskammer in Österreich<lb/>
+sich über die Integrationsprobleme, die und die Vorstellungen<lb/>
+gemacht hat und ich niemals Leiter der Bruderorganisation bitten<lb/>
+würde, daß er dies berücksichtigt und auf die franz. Regierung<lb/>
+Einfluß nimmt. Leider hat mir der österr. Außenhandelsstellen<lb break="no"/>leiter erklärt, daß ein solches Papier von ihm nicht vorbereitet<lb/>
+werden konnte. Er hat zwar unser <choice><choice><sic>premer moria</sic><corr>Premier mémoire?</corr></choice></choice>, das sie <name type="person" ref="#per__114486">Giscard</name><lb/>
+und anderen überreichten, sehr gut glaube ich übersetzt und damit<lb/>
+gute Arbeit geleistet hat, aber von Brüssel, wie er sich ausdrückt,<lb/>
+ausdrücklich eine Weisung von Dr. <name type="person" ref="#per__97474">Gleissner</name>, der sich bei der Be<lb break="no"/>sprechung dort aufhielt, bekommen, kein Papier vorzubereiten. Dies<lb/>
+passte mir wieder sehr in meine Verhandlungstaktik. Wenn nämlich<lb/>
+einmal die Handelskammer mich anschießen sollte, werde ich erklären,<lb/>
+daß sie sich nicht einmal zu einer so notwendigen Schritt aufgerafft<lb/>
+haben. Auf der einen Seite erwarten sie, daß wir große Erfolge er<lb break="no"/>zielen, auf der anderen Seite können oder wollen sie ihre Bruder<lb break="no"/>organisationen nicht mobilisieren. Dies ist ein 2. gutes Beispiels<lb/>
+des mehr oder minder zumindestens optischen Verfahrens der Handels<lb break="no"/>kammer. Auch die Industriellenvereinigung, <name type="person" ref="#per__97731">Mautner Markhof</name>, hat seiner<lb break="no"/>zeit erklärt, er wird nach Paris fahren, um das Patronat zu beein<lb break="no"/>flußen. Ich habe ihn einige Male urgiert und er hat mir dann schriftl.<lb/>
+sogar bestätigt, daß infolge der innerösterreichischen Schwierigkeit<lb/>
+sich seine eigenen Leute ihm nicht die notwendige Ermächtigung ge<lb break="no"/>geben, dieser Schritt nicht getan werden könne. Jetzt hat die Handels<lb break="no"/>kammer eine gute Gelegenheit vorübergehen lassen, um ihre Wünsche<lb/>
+durch mich dort deponieren zu lassen.<lb/>
+</p>
+            <pb n="10-0419" facs="10_1972-03-22_0419.jpg"/>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="#per__97646">KOPPE</name>:<lb/>
+Ich lege Dir, vielleicht aus taktischen Gründen brauchbar, die<lb/>
+beiden Tischreden bei.<lb/>
+</p>
+            <p xml:space="preserve">Vom verhandlungstechnischen Standpunkt war nur noch wichtig, daß<lb/>
+ich auf einer Flugreise von Grenoble bis Paris Gelegenheit<lb/>
+hatte, den Industrieminister <name type="person" ref="#per__139772">Ortoli</name> zu sprechen. Auch diesem über<lb break="no"/>reichte ich das Memorandum und besprach einzelne Teile mit ihm.<lb/>
+Da ich vorher bereits in Grenoble von seinem Referenten <name type="person" ref="#per__139824">Kergal<lb/>
+Allin</name> begleitet wurde, hatte ich diesem auch ein Memorandum ge<lb break="no"/>geben und auch hier Detailunterhaltungen geführt. <name type="person" ref="#per__139824">Kergal</name> erklärte<lb/>
+mir, daß der Hauptwiderstand nicht ausschließlich vom Patronat,<lb/>
+sondern wahrscheinlich eher von den Gewerkschaften kommt. Er<lb/>
+selbst als Industrieleiter sei nur für Papier z.B. in den Elaborat<add>[?]</add><lb/>
+zuständig und für diesen Fall gilt, was wir schon wußten, daß<lb/>
+nämlich Schweden und Finnland für sie eine große Gefahr aber auch<lb/>
+für Deutschland ganz besonders, bedeutet. Aus diesem Grunde würde<lb/>
+die Arbeiterschaft in Frankreich gegen eine Lockerung der schon<lb/>
+jetzt, wie er meinte, unzureichenden Schutzmaßnahmen, schärfstens<lb/>
+protestieren. <name type="person" ref="#per__139772">Ortoli</name> zog dann seinen Referenten zur Besprechung<lb/>
+zu. Detailerklärungen hat er natürlich nicht abgegeben. Da Bot<lb break="no"/>schafter <name type="person" ref="#per__138758">Lemberger</name> als Dolmetscher fungierte, erklärte sich dieser<lb/>
+mir gegenüber bereit, nach einiger Zeit mit <name type="person" ref="#per__139772">Ortoli</name> neuerdings zu<lb break="no"/>sammenzukommen, um das Problem zu besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Ich glaube, daß wir auf dieser Reise optisch zumindestens das<lb/>
+Maximum herausgeholt haben. Wir haben mit allen bedeutenden<lb/>
+Ministern und mit dem Ministerpräsidenten der Republik über Inte<lb break="no"/>grationsprobleme gesprochen und auf österreichische Wünsche auf<lb break="no"/>merksam gemacht. Wir haben zwar keine konkreten Zusagen erhalten,<lb/>
+aber sowie <name type="person" ref="#per__114486">Giscard</name> als auch die anderen versicherten, daß sie<lb/>
+jetzt mehr Verständnis für die österreichische Frage hätten.<lb/>
+Sicherlich war ja keine andere Möglichkeit so günstig gewesen,<lb/>
+die Minister mit dieser Frage so eingehend zu befassen. Einen<lb/>
+großen positiven Einfluß erwarte ich mir aber kaum, da ihnen<lb/>
+natürlich die internen Probleme auf den Nägeln brennen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__139824">
+               <persName type="label">Kergal, A</persName>
+               <persName><surname>Kergal</surname><forename>A</forename></persName>
+               <occupation>[Referent des franz. Industrieministers, 1972; einmal als Kergan Allin,
+                  dann nur Kergal genannt - ev. Doppelname?; den Namen Kergal gibt es; vorerst nicht
+                  weiter gesucht]</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__139812">
+               <persName type="label">Ender, Berndt</persName>
+               <persName><surname>Ender</surname><forename>Berndt</forename></persName>
+               <occupation>Journalist, AZ</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__133398">
+               <persName type="label">Mahr, Hans</persName>
+               <persName><surname>Mahr</surname><forename>Hans</forename></persName>
+               <occupation>Kronen-Zeitung</occupation>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+            </person>
+            <person xml:id="per__139815">
+               <persName type="label">Winkwarter, A</persName>
+               <persName><surname>Winkwarter</surname><forename>A</forename></persName>
+               <occupation>Journalist, APA [1972, so nicht gefunden, ev. Tippfehler und er heißt
+                  vielleicht Winiwarter?]</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__97474">
+               <persName type="label">Gleißner, Friedrich</persName>
+               <persName><surname>Gleißner</surname><forename>Friedrich</forename></persName>
+               <occupation>Leiter Abt. Handelspol./Außenhandel BWK</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710723.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711004.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711013.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711016.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720407.xml"/>
+            </person>
+            <person xml:id="per__97632">
+               <persName type="label">Kirchschläger, Rudolf</persName>
+               <persName><surname>Kirchschläger</surname><forename>Rudolf</forename></persName>
+               <occupation>Außenminister, Bundespräsident</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118723189</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810311.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810521.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810609.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810710.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+            </person>
+            <person xml:id="per__139470">
+               <persName type="label">Chaban-Delmas, Jacques</persName>
+               <persName><surname>Chaban-Delmas</surname><forename>Jacques</forename></persName>
+               <occupation>frz. Politiker</occupation>
+               <ptr type="mentioned" target="#staribacher__19720228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+            </person>
+            <person xml:id="per__114486">
+               <persName type="label">Giscard D'estaing, Valéry</persName>
+               <persName><surname>Giscard D'estaing</surname><forename>Valéry</forename></persName>
+               <occupation>frz. Staatspräs.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710606.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720411.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780710.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780712.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800520.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800723.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810428.xml"/>
+            </person>
+            <person xml:id="per__139771">
+               <persName type="label">Schumann, Maurice</persName>
+               <persName><surname>Schumann</surname><forename>Maurice</forename></persName>
+               <occupation>frz. Außenmin. bis 1973</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+            </person>
+            <person xml:id="per__139816">
+               <persName type="label">Arton, A</persName>
+               <persName><surname>Arton</surname><forename>A</forename></persName>
+               <occupation>Journalist, Die Presse [1972, so nicht gefunden]</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__139810">
+               <persName type="label">Habig, A</persName>
+               <persName><surname>Habig</surname><forename>A</forename></persName>
+               <occupation>Journalist, Süd-Ost-Tageszeitung</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__139805">
+               <persName type="label">Arramon, A</persName>
+               <persName><surname>Arramon</surname><forename>A</forename></persName>
+               <occupation>[unklar; lt. JS Regierungssprecher; Staatsbesuch 1972; der
+                  Regierungssprecher lt. Wikipedia hieß Jean-Philippe Lecat, es gab einen Sts. Léo
+                  Hamon (schon in der Datenbank), der vielleicht gemeint ist?]</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__139817">
+               <persName type="label">Hamminger, B</persName>
+               <persName><surname>Hamminger</surname><forename>B</forename></persName>
+               <occupation>Journalist, Neue Zeit [1972, so nicht gefunden]</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__139804">
+               <persName type="label">Obletta, A</persName>
+               <persName><surname>Obletta</surname><forename>A</forename></persName>
+               <occupation>[unklar; franz. Politiker oder Industrievertreter beim Staatsbesuch in
+                  Paris 1972]</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__139818">
+               <persName type="label">Zilcher, Heinrich</persName>
+               <persName><surname>Zilcher</surname><forename>Heinrich</forename></persName>
+               <occupation>Journalist, OÖ Nachrichten</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__138758">
+               <persName type="label">Lemberger, Ernst</persName>
+               <persName><surname>Lemberger</surname><forename>Ernst</forename></persName>
+               <occupation>österr. Botschafter in Paris</occupation>
+               <ptr type="mentioned" target="#staribacher__19711122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720410.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+            </person>
+            <person xml:id="per__139802">
+               <persName type="label">Montet, Jean</persName>
+               <persName><surname>Montet</surname><forename>Jean</forename></persName>
+               <occupation>GD Fa. Rhône-Progil, Vertr. frz. Unternehmerverb. CNPF [Staatsbesuch
+                  Paris März 1972; lt. JS frz. GD des Patronats; soll anschließend mit der IV nach
+                  Wien kommen]</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+            </person>
+            <person xml:id="per__138749">
+               <persName type="label">Klima, Arnold</persName>
+               <persName><surname>Klima</surname><forename>Arnold</forename></persName>
+               <occupation>Journalist, Kurier</occupation>
+               <ptr type="mentioned" target="#staribacher__19711115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__137288">
+               <persName type="label">Christian, Gerold</persName>
+               <persName><surname>Christian</surname><forename>Gerold</forename></persName>
+               <occupation>Salzburger Nachrichten</occupation>
+               <ptr type="mentioned" target="#staribacher__19710630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__97731">
+               <persName type="label">Mautner Markhof, Manfred sen.</persName>
+               <persName><surname>Mautner Markhof</surname><forename>Manfred
+                  sen.</forename></persName>
+               <occupation>u.a. Präs. ÖAMTC, Wr. Messe, bis 1972 Vizepräs. IV</occupation>
+               <ptr type="mentioned" target="#staribacher__19710215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710722.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711001.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780622.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800418.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800906.xml"/>
+            </person>
+            <person xml:id="per__139807">
+               <persName type="label">Stalnig, A</persName>
+               <persName><surname>Stalnig</surname><forename>A</forename></persName>
+               <occupation>[unklar; Staatsbesuch 1972 in Paris; Stalnig habe die Presse dort nur
+                  sehr sporadisch betreut]</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__97646">
+               <persName type="label">Koppe, Fritz</persName>
+               <persName><surname>Koppe</surname><forename>Fritz</forename></persName>
+               <occupation>Sekr. JS, ab 1973 GF VKI</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__97668">
+               <persName type="label">Kreisky, Bruno</persName>
+               <persName><surname>Kreisky</surname><forename>Bruno</forename></persName>
+               <occupation>Bundeskanzler</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118566512</idno>
+               <ptr type="mentioned" target="#staribacher__19700423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__108322">
+               <persName type="label">Meisl, Josef</persName>
+               <persName><surname>Meisl</surname><forename>Josef</forename></persName>
+               <occupation>Ministerialrat, Leiter Grundsatzabteilung</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810923.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811009.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811021.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811024.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+            </person>
+            <person xml:id="per__122298">
+               <persName type="label">Weißenberger, Herbert</persName>
+               <persName><surname>Weißenberger</surname><forename>Herbert</forename></persName>
+               <occupation>erst Kleine Zeitung, dann ORF</occupation>
+               <ptr type="mentioned" target="#staribacher__19710630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810804.xml"/>
+            </person>
+            <person xml:id="per__139819">
+               <persName type="label">Fluch, A</persName>
+               <persName><surname>Fluch</surname><forename>A</forename></persName>
+               <occupation>Journalist, Wiener Zeitung [1972, Vorname ev. Harald, aber Google-Snippet
+                  nicht sicher]</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+            </person>
+            <person xml:id="per__139772">
+               <persName type="label">Ortoli, François-Xavier</persName>
+               <persName><surname>Ortoli</surname><forename>François-Xavier</forename></persName>
+               <occupation>frz. Minister bis 1972, ab 1973 EG-Kommission</occupation>
+               <ptr type="mentioned" target="#staribacher__19720322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

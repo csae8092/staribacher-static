@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701212.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701211.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701213.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 12. Dezember 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-12-12</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-12-12">Samstag, 12. Dezember 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0911" facs="03_1970-12-12_0911.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-12-12">Samstag, 12. Dezember 1970</date>
+            </dateline>
+            <p xml:space="preserve">Der Arbeitersamariterbund hat mit einer Fahrschule eine Vereinbarung<lb/>
+und hält dort Erste-Hilfe-Kurse ab. Dem 2.000 Besucher dieser Erste-<lb/>
+Hilfe-Kurse sollte ich eine Apotheke mit einigen Dankesworten über<lb break="no"/>reichen. Die Fahrschule liegt in der Grossen-Mohrengasse und benützt<lb/>
+den Arbeitersamariterbund zweifelsohne und insbesondere meine Anwesen<lb break="no"/>heit, um Reklame für sich selbst zu machen. Andererseits aber wieder<lb/>
+ist es wirklich eine aufopfernde Tätigkeit dieser Fahrschule, Räume<lb/>
+und vor allem Fahrschülermaterial für eine solche Ausbildung zur<lb/>
+Verfügung zu stellen. Das Experiment ist – wie mir Primarius <name type="person">Kugler</name>,<lb/>
+das ist der ärztliche Leiter und Betreuer dieser Aktion gesagt hat,<lb/>
+sehr ermutigend. An Hand von einer Gummipuppe – ich konnte mich<lb/>
+selbst davon überzeugen, wird Erste Hilfe, künstliche Beatmung und<lb/>
+Mund zu Mund-Beatmung und Herzmassage usw. demonstriert. Erfahrungen<lb/>
+aus Deutschland haben gezeigt, dass nur eine solche Demonstration einen<lb/>
+Sinn hat. Erklärungen und ausschliesslich nur theoretische Unterweisun<lb break="no"/>gen werden von den Leuten sehr schnell wieder vollkommen vergessen.<lb/>
+Ing. <name type="person" ref="#per__149011">Proksch</name> der Leiter des Arbeitersamariterbundes Wien, ersuchte<lb/>
+und machte darauf aufmerksam, dass das Sozialministerium einen diesbe<lb break="no"/>züglichen Gesetzentwurf jetzt ausarbeitet. Im Kraftfahrgesetz gehört<lb/>
+seiner Meinung vorgesehen, dass jeder Kraftfahrzeugführer-Prüfling<lb/>
+einen Erste-Hilfe-Kurs absolvieren müsste. Da ich gerade am Vortage<lb/>
+einen wirklich schweren Unfall selbst erleben konnte und wie ich<lb/>
+glaube dort eindeutig demonstriert wurde, wie wichtig eine Erste<lb/>
+Hilfe bis zum Eintreffen der Rettung ist, wäre es sicherlich zielfüh<lb break="no"/>rend, einen solche gesetzliche Bestimmung zu schaffen. Anstelle dass<lb/>
+der Prüfling noch immer viel zu viel Ballast über technische Details,<lb/>
+ja sogar auch über Strassenverkehrsprobleme wissen muss, ist es ziel<lb break="no"/>führender, eine wirklich schnelle Hilfe ihm einmal vorzudemonstrieren.</p>
+         </div>
+      </body>
+      <back/></text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19790501.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19790430.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19790502.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  1. Mai 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band48_1979-05-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-05-01">Dienstag, 1. Mai 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-08-01">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="48-0502" facs="48_1979-05-01_0502.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 1. Mai 1979<lb/>
+</p>
+            <p xml:space="preserve">Die Maifeier am Rathausplatz war im wahrsten Sinne des Wortes<lb/>
+ins Wasser gefallen. Es regnete bei den Anmarsch der Bezirke<lb/>
+wirklich sehr stark und vor allem war die Kälte sehr unangenehm.<lb/>
+Dies bemerkte ich ganz besonders auf der Tribüne am Rathausplatz.<lb/>
+Trotzdem waren meiner Meinung nach sehr viele Teilnehmer erschienen.<lb/>
+Dies erkläre ich dadurch, dass erstens doch einige wegen des<lb/>
+Schlechtwetters nicht weggefahren sind, andererseits aber erscheint<lb/>
+natürlich eine Teilnahme bei Schlechtwetter noch imponierender<lb/>
+als wenn die Sonne scheint.<lb/>
+</p>
+            <p xml:space="preserve">Die Mai-Kundgebung in Hausbrunn an der tschechischen Grenze war<lb/>
+sehr gut besucht. Für diese kleine Ortschaft war wirklich alles<lb/>
+gekommen, was irgendwie mit den Sozialisten sympathisiert.<lb/>
+</p>
+            <p xml:space="preserve">Sehr beeindruckt war ich eigentlich dann von den Veranstaltungen<lb/>
+der Wiener Organisation in der Innenstadt. An 3 Stellen, Graben,<lb/>
+Stock im Eisen und insbesondere bei der Oper, Fussgängerzone,<lb/>
+hatte ich Gelegenheit nicht nur kurze Ansprachen zu halten,<lb/>
+sondern vor einem wirklich interessierten Publikum Wahlreden<lb/>
+zu halten. Dass ich diese aktuell bezogen und mit entsprechende,<lb/>
+Gags versehen habe, war ganz klar. Ich forderte auch überall die<lb/>
+Leute auf zur Diskussion. Interessanterweise ist es nur dort<lb/>
+geglückt, wo die Landstrasse die Betreuung übernommen hat, nämlich<lb/>
+bei der Oper. Dort kamen teils unsere Leute und diskutierten mit<lb/>
+teils aber haben sich auch wirklich Gegner, resp. zumindest kri<lb break="no"/>tisch interessierte, zu Wort gemeldet. Die beiden anderen Ver<lb break="no"/>anstaltungen am Vogelweidplatz vor der Stadthalle und in Oberlaa<lb/>
+im Kurpark, sind im wahrsten Sinne des Wortes ins Wasser gefallen.<lb/>
+Schön langsam beginnt aber jetzt die Wiener Organisation auf<lb/>
+Hochtouren zu laufen. Ob und inwieweit die Wähler sich davon beein<lb break="no"/>drucken lassen, wird sich am Sonntag zeigen. Die Funktionäre<lb/>
+wurden dadurch aktiviert. Selbst bei Schlechtwetter haben sie sich<lb/>
+zur Verfügung gestellt, was sicherlich eine gigantische Leistung ist.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back/></text>
+</TEI>

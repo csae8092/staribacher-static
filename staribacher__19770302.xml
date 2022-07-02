@@ -1,0 +1,597 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19770302.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19770301.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19770303.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  2. März 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band35_1977-03-02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-03-02">Mittwoch, 2. März 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-04-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="35-0255" facs="35_1977-03-02_0255.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Mittwoch, 2. März 1977<lb/>
+</p>
+            <p xml:space="preserve">In der Beiratssitzung bei der BÜRGES wurde der einstimmige Beschluss<lb/>
+gefasst, die Kreditzinsenobergrenze 9 % auf 8.5 % zu senken. Die Kredit<lb break="no"/>sektion in der Handelskammer wollte unbedingt 8 3/4 % und oder zumindestens<lb/>
+eine Gleitklausel nach den Bundesanleihen, die sich zwischen<lb/>
+8 bis 10 % bewegen sollte. Derzeit wäre sie 8.75 %. <name type="person" ref="#per__125298">Kopecky</name><lb/>
+der Handelskammervertreter trat dafür ein, doch konnte ich ihn<lb/>
+davon überzeugen, dass <name type="person" ref="#per__97893">Sallinger</name> und <name type="person" ref="#per__97769">Mussil</name> für die 8.5 % votiert<lb/>
+hatten. Das Teilproblem war, ob für die volle Laufzeit diese<lb/>
+8.5 % verpflichtend sein sollten, oder nur für die Zeit der<lb/>
+Zinsenzuschussgewährung 5 resp. 7.5 Jahre. Laut Kreditvertrag<lb/>
+haben die meisten Unternehmungen eine Klausel mit den Kreditinsti<lb break="no"/>tuten, dass sich die Zinssätze ändern können sobald der Zinszu<lb break="no"/>schuss entfällt, beginnen dann die Kreditinstitute höhere Zinsen<lb/>
+zu verlangen. <name type="person" ref="#per__97584">Jagoda</name> wird sich dieses Problem genau ansehen und<lb/>
+vor allem die BÜRGES wird bei der Einreichung die Verträge genauer<lb/>
+kontrollieren. Ich bin davon allerdings überzeugt, dass die Kre<lb break="no"/>ditinstitute, wenn unser Zinsenzuschuss aufhört sofort dann ihre<lb/>
+höheren Zinssätze versuchen zu verrechnen.<lb/>
+</p>
+            <p xml:space="preserve">Die Einreichungen bei der BÜRGES steigen ständig, obwohl wir<lb/>
+bereits 1976 eine gigantische Steigerung gehabt haben werden<lb/>
+jetzt in den ersten zwei Monaten in diesem Jahr bereits wieder<lb/>
+um 1/3 mehr Anträge gestellt. Diese Entwicklung und vor allem<lb/>
+den Erfolg, dass wir die Kreditobergrenze herabsetzten, sollten<lb/>
+wir, wenn die Zeitungen bis dahin nicht irgendetwas schreiben,<lb/>
+nächste Woche beim Pressefrühstück berichten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__98072">WIESINGER</name>: <name type="person" ref="#per__111699">Puffler</name> verständigen, damit er BÜRGES<lb/>
+einlädt.<lb/>
+</p>
+            <p xml:space="preserve">Die grossen EVUs als Errichter von Grosskraftwerken haben einen<lb/>
+eigenen Verein. Dieser hält in Wien eine Tagung ab. Ich sagte zu,<lb/>
+dort eine Einleitungs- resp. Begrüssungsansprache zu halten. Bei<lb/>
+der Vorsprache <name type="person" ref="#per__116707">Janitschek</name> machte ich diesen neuerdings darauf<lb/>
+aufmerksam, dass bezüglich der Zwischenlagerung und Entsorgung von<lb/>
+Brennstäben und Atommüll die KKWP und die GKT nach meinen Begriffen<lb/>
+viel zu langsam dieses Problem bearbeiten. Durch die Konstruktion<lb/>
+der verschiedensten Gesellschaften, <choice><choice><sic>Atomstörungsgesellschaft</sic><corr>Atomstudiengesellschaft, ÖSGAE?</corr></choice></choice><lb/>
+KKW-Planungsgesellschaft, Gemeinschaftskraftwerk Tullnerfeld, d.h.<lb/>
+</p>
+            <pb n="35-0256" facs="35_1977-03-02_0256.jpg"/>
+            <p xml:space="preserve">die Betriebsgesellschaft in Zwentendorf baut und betreiben wird,<lb/>
+sind verschiedenste Probleme bei verschiedensten Gesellschaften<lb/>
+anhängig, werden knapp oder viel zu langsam koordiniert und des<lb break="no"/>halb geht meiner Meinung nach nichts weiter. Ich sehe schon den<lb/>
+Zeitpunkt kommen, wo zwar mit jahrelanger Verspätung das KKW fertig<lb/>
+ist und die Betriebsgenehmigung fraglich sein wird, weil die ent<lb break="no"/>sprechenden Endlagerungsfragen nicht geklärt sind. Ich gebe zu,<lb/>
+dass ständig immer neue Lösungen auch weltweit immer gesucht<lb/>
+und gefunden werden, wie z.B. jetzt wieder die Versinterung und<lb/>
+Verwertung der eventuell nicht mehr wieder aufgearbeiteten abge<lb break="no"/>brannten Brennstäbe durch ASEA neue Lösungen anbieten. Wenn aber<lb/>
+die Physiker und Techniker damit rechnen, dass dadurch vielleicht<lb/>
+bis zu den Zeitpunkt wo bei uns die Brennstäbe anfallen werden<lb/>
+auch schon neue Methoden angewendet werden können, so kann diese<lb/>
+Überlegung einmal nicht aufgeben. Die Politiker resp. die Be<lb break="no"/>hörden werden sich mit vagen Zusagen nicht zufrieden geben und<lb/>
+es kann dann leicht passieren, dass keine endgültige Betriebsge<lb break="no"/>nehmigung vom Gesundheitsministerium gegeben wird, oder der Landes<lb break="no"/>hauptmann die Müllendlagerung und Brennstoffzwischenlagerung nicht<lb/>
+genehmigt.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__98040">WAIS</name>: Bitte überall diese Gefahr innerhalb der Elek<lb break="no"/>trizitätswirtschaft aufzeigen.<lb/>
+</p>
+            <p xml:space="preserve">Die Firma Auer ein Waffelerzeuger, der in der Ersten Republik<lb/>
+und dann auch noch nach dem zweiten Weltkrieg eine ganze Reihe<lb/>
+von Produkten erzeugt hat, wird jetzt durch den Sohn, Ing. <name type="person" ref="#per__146156">Auer</name>,<lb/>
+geführt. Dieser hat zum Unterschied von seinem Vater sofort<lb/>
+erkannt, dass er nur den harten Konkurrenzkampf bestehen kann,<lb/>
+wenn er Spezialprodukte erzeugt. Zu diesem Zweck hat er sich jetzt<lb/>
+primär auf die Eiswaffeln und Hohlrippen sowie auf Auer-Schnitten<lb/>
+verlegt. Durch neue Maschinen und eben die von mir eröffnete neue<lb/>
+Backstrasse hofft er konkurrenzfähig zu bleiben. Der Vizepräsident<lb/>
+der Wirtschaftsprüfer, der auch <name type="person" ref="#per__146156">Auer</name> betreut, sagte mir dann unter<lb/>
+sechs Augen, dass Ing. <name type="person" ref="#per__146156">Auer</name> auch finanziell verhältnismässig gut<lb/>
+dasteht. Er meinte, hätten wir nur recht viele so junge, kleine<lb/>
+aber doch äussertst progressive Unternehmer. Eine Pressevertreterin<lb/>
+fragte mich, warum ich überhaupt in den Betrieb gekommen bin, diese<lb/>
+Backstrasse zu eröffnen. Ich konnte bei dieser Gelegenheit darauf<lb/>
+hinweisen, dass ich damit beweisen will, wie tüchtig kleine und<lb/>
+<pb n="35-0257" facs="35_1977-03-02_0257.jpg"/>mittlere Betriebe sein können, da sie sich gegen die grossen<lb/>
+durchsetzen müssen und auch tatsächlich behaupten können-Immer<lb/>
+wieder kann und will ich demonstrieren, dass sozial eingestellte<lb/>
+Unternehmer trotz der schweren Belastungen, denen auch sie ausge<lb break="no"/>setzt sind, bei tüchtiger Geschäftsführung sich gegen die grossen<lb/>
+behaupten können.<lb/>
+</p>
+            <p xml:space="preserve">Gen.Dir. <name type="person" ref="#per__97644">Koller</name> sieht innerhalb der Handelskammer eine grosse Gefahr,<lb/>
+dass der Schrottverband die Verteilung des anfallenden Schrottes<lb/>
+in Hinkunft nur mehr formell durchführen dürfte. Die Handelskammer<lb/>
+insbesondere die Händlerkreise wünschen, dass dies die Bürokratie<lb/>
+der Handelskammer übernimmt mit anderen Worten, die Händlerinteres<lb break="no"/>sen stärker berücksichtigt werden. Dies würde zu einem entsprechen<lb break="no"/>den Export führen. Die österr. Stahlindustrie müsste höhere Preise<lb/>
+für den Schrott dann bezahlen. <name type="person" ref="#per__98053">Wanke</name> und ich versprachen <name type="person" ref="#per__97644">Koller</name>,<lb/>
+dass wir versuchen werden, das jetzige System, d.h. den Schrott<lb break="no"/>verband nicht nur formell, sondern de facto tatsächlich die Ver<lb break="no"/>teilung vornehmen zu lassen, beibehalten wollen.Wenn allerdings<lb/>
+ein Händler oder die Handelskammer zum Verwaltungsgerichtshof geht,<lb/>
+dass wird unsere Anordnungsbefugnis mangels einer guten gesetzlichen<lb/>
+Grundlage sofort aufgehoben. Die neuen Bestimmungen in einem um<lb break="no"/>fassenden Rohstoffgesetz sollen das unzulängliche Rohstoff<lb break="no"/>lenkungsgesetz ersetzen. Ob und inwieweit die Handelskammer hier<lb/>
+zustimmen wird, werden erst die Verhandlungen ergeben. Bis dorthin<lb/>
+hoffen wir, dass wir die jetzige Regelung aufrechterhalten können.<lb/>
+<name type="person" ref="#per__97644">Koller</name> war mit meiner Stellungnahme sehr einverstanden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="#per__97644">Koller</name> erzählte mir bei dieser Gelegenheit, dass es grosse Schwie<lb break="no"/>rigkeiten gibt in der Bestellung des neuen Vorstandes der VÖEST.<lb/>
+Alpine. Durch Einzelpersonen, die entweder jetzt schon bestimmt<lb/>
+sind, wie z.B. <name type="person" ref="#per__132462">Juvancic</name> von der Steiermark oder den gewünschten<lb/>
+<name type="person" ref="#per__141268">Plattner</name>, vom Betriebsratsobmann <name type="person" ref="#per__114138">Brauneis</name> unterstützt, für den Ver<lb break="no"/>kauf, kann die beabsichtigte divisionale Gliederung des Vorstandes<lb/>
+nicht mehr lupenrein durchgeführt werden. <name type="person" ref="#per__97644">Koller</name> erzählt mir, wie<lb/>
+er trotz seiner jahrzehntelangen Tätigkeit in der VÖEST und vor<lb/>
+allem jetzt als neuer Generaldirektor der VAL mit ungeheuren Auto<lb break="no"/>rität selbst die grössten Schwierigkeiten hat, die Kooperation<lb/>
+zwischen den einzelnen Abteilungen herbeizuführen. Immer wieder<lb/>
+wird nur gestritten, Komitees eingesetzt, jeder ist auf seine Kom<lb break="no"/>petenz bedacht, spricht nicht mit den anderen, erledigt andererseits<lb/>
+<pb n="35-0258" facs="35_1977-03-02_0258.jpg"/>auch nichts expeditiv genug und delegiert letzten Endes dann<lb/>
+alles auf den Vorstand und in weiterer Folge an den Generaldirektor.<lb/>
+<name type="person" ref="#per__97644">Koller</name> fürchtet nun, dass wenn es zu keiner divisionalen Gliederung<lb/>
+des Vorstandes kommt, <name type="person" ref="#per__97315">Apfalter</name> es sehr schwer haben muss und<lb/>
+wird. Zu diesem Zweck möchte er, dass <name type="person" ref="#per__97315">Apfalter</name> als Generaldirektor<lb/>
+des gesamt Marketing hat, mit einer zentralen Lenkung auch des<lb/>
+Verkaufes. Vielleicht macht sich <name type="person" ref="#per__97644">Koller</name> hier umsonst ein zu grosses<lb/>
+Problem, wenn er im Juli ausscheidet, wird <name type="person" ref="#per__97315">Apfalter</name>, wie immer<lb/>
+jetzt die Entscheidung fällt, davon bin ich überzeugt sich in diesem<lb/>
+<choice><choice><sic>Voratdn</sic><corr>Vorstand?</corr></choice></choice> schon durchsetzen. Diese Aussprache hat mir nur wieder<lb/>
+einmal mehr bestätigt, wie schwer es ist, grössere Menschenmassen<lb/>
+zu führen, ganz egal ob es sich um ein Ministerium, um eine Kammer<lb/>
+oder um einen Privatbetrieb handelt. Wenn dieser dann noch ver<lb break="no"/>staatlicht ist, wird es nicht leichter, sondern wahrscheinlich<lb/>
+schwerer. Immer und überall kommt es auf die Person, aber nicht<lb/>
+zuletzt auch auf die Organisationsform an, die diese Person, die<lb/>
+letzten Endes als einzelner die Verantwortung trägt, imstande ist<lb/>
+durchzusetzen.<lb/>
+</p>
+            <p xml:space="preserve">Die Kremser Genossen hatten die Idee im Wahlkampf durch<lb/>
+eine neue Art der Werbung zu unterstützen. Nicht mehr Parteiver<lb break="no"/>sammlung, sondern öffentliche Diskussion in Form eines Stammtisches<lb/>
+Besuch von Betrieben und auch von Fussgängerzonen. Natürlich war<lb/>
+ich sofort dazu bereit und habe sie in dieser Beziehung, sowie un<lb break="no"/>längst St. Pölten jetzt in Krems für ihre Gemeinderatswahl im<lb/>
+Oktober mich zur Verfügung gestellt. Zuerst sollte ich die Hütte<lb/>
+Krems besuchen, doch dort hat mir der Generaldirektor dann frei<lb break="no"/>mütigst, als ich ganz kurz nur durchgefahren bin, zugegeben, dass<lb/>
+ungeheuer viel Sozialisten dort beschäftigt sind. Von 10 Betriebs<lb break="no"/>räten der Angestellten sind 9 Sozialisten und von 20 Betriebsräten<lb/>
+der Arbeiter sind 18 Sozialisten. Vizebürgermeister Dr. <name type="person" ref="#per__113387">Preiss</name><lb/>
+ein Direktor des dortigen Gymnasiums hat deshalb vorgeschlagen,<lb/>
+mit Stadtrat <name type="person" ref="#per__113388">Riederer</name> den Geflügel- und Eierimporteur <name type="person" ref="#per__146157">Höllmüller</name><lb/>
+zu besuchen. Dieser hat in den letzten Jahren eine gigantische Um<lb break="no"/>satzentwicklung mitgemacht. 1976 wurde der Umsatz auf 273 Mio.<lb/>
+Schilling erhöht, eine Steigerung um 40 Mio. Schilling erreicht.<lb/>
+Bei 85 Beschäftigten eine gute Leistung. Schwierigkeiten hat jetzt<lb/>
+dieser Betrieb wie mir der Chef und ganz besonders dann der Prokurist<lb/>
+erklärte, durch die Knappheit an Betriebsmittel. Alle Möglichkeiten<lb/>
+der Verpfändung, Zession, Hypothek usw. sind schon ausgeschöpft.<lb/>
+</p>
+            <pb n="35-0259" facs="35_1977-03-02_0259.jpg"/>
+            <p xml:space="preserve">Als wir das Kühllager und die Gefrieranlagen sowie die Ostereier<lb break="no"/>färberei besichtigten, konnte man auch überall die Verpfändungshin<lb break="no"/>weise lesen. Die Giro-Zentrale wird jetzt neuerdings mit <name type="person" ref="#per__146157">Höllmüller</name><lb/>
+verhandeln, ob und inwieweit ein weiterer Kredit gegeben werden<lb/>
+kann. Ich versprach nur mit Gen.Dir.Stv. <name type="person" ref="#per__97453">Fremuth</name> über den Betrieb<lb/>
+zu sprechen. Nach meiner Methode sagte ich, wenn es nichts nützt,<lb/>
+schaden wird es sicherlich nichts. <name type="person" ref="#per__146157">Höllmüller</name> und seine Leute waren<lb/>
+sehr erstaunt, dass ich mich überhaupt bei der Bank dafür ein<lb break="no"/>setzen werde. Einen Kredit vom Handelsministerium für Betriebsmittel<lb/>
+oder gar Zinsenzuschüsse, gibt es leider nicht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__97819">PLESCH</name>: Bitte wie besprochen mit <name type="person" ref="#per__97453">Fremuth</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">In der Fußgängerzone besuchten wir verschiedenen Geschäfte,<lb/>
+u.a. ein grosse Schuhhaus, wo ich selbst überrascht war, dass in<lb/>
+Krems so grosse Schuhhäuser existieren können. Genau das Gegenteil<lb/>
+wurde mir von der Besitzerin gesagt ist der Fall. Die ganze Um<lb break="no"/>gebung, ja sogar St. Pöltner kämen nach Krems Schuhe einkaufen.<lb/>
+Das Geschäft funktioniert aber nur, weil es im Zentrum, eben in<lb/>
+der oberen Landstrasse liegt. Das Forum-Kaufhaus ist ebenfalls gut<lb/>
+gelagert, ist aber viel zu klein, obwohl es in einem sehr schönen<lb/>
+alten Haus untergebracht ist. Jetzt will Forum in Bahnhofsnähe bauen.<lb/>
+Eine Weinstube in der Fußgängerzone, die wir auch besuchten, "Schwarze<lb/>
+Küche" genannte, hat interessanterweise von 7 Uhr morgens, bis 7 Uhr<lb/>
+abends offen und Samstag nur bis 1 Uhr. Der Besitzer erklärte mir,<lb/>
+dass wenn die Geschäfte schliessen, auch sofort sein Umsatz so zu<lb break="no"/>rückgehen würde, dass ein Offenhalten ganz uninteressant wäre. Dies<lb/>
+gilt nicht jetzt nur in der schlechten Jahreszeit, sondern auch im<lb/>
+Sommer, wo doch mehrere Fremde in Krems und der Wachau sein müssen.<lb/>
+Dieser Besuch in der Fussgängerzone sagte ich den Genossen war für<lb/>
+mich sehr interessant, aber ich glaube optisch und politisch nicht<lb/>
+viel ergiebig. Besser wäre es gewesen, hätten wir in der Fuss<lb break="no"/>gängerzone eine Diskussion mit Lautsprecher und den vorübergehenden<lb/>
+Passanten gestartet, wie ich dies beim AEZ in Wien ständig mache.<lb/>
+Einige Stadträte die uns begleiteten waren für diese Idee, andere<lb/>
+wieder meinten, dies käme in Krems nicht an. Selbstverständlich<lb/>
+habe ich mich in ihre Taktik überhaupt nicht eingemischt. Die öffent<lb break="no"/>liche Diskussionsversammlung in der Sparkasse war, habe ich das<lb/>
+Gefühl ein riesen Erfolg. Der Saal war voll und nach einem Statement<lb/>
+mit einigen Wiener Schmähs aufgelockert, gab es eine stundenlange<lb/>
+<pb n="35-0260" facs="35_1977-03-02_0260.jpg"/>Diskussion. Der Handelskammervertreter beginnend mit den<lb/>
+Lehrlingsproblem zu der sogenannten Mittelstandspolitik und<lb/>
+dann Dutzende Diskussionsbeiträge und Anfragen von Unternehmer<lb/>
+über alle möglichen Probleme bis zum Gesundheitswesen und natür<lb break="no"/>lich die Beschwerde über <name type="person" ref="#per__97808">Petuely</name>. Wie Vizebürgermeister <name type="person" ref="#per__113387">Preiss</name>,<lb/>
+der diese Aussprache leitete mir nachher versicherte, waren der<lb/>
+grösste Teil Nichtgenossen, die niemals zu einer Veranstaltung<lb/>
+der Sozialisten gekommen wären. Ein Teilnehmer meinte, sein<lb/>
+Freund, auch ein Autoverkäufer hätte an der Diskussion in St. Pölten<lb/>
+auch teilgenommen und ihm sofort gesagt, es kommt nicht ein Wiener<lb/>
+Bazi, wie ich immer in der Einleitung sage, den man jetzt heftigst<lb/>
+kritisieren sollte, sondern ein schlauer Fuchs. Die Stimmung war<lb/>
+aber sehr gut, <name type="person" ref="#per__97819">Plesch</name> sagte - der hinten sass - und auch die Meinung<lb/>
+der Leute hörte, die sich nicht zum Wort meldeten, über diese Ver<lb break="no"/>anstaltung waren alle sehr angetan. Die Genossen haben in der<lb/>
+letzten Wahl sehr gut abgeschnitten, 3 Mandate dazugewonnen und<lb/>
+hoffen, dass sie diesmal stark genug werden, den Bürgermeister<lb/>
+zu stellen. Dies wäre natürlich nicht nur ein gigantischer Erfolg,<lb/>
+sondern meiner Meinung nach für die ÖVP verheerend. Ich habe es<lb/>
+nicht gesagt, aber ich dachte mir, dass dies kaum gelingen wird.<lb/>
+Die Gemeinde hat einige Mühlsteine am Hals. Das Parkhotel wird<lb/>
+mit Millionenverlusten betrieben, ein Krankenhaus, das sie jetzt<lb/>
+<choice><choice><sic>teilweise</sic><corr>?</corr></choice></choice> neu errichten müssen, wird das Gemeindebudget weiterhin<lb/>
+sehr belasten. Die finanziellen Möglichkeiten der Stadt sind also<lb/>
+sehr beschränkt. Die schwarzen Wohnbaugenossenschaften haben sich<lb/>
+dort stark eingenistet, bekommen die Gründe von den Grundbesitzern<lb/>
+wesentlich günstiger.Als der jetzige Versuch einmal zwei grosse<lb/>
+Wohnblöcke einer roten Genossenschaft dort zu errichten. Krems<lb/>
+leidet tatsächlich noch an Wohnungsmangel, weshalb die Wohnungen<lb/>
+auch sofort vergeben werden konnten. Die Hütte Krems hat ihre eige<lb break="no"/>nen Wohnungen mit ihrer Wohnungsgenossenschaft errichtet. Wenn<lb/>
+eine Chance besteht, tatsächlich noch einen weiteren Erfolg zu<lb/>
+erzielen, so sicherlich deshalb, wie Vizebürgermeister Dr. <name type="person" ref="#per__113387">Preiss</name><lb/>
+als Direktor des dortigen Gymnasiums in dieser Schulstadt natür<lb break="no"/>lich einen respektablen Spitzenkandidaten abgibt. Ich wünsche den<lb/>
+Kremsern wirklich einen vollen Erfolg und erklärte ihnen, dass ich<lb/>
+jederzeit bereit bin, gegebenenfalls sie durch meine Anwesenheit<lb/>
+neuerdings zu unterstützen, wenn sie es wollen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__113387">
+               <persName type="label">Preiß, Kurt</persName>
+               <persName><surname>Preiß</surname><forename>Kurt</forename></persName>
+               <occupation>Vizebgm. Krems</occupation>
+               <ptr type="mentioned" target="#staribacher__19710401.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780417.xml"/>
+            </person>
+            <person xml:id="per__97584">
+               <persName type="label">Jagoda, Karl</persName>
+               <persName><surname>Jagoda</surname><forename>Karl</forename></persName>
+               <occupation>Leiter Sekt. III HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811021.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811024.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            <person xml:id="per__125298">
+               <persName type="label">Kopecky, Heinrich</persName>
+               <persName><surname>Kopecky</surname><forename>Heinrich</forename></persName>
+               <occupation>HK</occupation>
+               <ptr type="mentioned" target="#staribacher__19800507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800827.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810818.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811008.xml"/>
+            </person>
+            <person xml:id="per__97453">
+               <persName type="label">Fremuth, Walter</persName>
+               <persName><surname>Fremuth</surname><forename>Walter</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/115563237</idno>
+               <ptr type="mentioned" target="#staribacher__19711123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810928.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811019.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811221.xml"/>
+            </person>
+            <person xml:id="per__113388">
+               <persName type="label">Riederer, Walter</persName>
+               <persName><surname>Riederer</surname><forename>Walter</forename></persName>
+               <occupation>Stadtrat Krems</occupation>
+               <ptr type="mentioned" target="#staribacher__19780417.xml"/>
+            </person>
+            <person xml:id="per__98072">
+               <persName type="label">Wiesinger, Anna</persName>
+               <persName><surname>Wiesinger</surname><forename>Anna</forename></persName>
+               <occupation>Büro des Bundesministers (Sekretärin)</occupation>
+               <ptr type="mentioned" target="#staribacher__19710204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800229.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800312.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800313.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800318.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800324.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800325.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800326.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800419.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800506.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800514.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800630.xml"/>
+            </person>
+            <person xml:id="per__111699">
+               <persName type="label">Puffler, Rudolf</persName>
+               <persName><surname>Puffler</surname><forename>Rudolf</forename></persName>
+               <occupation>Reg.R HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720313.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780424.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780613.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780705.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780829.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780904.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781003.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810708.xml"/>
+            </person>
+            <person xml:id="per__98053">
+               <persName type="label">Wanke, Otto</persName>
+               <persName><surname>Wanke</surname><forename>Otto</forename></persName>
+               <occupation>SChef HM</occupation>
+               <idno type="GND">http://d-nb.info/gnd/12195126X</idno>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810413.xml"/>
+            </person>
+            <person xml:id="per__132462">
+               <persName type="label">Juvancic, Hans</persName>
+               <persName><surname>Juvancic</surname><forename>Hans</forename></persName>
+               <occupation>VÖEST</occupation>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+            </person>
+            <person xml:id="per__97644">
+               <persName type="label">Koller, Herbert</persName>
+               <persName><surname>Koller</surname><forename>Herbert</forename></persName>
+               <occupation>GD VÖEST</occupation>
+               <ptr type="mentioned" target="#staribacher__19710202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710311.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710331.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710416.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720414.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801016.xml"/>
+            </person>
+            <person xml:id="per__97819">
+               <persName type="label">Pleschiutschnig, Gerhard</persName>
+               <persName><surname>Pleschiutschnig</surname><forename>Gerhard</forename></persName>
+               <occupation>Kabinett Staribacher</occupation>
+               <ptr type="mentioned" target="#staribacher__19710119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+            </person>
+            <person xml:id="per__97315">
+               <persName type="label">Apfalter, Heribert</persName>
+               <persName><surname>Apfalter</surname><forename>Heribert</forename></persName>
+               <occupation>GD VÖEST</occupation>
+               <ptr type="mentioned" target="#staribacher__19710204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810812.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810928.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811021.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+            </person>
+            <person xml:id="per__116707">
+               <persName type="label">Janitschek, Friedrich</persName>
+               <persName><surname>Janitschek</surname><forename>Friedrich</forename></persName>
+               <occupation>KKWP; evtl. ident mit Janitschek, A</occupation>
+               <ptr type="mentioned" target="#staribacher__19781019.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800827.xml"/>
+            </person>
+            <person xml:id="per__97808">
+               <persName type="label">Petuely, Friedrich</persName>
+               <persName><surname>Petuely</surname><forename>Friedrich</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780529.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800609.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810512.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810810.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+            </person>
+            <person xml:id="per__114138">
+               <persName type="label">Brauneis, Walter</persName>
+               <persName><surname>Brauneis</surname><forename>Walter</forename></persName>
+               <occupation>SPÖ-NR-Abg., GD-Stv. ÖIAG</occupation>
+               <ptr type="mentioned" target="#staribacher__19780406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810828.xml"/>
+            </person>
+            <person xml:id="per__97769">
+               <persName type="label">Mussil, Arthur</persName>
+               <persName><surname>Mussil</surname><forename>Arthur</forename></persName>
+               <occupation>Gen.Sekr. HK, ÖVP-NR-Abg., später AR-Präs. Verbund</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800826.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800909.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810402.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+            </person>
+            <person xml:id="per__98040">
+               <persName type="label">Wais, Anton</persName>
+               <persName><surname>Wais</surname><forename>Anton</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/1017902909</idno>
+               <ptr type="mentioned" target="#staribacher__19780109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780509.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780510.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780511.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780516.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780517.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780530.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780606.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780614.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780831.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801014.xml"/>
+            </person>
+            <person xml:id="per__97893">
+               <persName type="label">Sallinger, Rudolf</persName>
+               <persName><surname>Sallinger</surname><forename>Rudolf</forename></persName>
+               <occupation>Handelskammer-Präsident</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

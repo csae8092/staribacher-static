@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700523.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700522.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700525.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 23. Mai 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band01_1970-05-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-05-23">Samstag, 23. Mai 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
+      <body>
+         <pb n="01-0151" facs="01_1970-05-23_0151.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-05-23">Samstag, den 23. Mai</date>
+            </dateline>
+            <p xml:space="preserve">Mit mehr als 11.000 Mitgliedern hat er mehr als der Akademiker<lb break="no"/>bund. Als Vorfeldorganisation ist der BSA sicher von einiger Be<lb break="no"/>deutung und es ist selbstverständlich, daß ein sozialistischer<lb/>
+Minister diesem angehören sollte. Ich habe mich deshalb bereit<lb break="no"/>erklärt beizutreten – früher ist ja niemand an mich herangetreten –<lb/>
+aber gleichzeitig am Eintrittsformular festgehalten, daß ich nicht<lb/>
+beabsichtige, mich aktiv zu betätigen.<lb/>
+Am Nachmittag hatte mich <name type="person" ref="#per__97311">Androsch</name> zu sich geladen, damit wir über<lb/>
+die Budgetsituation sprechen. Ich traf bei ihm alle unsere bekannten<lb/>
+Genossen, die sich mit diesen Problemen beschäftigten, aber auch<lb/>
+zum ersten Mal den Sektionsrat <name type="person" ref="#per__146110">Blaha</name> vom Finanzministerium. Dieser<lb/>
+Mann ist zweifelsohne einer seiner tüchtigsten Beamten, gehört<lb/>
+allerdings nicht unserer Partei an - ich glaube sogar, daß er ein<lb/>
+ÖVP-Mann ist. Ich halte die Vorgangsweise fachlich hochqualifizierte<lb/>
+Beamte – auch wenn sie der Gegenseite angehören – in unsere internen<lb/>
+Besprechungskreise einzubeziehen – für zielführend und zweckmäßig,<lb/>
+allerdings muß man sich darüber klar werden, daß dies nur in einem<lb/>
+bestimmten Rahmen erfolgen kann. Zu unserem Mittagstisch, habe ich<lb/>
+entschieden, sollte – zumindesten vorläufig – kein anderer Mann<lb/>
+als wie ein sozialistischer Funktionär und Mitarbeiter herange<lb break="no"/>zogen werden.<lb/>
+Die Besprechung ergab ein an und für sich sehr düsteres Bild. Das Finanz<lb break="no"/>ministerium hat in einer Budgetvorschau, die auch zwischen <name type="person" ref="#per__146110">Blaha</name><lb/>
+und <name type="person" ref="#per__97868">Reithofer</name> von der Arbeiterkammer abgestimmt wurde, ein Budget<lb break="no"/>defizit von 47 Mia. S. für das Jahr 1971 ergeben. In diesem Budget<lb break="no"/>defizit waren für die Forschung Mehrausgaben von 400 Mio.,ebenso<lb/>
+für die Schulen Mehrausgaben von 400 Mio., für den Schutzwasserbau<lb/>
+250 Mio. Mehrausgaben, für die Inntalautobahn 300 Mio. eingesetzt<lb/>
+(die Inntalautobahnrate wird allerdings im Jahre 1971 fällig, da<lb/>
+es sich nur um eine Vorleistung für bereits abgeschlossene Verträge<lb/>
+handelt) und aus der restlichen Wehrmilliarde wären noch 460 Mio.<lb/>
+aufzubringen. Dies ergäbe einen Mehraufwand von 940 Mio. gegenüber<lb/>
+dem jetzigen rechlichen Stand. Wenn man dazu noch die 800 Mio., die<lb/>
+die 4 %ige Preissteigerung im Sachaufwand dazurechnet, so könnten<lb/>
+ungefähr von den 47 Milliarden 1,7 Mia. eingespart werden, das<lb/>
+heißt, es würden ca. 45 Mia. Defizit echt verbleiben. Dazu käme,<lb/>
+daß ca. 3 Mia. <name type="person" ref="#per__97311">Androsch</name> für Investitionen, von denen er glaubt sie müßten<lb/>
+unbedingt gemacht werden und die entsprechende Progressionsmilderung<lb/>
+bei der Steuer, in Vorschlag gebracht werden, sodaß ein Gesamtdefizit<lb/>
+neuerdings von 48 Mia. S. zu bedecken wäre. Wenn die Sonderausgaben,<lb/>
+<pb n="01-0152" facs="01_1970-05-23_0152.jpg"/>die mit Jahresende 1970 auslaufen, verlängert werden ergibt das<lb/>
+ca. 2,7 Mia. S. 10 %iger Zuschlag von der Einkommensteuer und der<lb/>
+Lohnsteuer bringt im Jahr 1970 2,040 Mia.,die Vermögenssteuer<lb/>
+460 Mio. insgesamt also im Jahre 1970 2,5 Mia.,mit der Aufwertung<lb/>
+würden das 1971 2,7 Mia. S. sein. Für die Sozialversicherungsträger<lb/>
+müßten, wenn die Gesetze auslaufen, 1,2 Mia.S. bezahlt werden zur<lb/>
+Bildung eines Reservefonds, das könnte allerdings bei Verlängerung<lb/>
+ebenfalls eingespart werden. Ebenso könnte beim Familienlasten<lb break="no"/>ausgleich, der ca. 1,1 Mia.S. akkumulieren würde, 500 Mia.S. einge<lb break="no"/>setzt werden, 600 Mio.S. muß man rechnen, daß die Kinderbeihilfe<lb/>
+erhöht wird. So könnten noch 100 Mio. erspart werden, daß der<lb/>
+Wohnungsbeihilfebeitrag für die Sozialrentner in der Höhe von<lb/>
+30 S die der Bund an die Sozialversicherungsträger zu zahlen hätte,<lb/>
+nicht bezahlt wird und neuerdings 200 Mio. von der Unfallversicherung<lb/>
+inkameriert werden. Durch Abzug dieser 4,7 Mia.S. würde sich das<lb/>
+Defizit auf 13,3 Mia.S. verringern. Wenn man die Finanzschuld<lb/>
+hinausschiebt um eine Milliarde Schilinge, das heißt wenn man die<lb/>
+vorgesehene Tilgung von 6 Mia. auf dem selben Ausmaß beläßt wie<lb/>
+heuer – nämlich 4,8 Mia.S. – so könnten auch hier ca. 1 Mia. erspart<lb/>
+werden. Ebenso müßte durch Personaleinsparung eine Möglichkeit<lb/>
+bestehen 300 Mio. zu ersparen, das entspricht einer Personaleinsparung<lb/>
+von 1 %. Ebenso will er die Treibstoffverbilligung von 220 Mio.<lb/>
+und die Düngemittelstützung von 160 Mio. auflassen. Dies würde<lb/>
+wieder eine Abzugspost von ca. 1,780 Mia. ergeben, sodaß ca. noch<lb/>
+11,5 Mia.S. finanzierbares Defizit übrigbleiben. Auch dieser Betrag<lb/>
+ist noch zu hoch. Wenn man auch die Getreidestützung als ganzes<lb/>
+einsparen will, inklusive der Silo- u. Mühlenlagerzuschüsse, so<lb/>
+ergibt das eine weitere Einsparungsmöglichkeit von 400 Mio. Schil<lb break="no"/>lingen. Sodaß noch immer ein Defizit von ca. 11 Mia.S. verbleibt.<lb/>
+Er hat seinerzeit beschlossen,daß die Erhöhung eines Defizites<lb/>
+in der Höhe des Bruttonationalproduktzuwachses nominell ungefährlich<lb/>
+wäre. Dies hieße von 9 Mia. ca 8 % erhöhen, das heißt eine Erhöhung<lb/>
+um 720 Mio. für ca. 9,8 Mia. wären möglich. Wenn <name type="person" ref="#per__97311">Androsch</name> also seine<lb/>
+3 Mia.S., die er für Maßnahmen bereitstellen will, tatsächlich<lb/>
+bereitstellt, dann ist es für ihn unmöglich das Defizit auf diese<lb/>
+9,8 Mia.S. herabzudrücken. Er wird sich deshalb noch sehr genau<lb/>
+überlegen müssen, ob er die Ausgaben auch tatsächlich alle in<lb/>
+Angriff nehmen kann, die er plant. Die Kirchensteuerabsetzung ist<lb/>
+allerdings, glaube ich, schon eine fest beschlossene Sache zwischen<lb/>
+<name type="person" ref="#per__97668">Kreisky</name> und <name type="person" ref="#per__97311">Androsch</name>. Die technische Durchführung wird nur auf<lb/>
+große Schwierigkeiten stoßen. Ich persönlich glaube nämlich, daß<lb/>
+<pb n="01-0153" facs="01_1970-05-23_0153.jpg"/>ziemlich viele Leute diese Kirchensteuer absetzen werden, auch<lb/>
+dann wenn sie sich zum Finanzamt begeben müssen, zu einem amtswegigen<lb/>
+Jahresausgleich wie es derzeit beabsichtigt ist. Da diese Arbeiten<lb/>
+hauptsächlich von den Lohnbüros durchgeführt werden müssen, habe ich<lb/>
+größte Bedenken gegen diese Art der Abrechnung der Kirchensteuer.<lb/>
+Mir gefiel deshalb ein Vorschlag von Julian Uher sehr gut, der<lb/>
+meinte, man sollte den Kirchen es überlassen, daß sie steuerlich<lb/>
+eben die Kirchensteuer absetzen, die Berechnung durchführen, und<lb/>
+dann vom Finanzamt den entsprechenden Betrag vergolten bekommen.<lb/>
+Wenn die Kirchensteuer derzeit 600 mio.S. ausmacht ist mit einem<lb/>
+Ausfall von ca. 140 Mio.S. zu rechnen wovon den Bund 70 Mio treffen.<lb/>
+Bei dieser Aussprache habe ich <name type="person" ref="#per__97311">Androsch</name> aufmerksam gemacht, daß die<lb/>
+Dienstreisen in immer größerem Umfang von seinem Ressort zunehmen,<lb/>
+mir wurde das von unseren "Auslandsreisenden" mitgeteilt, da sie<lb/>
+immer wieder feststellen können, daß ein Vertreter des Finanzministe<lb break="no"/>riums anwesend ist, der sachlich dort überhaupt nichts zu sagen hat.<lb/>
+Diese Angriffe wurden von <name type="person" ref="#per__146110">Blaha</name> bestätigt und <name type="person" ref="#per__97311">Androsch</name> wird sich<lb/>
+also den Kopf zerbrechen wie wir generell eine Einschränkung der<lb/>
+Dienstreisen erzielen könnten. Gleichzeitig wurden auch Überlegungen<lb/>
+angestellt wie wir die Dienstkraftfahrzeuge die im Systematisieru<lb break="no"/>ngsplan mit ca. 570 Personenkraftwagen verankert sind, wie wir die<lb/>
+entsprechend reduzieren können. Diesbezügliche Vorschläge wird der<lb/>
+Finanzminister ebenfalls noch ausarbeiten. Da diese Maßnahmen aber<lb/>
+nicht ausreichen das Defizit von 1,5 bis 2 Mia., das sicher noch<lb/>
+verbleibt, zu decken, steht allerdings außer Diskussion. Ich werde<lb/>
+zwar selbstverständlich <name type="person" ref="#per__97311">Androsch</name> unterstützen und mithelfen, daß er<lb/>
+irgendwelche Lösungen findet, die ihn über die Runden des Herbstes<lb/>
+bringen werden. Wir werden eine generelle Debatte in der Regierung<lb/>
+einmal führen und dann, frühzeitig schon, diese Grundsätze einer<lb/>
+Budgeterstellung festlegen. Zum Abschluß möchte ich doch aber noch<lb/>
+einmal festhalten, daß es ja bekanntlicherweise entweder <name type="person" ref="#per__97311">Androsch</name><lb/>
+oder mich getroffen hätte das Finanzministerium zu verwalten und<lb/>
+ich wirklich sehr glücklich bin, daß es ihn getroffen hat.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97868">
+               <persName type="label">Reithofer, Hans</persName>
+               <persName><surname>Reithofer</surname><forename>Hans</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720301.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+            </person>
+            <person xml:id="per__97668">
+               <persName type="label">Kreisky, Bruno</persName>
+               <persName><surname>Kreisky</surname><forename>Bruno</forename></persName>
+               <occupation>Bundeskanzler</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118566512</idno>
+               <ptr type="mentioned" target="#staribacher__19700423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__97311">
+               <persName type="label">Androsch, Hannes</persName>
+               <persName><surname>Androsch</surname><forename>Hannes</forename></persName>
+               <occupation>Finanzminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118503049</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810820.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

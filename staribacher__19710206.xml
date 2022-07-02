@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19710206.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710205.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710207.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  6. Februar 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-02-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-02-06">Samstag, 6. Februar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0154" facs="04_1971-02-06_0154.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 6. Feber 1971<lb/>
+</p>
+            <p xml:space="preserve">In der Fraktion zum Arbeiterkammertag kam auch von mir das Problem<lb/>
+des Ladenschlussgesetzes zur Sprache. Ich berichtete von der Vor<lb break="no"/>sprache des Verbandes österreichischer Kaufleute und meinte, ich<lb/>
+müsste doch einmal mit den Spitzenfunktionären von der Handelssektion,<lb/>
+das ist einmal insbesondere Nationalratsabgeordneter <name type="person" ref="#per__115155">Skritek</name>, der<lb break="no"/>zeitiger Vizepräsident in der Arbeiterkammer Wien, eine eingehende<lb/>
+Besprechung haben. <name type="person" ref="#per__115155">Skritek</name> selbst berichtete über die Verhandlungen<lb/>
+die sie mit der Bundeskammer geführt hatten. Interessant war, dass<lb/>
+dort der wirkliche Vertreter der Kleinhändler, Komm.Rat <name type="person" ref="#per__112013">Zach</name>, sich<lb/>
+überhaupt nicht zu Wort gemeldet hat. Ich weiss nämlich aus meinen<lb/>
+bisherigen Besprechungen, daß die Kleinhändler an einer Änderung<lb/>
+der Ladenschlusszeiten überhaupt nicht interessiert sind. Nach<lb/>
+Auffassung <name type="person" ref="#per__115155">Skriteks</name> handelt es sich bei dem Vorschlag der Handelskammer<lb/>
+nur um ein politisches Manöver, um insbesondere die Forderung von<lb/>
+<name type="person" ref="#per__97769">Mussil</name>, der hier als ÖVP-Schattenminister vorgeprellt ist, abzudecken.<lb/>
+Der Vertreter des ÖAAB bei der Vorstandssitzung erzählten mir noch<lb/>
+bevor die Sitzung begann, dass dieses Problem innerhalb der ÖVP<lb/>
+einen grossen Wirbel ausgelöst hat, da der ÖAAB sich ganz entschieden<lb/>
+gegen eine Änderung der Ladenschlusszeiten ausspricht. Nur in Tirol<lb/>
+oder Vorarlberg sei dieses Problem vielleicht aktuell, aber auch<lb/>
+hier sei noch keinerlei Entscheidung getroffen werden. Der ÖAAB-<lb/>
+Vertreter, Dr. <name type="person" ref="#per__97398">Drennig</name>, startete ganz harte Attacken gegen <name type="person" ref="#per__97769">Mussil</name>.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__112013">
+               <persName type="label">Zach, Franz</persName>
+               <persName><surname>Zach</surname><forename>Franz</forename></persName>
+               <occupation>KR, Bundesgremialvorsteher Lebensmittelkleinhandel</occupation>
+               <ptr type="mentioned" target="#staribacher__19780124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780329.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780807.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781013.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800609.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+            </person>
+            <person xml:id="per__115155">
+               <persName type="label">Skritek, Otto</persName>
+               <persName><surname>Skritek</surname><forename>Otto</forename></persName>
+               <occupation>SPÖ-NR-Abg., Sekr. GPA</occupation>
+               <ptr type="mentioned" target="#staribacher__19710204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710618.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710624.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710706.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781009.xml"/>
+            </person>
+            <person xml:id="per__97398">
+               <persName type="label">Drennig, Manfred</persName>
+               <persName><surname>Drennig</surname><forename>Manfred</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/107960850</idno>
+               <ptr type="mentioned" target="#staribacher__19710206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780620.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+            </person>
+            <person xml:id="per__97769">
+               <persName type="label">Mussil, Arthur</persName>
+               <persName><surname>Mussil</surname><forename>Arthur</forename></persName>
+               <occupation>Gen.Sekr. HK, ÖVP-NR-Abg., später AR-Präs. Verbund</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800826.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800909.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810402.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

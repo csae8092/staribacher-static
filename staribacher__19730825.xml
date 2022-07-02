@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19730825.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730824.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730827.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 25. August 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band17_1973-08-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-08-25">Samstag, 25. August 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-09-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band17/">
+      <body>
+         <pb n="17-0944" facs="17_1973-08-25_0944.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, 25. August 1973</p><p xml:space="preserve">Dr. <name type="person" ref="#per__97676">Lachs</name> ist der Meinung, daß wir im Konzept der ökonomischen<lb/>
+Konferenz in der 3. Arbeitsgruppe Preise keine Lösung finden<lb/>
+können, die die Handelskammer auch nur bereits ist mit uns zu<lb/>
+diskutieren. Seiner Auffassung nach sind sie derzeit vollkkmmen<lb/>
+unmöglich und unbeweglich, ja in irgendeiner Weise auf Vorschläge<lb/>
+zur Regulierung der Preisgesetze auch nur einzusteigen. <name type="person" ref="#per__97676">Lachs</name> ist<lb/>
+davon überzeugt, daß wenn vernünftige Einzelpersonen bereit wären<lb/>
+über ein solches Konzept mit uns zu reden, die große Masse der<lb/>
+anderen Funktionäre dies verhindern würde. D Ich teile diese Meinung<lb/>
+keinesfalls. Ich glaube deshalb, daß wir in unserem Programm<lb/>
+solche Punkte aufnehmen sollten, von denen die Möglichkeit besteht,<lb/>
+daß doch die Handelskammer oder zumindestens eine Gruppe von ihnen<lb/>
+bereit issind darüber mit uns zu diskutieren. Ich habe dies auch<lb/>
+mit aller Deutlichkeit <name type="person" ref="#per__97676">Tommy Lachs</name> gesagt.</p><p xml:space="preserve">Anmerkung für <name type="person" ref="#per__97646">KOPPE</name><lb/>
+Bitte versuche abzuklären, wieweit die Handelskammer bereit ist<lb/>
+und auch diesen Sektor sollten wir unsere starken Aktivitäten auch<lb/>
+in der ökonomischen Konferenz aufbauen.</p><p xml:space="preserve">Die bisherige Politik im Handelsministerium hat deshalb einen so<lb/>
+verhältnimäßig guten Erfolg gezeigt,d weil wir in unserer Zielsetzung<lb/>
+immer davon ausgegangen sind, den anderen noch die Möglichkeit<lb/>
+zu geben zuzustimmen oder mitzumachen. Wenn dies auf dem Preis<lb break="no"/>sektor nicht der Fall sein wird, fürchte ich, daß wir dann allein<lb/>
+große Diskussionen haben werden und keinerlei Erfolge. Die Möglichkeit<lb/>
+die <name type="person" ref="#per__97676">Lachs</name> sieht, daß man nämlich heute über eine Feststellungsklage<lb/>
+des Verfassungsgerichtshofes ev. einfach gesetzliche Regelungen ein<lb break="no"/>führt, bringt uns ja keinen Schritt weiter. Selbst wenn wir Gesetze<lb/>
+mit einfacher Mehrheit beschließen können wird die Exekution dieser<lb/>
+Gesetze ohne die Mitwirkung der Handelskammer von vornherein zum<lb/>
+Scheitern verurteilt sein. Solange wir vernünftige Kompromißvor<lb break="no"/>schläge machen, ist die Handelskammer mehr oder minder verhalten<lb/>
+mitzutun und bringt sich dadurc in die schwierige Situation auch<lb/>
+dann bei der Exekution. d. h. bei der Durchführung der Gesetze mit<lb break="no"/><pb n="17-0945" facs="17_1973-08-25_0945.jpg"/>wirken zu müssen. Ich möchte und stele mir vor, daß wir ähnlich wie<lb/>
+bei der Gewerbeordnung auch bei den Preisgesetzen vorgehen.</p></div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97646">
+               <persName type="label">Koppe, Fritz</persName>
+               <persName><surname>Koppe</surname><forename>Fritz</forename></persName>
+               <occupation>Sekr. JS, ab 1973 GF VKI</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__97676">
+               <persName type="label">Lachs, Thomas</persName>
+               <persName><surname>Lachs</surname><forename>Thomas</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801024.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810227.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810904.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

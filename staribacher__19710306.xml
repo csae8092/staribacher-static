@@ -1,0 +1,122 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19710306.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710305.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710307.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  6. März 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band05_1971-03-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-03-06">Samstag, 6. März 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="05-0298" facs="05_1971-03-06_0298.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 6. März 1971<lb/>
+</p>
+            <p xml:space="preserve">Da ich für die Messe-Eröffnung für Sonntag noch einige Ziffern<lb/>
+brauchte, habe ich ersucht, dass ich mit <name type="person" ref="#per__133326">Krämer</name> von der Arbeiter<lb break="no"/>kammer die einzelnen Probleme der Prognoseerstellung und der<lb/>
+tatsächlichen Ist-Ziffern noch einmal durchgehen möchte. In uner<lb break="no"/>klärlicher Weise wurde der Termin für Montag mittags im Institut<lb/>
+vereinbart. Terminplanung ist eine feine Sache. Ich habe mich des<lb break="no"/>halb am Samstag in der Früh mit ihm ihn Verbindung gesetzt und auch<lb/>
+die notwendigen Aufklärungen erhalten. Auch in der Arbeiterkammer-<lb/>
+Vorstandsfraktion wurden die Messevorbereitungen besprochen. Allerdings<lb/>
+handelte es sich dort nur um die Frage, wer wen empfängt und wie der<lb/>
+Astronaut <name type="person" ref="#per__136641">Lovell</name> zum Arbeiterkammerpavillon gebracht wird, resp.<lb/>
+wer an der Pressekonferenz teilnehmen soll, bzw. wie der Bundes<lb break="no"/>präsident empfangen wird. Auf alle Fälle hat es mich aber gefreut,<lb/>
+dass ein so guter Gag auch für diese Ausstellung von der Arbeiter<lb break="no"/>kammer gefunden und organisiert wurde.<lb/>
+</p>
+            <p xml:space="preserve">Bei den Subventionsansuchen hat sich VP <name type="person" ref="#per__97842">Prechtl</name> sehr skeptisch ge<lb break="no"/>äussert, dass die Pensionisten- und Rentner-Organisation der SPÖ<lb/>
+so gut unterstützt wird, sie wollten ein Inserat für 50.000 S<lb/>
+haben. Nach Meinung von <name type="person" ref="#per__97842">Prechtl</name> verwenden die dieses Geld grössten<lb/>
+Teils dazu, um ihren Mitgliedern Weihnachtsgeschenke und sonstige<lb/>
+Unterstützungen zu gewähren. Sie haben aber eine wesentlich tieferen<lb/>
+Mitgliedsbeitrag als zum Beispiel der Pensionistenverband der ÖBB.<lb/>
+Diese müssen als Gewerkschaftsteil 30.– S Gewerkschaftsbeitrag be<lb break="no"/>zahlen. Die Eisenbahnergewerkschaft hat ca. 40.000 Mitglieder und<lb/>
+die Gemeindebediensteten 120.000 Mitglieder, die im Pensionsstand<lb/>
+sich befinden. Durch die angeblich wesentlich geringeren Mitglieds<lb break="no"/>beiträge beim Pensionistenverband wollen nun scheinbar auch die<lb/>
+Gewerkschaftspensionisten scheinbar nicht mehr bezahlen als dort,<lb/>
+resp. gegebenenfalls sogar aus der Gewerkschaft austreten und dem<lb/>
+allgemeinen Pensionistenverband d. SPÖ beitreten. Für mich war diese<lb/>
+Diskussion eine heilsame Lehre, wie sehr man aufpassen muss, um<lb/>
+Querverbindungen und unbeabsichtigte Rückwirkungen beachten muss.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__136641">
+               <persName type="label">Lovell, James Arthur</persName>
+               <persName><surname>Lovell</surname><forename>James Arthur</forename></persName>
+               <occupation>Astronaut</occupation>
+               <ptr type="mentioned" target="#staribacher__19710306.xml"/>
+            </person>
+            <person xml:id="per__97842">
+               <persName type="label">Prechtl, Fritz</persName>
+               <persName><surname>Prechtl</surname><forename>Fritz</forename></persName>
+               <occupation>Vizepräs. AK Wien, SPÖ-BR, SPÖ-NR-Abg.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800826.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800908.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810707.xml"/>
+            </person>
+            <person xml:id="per__133326">
+               <persName type="label">Krämer, Herbert</persName>
+               <persName><surname>Krämer</surname><forename>Herbert</forename></persName>
+               <occupation>Statistiker AK</occupation>
+               <ptr type="mentioned" target="#staribacher__19710120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810706.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

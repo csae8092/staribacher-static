@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19711024.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19711023.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19711025.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 24. Oktober 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band08_1971-10-24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-10-24">Sonntag, 24. Oktober 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-09-10">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="08-1241" facs="08_1971-10-24_1241.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 24. Oktober 1971<lb/>
+</p>
+            <p xml:space="preserve">Der Drivo-Trainer-Club des Berufsförderungsinstituts hat eine<lb/>
+Rallye veranstaltet, die ich um 7 Uhr beim Rathaus startete.<lb/>
+Zu meiner grössten Verwunderung haben über 70 Autos daran teil<lb break="no"/>genommen. Ich hätte kaum erwartet, dass sich so viele dafür interessie<lb break="no"/>ren. Da ich schon dort war, beteiligte ich mich selbstverständlich<lb/>
+auch an dieser Veranstaltung. Es waren einige Schwierigkeitsgrade<lb/>
+zu überwinden und vor allem aber das Ende in Retz mit einer Leuchten<lb break="no"/>kontrolle verbunden mit Erste-Hilfe-Fragen. Das letztere war<lb/>
+für die Verkehrssicherheit äusserst wichtig und vor allem die<lb/>
+Demonstration an den Puppen von allergrösster Bedeutung. Solche<lb/>
+Rallyes können in Verbindung mit solchen hier leider freiwilligen<lb/>
+Lichtkontrollen – in Hinkunft müsste man sie obligatorisch machen –<lb/>
+und mit entsprechenden Erste-Hilfe-Demonstrationen wesentlich zur<lb/>
+Schulung der Verkehrsteilnehmer beitragen. Wesentlich aber er<lb break="no"/>scheint mit, dass dies eine neue Form ist, dass junge Leute und<lb/>
+es waren fast nur lauter junge, die sich daran beteiligten,<lb/>
+für eine Gemeinschaft gewinnen kann. Ich glaube, dass die Kosten,<lb/>
+wenn man die drei Pokale und die Golddukaten für die ersten<lb/>
+Sieg 15 zusammenrechnet nicht allzu hoch gewesen sein können.<lb/>
+Darüber hinaus aber bin ich überzeugt, dass wenn man selbst nur<lb/>
+Anerkennungsdiplome ausgestellt hätte, die Leute sich trotzdem<lb/>
+mit Begeistert sich daran beteiligt hätten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__97646">KOPPE</name>: Ich glaube, es wäre wirklich zielführend, wenn<lb/>
+die Propagandisten der Partei sich über neue Formen der Zusammenar<lb break="no"/>beit mit Sympathisanten den Kopf zerbrechen würden. Allerdings muss<lb break="no"/>te ich auch hier feststellen, dass die Kooperation sehr schwach ist,<lb/>
+der Ortsobmann von Retz hat sich nachher bei mir bitter beschwert,<lb/>
+dass er von der Rallye überhaupt nichts wusste und erst, nachdem sie<lb/>
+schon im Laufen war, die Funktionäre von Retz zu ihm kamen und dar<lb break="no"/>auf hinwiesen, dass der ARBÖ mit dem BfI eine grosse Veranstaltung<lb/>
+macht und sie gar nichts davon gewusst haben und sich natürlich auch<lb/>
+gar nicht einstellen konnten. In Hinkunft müsste dies doch auch bes<lb break="no"/>ser koordiniert werden.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__97646">
+               <persName type="label">Koppe, Fritz</persName>
+               <persName><surname>Koppe</surname><forename>Fritz</forename></persName>
+               <occupation>Sekr. JS, ab 1973 GF VKI</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

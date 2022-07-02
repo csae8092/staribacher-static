@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19801202.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19801201.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19801203.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Dienstag, der  2. Dezember 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band57_1980-12-02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-12-02">Dienstag, 2. Dezember 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-02-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="57-1496" facs="57_1980-12-02_1496.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Dienstag, 2. Dezember 1980<lb/>
+</p>
+            <p xml:space="preserve">Der Aufsichtsrat der ÖDK hat beschlossen, bis zur Klärung der Widmungs<lb break="no"/>bescheide und Baubescheide den Weiterbau von Voitsberg III zwar nicht<lb/>
+ganz einzustellen, aber doch wesentlich zu verlangsamen. Von den 3,4<lb/>
+Mrd. S, die jetzt präliminiert sind, sind 700 Mio. schon verbaut und<lb/>
+600 Mio in unmittelbarer Ausführung resp. bereits die Zulieferungen be<lb break="no"/>stellt. Es wird nichts storniert, sondern zögernd weitergebaut, um den<lb/>
+Verlust zu minimieren. Ich spreche sofort mit dem Präsident des Auf<lb break="no"/>sichtsrates LH-Stv. <name type="person" ref="#per__97461">Frühbauer</name> in Kärnten. Dieser teilt mir mit, daß<lb/>
+<choice><choice><sic>die</sic><corr>in der</corr></choice></choice> Kärntner Bauordnung das vom Verwaltungsgerichtshof in der Steiermark<lb/>
+als unzulänglich klassifizierte Ediktalverfahren besser geregelt ist.<lb/>
+Zu klären gilt <choice><choice><sic>weiters, gerade</sic><corr>weiters der gerade?</corr></choice></choice> in der steirischen Bauordnung geregelten<lb/>
+Anrainerbegriff. Ich informiere <name type="person" ref="#per__97461">Frühbauer</name>, daß ich einen Ministerrats<lb break="no"/>vortrag vorbereite, der von GD <name type="person" ref="#per__97453">Fremuth</name> entworfen ist und von Dr. <name type="person" ref="#per__110944">Zluwa</name><lb/>
+bestätigt wurde. Dort ist vorgesehen, daß ich den Landeshauptmann von<lb/>
+der Steiermark auffordere, unverzüglich eine Änderung der Bauordnung<lb/>
+vorzunehmen, damit die Bau- und Widmungsbescheide saniert werden können.<lb/>
+<name type="person" ref="#per__97461">Frühbauer</name> ist mit dieser Vorgangsweise sehr einverstanden.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="#per__97453">Fremuth</name>, den ich ebenfalls von dieser Situation jetzt genau informiere,<lb/>
+teilt mir nur mit, daß in Salzburg und in Kärnten die Bauordnung den<lb/>
+Bedürfnissen des Verwaltungsgerichtshofes ebenfalls entspricht. Alle<lb/>
+anderen Bundesländer haben seines Wissens nach eine unzulängliche Bau<lb break="no"/>ordnung.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="#per__97453">Fremuth</name> teilt weiters mit, daß die Polen die Lieferung in die CSSR und<lb/>
+damit auch nach Österreich wieder aufgenommen haben.<lb/>
+</p>
+            <p xml:space="preserve">Das Fernsehen, Red. <name type="person" ref="#per__127770">Flossmann</name>, interviewt mich betreffend des Filmför<lb break="no"/>derungsgesetzes. Sie will vor allem wissen, ob tatsächlich zwischen dem<lb/>
+Unterrichtsminister <name type="person" ref="#per__113083">Sinowatz</name> und mir Differenzen bestanden haben. Ich<lb/>
+erkläre ihr, daß das Handelsministerium ausschließlich für kommerzielle<lb/>
+Filme zuständig wäre und daher der Wunsch<lb/>
+</p>
+            <p xml:space="preserve">BAND KAPUTT!!<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__97453">
+               <persName type="label">Fremuth, Walter</persName>
+               <persName><surname>Fremuth</surname><forename>Walter</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/115563237</idno>
+               <ptr type="mentioned" target="#staribacher__19711123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810928.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811019.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811221.xml"/>
+            </person>
+            <person xml:id="per__97461">
+               <persName type="label">Frühbauer, Erwin</persName>
+               <persName><surname>Frühbauer</surname><forename>Erwin</forename></persName>
+               <occupation>Verkehrsminister, LH-Stv. Ktn.</occupation>
+               <idno type="GND">http://d-nb.info/gnd/12053536X</idno>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810331.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810522.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810702.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+            </person>
+            <person xml:id="per__127770">
+               <persName type="label">Flossmann, Gabriele</persName>
+               <persName><surname>Flossmann</surname><forename>Gabriele</forename></persName>
+               <occupation>Kulturjournalistin</occupation>
+               <ptr type="mentioned" target="#staribacher__19801202.xml"/>
+            </person>
+            <person xml:id="per__110944">
+               <persName type="label">Zluwa, Bruno</persName>
+               <persName><surname>Zluwa</surname><forename>Bruno</forename></persName>
+               <occupation>Beamter HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19780111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810527.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810610.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810722.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            <person xml:id="per__113083">
+               <persName type="label">Sinowatz, Fred</persName>
+               <persName><surname>Sinowatz</surname><forename>Fred</forename></persName>
+               <occupation>Unterrichtsminister</occupation>
+               <ptr type="mentioned" target="#staribacher__19710430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810731.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810812.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810905.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

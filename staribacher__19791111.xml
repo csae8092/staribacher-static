@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19791111.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19791110.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19791112.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 11. November 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band51_1979-11-11</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-11-11">Sonntag, 11. November 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-09-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="51-1216" facs="51_1979-11-11_1216.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 11. November 1979<lb/>
+</p>
+            <p xml:space="preserve">Beim ARBÖ, 80 Jahre Jubiläumskongress, hat Vizekanzler <name type="person" ref="#per__97311">Androsch</name><lb/>
+am zweiten Tag sein Referat gehalten, das eigentlich ursprüng<lb break="no"/>lich nicht vorgesehen war. Soweit ich dieses Referat gehört habe,<lb/>
+war es in der Konzeption auf Energiesparen und die Unterstützung<lb/>
+des ARBÖ auf diesem Gebiet angelegt. Prof. <name type="person" ref="#per__150647">Fiala</name>, Leiter der sehr<lb/>
+großen Forschungsabteilung des VW-Werkes, wollte – so wurde mir<lb/>
+berichtet – über die Alternativenergie und über die zukünftige<lb/>
+Autoproduktion wie auch die Energiesituation referieren. Bei einem<lb/>
+groß angelegten Referat hat allerdings dann <name type="person" ref="#per__150647">Fiala</name> über die grund<lb break="no"/>sätzliche Energieforschung und Möglichkeit berichtet. Nach seiner<lb/>
+Einteilung gibt es nur 4 Energien, Kernenergie, fossile Brennstoffe,<lb/>
+Sonnenenergie und Drehung der Erde. Bei all diesen Formen gibt es<lb/>
+noch ungeheure Reserven, die die Menschheit noch nützen kann. Die<lb/>
+Frage ergibt sich nur, ob diese zur gegebenen Zeit mit einigermaßen<lb/>
+erträglichen Kosten, gewonnen werden können. Da ich mich auf ein ganz<lb/>
+ein anderes Referat <name type="person" ref="#per__150647">Fiala</name>, nämlich bezugnehmend auf meinen Besuch<lb/>
+im Volkswagenwerk Wolfsburg vorbereitet hatte, die Frage aber von<lb/>
+<name type="person" ref="#per__150647">Fiala</name> überhaupt nicht berührt wurde, versuchte ich dann aktuelle<lb/>
+Probleme anzuschneiden. In meinen Augen war dies viel zu systemlos,<lb/>
+daher auch ganz schlecht. In Hinkunft muss ich mich, auch wenn es<lb/>
+sich nur um einen Diskussionsbeitrag handelt, zu dem ich aufgefordert<lb/>
+werde, doch systematischer vorbereiten.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG AN <name type="person" ref="#per__98072">WIESINGER</name>: Bitte mir zeitgerecht die zugesagten Referate<lb/>
+mitteilen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__98072">
+               <persName type="label">Wiesinger, Anna</persName>
+               <persName><surname>Wiesinger</surname><forename>Anna</forename></persName>
+               <occupation>Büro des Bundesministers (Sekretärin)</occupation>
+               <ptr type="mentioned" target="#staribacher__19710204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800229.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800312.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800313.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800318.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800324.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800325.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800326.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800419.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800506.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800514.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800630.xml"/>
+            </person>
+            <person xml:id="per__97311">
+               <persName type="label">Androsch, Hannes</persName>
+               <persName><surname>Androsch</surname><forename>Hannes</forename></persName>
+               <occupation>Finanzminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118503049</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810820.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

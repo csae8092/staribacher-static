@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19761120.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19761119.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19761121.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 20. November 1976</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band33_1976-11-20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1976-11-20">Samstag, 20. November 1976</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-02-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="33-1314" facs="33_1976-11-20_1314.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 20. November 1976<lb/>
+</p>
+            <p xml:space="preserve">Bei der Landeskonferenz in Oberösterreich der Lebens- und Genuss<lb break="no"/>mittelarbeiter benützte ich dazu, um erstens die Genossinnen und<lb/>
+Genossen in der Fraktion über das Problem der Repräsentations<lb break="no"/>kosten genauer aufzuklären. Leider hatte ich in der Diskussion<lb/>
+in diesem Punkt nicht die erwarteten Angriffe. In der Konferenz<lb/>
+selbst berichtete ich dann über die Wirtschaftssituation vom Stand<lb break="no"/>punkt der Lebensmittelarbeiter. Primär kommt es mir bei diesen Re<lb break="no"/>feraten immer darauf an, auf die Interessen der einzelnen Gruppen<lb/>
+einzugehen. Bei dieser Konferenz konnte ich wieder einmal mehr<lb/>
+feststellen, dass selbstverständlich auch dort die Fragen, die<lb/>
+den Arbeiter unmittelbar selbst betreffen, die entscheidenden sind.<lb/>
+Einmal mehr konnte ich feststellen, dass die Arbeiter mit unserer<lb/>
+Agrarpolitik glaube ich nicht sehr einverstanden sind. Sie haben das<lb/>
+Gefühl, dass wir viel zu viel für die anderen insbesondere die<lb/>
+Unternehmer und die Bauern machen. Am treffendsten hat dies ein<lb/>
+Diskussionsteilnehmer ausgedrückt, indem er sagte: Zuerst jammern<lb/>
+die Bauern, dass es zu heiss ist, dann jammern sie, dass es zu nass<lb/>
+ist – bezogen auf meine Ausführungen wegen der Dürreschäden – und<lb/>
+jetzt jammern sie, dass sie 12 Moante auf den Mercedes warten müssen.<lb/>
+Immer mehr komme ich zur Überzeugung, dass unsere Aufteilungspolitik<lb/>
+wo wir in den letzten Jahren doch auch den Bauern und Unternehmern<lb/>
+gute Chancen gegeben haben, in Hinkunft auf stärkeren Widerstand<lb/>
+stossen wird. Die Arbeiter haben glaube ich solange noch ein<lb/>
+entsprechender Wirtschaftszuwachs zu verzeichnen war, die Verbesserung<lb/>
+der Aufteilung zugunsten der anderen mehr oder minder unbewusst zur<lb/>
+Kenntnis genommen. Wenn der Kuchen grösser wird, kann der Anteil,<lb/>
+d.h. der Sektor für die Arbeiter verkleinert werden, durch die<lb/>
+Grösse der Schnitte – der Kuchen ist eben grösser geworden – bekommt<lb/>
+der Arbeiter auch noch mehr ab. Wenn es aber zu einer Stagnation wirk<lb break="no"/>lich kommen würde, würde der Verteilungskampf sofort in aller Härte<lb/>
+aufflammen. In diesem Fall würden wir wahrscheinlich unsre Stamm<lb break="no"/>wähler sehr bald sehr verärgert haben, um nicht zu sagen verloren<lb/>
+haben. Die Politik <name type="person" ref="#per__97668">Kreiskys</name>, wir müssen die paar Promille über<lb/>
+50 % Wähler eben auf diese Art und Weise erkämpfen, würde dann<lb/>
+in kürzester Zeit Schiffbruch erleiden. Das Ergebnis müsste sein:<lb/>
+Promille auf der anderen Seite gewonnen, Prozente im eigenen Lager<lb/>
+verloren.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__97668">
+               <persName type="label">Kreisky, Bruno</persName>
+               <persName><surname>Kreisky</surname><forename>Bruno</forename></persName>
+               <occupation>Bundeskanzler</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118566512</idno>
+               <ptr type="mentioned" target="#staribacher__19700423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

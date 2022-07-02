@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19730308.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730307.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730309.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der  8. März 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band15_1973-03-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-03-08">Donnerstag, 8. März 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-12">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band15/">
+      <body>
+         <pb n="15-0298" facs="15_1973-03-08_0298.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Donnerstag <choice><choice><sic>5.</sic><corr>8.</corr></choice></choice> März 1973</p><p xml:space="preserve">Die SK hat eine AUssendung von meiner Ansprache bei den Rentnern in<lb/>
+der Stadthalle gebracht, wo ich erklärt haben soll, die berechtigten<lb/>
+Wünsche der Bauern werden von der Regierung erfüllt und die Rentner<lb/>
+soweit wie möglich nicht belastet. Der Kurier schrieb natürlich dann<lb/>
+<name type="person" ref="#per__97985">Staribacher</name> hat das Rezept gefunden, dass die Bauern ihre Forderung er<lb break="no"/>füllt erhalten und die Pensionisten nicht mehr zahlen müssen. Ich bin<lb/>
+daher sofort in der Früh zu <name type="person" ref="#per__97668">Kreisky</name> gegangen, um ihn aufzuklären. Ich<lb/>
+hatte nämlich dort erklärt, dass die berechtigten Forderungen der<lb/>
+Bauern erfüllt wurden, d.h. dass in der Vergangenheit wir so gehan<lb break="no"/>delt hätte und z.B. die Getreidepreiserhöhungsforderung hatte ich im<lb/>
+ZUsammenhang mit den Preissteigerungen erwähnt, die den Pensionisten<lb/>
+von den 9 %, die sie heuer bekommen, eben einen Grossteil dieser Pensions<lb break="no"/>erhöhungen wieder durch Preiserhöhungen in der Vergangenheit und auch<lb/>
+jetzt weggenommen werden, obwohl sich die Regierung bemüht diese so weit<lb/>
+es irgendwie geht zu verhindern. <name type="person" ref="#per__98055">Weihs</name> meinte, dass auch ihm immer wieder<lb/>
+passiert, dass er falsch zitiert wird. Er bezog sich dabei insbesondere<lb/>
+auf die Aussage der Kleinen Zeit, dass die Arbeiter nicht zulassen werden,<lb/>
+dass ein sozialistischer Bürgermeister in Graz regiert. Bei dieser Ge<lb break="no"/>legenheit erklärt ich <name type="person" ref="#per__98055">Weihs</name> neuerdings mein Konzept gegebenenfalls bei<lb/>
+der Übertragung der Preiskompetenz an das Handelsministerium, die Preis<lb break="no"/>regelung für Getreide aufzuheben , vor allem aber auch die STützung von<lb/>
+derzeit 10 Groschen für Qualitätsweizen, die durch Einbehalten der 5 Gro<lb break="no"/>schen bei Füllweizen für Lagerzwecke nur 5 Groschen für den Bauern mehr<lb/>
+beträgt und vor allem auch die Aufhebung des Mühlenausgleichsverfahrens.<lb/>
+wenn die Einführungsphase überstanden wäre, könnte dann nicht mehr die<lb/>
+Bauernschaft an uns mit entsprechenden höheren Getreidepreisforderungen<lb/>
+herantreten, sondern müsste dies mit den Mühlen nach jeweiliger Qualität<lb/>
+und Marktlage eben vereinbaren. <name type="person" ref="#per__98055">Weihs</name> würde dabei ausser Obligo sein, weil<lb/>
+er die Verantwoirtung resp. die Angriffe von der Bauernschaft der Mühlen<lb break="no"/>wirtschaft aber auch der Bäcker sicherlich auch in der Übergangsphase von<lb/>
+Seiten der Konsumenten würde an das Handelsministerium d.h. an mich ge<lb break="no"/>richtet werden. Ich habe dieses Problem auch mittags mit Dr. <name type="person" ref="#per__98112">Zöllner</name> und<lb/>
+Dr. <name type="person" ref="#per__97676">Lachs</name> besprochen, um sie um ihre Meinung und in weiterer Folge natür<lb break="no"/>lich Zustimmung zu bitten. Beide haben insoferne Bedenken, dass dieses<lb/>
+System möglich ist, weil sie glauben, dass die Getreidewirtschaft durch<lb/>
+Verlängerung des Marktordnungsgesetzes nach wie vor streng reglementiert<lb/>
+bleiben wird. Wenn man allerdings ein Konzpet zwischen den einzelnen<lb/>
+Interessensvertretungen aUsarbeiten könnte, dann wäre es auch möglich,<lb/>
+bei den jetzt irgendwanneinmal beginnenden Verhandlungen über die<lb/>
+<pb n="15-0299" facs="15_1973-03-08_0299.jpg"/>Reform der Marktordnung diese Konzeption unterbringen. Sollte die<lb/>
+Bauernschaft stark genug sein, dies zu verhindern und ablehnen, dann<lb/>
+haben wir zumindstens den politischen VOrteil, dass sie gegen eine<lb/>
+Konzeption, die eine Auflockerung auf diesem Sektor gebracht hätte,<lb/>
+sidn. Ich glaube, dass dies in der Öffntlichkeit uns entlasten würde.<lb/>
+Auf der anderen Seite natürlich würde damit dokumentiert werden,<lb/>
+dass die Bauern stark genug sind, die Forderungen der Regierung abzu<lb break="no"/>lehnen und die Regierung doch bereit ist, irhren Wünschen nachzugeben.<lb/>
+Dies erscheint mir aber als das kleinere Übel. Ich glaube, es müssen Ver<lb break="no"/>suche unternommen werden, damit nicht immer wieder bei Preisforderungen,<lb/>
+sei es auf dem Getriede- oder Milchsektor die Regierung verantwortlich<lb/>
+ist, sondern dass eben die Bauern ihre Wünsche an die Milchgenossenschaft<lb/>
+d.h. die Molkereien oder an die gewerblichen Müller, resp. an die<lb/>
+Lagerhäuser, die sie selbst führen, richten. Da bei der Überschussproduk<lb break="no"/>tion von Milch und Getreide nicht damit zu rechnen ist, dass ihren Forde<lb break="no"/>rungen von diesen Organistionen oder Unternehmungen REchnung getragne wer<lb break="no"/>den kann, wird sich dann die Wut dich zu einem grösseren Teil gegen diese<lb/>
+und nicht gegen die Bundesregierung richten, die niemals ismtande sein<lb/>
+wird, immer wieder ihre Forderungen auch nur annähernd zu erfüllen.<lb/>
+Alles, was dabei erreicht wird, heisst jede Preiserhöhunge, die doch<lb/>
+letzten Endes akzeptiert wird, wird vom Bauernbund als unbefriedigend<lb/>
+bezeichnet und sofort mit einer neue Forderung wieder der Kampf gegen<lb/>
+die Regierung egführt.</p><p xml:space="preserve">Eine Rücksprache bei der SK, Redakteur <name type="person" ref="#per__114605">Waschek</name>, hat ergeben, dass dieser<lb/>
+nicht selbst oder ein Kollege von ihm die Aussenkung vorbereitet hat,<lb/>
+sondern dass er sich auf eine Mitteilung des Verbandes der Rentner und<lb/>
+Pensionisten bezog. Da sein INformant ein verlässlicher Mannist, der<lb/>
+bis jetzt immer gute Aussendungen geliefert hat, hat er nicht Rück<lb break="no"/>sprache genommen und wortwörtlich seine Mitteilung als SK-Aussendung<lb/>
+übernommen. Ich ersuchte <name type="person" ref="#per__114605">Waschek</name>, in Hinkunft unbedingt zu checken,<lb/>
+ob Aussagen, die – da er doch alle Montage bei unserer Frühstücksrunde<lb/>
+dabei ist – vollkommen meiner Politik widersprechen,nicht ernstlich an<lb break="no"/>nehmen konnte, dass ich sie tatsächlich so gemacht habe. Er bedauerte<lb/>
+den Vorfall, eine Berichtigung habe ich nicht verlangt, denn ich glaubte,<lb/>
+dies sei noch schlechter, da damit nur dieses Thema neuerdings womög<lb break="no"/>lich irgendwie aufgegriffen wird.</p><p xml:space="preserve">Ing. <name type="person" ref="#per__147172">Mayerhofer</name>, der kommerzielle Mann von Graphitbergbau Kaiserberg<lb/>
+wollte bei seiner Vorspreche nur feststellen, dass sie derzeit keine<lb/>
+Möglichkeit haben, im Bergbauförderungsgesetz eie Subvention zu bekommen.</p><pb n="15-0300" facs="15_1973-03-08_0300.jpg"/><p xml:space="preserve">Durch die Währungskrise haben sich die finanziellen Verhältnisse<lb/>
+verschlechtertn. Ihre Exporte nach Italien – 3.700 t, Jug. 1200 t<lb/>
+und GB 250 t sind durch die Abwertung stark benachteiligt. In die<lb/>
+BRD, wo sie 4.300 t exportieren und eigentlich bessere Erlöse er<lb break="no"/>zielen müssten, hatte die Konkurrenz China-Export 2.800 t sie sehr<lb/>
+hart getroffen. Die Chinesen verlangen 1.00 S je t franco Hamburg<lb/>
+während ihr Preis 1.800 S in TRieben pro Tonne beträgt. Auch die<lb/>
+Nordkoreaner, die als drittes Land in Europa in ERscheinung treten,<lb/>
+verlangen für ihren Graphit, der qualitätsmässig nicht so gut ist<lb/>
+wie der österreichische 800 S pro Tonne. INsgesamt wollendie Koreaner<lb/>
+6.000 t im Jahr in Europa verkaufen. Die österr. Firma hätte gerne<lb/>
+das Alleinvertretungsrecht für Europa, da sie 520 t nach Österreich i<lb/>
+importiert haben, hat Nordkorea ihr nur das Vertetungsrecht 1969/70<lb/>
+für Österreich gegbeen. Ich habe INg. <name type="person" ref="#per__114632">Mayerhofer</name> keinen Zweifel ge<lb break="no"/>lassen, dass im Gesetz nicht vorgesehen ist, die Graphitbergbaues<lb/>
+zu stützen, daher auch keinerlei wie immer geartete Mitteln und<lb/>
+Wege es für eine Subvention seiner Firma durch mein Ministerium gibt.<lb/>
+Jetzt hat sich doch bewährt, dass wir seinerzeit im Gesetz nur für<lb/>
+Buntmetall und Kohle die Subvention vorgesehen haben. Wäre es tat<lb break="no"/>sächlich zu einer Ausdehung auf den gesamten Bergbau gekommen, so<lb/>
+könnte ich jetzt im Zusammenhang mit der Währungssituation damit<lb/>
+rechnen, dass alle anderen Bergbaue ebenfalls um Subvention ansuchen<lb/>
+würde. Wahrscheinlich würden sogar auch die Magnesitwerke kommen.<lb/>
+Da die Mittel aber für die Bergbauförderung auf alle Fälle zu<lb/>
+gering sind, hätte ich dann nur noch grösere Schwierigkeiten mit<lb/>
+der Aufteilung dieser Mittel.</p><p xml:space="preserve">In der Vorstandssitzung der Lebensmittelarbeiter, d.h. schon bei<lb/>
+einer Vorbesprechung mit einem Sekretär ergab sich der Wunsch von<lb/>
+Seiten der Brauerei-Arbeiter, unbedingt in dieser Sitzung die<lb/>
+Freigabe von Lohnverhandlungen zu beschliessen. Da ich mit ZS <name type="person" ref="#per__97357">Blüml</name><lb/>
+aber vereinbart habe, dass wir dies erst bei der Gesamtvorstandssitzung<lb/>
+besprechen wollten, hat Sekretär diesen Wunsch unseren Kollegen<lb/>
+auch in den Bundesländern, die im Lohnkomitee vertreten sind, mit<lb break="no"/>geteilt. Der BRO von Schmager hat nun aus der Geschäftsordnung<lb/>
+versucht herauszulesen, dass die Freigabe von Lohnbewegungen nur<lb/>
+durch den Zentralvorstand vorgesehen ist. Für erscheint es aber<lb/>
+logsich und selbstverständlich, dass das übergeordente Organ,<lb/>
+nämlich der Gesatzvorstand sehr wohl alle Agenden, die der Zentral<lb break="no"/>vorstand hat, automatisch an sich ziehen kann und letzten Endes die<lb/>
+<pb n="15-0301" facs="15_1973-03-08_0301.jpg"/>Lohnfreigabe beschliessen kann, wenn dies auch in der Geschäfts<lb break="no"/>ordnung nicht ausdrücklich angeführt ist, kann jeweils immer das<lb/>
+übergeordnete Organ jede Politik und jede Massnahme beschliessen,<lb/>
+die das untergeordnete Organ durch Geschäftsordnung zugewiesen hat.<lb/>
+Ich leite diese Theorie, die vielleicht juristisch nicht ganz einwand<lb break="no"/>frei ist, aus der Tatsache ab, dass das höchste Organ, nämlich der<lb/>
+Gewerkschaftstag eigentlich auch nur ganz bestimmte Agenden in der<lb/>
+Geschäftsordnung zugewiesen hat. Trotzdem kann der Gewerkschaftstag<lb/>
+nach meiner Auffassung jeden Beschluss fassen, der letzten Endes<lb/>
+dann vom Zentralvorstand exekutiert werden muss. Ganz überzeut,<lb/>
+ob ich rein rechtlich theoreitsch recht habe, war ich zwar, doch<lb/>
+sagt mir der gesunde Menschenverstand und die Praxis, wie wir es<lb/>
+seit Jahrzehnten üben, dass diese VOrgangsweise möglich ist. Der<lb/>
+Zentralvorstand hat übrigens diese meine Meinung ebenfalls ver<lb break="no"/>treten. Zumindestens hat in der Diskussion niemand gesprochen<lb/>
+und daraus schliesse ich, dass sie meier Auffassung zustimmen.<lb/>
+Für mich ist es überhaupt sehr schwer, mir ein Bild über die Mei<lb break="no"/>nung unserer Kolleginnen und Kollegen zu machen. In den offiziellen<lb/>
+Sitzungen snd sie nämlich nicht beeit, ernstlich zu diskutieren<lb/>
+oder zu argumentieren, geschweige denn zu kritisieren. Natürlich<lb/>
+ist es im Prinzip angenehm. wenn man in einer Organisation die Ver<lb break="no"/>antwortung trägt und letzten Endes die Kolleginnen und Kollegen sche<lb/>
+bar mit der Vorgangsweise absolut einverstanden sind, da sie in der<lb/>
+Sitzung neimals dagegen remonstrieren. VOr der Sitzung allerdings<lb/>
+haben mich die Fettarbeiter ersucht, ich möge VOrkehrungen treffen,<lb/>
+damit die Unternehmervertreter nicht immer bei den Verhandlungen<lb/>
+Erklärungen abgeben, dass z.B. der ÖGB gesagt hat, die Lohnforderung<lb/>
+wird nicht in der Höhe durchgeführt werden oder sie wird erst dann f<lb/>
+freigegeben, bis der Gewerkschaftsbund es für richtig findet und s.w<lb/>
+Bei dieser Gelegneheit haben die Unternehmervertreter auch behauptet<lb/>
+dass auch in entsprechende Vereinbarungen mit <name type="person" ref="#per__97769">Mussil</name> getroffen habe.<lb/>
+Da dies nicht stimmt, erklärte ich den Fettarbeitern, sie mögen in<lb/>
+Hinkunft sofort die telfonische Verbindng mit mir herstellen und<lb/>
+ich werde dann die andere Seite entsprechend aufklären. Ich er<lb break="no"/>klärte auch in der Zentralvorstandssitzung, dass jeder Sekretär<lb/>
+und jedes Verhandlungskomitee mich jederzeit erreichen kann und<lb/>
+deshalb über mein Büro die telefonische Verbindung herstellen sollte.<lb/>
+Damit ich solchen Behauptungen sofort entgegentreten kann. Selbst<lb break="no"/>verständlich kann und will ich gar nicht verhindern, dass <name type="person" ref="#per__97769">Mussil</name><lb/>
+oder wer immer mich bei anderen Gelegenheiten wegen etnsprechenden<lb/>
+<pb n="15-0302" facs="15_1973-03-08_0302.jpg"/>Lohnwünschen oder sonstigen Forderungen der Gewerkschaft anspricht.<lb/>
+In diesem Fall habe ich aber noch niemals eine Zusage gemacht, ohne<lb/>
+dass ich nicht vorher über die Taktik und vor allem über die Höhe<lb/>
+mit unseren Kollegen gesprochen hätte. Meistens habe ich solche BEspre<lb break="no"/>chungen nur dazu benützt, um festgefahrene Verhandlungen wieder flott<lb/>
+zu machen. Bei den Fettarbeitern hat sich dies z.B. nicht auf<lb/>
+die Höhe des Vertragsabschlusses sondern nur darauf bezogen, dass sie<lb/>
+und auch die Unternehmer ja einen Weg finden wolltne, wie eine kürzere<lb/>
+Laufzeit des Vertrages vereinbart werden könnte. Da die Handelskammer<lb/>
+nicht bereit war, diesen Punkt über die kürzere Laufzeit in den Ver<lb break="no"/>trag aufzunehmen, haben wir dann selbst vorgeschlagen, es soll ein<lb/>
+Brief mitder Vereinbarung 13 Monate Laufzeit von der Fettindustrie<lb/>
+an die Gewerkschaft geschrieben werden. Dies ist letzten Endes dann<lb/>
+auch so geschehen. Was die Höhe des Vertragsabschlusses angeht, wurde<lb/>
+von der Industrie 11 % geboten, von uns ernstlich 13 % verlangt und<lb/>
+dann tatsächlich auch 13 % durchgesetzt.</p><p xml:space="preserve">Dkfm. <name type="person" ref="#per__97995">Stockinger</name>, Direktor der Salzburger Sparkasse , Und Dr. <name type="person" ref="#per__97511">Haiden</name><lb/>
+von der Zentralsparkasse, erzählten mit, dass sie jetzt endlich eine<lb/>
+Sparkassenfraktion im Sparkassenverband aufgebaut haben. Unter<lb/>
+der Führung der alten Genossen und Bürgermeister <name type="person" ref="#per__140181">Bäck</name> in der Salz<lb break="no"/>burger Sparkasse und DR. <name type="person" ref="#per__97781">Neubauer</name> in der Zentralsparkasse, wurde zwar<lb/>
+auch der Sparkassenverband immer wieder als schwarze Institution hin<lb break="no"/>gestellt aber niemals ernstlich versucht, die Fraktion zu aktivieren.<lb/>
+Im Gegenteil, die ÖVP hat es verstanden, diesen älteren Genossen ein<lb break="no"/>zureden, dass es zielführender ist, den Sparkassenverband und alle<lb/>
+Sparkassen aus der politischen Arbeit und Aktivität auszusparen. Da<lb/>
+die ÖVP die meisten Sparkassenleiter stellte, war sie mit diesem Zu<lb break="no"/>stand sehr einverstanden und zufrieden. Wir hatten bereitsin der Oppo<lb break="no"/>sition in der AK mit den Genossen des Sparkassenverbandes und vor<lb/>
+allem einmal mit den Sparkassen, die in unserer Hand waren oder zu<lb break="no"/>mindestens unsere Vertreter dort waren, etnsprechenden KOntakt aufge<lb break="no"/>nommen und damals beschlossen, dieser Zustand müsste geändert werden.<lb/>
+Ich muss nicht u bedingt das Geld- und Kreditwesen verpolitisieren oder<lb/>
+gar die überparteiliche Währungspolitik in Frage stellen, wenn ich un<lb break="no"/>sere Laute aktiviere. Eine gut gefügte und geführte Fraktion heisst<lb/>
+noch lange nicht, dass ich eine politische Geldpolitik betreiben muss.<lb/>
+Wohl aber kann ich mit Hilfe einer gutenFraktion doch schön lang<lb break="no"/>sam die Positionen der ÖVP auch auf diesem Sektor erschüttern. Natür<lb break="no"/>lich wird der Gegner früher oder später behaupten, dass damit die<lb/>
+Politisierung auf diesem Sektor eingeleitet wurde. Hier hängt es aber<lb/>
+<pb n="15-0303" facs="15_1973-03-08_0303.jpg"/>vom geschickten taktischen Verhalten unserer Leute ab, dass er dies<lb/>
+nicht behaupten kann. Die Kreditzuteilung usw. kann man auch objektivieren<lb/>
+und nichts leichter als eben die Entscheidungen dann als nicht politische<lb/>
+sondern als reine Sachentscheidungen hinstellen.</p><p xml:space="preserve">Bei meinem Referat in einer öffentlichen VErsammlung der SPÖ von St. Pölten<lb/>
+hatte ich eigentlich erwartet, dass der Bauernbund seine Ankündigung wahr<lb/>
+macht und entsprechende Diskutanten schickt. Leiderhatte ich mich geirrt<lb/>
+ich weiss nicht ob überhaupt Gegner oderNeutrale bei dieser Versammlung<lb/>
+waren. Der Ortsgruppenobmann hat mir mitgeteilt, dass er fast alle kennt,<lb/>
+d.h. dass doch nur Genossen zu dieser CVersammlung gekommen sind. Ich<lb/>
+habe natürlich provokativ am Anfang erklärt, dass ich annehme, dass der<lb/>
+Bauernbund seine Drohnung wahr macht und deshalb hier auch entsprechende<lb/>
+Bauernbündler sind,die dann die entsprechenden Diskussionen mit mir führen<lb/>
+werden. In Wirklichkeit fürchteich, dass der Bauernbund sehr wohl die Mini<lb break="no"/>ster attackieren wird, aber sicherlich nicht in Orten wie St. Pölten oder<lb/>
+Wr. Neustadt usw. Er wird dort in ERscheinung treten, wo er die über<lb break="no"/>wiegende Mehrheit bei VErsammlung auf alle Fälle stellen kann. Selbst<lb/>
+aber dies würde mich weniger stören, weil ich immer noch lieber mit dem<lb/>
+Gegner diskutiere, als unsere Genossen nur zu informieren. Es hat sich<lb/>
+zwar an die VErsammlung, da ich dies ausdrücklich wünschte, eine Diskus<lb break="no"/>sion angeschlossen, aber sie hielt sich in genau demselben Rahmen wie<lb/>
+vor zwei Jahren, wo ich das letzte Mal bei selben Kreis in St. Pölten<lb/>
+gewesen bin. Die Genossen sind ungeheuer diszipliniert und ihre Angroffe<lb/>
+richten sich keinesfalls gegen unsere schwachen Punkte, wie z.B. die<lb/>
+Preispolitik. Wie lange dieser Zustand noch anhält, kann ihc mir nicht<lb/>
+erklären und weiss ich auch nicht. Für mich ist die Disziplin unserer<lb/>
+Genossen nicht nur bewundernswert sondern auch schön langsam beängstigend.<lb/>
+Wenn man scheinbar keine grösseren Fehler macht, dann kann man vom Gegner<lb/>
+unsere Organisation kaum erschüttern. Allerdings weiss ich nicht wie<lb/>
+das bei den Wechselwählern ist. Ob diese wie in Graz sich wirklich nur von<lb/>
+örtlichen Fehleinschätzungen und Massnahmen dann veranlasst sehen, anders<lb/>
+zu wählen als bisher oder ob nicht doch auch die Bundespolitik eine<lb/>
+bedeutende Rolle spielt, müsste wirklich eine entsprechende Untersuchung<lb/>
+von IFES endlich ergeben. Die Frage ist nur, ob sie überhaupt imstande<lb/>
+sind, nach der Wahl, wo eine gewisse beeinflussung der Meinung dann durch<lb/>
+das Wahlergebnis ja schon vorliegt, die Wahlentscheidungsmotive doch zu<lb/>
+erforschen, ist in meinen Augen sehr fraglich.</p></div>
+      </body>
+      <back><listPerson><person xml:id="per__114605">
+               <persName type="label">Wlaschek, A</persName>
+               <persName><surname>Wlaschek</surname><forename>A</forename></persName>
+               <occupation>Sozialistische Korrespondenz; evtl. Falschschreibung</occupation>
+               <ptr type="mentioned" target="#staribacher__19780519.xml"/>
+            </person>
+            <person xml:id="per__97511">
+               <persName type="label">Haiden, Günter</persName>
+               <persName><surname>Haiden</surname><forename>Günter</forename></persName>
+               <occupation>Dir. Bundesforste, später Sts., dann LWM</occupation>
+               <ptr type="mentioned" target="#staribacher__19720210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780804.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810923.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811019.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+            </person>
+            <person xml:id="per__97995">
+               <persName type="label">Stockinger, Walter</persName>
+               <persName><surname>Stockinger</surname><forename>Walter</forename></persName>
+               <occupation>LT-Abg. Sbg., SPÖ; Sparkasse Salzburg</occupation>
+               <ptr type="mentioned" target="#staribacher__19710420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810302.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+            </person>
+            <person xml:id="per__98112">
+               <persName type="label">Zöllner, Otto</persName>
+               <persName><surname>Zöllner</surname><forename>Otto</forename></persName>
+               <occupation>AK</occupation>
+               <ptr type="mentioned" target="#staribacher__19710119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810720.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__97769">
+               <persName type="label">Mussil, Arthur</persName>
+               <persName><surname>Mussil</surname><forename>Arthur</forename></persName>
+               <occupation>Gen.Sekr. HK, ÖVP-NR-Abg., später AR-Präs. Verbund</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800826.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800909.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810402.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+            </person>
+            <person xml:id="per__98055">
+               <persName type="label">Weihs, Oskar</persName>
+               <persName><surname>Weihs</surname><forename>Oskar</forename></persName>
+               <occupation>Landwirtschaftsminister bis 1976</occupation>
+               <idno type="GND">http://d-nb.info/gnd/130620351</idno>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720315.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720404.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720414.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780516.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780601.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+            </person>
+            <person xml:id="per__114632">
+               <persName type="label">Mayerhofer, A</persName>
+               <persName><surname>Mayerhofer</surname><forename>A</forename></persName>
+               <occupation>Vertreter Landwirtschaft</occupation>
+               <ptr type="mentioned" target="#staribacher__19780524.xml"/>
+            </person>
+            <person xml:id="per__97985">
+               <persName type="label">Staribacher, Josef</persName>
+               <persName><surname>Staribacher</surname><forename>Josef</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/125942052</idno>
+               <ptr type="mentioned" target="#staribacher__19710120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810324.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810525.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810601.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810828.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+            </person>
+            <person xml:id="per__97668">
+               <persName type="label">Kreisky, Bruno</persName>
+               <persName><surname>Kreisky</surname><forename>Bruno</forename></persName>
+               <occupation>Bundeskanzler</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118566512</idno>
+               <ptr type="mentioned" target="#staribacher__19700423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__97676">
+               <persName type="label">Lachs, Thomas</persName>
+               <persName><surname>Lachs</surname><forename>Thomas</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801024.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810227.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810904.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__97357">
+               <persName type="label">Blümel, Kurt</persName>
+               <persName><surname>Blümel</surname><forename>Kurt</forename></persName>
+               <occupation>LUGA-Zentralsekretär</occupation>
+               <ptr type="mentioned" target="#staribacher__19710114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810323.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810324.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810325.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810601.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810604.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811019.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

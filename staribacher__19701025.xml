@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701025.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701024.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701026.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 25. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-25</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-25">Sonntag, 25. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0699" facs="03_1970-10-25_0699.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-25">Sonntag, 25. 0ktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Da <name type="person">Freihsler</name> ausgefallen ist, übernahm ich auch seine Wahlkreis<lb break="no"/>kontaktkonferenz in Perg in OÖ-. Dadurch verspätete ich mich aller<lb break="no"/>dings für meine Wahlkreiskonferenz in Schärding, Beide Referate<lb/>
+waren aber glaube ich, da ich sie nicht trocken sondern sehr humorvoll<lb/>
+hielt, ganz ein guter Erfolg. Ich muss glaube ich mich nur mehr im Zügel<lb/>
+halten, damit ich die ministerielle Würde ein bisschen wenigstens wahre.<lb/>
+Es bringt zwar einen sehr guten werbewirksamen und auch humorvollen<lb/>
+Zug in eine Versammlung, wenn ich sage, ich weiss, dass die Preise<lb/>
+in Zukunft steigen und deshalb darf ich ihnen keinen Preisstop oder keine<lb/>
+Preissenkung anbieten, denn sonst werden sie in Zukunft sagen, was<lb/>
+der Bücher traut sich noch zu uns herkommen und ich will ja wiederkom<lb break="no"/>men. Ich weiss allerdings nicht, ob dies nicht vielleicht schon über<lb/>
+die Grenze einer ministeriellen Versammlung auch einer Parteiversammlung<lb/>
+hinausgeht. Ansonsten sind solche Versammlungen, die so weit entfernt<lb/>
+sind, ein irrsinniger Aufwand, denn in Wirklichkeit ist der ganze<lb/>
+Tag kaputt, auch dann wenn man natürlich auch auf der Hinfahrt und<lb/>
+der Rückfahrt entsprechendes Material studiert oder Zeitungen liest.</p>
+         </div>
+      </body>
+    
+  <back/></text>
+</TEI>

@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19740622.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19740621.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19740623.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 22. Juni 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band21_1974-06-22</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-06-22">Samstag, 22. Juni 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-14">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band21/">
+      <body>
+         <pb n="21-0782" facs="21_1974-06-22_0782.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, 22. Juni 1974</p><p xml:space="preserve">In der letzten Phase des Wahlkampfes habe ich immer den Eindruck<lb/>
+handelt es sich nur mehr um reine Routineveranstaltungen. Wir im<lb/>
+3. Bezirk verteilen mit der JG die restlichen noch vorhandenen<lb/>
+Broschüren und Flugblätter in unserer Koje der JG beim AEZ ver<lb break="no"/>teile auch noch zu Hunderten vorhandene <name type="person" ref="#per__97632">Kirchschläger</name>-Postkarten<lb/>
+Autogramme. Die Stimmung ist eigentlich sehr gedrückt. Sicherlich<lb/>
+gelegentlich kommen Genossen und wenn ich sage, ich bitte sie um<lb/>
+die Stimme für <name type="person" ref="#per__97632">Kirchschläger</name>, sagen sie selbstverständlich, manche<lb/>
+meinen, wir werden die Daumen drücken, andere wieder, der muss ja<lb/>
+gewinnen, die Spitzenfunktionäre in unserem Bezirk sind so wie<lb/>
+immer teils sehr optimistisch, teils allerdings können sie gar<lb/>
+nicht glauben, dass wir gewinnen. Das Schlechteste ist eben, wenn<lb/>
+man in den Wahlkampf, wie dies bei Beginn der Fall war, mit<lb/>
+einem so grossen Vorsprung, den <name type="person" ref="#per__97632">Kirchschläger</name> gehabt hat, eintritt<lb/>
+Dadurch strengst sich der Gegner natürlich sehr stark an und das<lb/>
+Endergebnis ist, dass er auf alle Fälle aufholt und damit im Zusam<lb break="no"/>menhang, entweder bei unseren Funktionären und Wahlhelfern eine<lb/>
+deprimierte Pfeif-Drauf-Stimmung entsteht oder wenn dann diese<lb/>
+Phase überwunden ist, mit umso grösseren Anstrengungen der End<lb break="no"/>spurt in Angriff genommen wird. Ich weiss allerdings nicht, ob<lb/>
+wir jetzt nicht gerade das Tief erreicht haben, anstelle des<lb/>
+so notwendigen Hochs für die letzten Tage der Auseinandersetzung.<lb/>
+Die Versammlungen sind sicherlich phantastisch besucht. Im<lb/>
+Schwechaterhof hat <name type="person" ref="#per__114375">Lugger</name> wesentlich weniger gehabt als <name type="person" ref="#per__97632">Kirch<lb break="no"/>schläger</name>, trotzdem glaube ich noch immer und muss meine Prognose<lb/>
+auch kaum ändern, dass es nur ein knapper Sieg werden kann.</p></div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__114375">
+               <persName type="label">Lugger, Alois</persName>
+               <persName><surname>Lugger</surname><forename>Alois</forename></persName>
+               <occupation>Innsbrucker Bgm., BP-Kandidat 1974</occupation>
+               <ptr type="mentioned" target="#staribacher__19780410.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+            </person>
+            <person xml:id="per__97632">
+               <persName type="label">Kirchschläger, Rudolf</persName>
+               <persName><surname>Kirchschläger</surname><forename>Rudolf</forename></persName>
+               <occupation>Außenminister, Bundespräsident</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118723189</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810311.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810521.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810609.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810710.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

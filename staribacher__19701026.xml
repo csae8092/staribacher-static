@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701026.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701025.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701027.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 26. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-26">Montag, 26. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0700" facs="03_1970-10-26_0700.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-26">Montag, 26. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Obwohl Nationalfeiertag war, vereinbarten die Herren des SM und von<lb/>
+mir Dr. <name type="person" ref="#per__97524">Hauffe</name>, Dr. <name type="person" ref="#per__114517">Benda</name> und ein dritter Kollege sowie Dr. <name type="person" ref="#per__97646">Koppe</name>,<lb/>
+eine Sitzung über das Lebensmittelgesetz. Ich selbst erschien ebenfalls<lb/>
+um 8 Uhr Früh bereits, um die Einleitung dieser Besprechung zu ver<lb break="no"/>folgen. Es ist dies der neue Weg, den ich sehr gerne mit dem Sozial<lb break="no"/>ministerium in Zukunft bei allen Gesetzesentwürfe einhalten möchte.<lb/>
+An Stelle von seitenlangen Gutachten, die dann in den seltensten Fällen<lb/>
+von dem Sozialminister berücksichtigt wurden, möchte ich durch Kontakt<lb/>
+der Bearbeiter der Materien womöglich entsprechend Einflussnahme<lb/>
+sicherstellen, um dadurch allzu negative Gutachten unserer Referenten<lb/>
+zu verhindern, ohne dass ich eine konkrete diesbezügliche Weisung<lb/>
+geben muss. Dieses Experiment ist bei der Materie über das Lebensmittel<lb break="no"/>gesetz zumindestens die Stunde, die ich anwesend war, sehr gut gelaufen.<lb/>
+Es konnten in Anlehnung an den Entwurf des deutschen Lebensmittelgesetzes<lb/>
+doch einige wesentliche Änderungen für die Wirtschaft in den derzeit<lb/>
+vorliegenden Entwurf des Sozialministeriums erreicht werden. Da ich<lb/>
+leider zu einer Repräsentationsverpflichtung wie die Kranzniederlegung<lb/>
+und den Ministerrat gehen musste, konnte ich die ganze Zeit nicht an<lb break="no"/>wesend sein. Als ich mich verabschiedete, ging Sekt.Chef. <name type="person">Bauhofer</name> noch<lb/>
+mit mir und versicherte mir, dass er sehr einverstanden sei, wenn wir<lb/>
+jetzt auf dieser Basis ein gemeinsames Lebensmittelgesetz erarbeiten.<lb/>
+Er sagte mir, dass er mit dem ursprünglichen Entwurf, den <name type="person" ref="#per__97808">Petuely</name> aus<lb break="no"/>gearbeitet hatte, selbst im Hause sehr grosse Schwierigkeiten gehabt<lb/>
+hätte, weil seine Referenten ebenfalls erklärt hätten, dass dieser<lb/>
+vollkommen unbrauchbar gewesen ist. Häuser und <name type="person">Wondrack</name>, der ich von<lb/>
+dieser Besprechung Mitteilung machte, waren mit der Vorgangsweise auch<lb/>
+einverstanden. Häuser meinte nur, dass in Zukunft aber nur bei einzelnen<lb/>
+Gesetzen , die wir zuerst als Minister besprechen und abgrenzen müssten,<lb/>
+diese Vorgangsweise möglich sei. <name type="person">Wondrack</name> sagte, sie hätte diesen Gesetz<lb break="no"/>entwurf deshalb so hart ausgelegt, damit ich die Möglichkeit hätte,<lb/>
+im Interesse der Wirtschaft einige Änderungen vorzunehmen.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97646">
+               <persName type="label">Koppe, Fritz</persName>
+               <persName><surname>Koppe</surname><forename>Fritz</forename></persName>
+               <occupation>Sekr. JS, ab 1973 GF VKI</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__97808">
+               <persName type="label">Petuely, Friedrich</persName>
+               <persName><surname>Petuely</surname><forename>Friedrich</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780529.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800609.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810512.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810810.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+            </person>
+            <person xml:id="per__114517">
+               <persName type="label">Benda, Dietrich</persName>
+               <persName><surname>Benda</surname><forename>Dietrich</forename></persName>
+               <occupation>Jurist Abt. Agrarfragen HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780502.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780621.xml"/>
+            </person>
+            <person xml:id="per__97524">
+               <persName type="label">Hauffe, Herbert</persName>
+               <persName><surname>Hauffe</surname><forename>Herbert</forename></persName>
+               <occupation>MR HM</occupation>
+               <idno type="GND">http://d-nb.info/gnd/133521052</idno>
+               <ptr type="mentioned" target="#staribacher__19710119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780522.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

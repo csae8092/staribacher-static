@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701016.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701015.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701019.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 16. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-16">Freitag, 16. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0655" facs="03_1970-10-16_0655.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-16">Freitag, 16. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve"><name type="person" ref="#per__97602">Jodlbauer</name> kam mit dem einzigen sozialistischen Bankbesitzer des<lb/>
+Bankhauses Brüll und Kalmus, <name type="person">Winfried</name> zu mir. Komm.Rat <name type="person">Winfried</name> hat die<lb/>
+Bank von 2,5 Mill. S auf 280 Mill. S vergrössert. Er wird diese Bank<lb/>
+aber ab 1.1.1971 in eine AG umwandeln. Ausserdem wird er am 4.12.<lb/>
+in Linz eine Filiale errichten. Dieses Bankhaus hat bisher unter<lb/>
+der Führung der Z von Dr. <name type="person" ref="#per__97781">Neubauer</name> sehr gute Geschäfte mit <name type="person" ref="#per__97781">Neubauer</name><lb/>
+gemacht. Ich kann natürlich nicht feststellen, wie weit diese Geschäfts<lb break="no"/>verflechtung zu Ungunsten der Zentralsparkasse gewesen ist. Auf alle<lb/>
+Fälle hat der Nachfolger von Dr. <name type="person" ref="#per__97781">Neubauer</name> Dr. <name type="person" ref="#per__109965">Mantler</name> diese Verbin<lb break="no"/>dung weitestgehend eingestellt. Komm.Rat <name type="person">Wilfried</name> ist zweifellos ein<lb/>
+sehr aktiver Mann, er selbst schätzt dass er jetzt ein Vermögen von<lb/>
+40 Mill. S besitzt, und bekennt sich auch dazu. Er hat z.B. die<lb/>
+Bahnbaumaschinen Wels derartig günstig mit neuen Ideen geleitet,<lb/>
+dass die daraus hervorgegangene Firma <choice><choice><sic>Blasser und Teurer,</sic><corr>Plasser &amp; Theurer</corr></choice></choice> die Gleis<lb break="no"/>stoffmaschinen heute erzeugen, in der ganzen Welt einen sehr guten<lb/>
+Ruf hat. Hauptsächlich dürfte er gekommen sein, weil – wie er behauptet<lb/>
+ein Beschluss des Parteivorstandes existiere, wonach alle Banken liqui<lb break="no"/>diert werden sollten, oder zumindestens der BAWAG eingegliedert. Ich<lb/>
+konnte ihn insoferne beruhigen, da ein solcher Beschluss nicht existiert<lb/>
+mir zumindestens nicht bekannt ist, sondern in Wirklichkeit wurde nur<lb/>
+seinerzeit mitgeteilt, dass die BAWAG durch sehr grosse Transaktionen<lb/>
+die sie für die Partei durchgeführt hat, auch wenn irgendwie möglich<lb/>
+mit Geldern aufgefüllt werden soll.</p>
+            <p xml:space="preserve">Im Institut für Gesellschaftspolitik wurde ein Vortrag von Prof.<lb/>
+<name type="person" ref="#per__97499">Günther</name>, der Leiter des deutschen Kartellamtes, allgemein ausgeschrieben<lb/>
+Zu diesem Vortrag waren interessanterweise nur ca. 70 Personen gekommen,<lb/>
+die grösstenteils sogar von der Arbeiterkammer waren. Der Vortrag war<lb/>
+sehr abstrakt gehalten und wurde dem Titel "Konzeption einer modernen<lb/>
+Wettbewerbspolitik -- Erwägungen auf Grund deutscher Erfahrungen" nur<lb/>
+zum Teil recht. <name type="person" ref="#per__98053">Wanke</name> hatte allerdings in der Einleitung bereits darauf<lb/>
+hingewiesen, dass wir uns nur inspirieren lassen wollten von den Er<lb break="no"/>fahrungen, die in Deutschland gepflogen wurden und keinesfalls kopieren<lb/>
+wollen. Bei der Zusammenfassung erklärte er, dass dieser Vortrag eine<lb/>
+gute Grundlage für weitere Studien und Überlegungen in Österreich<lb/>
+dienen könnte. Die anschliessende Diskussion konnte ich nicht mehr<lb/>
+mit anhören und fragte deshalb in der Pause, wie er sich jetzt wirklich<lb/>
+eine zweckmässige Wettbewerbsordnung vorstellt. Die Ausführungen<lb/>
+<pb n="03-0656" facs="03_1970-10-16_0656.jpg"/>die ihn nur zu hören bekam, überraschten mich. <name type="person">Günther</name> legte<lb/>
+in einem Zug ein vollkommenes neues Konzept einer Wettbewerbsordnung<lb/>
+dar, indem er frei weg erklärte, er würde sein Konzept, das er<lb/>
+vor 10 Jahren ungefähr in der BRD vertreten hatte, jetzt nach fol<lb break="no"/>genden Richtlinien aufbauen. Es folgte nun eine lückenlose Dar<lb break="no"/>stellung eines neuen Wettbewerbskonzepts, was mich allein schon<lb/>
+in der Darstellung faszinierte. Ich ersuchte ihn, deshalb diese<lb/>
+Gedanken festzuhalten. Er versprach mir auch ein solches Schreiben<lb/>
+zu schicken. Da ich nicht ganz sicher war, ob er dies auch tatsächlich<lb/>
+machen würde, ersuchte ich <name type="person" ref="#per__98053">Wanke</name>, er möge, bevor <name type="person">Günther</name> abfährt,<lb/>
+von ihm vielleicht noch eine Diktaphohn-Aufzeichnung seiner Gedanken<lb/>
+veranlassen. Wie mir <name type="person" ref="#per__98053">Wanke</name> mitteilte, hat <name type="person">Günther</name> dann in 16 Minuten<lb/>
+ein vollkommenes Konzept einer neuen Wettbewerbsordnung abdiktiert.</p>
+            <p xml:space="preserve">ANMERKUNG: Bitte, nach Niederschrift dieses Konzept eine Kopie<lb/>
+diesem Tagesbericht beilegen.</p>
+            <p xml:space="preserve">Die Gewerkschaft der Lebens- und Genussmittelarbeiter hatte eine<lb/>
+Sekretärbesprechung für Freitag, den ganze Tag, angesetzt. Und ich<lb/>
+kam verspätet durch den Vortrag <name type="person">Günther</name> dazu. Ich musste mir natürlich<lb/>
+jetzt die ganze Diskussion über die Tätigkeit der einzelnen Gruppen<lb/>
+und der Länder anhören. Bei solchen Dienstbesprechungen kann ich immer<lb/>
+wieder feststellen, dass die Mitteilung in keinem Verhältnis zur<lb/>
+tatsächlichen Leistung steht. Es gibt Sekretäre, die sehr tüchtig sind<lb/>
+und kaum referieren und dann gibt es Sekretäre, die kaum etwas machen<lb/>
+und dafür wesentlich länger reden. Dies ist eine alte Erfahrungstatsache<lb/>
+die man in jedem Büro feststellen kann. Ich glaube, dies soll als War<lb break="no"/>nung dienen, dass wir nicht bei unseren Sektionsleiterbesprechungen<lb/>
+ebenfalls in denselben Trott hineinverfallen. Die Hauptfrage, die sich<lb/>
+für mich in diesem Problem immer wieder ergibt, ist, wie kann man einer<lb/>
+seits Sekretäre oder Beamte zur Arbeit verhalten, dass sie Initiative<lb/>
+entwickeln, andererseits aber die Scharlatane, die nur durch viel Re<lb break="no"/>den ihre Untätigkeit kaschieren wollen, ohne sie allzu sehr zu belei<lb break="no"/>digen auf ihren richtigen Leistungsbericht zurückstauchen. Da die Vor<lb break="no"/>aussetzung einer Menschenführung auf alle Fälle die gerechte Vertei<lb break="no"/>lung von Lob und Tadel ist, ergibt sich in diesem Punkt immer wieder<lb/>
+ein grosses Dilemma. Vielleicht höre ich mir zu geduldig mir oft Sachen<lb/>
+an, die man eigentlich frühzeitig abstoppen müsste.</p>
+            <pb n="03-0657" facs="03_1970-10-16_0657.jpg"/>
+            <p xml:space="preserve">Spät abends, ich wollte bereits weggehen, kam noch Min.Rat <name type="person" ref="#per__97524">Hauffe</name><lb/>
+und wollte mit mir ganz kurz über seine Personalbewerbung reden.<lb/>
+Er teilte mir mit, dass er als loyaler Mitarbeiter zu betrachten<lb/>
+sei, wenn er in die neue Sektionsleitung berufen würde. Ich erklärte<lb/>
+ihm ganz offen, dass ich eine endgültige Entscheidung noch nicht<lb/>
+getroffen habe. Die Bundeskammer, Dr. <name type="person" ref="#per__97769">Mussil</name>, hat mich seinerzeit<lb/>
+auf ihn bereits aufmerksam gemacht, allerdings musste ich <name type="person" ref="#per__97769">Mussil</name><lb/>
+damals mitteilen, dass nach einigen Stimmen, die ich vom Hause<lb/>
+gehört habe, dies eine Revolution auslösen würde. Er erwiderte,<lb/>
+dass er sich dies nicht vorstellen könne, sondern dass nur<lb/>
+vereinzelt Leute gegen ihn Stellung nehmen, weil er sehr initiativ<lb/>
+ist und vor allem will, dass die alten Kracher hier im Hause nicht<lb/>
+mehr so viel reden sollten. Ich musste ihm entgegen halten, dass er<lb/>
+von <name type="person" ref="#per__97749">Mitterer</name> als Kronprinz ausersehen bereits im Hause auf<lb/>
+sehr grossen Widerstand auf sein dadurch ausgelöstes Verhalten<lb/>
+gestossen ist. Er wollte Namen wissen, die ich ihm selbstverständl<lb break="no"/>ich nicht mitteilte. Die Aussprache war auf alle Fälle sehr offen<lb break="no"/>herzig und ich hoffe, dass sie bei ihm nicht einen Stachel zurückgelas<lb break="no"/>sen hatte, weil ich ihm natürlich keinerlei Zusagen gemacht hatte.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__97499">
+               <persName type="label">Günther, Eberhard</persName>
+               <persName><surname>Günther</surname><forename>Eberhard</forename></persName>
+               <occupation>Präs. BRD-Bundeskartellamt</occupation>
+               <ptr type="mentioned" target="#staribacher__19720214.xml"/>
+            </person>
+            <person xml:id="per__97749">
+               <persName type="label">Mitterer, Otto</persName>
+               <persName><surname>Mitterer</surname><forename>Otto</forename></persName>
+               <occupation>Handelsminister, ÖVP, Präs. HK Wien</occupation>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720411.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780523.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780530.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780805.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+            </person>
+            <person xml:id="per__97524">
+               <persName type="label">Hauffe, Herbert</persName>
+               <persName><surname>Hauffe</surname><forename>Herbert</forename></persName>
+               <occupation>MR HM</occupation>
+               <idno type="GND">http://d-nb.info/gnd/133521052</idno>
+               <ptr type="mentioned" target="#staribacher__19710119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780522.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+            </person>
+            <person xml:id="per__97769">
+               <persName type="label">Mussil, Arthur</persName>
+               <persName><surname>Mussil</surname><forename>Arthur</forename></persName>
+               <occupation>Gen.Sekr. HK, ÖVP-NR-Abg., später AR-Präs. Verbund</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800826.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800909.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810402.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+            </person>
+            <person xml:id="per__97602">
+               <persName type="label">Jodlbauer, Harry</persName>
+               <persName><surname>Jodlbauer</surname><forename>Harry</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710318.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710416.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710809.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+            </person>
+            <person xml:id="per__98053">
+               <persName type="label">Wanke, Otto</persName>
+               <persName><surname>Wanke</surname><forename>Otto</forename></persName>
+               <occupation>SChef HM</occupation>
+               <idno type="GND">http://d-nb.info/gnd/12195126X</idno>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810413.xml"/>
+            </person>
+            <person xml:id="per__109965">
+               <persName type="label">Mantler, Karl jun.</persName>
+               <persName><surname>Mantler</surname><forename>Karl jun.</forename></persName>
+               <occupation>Vizepräs. OeNB</occupation>
+               <ptr type="mentioned" target="#staribacher__19780110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800909.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810525.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810602.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

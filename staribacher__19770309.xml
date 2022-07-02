@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19770309.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19770308.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19770310.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Mittwoch, der  9. März 1977</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band35_1977-03-09</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1977-03-09">Mittwoch, 9. März 1977</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-04-15">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="35-0295" facs="35_1977-03-09_0295-06-D.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve"><add>Mittwoch, 9.III.77 / das ist alles!</add><lb/>
+</p>
+            <p xml:space="preserve">Wir werden uns den Kopf zerbrechen müssen, was man allgemein<lb/>
+bei einer solchen Auszeichnungsverleihung sagen soll. Für<lb/>
+mich geschah es jetzt schon über ein Dutzend mal. Für die Hunderten<lb/>
+die ich ausgezeichnet habe, in jedem einzelnen Fall aber das<lb/>
+erste Mal. Ich könnte mir sehr gut vorstellen, dass es zwar für<lb/>
+mich schon eine Routinesache und fade Angelegenheit ist und trotzdem<lb/>
+für den <choice><choice><sic>Einzelausgezeichneten</sic><corr>einzelnen Ausgezeichneten?</corr></choice></choice> eine gewisse feierliche Attraktion.<lb/>
+Ich versuche zumindestens für diesen einzelnen es so weit wie<lb/>
+möglich persönlich zu gestalten. Man behauptet sogar, dass mir<lb/>
+dies gelingt. Einfach ist die Sache nicht, weil ich mich<lb/>
+ganz davon leiten lasse, was mir eben mehr oder weniger Richtiges<lb/>
+bei dieser Handlung einfällt. Vielleicht könnte mir doch jemand für<lb/>
+das nächste Mal entsprechende Vorschläge machen.<lb/>
+</p>
+            <p xml:space="preserve">Die Sektionsleitersitzung, obwohl wir sie jetzt nur einmal im<lb/>
+Monat halten, artet schön langsam in reinste Routine aus. aus. Obwohl<lb/>
+ich den Termin schon zeitgerecht bekanntgebe, nehmen auch immer<lb/>
+mehr Sektionsleiterstellvertreter an dieser Aussprache teil. Dies<lb/>
+darf ich aber beim besten Willen nicht einreissen lassen. Ich kann<lb/>
+mir sehr gut vorstellen, dass jeder Sektionsleiter kein besonderes<lb/>
+Interesse daran hat, was der andere berichtet. Diese Idee, eine<lb/>
+Diskussion über wirkliche Probleme dort abzuführen, lässt sich<lb/>
+ja kaum verwirklichen. Allerdings muss ich selbstkritisch zugeben,<lb/>
+dass auch ich dazu gar nichts beitrage. Vielleicht ändert sich<lb/>
+dies, wenn wir im nächsten Jahr die politisch einwandfreie Zusammen<lb break="no"/>setzung haben werden. Dann wird allerdings die Frage entstehen,<lb/>
+wie wir diesen Bericht, den wir jetzt an das BKA auf Grund des<lb/>
+Kompetenzgesetzes schicken müssen, erstellen. Wenn es wirklich zu<lb/>
+einer interessanten Diskussion bei den Sektionsleiterbesprechungen<lb/>
+kommen soll, müsste man nämlich wirkliche Schwerpunkte nicht nur<lb/>
+herausgreifen sondern solche auch finden, die alle interessieren,<lb/>
+z.B. Personalpolitik, Budgetfragen usw. Derzeit ist dies nicht<lb/>
+möglich, weil wir natürlich gar nicht in diesem Rahmen die wirk<lb break="no"/>lichen Probleme anschneiden wollen. Trotzdem müssen wir uns eine<lb/>
+neue Form für das heurige Jahr noch überlegen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__98053">WANKE</name>: Du als ehemaliges Büromitglied und jetziger<lb/>
+Sektionschef müsstest am besten wissen, wie wir aus diesem Dilemma<lb/>
+herauskommen.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__98053">
+               <persName type="label">Wanke, Otto</persName>
+               <persName><surname>Wanke</surname><forename>Otto</forename></persName>
+               <occupation>SChef HM</occupation>
+               <idno type="GND">http://d-nb.info/gnd/12195126X</idno>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810413.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

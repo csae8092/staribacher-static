@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19750504.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750503.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750505.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der  4. Mai 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band25_1975-05-04</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-05-04">Sonntag, 4. Mai 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-19">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="25-0552" facs="25_1975-05-04_0552.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 4. Mai 1975<lb/>
+</p>
+            <p xml:space="preserve">Bei der Eröffnung der IFABO konnte ich auf die Entstehungsgeschichte<lb/>
+näher eingehen. Seinerzeit war nämlich das Gremium so gegen diese<lb/>
+Fachausstellung, dass sich die damals jungen progressiven Unter<lb break="no"/>nehmer und Vertreter an mich wegen einer Unterstützung wandten, ge<lb break="no"/>meinsam haben wir dann diese Fachausstellung aus der Taufe gehoben<lb/>
+und sich hat sich bestens bewährt. Natürlich bin ich ein wenig stolz<lb/>
+darauf. Die Ausstellung selbst ist auch diesmal wieder durch besonders<lb/>
+interessante Projekte sehenswert und ich hoffe nur, dass viele nicht<lb/>
+nur ansehen sondern auch einige kaufen kommen, nicht kontaktieren<lb/>
+sondern kontrahieren, wie der Gremialvorsteher Wiens meinte.<lb/>
+Natürlich musste ich alle wichtigen Firmen besuchen und habe dort<lb/>
+von den neuesten Errungenschaften erfahren. Zu meiner Schande muss<lb/>
+ich gestehen, die anderen bemerken es allerdings nicht, dass ich<lb/>
+viel zu wenig Fachwissen über die Computertechnik habe. Da ich mit<lb/>
+meinen Fragen äusserst vorsichtig vorgehe, kann ich dieses Nicht<lb break="no"/>wissen ganz gut tarnen.<lb/>
+</p>
+            <p xml:space="preserve">Die Derby-Siegerpreisüberreichung fand am Wiener Trabrennplatz<lb/>
+statt. Ich halte ja von diesem Firlefanz herzlich wenig, <name type="person" ref="#per__113038">Reim</name><lb/>
+glaubt nur, dass man nicht nur allein zur Kranzüberreichung kommen<lb/>
+kann, sondern sich auch für den Pferdesport interessieren sollte.<lb/>
+Er selbst war auch erschienen und hat seinen Sonntag bei der IFABO<lb/>
+und dem Rennen geopfert! Das Ergebnis ist sicher nicht überwältigend<lb/>
+ausser dass Kontakte geknüpft werden konnten. Die Leute, die ich<lb/>
+dort bei dieser Rennveranstaltung traf, sind kaum zu beeinflussen.<lb/>
+Die Wirkung über das Fernsehen ist genauso minimal. Eine Kosten-<lb/>
+Nutzen-Rechnung möchte ich hier nicht anstellen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__113038">
+               <persName type="label">Reim, Rudolf</persName>
+               <persName><surname>Reim</surname><forename>Rudolf</forename></persName>
+               <occupation>Beamter HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19780220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780615.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810326.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810622.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810831.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

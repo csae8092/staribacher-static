@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19750406.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750405.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750407.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der  6. April 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band25_1975-04-06</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-04-06">Sonntag, 6. April 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-11-21">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="25-0411" facs="25_1975-04-06_0411.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 6. April 1975<lb/>
+</p>
+            <p xml:space="preserve">Direktor <name type="person" ref="#per__114117">Mayerhofer</name> von der Wiener Betriebsansiedlungsgesell<lb break="no"/>schaft teilt mir vertraulich mit, dass sie jetzt Betriebe in<lb/>
+der nächsten Zeit umsiedeln resp. neu ansiedeln werden. 1974<lb/>
+waren es nur 8 Betriebe. Da wir diese Aktion insbesondere wegen<lb/>
+Propaganda, dass in Österreich und insbesondere in Wien nicht<lb/>
+investiert wird, ersuche ich ihn, dass er diese ganz gross<lb/>
+startet. Eine diesbezügliche Pressekonferenz wird von ihm<lb/>
+abgehalten.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Wünsche der ÖFVW, ein neues Objekt zu bekommen,<lb/>
+sieht <name type="person" ref="#per__114117">Mayerhofer</name> die Möglichkeit, entweder ein Fabriksgebäude<lb/>
+bei ihm zu mieten, zu pachten oder zu kaufen. Letzteres käme<lb/>
+irrsinnig teuer. Der Erwerb von einem Grundstück mit Lagerhallen<lb/>
+und Büroräumen würde seiner Auffassung nach in Wien, auch dann<lb/>
+wenn er sich noch so einsetzt, wesentlich teurer kommen als eine<lb/>
+Miete. Ich schlage ihm vor, dass sich <name type="person" ref="#per__111736">Zolles</name> mit ihm ins Ein<lb break="no"/>vernehmen setzen wird, um die beste Lösung zu finden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__97377">BUKOWSKI</name>: Bitte <name type="person" ref="#per__111736">Zolles</name> verständigen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__114117">
+               <persName type="label">Mayerhofer, Anton</persName>
+               <persName><surname>Mayerhofer</surname><forename>Anton</forename></persName>
+               <occupation>Wr. Betriebsansiedlungsgesellschaft, Schwager Staribachers</occupation>
+               <ptr type="mentioned" target="#staribacher__19710222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710403.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780403.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801024.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801121.xml"/>
+            </person>
+            <person xml:id="per__97377">
+               <persName type="label">Bukowski, Dietrich</persName>
+               <persName><surname>Bukowski</surname><forename>Dietrich</forename></persName>
+               <occupation>Büro Staribacher, Botschafter in Sofia/Straßburg</occupation>
+               <ptr type="mentioned" target="#staribacher__19780214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780712.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800410.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+            </person>
+            <person xml:id="per__111736">
+               <persName type="label">Zolles, Helmut</persName>
+               <persName><surname>Zolles</surname><forename>Helmut</forename></persName>
+               <occupation>Direktor ÖFVW</occupation>
+               <ptr type="mentioned" target="#staribacher__19710215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710628.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810824.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811021.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811221.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

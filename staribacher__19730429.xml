@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19730429.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730428.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730430.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 29. April 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band15_1973-04-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-04-29">Sonntag, 29. April 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-19">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band15/">
+      <body>
+         <pb n="15-0491" facs="15_1973-04-29_0491.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Sonntag, 29. April 1973</p><p xml:space="preserve">Die beiden Mai-Feiern in Leobersdorf und Günselsdorf fanden in Arbeiter<lb break="no"/>heimen statt. Dadurch war es möglich, in allerdings meistens von älteren<lb/>
+Leuten besuchten Veranstaltungen über die Tätigkeit der Bundesregierung<lb/>
+ausführlicher Bericht zu erstatten. Durch ein Versehen hat <name type="person" ref="#per__97646">Koppe</name> von<lb/>
+der Grazer Messe meine ganzen Unterlagen mitgenommen. Da ich aber nun<lb/>
+über die Regierungstätigkeit sprechen musste, wo ich schon so oft<lb/>
+referierte und auch die Schmähs schon bei jedem Punkt auswendig<lb/>
+weiss, war es nicht schwer, ein verhältnismässig ausführliches und doch<lb/>
+nicht allzu fades Referat zu halten. Die Veranstalter, aber ich glaube<lb/>
+auch die Besucher waren damit sehr einverstanden und zufrieden. Aller<lb break="no"/>dings sind die beiden Gemeinden Leobersdorf und Günselsdorf soziali<lb break="no"/>stische Gemeinden und Ergebnisse waren zu erwarten. Ich habe mit<lb/>
+<name type="person" ref="#per__97646">Koppe</name> mich unterhalten, ob es nicht zweckmässig wäre, ganz systematisch<lb/>
+mit <name type="person" ref="#per__114511">Fritz Muliar</name>, er schlägt sogar vor, <name type="person">Max Lustig</name>, Besprechungen zu<lb/>
+führen, wie man vielleicht zu einzelnen politischen Punkten einige<lb/>
+Gags finden könnte, die man dann variierend bei den Versammlungen immer<lb/>
+wieder anbringt. Ich wundere mich selbst, wie mir doch gelegentlich<lb/>
+ein oder andere Schmäh einfällt und dies wesentlich dazu beiträgt,<lb/>
+um die Leute nicht nur an dem Vortrag mehr zu interessieren, sondern<lb/>
+sie direkt glücklich sind, dass sie nicht die trockene Materie doziert<lb/>
+bekommen. Gerade wenn man darauf Wert legt, die Arbeiter und Angestellten<lb/>
+und vor allem einmal die kleineren Leute sich für politische<lb/>
+Probleme interessieren sollten, dann muss man ihnen eine Vortragsart<lb/>
+bieten, damit sie wirklich auf ihre Rechnung kommen. Dies bedeutet<lb/>
+auf der einen Seite Information, auf der anderen Seite aber in einer<lb/>
+Darstellung, die sie nicht zum Einschlafen veranlasst.</p><p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__97543">HEINDL</name> UND <name type="person" ref="#per__97646">KOPPE</name>: Ich glaube, wir sollten eine Möglich<lb break="no"/>keit suchen, um neuen Stil in der Darstellung der<lb/>
+politischen Probleme zu finden.</p></div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97646">
+               <persName type="label">Koppe, Fritz</persName>
+               <persName><surname>Koppe</surname><forename>Fritz</forename></persName>
+               <occupation>Sekr. JS, ab 1973 GF VKI</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__97543">
+               <persName type="label">Heindl, Kurt</persName>
+               <persName><surname>Heindl</surname><forename>Kurt</forename></persName>
+               <occupation>1970-1973 Büro Staribacher, SPÖ-NR-Abg., stv. Vors.
+                  SPÖ-Landstraße</occupation>
+               <idno type="GND">http://d-nb.info/gnd/102318379X</idno>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            <person xml:id="per__114511">
+               <persName type="label">Muliar, Fritz</persName>
+               <persName><surname>Muliar</surname><forename>Fritz</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711007.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780517.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800122.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

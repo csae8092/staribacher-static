@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700503.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700501.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700504.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der  3. Mai 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band01_1970-05-03</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-05-03">Sonntag, 3. Mai 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-02">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
+      <body>
+         <pb n="01-0053" facs="01_1970-05-03_0053.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-05-03">Sonntag, 3. Mai 1970</date>
+            </dateline>
+            <p xml:space="preserve">Beim Berufswettkampf der Arbeiterkammer wurde ich als<lb/>
+Kammeramtsdirektor angekündigt, daß ich die Begrüßungs<lb break="no"/>ansprache halten werde. Da ich nun inzwischen zu meiner<lb/>
+größten und wahrscheinlich auch aller anderen Vewunderung<lb/>
+der zuständige Minister für Berufsausbildung wurde, konnte<lb/>
+ich die Eröffnungsansprache halten. Die Begrüßung besprach<lb/>
+Präsident <name type="person">Hrdlicka</name>. Ich selbst hielt mich sehr sehr kurz,<lb/>
+dankte nur allen Stellen die sich bemüht hatten, daß dieser<lb/>
+Berufswettkampf zustande gekommen ist, insbesondere na<lb break="no"/>türlich den Lehrherren und den Lehrwerkstätten, den Schulen,<lb/>
+den Innungen, Fachverbänden, Gremien , den Gewerkschafts<lb break="no"/>funktionären und natürlich auch der Arbeiterkammer, die<lb/>
+bisher 13 Mio. S für ca. 130.000 Berufswettkämpfer ausgegeben<lb/>
+hatte, aber allen voran dankte ich immer wieder den Jugendlichen,<lb/>
+die damit zeigen, daß sie nicht eine lethargische Masse sind die<lb/>
+sich um nichts interessiert sondern, daß es bis jetzt 130.000<lb/>
+Jugendliche waren, die in Berufswettkämfpen ihr Bestes getan<lb/>
+hatten, durch Weiterbildung bestrebt sind, eine bessere wirt<lb break="no"/>schaftlichere Position in Österreich zu erreichen.</p>
+            <p xml:space="preserve">Anschließend spielte das <name type="person" ref="#per__97800">Hazy-Osterwald</name>-Sextett. Da ich in der ersten<lb/>
+Reihe saß hatte ich das Gefühl, mit 120 Phon berieselt zu werden.<lb/>
+Ich erklärte in der Pause jeden der es hören wollte, wenn hier der<lb/>
+Arbeitsinspektor anwesend wäre, würde er wahrscheinlich die<lb/>
+Lokalität wegen übergroßer Lärmentwicklung schließen.</p>
+            <pb n="01-0054" facs="01_1970-05-03_0054.jpg"/>
+            <p xml:space="preserve">Den Jugendlichen aber, ich konnte dies an meinen Söhnen<lb/>
+feststellen, hat es sehr gut gefallen und der Lärm machte<lb/>
+ihnen eigentlich nichts aus. Im Gegenteil, sie erwarten vom<lb/>
+modernen Jazz eine entsprechend hochphonige Darbietung.</p>
+         </div>
+      </body>
+    
+  <back/></text>
+</TEI>

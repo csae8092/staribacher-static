@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19730428.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730427.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730429.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 28. April 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band15_1973-04-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-04-28">Samstag, 28. April 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-19">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band15/">
+      <body>
+         <pb n="15-0490" facs="15_1973-04-28_0490.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, 28. April 1973</p><p xml:space="preserve">Bei der Eröffnung der Grazer Messe hat das erste Mal Bürgermeister <name type="person" ref="#per__112569">Götz</name><lb/>
+gesprochen und erklärt, er will mit der Tradition der Forderungen an<lb/>
+Land und Bund brechen. Er hat sehr geschickt darauf hingewiesen, dass<lb/>
+Graz in Hinkunft ein Mittelpunkt und Drehscheibe zwischen Südost und<lb/>
+Österreich sein soll, wie es auch der Grazer Messe entspricht. Ich<lb/>
+fragte ihn anschliessend, ob er tatsächlich glaubt, dass er sein<lb/>
+Programm, keine Forderungen an den Bund zu stellen, aufrechterhalten<lb/>
+wird, was ich an und für sich sehr begrüsse. Er meinte, man könne<lb/>
+dies zumindestens einmal versuchen. Mit <name type="person" ref="#per__113131">Niederl</name> habe ich über die<lb/>
+Wünsche Dr. <name type="person" ref="#per__146305">Freiborns</name> bezüglich Österreich-Mitte – Appartementhäuser –<lb/>
+gesprochen und er hat mir – wie ich erwartete – bestätigt, dass er<lb/>
+nicht bereit ist, Appartementhäuser tatsächlich zu unterstützen. Er<lb/>
+wird aber <name type="person" ref="#per__146305">Freiborn</name> empfangen. <name type="person" ref="#per__97646">Koppe</name> hat eine gut besuchte Presse<lb break="no"/>konferenz arrangiert, wo sich insbesondere der Vertreter der Südost-<lb/>
+Tagespost also der ÖVP-Zeitung durch ungeheures Detailwissen und<lb/>
+sehr interessante Fragen auszeichnet. Scheinbar muss man in der Opposi<lb break="no"/>tion sein, um auch Zeitungen zu einer aktiveren Haltung zu veranlassen.</p></div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97646">
+               <persName type="label">Koppe, Fritz</persName>
+               <persName><surname>Koppe</surname><forename>Fritz</forename></persName>
+               <occupation>Sekr. JS, ab 1973 GF VKI</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__113131">
+               <persName type="label">Niederl, Friedrich</persName>
+               <persName><surname>Niederl</surname><forename>Friedrich</forename></persName>
+               <occupation>steir. LH, ÖVP</occupation>
+               <ptr type="mentioned" target="#staribacher__19720216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720424.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780403.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780710.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780906.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780926.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+            </person>
+            <person xml:id="per__112569">
+               <persName type="label">Götz, Alexander</persName>
+               <persName><surname>Götz</surname><forename>Alexander</forename></persName>
+               <occupation>Grazer Bürgermeister, FPÖ</occupation>
+               <ptr type="mentioned" target="#staribacher__19780130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781003.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781017.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781019.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781025.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781026.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

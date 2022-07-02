@@ -1,0 +1,781 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19811023.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19811022.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19811024.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 23. Oktober 1981</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band62_1981-10-23</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1981-10-23">Freitag, 23. Oktober 1981</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-17">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="62-1212" facs="62_1981-10-23_1212.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 23. Oktober 1981<lb/>
+</p>
+            <p xml:space="preserve">Mit Länderbankgeneraldirektor <name type="person" ref="#per__110922">Vranitzky</name> und Chemieobmann NR <name type="person" ref="#per__98010">Teschl</name> be<lb break="no"/>sprachen wir die Absicht der PWA Halleiner Zellulosepapierfabrik, doch<lb/>
+nicht sich an dem Pölser Projekt zu beteiligen. Der deutsche GD <name type="person" ref="#per__132389">Lehmann</name><lb/>
+und der österreichische Halleiner Direktor <name type="person" ref="#per__133019">Patt</name> haben 3 Gründe. Das Pro<lb break="no"/>jekt sei technisch nicht ausgereift. Die Mindestausstattung, wie sie<lb/>
+die Vöest-Alpine jetzt anbietet, kostet 2,6 Mrd. S, hat Schwarzrohre, wäh<lb break="no"/>rend für die aggressiven Stoffe verchromte Rohre und sonstige andere<lb/>
+technische Verbesserungen unbedingt notwendig wären. Die Mindestver<lb break="no"/>besserung würde 300 Mio. ausmachen, eine "luxuriös" ausgereifte Fabrik<lb/>
+3 1/2 Mrd. S. Zweitens ist die Beteiligung, die der italienische Fabri-<lb/>
+bez. Burgo-Konzern angeboten hat, für PWA <choice><choice><sic>unbefriedigt</sic><corr>unbefriedigend</corr></choice></choice>. Keine Direktbe<lb break="no"/>teiligung an der Pölser Fabrik, sondern nur anderen Konzern. Drittens<lb/>
+ist der beabsichtigte <choice><choice><sic>weltanerkannte</sic><corr>weltweit anerkannte</corr></choice></choice> Berater <name type="person" ref="#per__134281">Böri</name> nur zu einer Beratung<lb/>
+und nicht zu einer Mitgestaltung durch Vertrag verpflichtet. Dr. <name type="person" ref="#per__109811">Burian</name>,<lb/>
+der im Aufsichtsrat der Pölser sitzt, meint, letzteres müßte jetzt bald<lb/>
+geregelt werden, denn die <choice><choice><sic>Donnerstag Aufsichtsratssitzung</sic><corr>in der Aufsichtsratssitzung am Donnerstag</corr></choice></choice> soll bereits<lb/>
+den Beratervertrag mit <name type="person" ref="#per__134281">Böri</name>, der 45 Mio. S kostet, 15 Mio. zahlt die Pöl<lb break="no"/>ser, 30 Mio. die Vöest-Alpine, abgeschlossen werden. Da mir GD <name type="person" ref="#per__132389">Lehmann</name> bei<lb/>
+seiner Vorsprache im Sommer versprochen hat, daß die Halleiner auf<lb/>
+alle Fälle sich beteiligen werden, hat GD <name type="person" ref="#per__110922">Vranitzky</name> mit <name type="person" ref="#per__132389">Lehmann</name> verein<lb break="no"/>bart, daß er jetzt die Gegenvorschläge so bald als möglich zuerst ihm,<lb/>
+und dann in weiterer Folge auch mir als Handelsminister mitteilen soll.<lb/>
+<name type="person" ref="#per__110922">Vranitzky</name> sagt richtig, wir sollten uns unter allen Umständen bemühen,<lb/>
+daß die Deutschen und Italiener sich einigen, sollte dies aber nicht<lb/>
+möglich sein, wodurch allerdings auch das Pölser Projekt gefährdet ist,<lb/>
+dann müßten die beiden an dem Scheitern schuld sein, was auch tatsäch<lb break="no"/>lich zutrifft.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__109811">BURIAN</name>: Laß auch die Abteilung recherchieren, wie es vom<lb/>
+offiziellen Standpunkt ausschaut.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Ordens- und Dekretüberreichung <choice><choice><sic>von</sic><corr>an</corr></choice></choice> 18 Personen im Marmorsaal<lb/>
+versuche ich immer, nach wie vor mit persönlichen Bemerkungen auf die<lb/>
+Ausgezeichneten einzugehen. Dies wird allerdings immer schwieriger, die<lb/>
+Ergänzungsinformationen aus dem Akt sind fast 0, selbst bei Hobby wird<lb/>
+jetzt immer draufgeschrieben, keines. Zum Glück mußte diesmal ein Ausge<lb break="no"/>zeichneter sofort auf den Flughafen fahren, weshalb ich keine Einlei<lb break="no"/>tungsansprache hielt, sondern gleich den Betreffenden auszeichnete und<lb/>
+verabschiedete.<lb/>
+</p>
+            <pb n="62-1213" facs="62_1981-10-23_1213.jpg"/>
+            <p xml:space="preserve">Beim Jour fixe mit GD <name type="person" ref="#per__97453">Fremuth</name> besprachen wir die Kritik der Betriebsräte<lb/>
+und auch jetzt schon der Gewerkschaft an seinem Verhältnis zu den Perso<lb break="no"/>nalvertretern. <name type="person" ref="#per__97453">Fremuth</name> ist sehr verärgert, daß man ihm großen Wider<lb break="no"/>stand für seine Reformarbeit, die die Verbund dringendst notwendig hat,<lb/>
+entgegensetzt. Er beabsichtigt, ein Organisationskomitee wie er glaubt<lb/>
+fähigster Leute, Dr. <name type="person" ref="#per__134135">Moick</name>, Leiter des Rechenzentrums in der Verbund,<lb/>
+Frau Dr. <name type="person" ref="#per__134025">Osterkorn</name> aus der Girozentrale, einen weiteren Sozialisten<lb/>
+und einen ÖVP-ler, einsetzen zu müssen. Die Privatangestelltengewerk<lb break="no"/>schaft, Zentralsekretär <name type="person" ref="#per__112942">Braun</name> und <name type="person" ref="#per__127040">Vogler</name>, wollte darüber eine Betriebs<lb break="no"/>vereinbarung, die er mit Recht abgelehnt hat. <name type="person" ref="#per__97453">Fremuth</name> hat aber, als er<lb/>
+das Amt angetreten ist, auf freiwilliger Basis mit den Leitungskörpern,<lb/>
+Prokuristen und Betriebsratsvertretern halbjährlich Informationstagungen<lb/>
+abgehalten. Jetzt möchte er die Betriebsvertreter nicht mehr einladen,<lb/>
+weil die Prokuristen nicht mehr freimütig über die Probleme mit dem Vor<lb break="no"/>stand sprechen. Eine solche Vorgangsweise halte ich für falsch. Wenn<lb/>
+er Spezialgespräche mit den Prokuristen führen will, dann muß er eine<lb/>
+neue Form der Information und Aussprache wählen. Die alte würde ich<lb/>
+aber unter allen Umständen aufrechterhalten. Er wird sich dieses Problem<lb/>
+überlegen.<lb/>
+</p>
+            <p xml:space="preserve">Mit Osttirol gibt es jetzt wegen des Gesellschaftszweckes mit der Tiwag<lb/>
+Schwierigkeiten. Mit <name type="person" ref="#per__98048">Wallnöfer</name> hat er vereinbart, daß die Osttiroler<lb/>
+Studiengesellschaft in eine Bau- und Betriebsgesellschaft umgebaut wird.<lb/>
+Tiwag möchte jetzt Änderungen, da die Bauausführung erst <choice><choice><sic>am</sic><corr>im Jahr?</corr></choice></choice> 84 beginnt,<lb/>
+ist noch Zeit genug, all diese Fragen in Ruhe zu besprechen.<lb/>
+</p>
+            <p xml:space="preserve">Nach Information von <name type="person" ref="#per__107956">Satzinger</name> über die Aussprache zwischen BR <name type="person" ref="#per__121805">Schlumpf</name><lb/>
+und mir über einen Ost-West-Verbund und Beteiligung der Schweiz erklärt<lb/>
+<name type="person" ref="#per__97453">Fremuth</name>, daß sich die Schweiz an dem HGÜ 550 MW mit 150 MW am tschechisch-<lb/>
+österreichischen Netz beteiligen wird.<lb/>
+</p>
+            <p xml:space="preserve">Die Bestellung des ÖVP-Sekretärs <name type="person" ref="#per__134033">Marckhgott</name> im Verband der E-Werke Öster<lb break="no"/>reichs, VEÖ, ist ziemlich fix, über die Bezahlung, derzeit 35.000 S netto<lb/>
+im ÖVP-Klub, wird noch zu reden sein, da der Leiter des Verbands, <name type="person" ref="#per__116121">Orgl<lb break="no"/>meister</name>, jetzt 66.000 S brutto nur bezieht.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="#per__97453">Fremuth</name> ist bereit, das Informationsschulbuch über Energie von Jugend<lb/>
+und Volk, das über 2 Mio. S kostet, wenn der Verband der E-Werke Öster<lb break="no"/>reichs daran beteiligt ist, 750.000, wenn es die Verbund allein zahlen<lb/>
+sollte, mit 500.000 S zu subventionieren. Er ersucht mich auch, ich möge<lb/>
+versuchen, für die Ölwirtschaft <name type="person" ref="#per__97337">Bauer</name>, für die Gaswirtschaft <name type="person" ref="#per__97496">Gruber</name>,<lb/>
+<pb n="62-1214" facs="62_1981-10-23_1214.jpg"/>für die Kohle den Obmann des Gremiums, <name type="person" ref="#per__121792">Steidl</name>, oder zumindestens den<lb/>
+Gaskoks-Direktor <name type="person" ref="#per__131063">Dreßler</name> zu gewinnen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__107956">SATZINGER</name>: Nach Aussprache <name type="person" ref="#per__97337">Bauer</name>, <name type="person" ref="#per__97496">Gruber</name> mit <name type="person" ref="#per__121792">Steidl</name> ver<lb break="no"/>binden.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich des Vorschlages des LH von Salzburg, <name type="person" ref="#per__113822">Haslauer</name>, den Oberpinzgauer<lb/>
+Ausbau durch die TKW zurückzustellen, vereinbaren wir, jetzt einmal eine<lb/>
+Denkpause einzuschalten. <name type="person" ref="#per__113822">Haslauer</name> steht unter dem Druck der Grünen,<lb/>
+möchte<add>[es]</add> sich mit denen überhaupt nicht verscherzen und ist daher, fast<lb/>
+würde ich sagen selbstverständlich, bereit, seine Vereinbarungen und Zu<lb break="no"/>sagen jetzt nicht einzuhalten. Wichtig erscheint nur, daß wir<add>[?]</add> keine<lb/>
+wasserrechtlichen Genehmigungen für Kleinkraftwerke in diesem Gebiet<lb/>
+gegeben werden.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__107956">SATZINGER</name>: TKW soll sich diesbezüglich absichern.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="#per__97453">Fremuth</name> wird über die Aussprache des BRO <name type="person" ref="#per__132650">Kamminger</name> von GKT informiert,<lb/>
+er teilt meine Meinung, daß es unmöglich wäre, die 126 Beschäftigen<lb/>
+weiter zu bezahlen und sie nicht für die Kohlekraftwerke einzusetzen.<lb/>
+Bezüglich des Dir. <name type="person" ref="#per__110040">Nentwich</name> hat er mit AEG Österreich gesprochen und<lb/>
+hofft, daß er ihn als Geschäftsführer dort unterbringen kann.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="#per__110040">Nentwich</name> hat angeblich in Amerika drüben die Verbundgesellschaft<lb/>
+kritisiert, daß sie sich so wenig <choice><choice><sic>um</sic><corr>für?</corr></choice></choice> die Atommüllagerung interessiert.<lb/>
+Dies stimmt absolut nicht, <name type="person" ref="#per__97453">Fremuth</name> nimmt jede Möglichkeit wahr, um<lb/>
+dieses Problem zu lösen. Der Vorschlag des Staatssekretärs <name type="person" ref="#per__134137">Barkley</name>, mit<lb/>
+dem er jetzt Kontakt aufnehmen wird, der uns die Atommülltechnologie<lb/>
+verkaufen möchte, ist unbefriedigend, denn bei diesem Problem geht<lb/>
+es nicht um Technologie, sondern ausschließlich um den Standort, wo<lb/>
+man den Atommüll ablagern kann.<lb/>
+</p>
+            <p xml:space="preserve"><name type="person" ref="#per__97453">Fremuth</name> urgiert die Preisverhandlungen, er braucht unbedingt die<lb/>
+18 %-ige Preisanhebung. <name type="person" ref="#per__97893">Sallinger</name> hätte ihm in Moskau erklärt, dies<lb/>
+sei möglich, wenn er nachher bis zu den Wahlen Ruhe gibt. Dort hat<lb/>
+<name type="person" ref="#per__97453">Fremuth</name> seine ursprüngliche Forderung, nämlich 23 % verlangt. <name type="person" ref="#per__97453">Fremuth</name><lb/>
+sagt, er muß heuer 11 Mrd. S Finanzbedarf auftreiben, 2,5 Mrd. S soll<lb/>
+aus Eigen- oder Innenfinanzierung erfolgen, dazu sind mindestens die<lb/>
+18 % Preiserhöhung notwendig. 8,5 Mrd. S muß er sowieso am Fremdkapi<lb break="no"/>talmarkt beschaffen. Er hat seine Finanzabteilung bereits beauftragt,<lb/>
+Promessen zu suchen, denn die Finanzierung ist antizyklisch. Investitionen<lb/>
+müssen in der jetzigen schlechten Wirtschaftssituation unbedingt durch<lb break="no"/><pb n="62-1215" facs="62_1981-10-23_1215.jpg"/>geführt werden. Ich verspreche ihm, mit der AK vorerst, und dann auch<lb/>
+mit der HK, diesbezügliche Gespräche zu führen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__107956">SATZINGER</name>: Bitte Jour fixe HK auch setzen.<lb/>
+</p>
+            <p xml:space="preserve">Bei den Ill-Werken wünscht das Land Vorarlberg einen weiteren Auf<lb break="no"/>sichtsrat. Derzeit 8 Bund, 3 Land, 1 Finelektra, mit 5 % hätte sie<lb/>
+sicher keinen Anspruch. Ich teile aber die Meinung von <name type="person" ref="#per__97453">Fremuth</name>, daß<lb/>
+wir in der jetzigen Auseinandersetzung mit der RGW, Finelektra Schweiz<lb/>
+ist mehr oder minder ein stiller Verbündeter der deutschen Rheinischen<lb/>
+Gesellschaft, ein Austausch unzweckmäßig ist. Bei der letzten Haupt<lb break="no"/>versammlung am 22. Okt. 81 kam es deshalb über diesen Punkt zu einer<lb/>
+Kampfabstimmung. Der Gesellschafter des Landes, <name type="person" ref="#per__116913">Mandl</name>, hat in diesem<lb/>
+einen Punkt gegengestimmt, alles andere wurde, sowohl mit Finelektra,<lb/>
+bei Stimmenhaltung in diesem Punkt, alles einstimmig beschlossen.<lb/>
+</p>
+            <p xml:space="preserve">Beim Jour fixe mit der AK wurde natürlich sofort über das Energie<lb break="no"/>preisverfahren gesprochen. Die AK war anfangs nicht bereit, auch<lb/>
+nur über die 18 % der Verbundgesellschaft zu reden. Dr. <name type="person" ref="#per__97676">Lachs</name> berichtete<lb/>
+über den Aufsichtsrat von Vöest-Alpine. Dort hat <name type="person" ref="#per__97315">Apfalter</name> darauf ver<lb break="no"/>wiesen, daß das Handelsministerium, also ich persönlich, nur die Kon<lb break="no"/>sumenteninteressen im Auge habe. Er muß zum Abbau des Defizites der<lb/>
+Vöest-Alpine, insbesondere des Werkes Donawitz, eine Stahlproduktions<lb break="no"/>änderung vornehmen. Die Hochöfen sind langfristig stillzulegen und<lb/>
+Elektrostahlproduktion dort aufzunehmen. Mit Hilfe einer Schrottrege<lb break="no"/>lung, die aufgrund der Stahlproduktion den anfallenden Schrott zuteilt,<lb/>
+würde die Vöest-Alpine nicht 350.000, sondern fast 500.000 to bekommen.<lb/>
+Dieser müßte dann in einem Elektroofen mit 150.000 to Eisenschwamm<lb/>
+verschmolzen werden. Die Qualität würde brauverwendbarer<add>[?]</add> Stahl sein.<lb/>
+Notwendig ist eine entsprechende Preisgestaltung des Stromes. Ihm<lb/>
+schwebt wahrscheinlich vor, so wie für Aluminium 29 Groschen pro kWh,<lb/>
+derzeit zahlt er mindestens den Verbundtarif von 50 Groschen. Diese<lb/>
+Information war mir sehr wertvoll, denn damit versuchte ich dann, die<lb/>
+AK umzustimmen, um doch eine 18 %-ige Preiserhöhung für die Verbund<lb break="no"/>gesellschaft durchzusetzen. Ebenso glaube ich, ist es zweckmäßig,<lb/>
+nicht den Einzelgesellschaften Preisgenehmigungen zu geben, sondern<lb/>
+wieder in Gruppen von einzelnen Landesgesellschaften, wie wir dies auch<lb/>
+das letzte Mal getan haben.<lb/>
+</p>
+            <pb n="62-1216" facs="62_1981-10-23_1216.jpg"/>
+            <p xml:space="preserve">Wir einigten uns auch darüber, daß es wahrscheinlich nicht gelingen<lb/>
+wird, eine Förderzinserhöhung mit der ÖMV und der RAG zu vereinbaren,<lb/>
+weshalb doch vorgesehen werden muß, ein Förderzinsgesetz zu erlassen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__107956">SATZINGER</name>: Die Oberste Bergbehörde soll die Verhandlungen<lb/>
+schnell abwickeln.<lb/>
+</p>
+            <p xml:space="preserve">Bezüglich der Preisgestaltung für den Gaspreis bei der RAG einigten<lb/>
+wir uns auf das ehemalige, von der AK vorgeschlagene System für BBU<lb/>
+und Mitterberg, in den Preis soll ein beträchtlicher Investitions<lb break="no"/>kostenteil eingebaut werden. Dieser ist formal an einen Fonds abzu<lb break="no"/>führen, bleibt aber in der Gesellschaft, wird von ihr auch verwaltet.<lb/>
+Die damit durchgeführten Investitionen sind damit zu finanzieren.<lb/>
+</p>
+            <p xml:space="preserve"><choice><choice><sic>NR-GD</sic><corr>NB-GD</corr></choice></choice> <name type="person" ref="#per__97627">Kienzl</name> berichtete, daß jetzt die allgemeine Konjunktur weltweit<lb/>
+nicht, wie ursprünglich prognostiziert, noch in diesem Jahr oder<lb/>
+spätestens Anfang nächsten Jahres eine beträchtliche Aufwärtsent<lb break="no"/>wicklung erwarten kann. Um die Zahlungsbilanz zu verbessern, müßte<lb/>
+Österreich jetzt zumindestens die Großprojekte, insbesondere in der<lb/>
+Außenhandelsfinanzierung und in den Entwicklungshilfen, zurückstellen.<lb/>
+Dies gilt für Algerien und anderen Großprojekte. In der Exportfinan<lb break="no"/>zierung dürfte Österreich in Hinkunft nur mehr den österr. Lieferan<lb break="no"/>teil finanzieren. Ob gegebenenfalls die Bundesgarantie für den ganzen<lb/>
+Auftrag, also auch die Fremdzulieferung, übernommen wird, ist eine<lb/>
+andere Frage. <name type="person" ref="#per__97627">Kienzl</name> ist fest davon überzeugt, daß<add>[es]</add> durch die gute<lb/>
+Entwicklung unserer Zahlungsbilanz, in diesem Jahr zu erwartendes<lb/>
+Defizit 12 Mrd., möglich sein wird, im nächsten Jahr eine eigenständige<lb/>
+Konjunkturpolitik zu betreiben. Diese werden wir auch sicherlich sehr<lb/>
+notwendig haben, wenn der weltweite Aufschwung nicht einsetzen sollte.<lb/>
+</p>
+            <p xml:space="preserve">Auch die Meinungsumfrage der SWS ergibt eine Aufwärtsentwicklung der<lb/>
+Sozialisten, nach seinen Berechnungen 47 %, bei einem Rückfall der<lb/>
+ÖVP auf 25 %.<lb/>
+</p>
+            <p xml:space="preserve">GD <name type="person" ref="#per__97739">Mieling</name>, Shell Austria, wollte mir seinen Präsidenten <name type="person" ref="#per__134138">de Bruyne</name><lb/>
+vorstellen, um zu dokumentieren, daß auch er imstande ist, den<lb/>
+Minister zu einer solchen Vorsprache zu gewinnen. Neue Erkenntnisse<lb/>
+hat es bei dieser Aussprache nicht gegeben, die Gruppe Shell wird<lb/>
+weiterhin mit der ÖMV hart verhandeln, um einen besseren Verarbei<lb break="no"/>tungsvertrag zu erreichen. Die Internationalen sind scheinbar nicht<lb/>
+<pb n="62-1217" facs="62_1981-10-23_1217.jpg"/>mehr bereit, den hohen Heizöl-schwer-Anteil, den die Raffinerie<lb/>
+Schwechat leider noch immer erzeugt, zu übernehmen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__107956">SATZINGER</name>: Prüf' einmal, was die ÖMV dazu sagt?<lb/>
+</p>
+            <p xml:space="preserve">Ein gewisser <name type="person" ref="#per__134139">Haberl</name>, der macht, als wie wär' ich mit ihm weiß Gott<lb/>
+wie bekannt, hat einen Chefredakteur von Ost-West-Contact gebracht,<lb/>
+der über<add>[den]</add> Außenhandel mit der UdSSR und Ungarn etwas wissen wollte.<lb/>
+Wozu sich dieser <name type="person" ref="#per__134139">Haberl</name> bedient, ist mir ein Rätsel.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__109811">BURIAN</name>: Was wissen wir über den <name type="person" ref="#per__134139">Haberl</name>?<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__116913">
+               <persName type="label">Mandl, Rudolf</persName>
+               <persName><surname>Mandl</surname><forename>Rudolf</forename></persName>
+               <occupation>Landesstatthalter Vbg.</occupation>
+               <ptr type="mentioned" target="#staribacher__19780911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__127040">
+               <persName type="label">Vogler, Heinz</persName>
+               <persName><surname>Vogler</surname><forename>Heinz</forename></persName>
+               <occupation>Industriesekr. GPA</occupation>
+               <ptr type="mentioned" target="#staribacher__19801013.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__132650">
+               <persName type="label">Kamminger, Friedrich</persName>
+               <persName><surname>Kamminger</surname><forename>Friedrich</forename></persName>
+               <occupation>BRO AKW Zwentendorf</occupation>
+               <ptr type="mentioned" target="#staribacher__19810401.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__134281">
+               <persName type="label">Böri, A</persName>
+               <persName><surname>Böri</surname><forename>A</forename></persName>
+               <occupation>Berater; vmtl. Falschschreibung</occupation>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__133019">
+               <persName type="label">Patt, Karlfriedrich</persName>
+               <persName><surname>Patt</surname><forename>Karlfriedrich</forename></persName>
+               <occupation>GD Hallein Papier AG</occupation>
+               <ptr type="mentioned" target="#staribacher__19810428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810518.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__131063">
+               <persName type="label">Dreßler, Friedrich</persName>
+               <persName><surname>Dreßler</surname><forename>Friedrich</forename></persName>
+               <occupation>Dir. Fa. Gaskoks</occupation>
+               <ptr type="mentioned" target="#staribacher__19810210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__110922">
+               <persName type="label">Vranitzky, Franz</persName>
+               <persName><surname>Vranitzky</surname><forename>Franz</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720404.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810707.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810812.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810824.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+            </person>
+            <person xml:id="per__134139">
+               <persName type="label">Haberl, A</persName>
+               <persName><surname>Haberl</surname><forename>A</forename></persName>
+               <occupation>ev. Journalist [??; vermittelt ein Gespräch mit dem Chefred. der
+                  Zeitschrift Ost-West-Contact; Staribacher fragt dann, wer Haberl sei]</occupation>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__97676">
+               <persName type="label">Lachs, Thomas</persName>
+               <persName><surname>Lachs</surname><forename>Thomas</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801024.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810227.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810904.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__113822">
+               <persName type="label">Haslauer, Wilfried</persName>
+               <persName><surname>Haslauer</surname><forename>Wilfried</forename></persName>
+               <occupation>LH Sbg.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800707.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801017.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810704.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810804.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810818.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+            </person>
+            <person xml:id="per__134138">
+               <persName type="label">De Bruyne, Dirk</persName>
+               <persName><surname>De Bruyne</surname><forename>Dirk</forename></persName>
+               <occupation>Präs. Shell</occupation>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__97453">
+               <persName type="label">Fremuth, Walter</persName>
+               <persName><surname>Fremuth</surname><forename>Walter</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/115563237</idno>
+               <ptr type="mentioned" target="#staribacher__19711123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810928.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811019.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811221.xml"/>
+            </person>
+            <person xml:id="per__98048">
+               <persName type="label">Wallnöfer, Eduard</persName>
+               <persName><surname>Wallnöfer</surname><forename>Eduard</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/118764136</idno>
+               <ptr type="mentioned" target="#staribacher__19710617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810501.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810610.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810707.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810720.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810804.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+            </person>
+            <person xml:id="per__134137">
+               <persName type="label">Barkley, A</persName>
+               <persName><surname>Barkley</surname><forename>A</forename></persName>
+               <occupation>Sts. USA [Name hs. korr., Schreibweise?; Zusammenhang ist
+                  Atommülllagerung]</occupation>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__121792">
+               <persName type="label">Steidl, Ernst</persName>
+               <persName><surname>Steidl</surname><forename>Ernst</forename></persName>
+               <occupation>Sektionsobmann Handel, Obmann Kohlenhandel</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711025.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810403.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+            </person>
+            <person xml:id="per__97496">
+               <persName type="label">Gruber, Rudolf</persName>
+               <persName><surname>Gruber</surname><forename>Rudolf</forename></persName>
+               <occupation>GD NEWAG</occupation>
+               <ptr type="mentioned" target="#staribacher__19710215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710312.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810311.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810610.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811009.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+            </person>
+            <person xml:id="per__110040">
+               <persName type="label">Nentwich, Alfred A.</persName>
+               <persName><surname>Nentwich</surname><forename>Alfred A.</forename></persName>
+               <occupation>Techn. GF KKW Tullnerfeld GmbH</occupation>
+               <ptr type="mentioned" target="#staribacher__19780109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780926.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781019.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781121.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810401.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+            </person>
+            <person xml:id="per__97739">
+               <persName type="label">Mieling, Peter</persName>
+               <persName><surname>Mieling</surname><forename>Peter</forename></persName>
+               <occupation>GD Shell</occupation>
+               <ptr type="mentioned" target="#staribacher__19710120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710915.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+            </person>
+            <person xml:id="per__134025">
+               <persName type="label">Osterkorn, A</persName>
+               <persName><surname>Osterkorn</surname><forename>A</forename></persName>
+               <occupation>Girozentrale [soll 1981 die Organisation der Verbund untersuchen und
+                  Reorganisation einleiten; zweite Nennung am 23.10. mit Girozentrale]</occupation>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__121805">
+               <persName type="label">Schlumpf, Leon</persName>
+               <persName><surname>Schlumpf</surname><forename>Leon</forename></persName>
+               <occupation>Verkehrsminister Schweiz</occupation>
+               <ptr type="mentioned" target="#staribacher__19800207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__134135">
+               <persName type="label">Moick, A</persName>
+               <persName><surname>Moick</surname><forename>A</forename></persName>
+               <occupation>Verbund, Leiter des Rechenzentrums [hs. korr., Schreibung
+                  unsicher]</occupation>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__112942">
+               <persName type="label">Braun, Helmut</persName>
+               <persName><surname>Braun</surname><forename>Helmut</forename></persName>
+               <occupation>Wr. SPÖ-GR-Abg., GPA, NR-Abg.</occupation>
+               <ptr type="mentioned" target="#staribacher__19720125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810324.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810509.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810511.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810720.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+            </person>
+            <person xml:id="per__97627">
+               <persName type="label">Kienzl, Heinz</persName>
+               <persName><surname>Kienzl</surname><forename>Heinz</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/119100339</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810522.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811024.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__97315">
+               <persName type="label">Apfalter, Heribert</persName>
+               <persName><surname>Apfalter</surname><forename>Heribert</forename></persName>
+               <occupation>GD VÖEST</occupation>
+               <ptr type="mentioned" target="#staribacher__19710204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810812.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810928.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811021.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+            </person>
+            <person xml:id="per__97337">
+               <persName type="label">Bauer, Ludwig</persName>
+               <persName><surname>Bauer</surname><forename>Ludwig</forename></persName>
+               <occupation>GD ÖMV</occupation>
+               <ptr type="mentioned" target="#staribacher__19710120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810812.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810831.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            <person xml:id="per__132389">
+               <persName type="label">Lehmann, Norbert</persName>
+               <persName><surname>Lehmann</surname><forename>Norbert</forename></persName>
+               <occupation>GD Fa. PWA Papierwerke Waldhof-Aschaffenburg AG</occupation>
+               <ptr type="mentioned" target="#staribacher__19810430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810518.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810616.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+            </person>
+            <person xml:id="per__107956">
+               <persName type="label">Satzinger, Heinz</persName>
+               <persName><surname>Satzinger</surname><forename>Heinz</forename></persName>
+               <occupation>Büro des Bundesministers</occupation>
+               <ptr type="mentioned" target="#staribacher__19780601.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            <person xml:id="per__98010">
+               <persName type="label">Teschl, Alfred</persName>
+               <persName><surname>Teschl</surname><forename>Alfred</forename></persName>
+               <occupation>Obmann Chemiearbeitergewerkschaft</occupation>
+               <ptr type="mentioned" target="#staribacher__19710225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780926.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781003.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781017.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781121.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800418.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810518.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810812.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+            </person>
+            <person xml:id="per__109811">
+               <persName type="label">Burian, Ferdinand</persName>
+               <persName><surname>Burian</surname><forename>Ferdinand</forename></persName>
+               <occupation>MR, Büro des Bundesministers</occupation>
+               <ptr type="mentioned" target="#staribacher__19780109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            <person xml:id="per__134033">
+               <persName type="label">Marckhgott, Gottfried</persName>
+               <persName><surname>Marckhgott</surname><forename>Gottfried</forename></persName>
+               <occupation>ÖVP-Klubsekr.</occupation>
+               <ptr type="mentioned" target="#staribacher__19811022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__116121">
+               <persName type="label">Orglmeister, Hanns</persName>
+               <persName><surname>Orglmeister</surname><forename>Hanns</forename></persName>
+               <occupation>GF Verb. Elektrizitätswerke, Kommentator
+                  Energiewirtschaftsgesetz</occupation>
+               <ptr type="mentioned" target="#staribacher__19780808.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+            </person>
+            <person xml:id="per__97893">
+               <persName type="label">Sallinger, Rudolf</persName>
+               <persName><surname>Sallinger</surname><forename>Rudolf</forename></persName>
+               <occupation>Handelskammer-Präsident</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

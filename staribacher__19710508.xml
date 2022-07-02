@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19710508.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710507.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710509.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  8. Mai 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band05_1971-05-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-05-08">Samstag, 8. Mai 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="05-0568" facs="05_1971-05-08_0568.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 8. Mai 1971<lb/>
+</p>
+            <p xml:space="preserve">Die Gesamtvorstandssitzung der Lebensmittelarbeiter im Hueberhaus<lb/>
+dauerte so lange, dass ich nicht einmal an der Eröffnung des Bundes<lb break="no"/>tages der sozialistischen Akademiker teilnehmen konnte. In Wirklichkeit<lb/>
+aber sind diese Gesamtvorstandssitzungen wenig ergiebig. Die Sekretärs<lb break="no"/>besprechungen, die man tags zuvor machen muss, um einzelnen Probleme<lb/>
+mit den Sekretären zu besprechen, nehmen in Wirklichkeit alle Detail<lb break="no"/>arbeiten bereits vorweg. Ich glaube auch gar nicht, dass sich die<lb/>
+einzelnen Vorstandsmitglieder dafür sehr interessieren würden. Die<lb/>
+Berichte einzelner Landessekretäre und mancher Gruppensekretäre sind<lb/>
+oft sehr ins Detail gehend, um ihre Tätigkeit zu beweisen. Einige haben<lb/>
+noch immer nicht bemerkt, dass es für mich nicht entscheidend ist,<lb/>
+wenn er einem Problem recht lange Zeit widmet, sondern wenn dieses Problem<lb/>
+gelöst ist, ganz kurz nur erwähnt und dann andere Fragen zur Diskussion<lb/>
+oder zum Bericht stellt. Ich kann mir nämlich nicht vorstellen – obwohl<lb/>
+es ohne weiteres möglich ist – dass so geringe Aktivitäten von einzelnen<lb/>
+Kollegen in den Bundesländern nur entwickelt werden, dass sie mit nur<lb/>
+einem oder zwei Berichten, die recht lange ausfallen glauben, die Tätigkeit<lb/>
+dann entsprechend tarnen zu müssen. Andererseits möchte ich natürlich die<lb/>
+Kollegen nicht enttäuschen und ihnen womöglich das Wort abschneiden.<lb/>
+Ausser unseren Anträgen und die Delegierung zum Gewerkschaftskongress<lb/>
+im September wurden keine entscheidenden Beschlüsse gefasst. Da unsere<lb/>
+Gewerkschaftsarbeit sehr dezentralisiert durch die Gruppen durchgeführt<lb/>
+wird, brauchen wir auch nicht spektakuläre Beschlüsse oder gar Unter<lb break="no"/>stützungen für einzelnen ins Stocken geratene Verhandlungen. Einige<lb/>
+Funktionäre wünschten, dass die Gesamtvorstandssitzung in Hinkunft<lb/>
+nicht mehr am Samstag oder Sonntag sondern auf einen Arbeitstag fallen<lb/>
+sollte. Ebenso soll in Hinkunft nur mehr einmal im Monat eine Zentral<lb break="no"/>vorstandssitzung stattfinden. Anfänglich wehrte ich mich gegen diesen<lb/>
+Plan, doch letzten Endes gab ich nach, da ich deutlich sichtbar in<lb/>
+der Minderheit geblieben wäre. Sekretäre und Funktionäre wollen eben auch<lb/>
+die Fünftagewoche haben, so gut soll es mir einmal gehen.<lb/>
+</p>
+            <p xml:space="preserve">Um 11 Uhr nachts rief mich Botschafter <name type="person" ref="#per__135642">Leitner</name> von Brüssel an und teilte<lb/>
+mir den letzten Stand der Verhandlungen mit. Details wusste er allerdings<lb/>
+selbst auch nicht, da die Verhandlungen strengst vertraulich und abge<lb break="no"/>schirmt geführt wurden. Da ihm aber <name type="person" ref="#per__97922">Schmitz</name> anrief, um Details von ihm<lb/>
+zu wissen, fühlte er sich verpflichtet, auch mir diese mitzuteilen.<lb/>
+Auf alle Fälle ist es das erste Mal, dass Brüssel sich bei mir rührt.<lb/>
+Ich war angenehm überrascht.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97922">
+               <persName type="label">Schmitz, Wolfgang</persName>
+               <persName><surname>Schmitz</surname><forename>Wolfgang</forename></persName>
+               <occupation>Präs. OeNB</occupation>
+               <ptr type="mentioned" target="#staribacher__19710120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710509.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710823.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710909.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780123.xml"/>
+            </person>
+            <person xml:id="per__135642">
+               <persName type="label">Leitner, Franz Helmut</persName>
+               <persName><surname>Leitner</surname><forename>Franz Helmut</forename></persName>
+               <occupation>öst. Botschafter EWG</occupation>
+               <ptr type="mentioned" target="#staribacher__19710222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720409.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720410.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720411.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

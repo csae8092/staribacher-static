@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701108.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701107.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701109.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der  8. November 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-11-08</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-11-08">Sonntag, 8. November 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0761" facs="03_1970-11-08_0761.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-11-08">Sonntag, 8. November 1970</date>
+            </dateline>
+            <p xml:space="preserve">Die Parteizentrale hat den Computer-Bus für Sonntag vormittag<lb/>
+am Stephansplatz eingeteilt. Da ich am Montag von 5 – 7 Uhr, wenn<lb/>
+er im 3. Bezirk beim AEZ arbeitet, keine Zeit hatte, erklärte<lb/>
+ich mich selbstverständlich bereit, am Sonntag früh am Stephansplatz<lb/>
+den Computer zu besuchen. Als ich erschien war dieser gerade kaputt<lb/>
+und ein IBM-Mechaniker war gerade dabei, ihn in Ordnung zu bringen.<lb/>
+Ich benützte deshalb die Gelegenheit, um eventuelle Passanten, die<lb/>
+den Bus besuchen wollten, zu empfangen und mit ihnen zu sprechen.<lb/>
+Es war dies natürlich am Sonntag vormittag ein kärgliches Häuflein.<lb/>
+Insgesamt kamen in der ganzen Stunde, die ich dort war, drei Passan<lb break="no"/>ten, die sich irgendwie über Probleme erkundigten. Einer war ein<lb/>
+Genosse aus dem dritten Bezirk von der Hanusch-Sektion, der mich<lb/>
+wegen der <name type="person" ref="#per__97793">Olah</name>-Kronenzeitung-Affäre interpellierte. ein zweiter<lb/>
+war ein Mann, der vor 40 Jahren in Österreich einen jüdischen Bekannten<lb/>
+gehabt hat und ihn jetzt gerne finden wollte, ich konnte ihn nur an die<lb/>
+Berggasse verweisen, ins Zentralmeldeamt, nur der dritte war ein<lb/>
+interessanter Fall. Es kam ein Mann, der mich interpellierte, um<lb/>
+den Unterschied zwischen der Steuerbelastung eines Angestellten und<lb/>
+eines Freischaffenden herauszuarbeiten. Für mich war vollkommen klar,<lb/>
+dass es sich um einen Freischaffenden handeln muss. Es stellte sich<lb/>
+dann im Laufe der Diskussion heraus, dass er ein Computer-und vor<lb/>
+allem einmal ein Dokumentationsfachmann gewesen ist. Er selbst kannte<lb/>
+die Einrichtungen der Dokumentation in allen österr. Institutionen<lb/>
+u.a. kannte er auch Dr. <name type="person">Biebl</name> von der Arbeiterkammer und war gerade<lb/>
+mit einem Auftrag beschäftigt, den er vom Bautenministerium in der<lb/>
+Frage der Dokumentation bearbeitet. U.a. teilte er mir mit, dass z.B.<lb/>
+im Verteidigungsministerium ein gewisser Oberst <name type="person">Hoy</name> eine Dokumenta<lb break="no"/>tion hat. die phantastisch sein soll. Z.B. gibt es dort nicht nur<lb/>
+militärpolitische und militärstrategische Dokumentationen sondern<lb/>
+auch eine Dokumentation in Form von Kurzfassung von wichtigen<lb/>
+politischen Büchern. U.a. ist der Franzose <name type="person" ref="#per__149308">Schreiber</name> mit einigen<lb/>
+Werken dort vertreten. Ich dankte ihm für dieses interessante<lb/>
+Gespräch, das ich sehr lange mit ihm führte, verlangte dann auch<lb/>
+von ihm den Namen und versprach, dass <name type="person" ref="#per__98053">Wanke</name> sich mit ihm ins Einver<lb break="no"/>nehmen setzen wird. <name type="person" ref="#per__98053">Wanke</name> hatte nämlich seinerzeit, als wir die<lb/>
+Dokuentation in der AK in Angriff nahmen, nach reichlichem Überlegen<lb/>
+und Herumfragen feststellen müssen, dass eine datenmässige Dokumen<lb break="no"/>tation in Österreich noch nicht bekannt sei und vor allem, dass<lb/>
+<pb n="03-0762" facs="03_1970-11-08_0762.jpg"/>wirkliche brauchbare Systeme noch nicht existieren. Vielleicht<lb/>
+ist dieser Mann aber imstande, uns in dieser,Beziehung weiter<lb/>
+zu helfen.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97793">
+               <persName type="label">Olah, Franz</persName>
+               <persName><surname>Olah</surname><forename>Franz</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/118937308</idno>
+               <ptr type="mentioned" target="#staribacher__19710203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710713.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710908.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710914.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710924.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780403.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780620.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801021.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+            </person>
+            <person xml:id="per__98053">
+               <persName type="label">Wanke, Otto</persName>
+               <persName><surname>Wanke</surname><forename>Otto</forename></persName>
+               <occupation>SChef HM</occupation>
+               <idno type="GND">http://d-nb.info/gnd/12195126X</idno>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810413.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701002.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701001.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701003.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  2. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-02</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-02">Freitag, 2. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0602" facs="03_1970-10-02_0602.jpg"/>
+         <div type="entry"><!--Enthält dieser Absatz eine Datumsangabe?-->
+            <dateline>
+               <date when="1970-10-02"/>
+            </dateline>
+            <p xml:space="preserve">Freitag, 2. Oktober 1970 </p>
+            <p xml:space="preserve">Da die Besprechungen bei Bundesrat <name type="person" ref="#per__97375">Brugger</name> erst um 11 Uhr begannen,<lb/>
+ersuchte ich sowohl den Sekt.Chef <name type="person" ref="#per__97867">Reiterer</name> als auch den Botschafter<lb/>
+<name type="person" ref="#per__137933">Marquet</name>, dass wir nach dem Frühstück, welches für 8.00 Uhr von mir<lb/>
+festgesetzt war, eine entsprechende Vorbesprechung führen würden.<lb/>
+Bei dieser Vorbesprechung stellte sich heraus, dass <name type="person" ref="#per__137933">Marquet</name> doch in<lb/>
+den Details viel besser informiert ist oder zumindestens er imstande<lb/>
+ist, diese Details auch entsprechend formuliert, mir sofort ver<lb break="no"/>ständlich zu machen. Der Unterschied zwischen dem früheren Absichten<lb/>
+Österreichs bei der EWG, welche übrigens besonders auch von den Schwei<lb break="no"/>zern nachher herausgestrichen wurde, ist folgender: Auf Grund <choice><choice><sic>des<lb/>
+Römer Vertrages</sic><corr>der Römischen Verträge?</corr></choice></choice> versuchte die Schweiz 1961 bei den Eröffnungsgesprächen<lb/>
+eine Lösung unter Neutralitätsvorbehalt so wie Österreich zu er<lb break="no"/>halten. Die 5 Neutralitätsvorbehalte waren: 1. In Kriegszeiten oder <lb/>
+bei Kriegsgefahr oder selbst auch bei Krisenzeiten musste die Mög<lb break="no"/>lichkeit bestehen, den Vertrag zu suspendieren. 2. Die Handelsfreiheit<lb/>
+der Trade Making Power musste gewahrt werden. 3. Eine Kündigung des<lb/>
+Vertrages musste vorgesehen werden. 4. Die Institutionen dürften<lb/>
+nicht so aufgebaut sein, dass Österreich oder die Schweiz überstimmt;<lb/>
+werden konnten. 5. Bezüglich der Harmonisierung wurde allgemein fest.<lb/>
+gehalten, dass dies nur so weit erfolgen dürfte, wenn sie nicht im<lb/>
+Widerspruch zur Neutralität steht und im besonderen z.B. bei Zöllen<lb/>
+wurde verlangt, dass Z.B. eine politische Zollpolitik gegen den<lb/>
+anderen Staat ausgenommen sein müsste. Nach Meinung von <name type="person" ref="#per__137933">Marquet</name> war<lb/>
+sogar ein Punkt, nicht expressis verbis aber doch angedeutet worden,<lb/>
+dass nämlich kriegswichtige Industrien geschützt werden müssten.<lb/>
+Stand die Schweiz und Österreich will sich dieser Idee ebenfalls an<lb break="no"/>schliessen auf dem Standpunkt, dass die Neutralität als ganz neuer<lb/>
+Faktor bei den beginnenden Verhandungen bereits als Grundlage jed<lb break="no"/>weden <lb/>
+Gespräches genommen werden soll und so ist sie deshalb an die Spitze aller<lb/>
+Ausführungen zu stellen Es wird deshalb nicht mehr eine Sonder<lb break="no"/>lösung im Verhältnis zu <choice><choice><sic>dem Römer Vertrag, der</sic><corr>den Römischen Verträgen, die?</corr></choice></choice> letzten Endes übernom<lb break="no"/>men werden <choice><choice><sic>soll</sic><corr>sollen?</corr></choice></choice>, sondern es eben ein ganz eigener Vertrag sui<lb/>
+generis mit den Neutralen abzuschliessen sein. Die Neutralen sind ja<lb/>
+durch den Beschluss der EWG-Kommission als solche bereits anerkannt<lb/>
+und es wurde weiters bei der Haager Ministerratssitzung festge<lb break="no"/>legt, dass eben für die Nichtbeitrittsfähigen und -willigen Staaten<lb/>
+eine Lösung gefunden werden müsste. Aus diesem Grund hofft die Schweiz<lb/>
+<pb n="03-0603" facs="03_1970-10-02_0603.jpg"/>dass sie sowohl für die Landwirtschaft und Forstwirtschaftsfragen<lb/>
+als auch für das Niederlassungsrecht, das bereits in den <choice><choice><sic>Römer-Verträgen</sic><corr>Römischen Verträgen?</corr></choice></choice><lb/>
+vorgesehen ist, entsprechende Sonderregelungen kriegen wird. Für die<lb/>
+zweite Generation, d.h. für die Probleme, die <choice><choice><sic>im Römer-Vertrag</sic><corr>in den Römischen Verträgen?</corr></choice></choice> noch<lb/>
+gar nicht im einzelnen geregelt sind oder zumindest mit Österreich und<lb/>
+der Schweiz zu einem viel späteren Zeitpunkt verhandelt werden sollte,<lb/>
+ist die Harmonisierung die Industriepolitik besonders bezüglich Patent<lb/>
+bezüglich des europäischen Gesellschaftsrechtes bezüglich der Techno<lb break="no"/>logie, weiters die Währungsfragen, die Forschungsfragen, die Konjunktur<lb/>
+politik und die Verkehrspolitik noch vollkommen offen. Ausgenommen nach<lb/>
+Schweizer Auffassung müsste die Strukturpolitik, die Steuerpolitik<lb/>
+und die Arbeitsmarktpolitik werden. Ein weiteres Problem ergibt sich<lb/>
+für die Schweiz und auch für Österreich bezüglich der Zuerkennung<lb/>
+gegenüber Osten auf Grund der uneingeschränkten Meistbegünstigungen.<lb/>
+Sowohl die Schweiz als auch Österreich hatten diese der Sowjetunion<lb/>
+zugestanden. Die Schweiz bereits auf Grund des Vertrages von 1948<lb/>
+Österreich 1956. <name type="person" ref="#per__137933">Marquet</name> meint, dass es aber eine Möglichkeit gibt,<lb/>
+über dieses Problem zumindest auf österreichischer Seite leichter hin<lb break="no"/>wegzukommen. Bei den Verhandlungen mit der Sowjetunion hat <name type="person" ref="#per__137933">Marquet</name><lb/>
+mündlich festgehalten, dass die Freihandelszone oder eine Zollunion<lb/>
+wie bei GATT auszunehmen sei und der damalige Verhandlungsleiter hatte<lb/>
+dem nicht widersprochen. Ausserdem hätte deshalb <name type="person" ref="#per__137933">Marquet</name> damals<lb/>
+in dem Vertrag, der an den Nationalrat gegangen ist, in den Erläuternden<lb/>
+Bemerkungen einen diesbezüglichen Vermerk gemacht. Jetzt wird immer<lb/>
+wieder, wenn die Sowjetunion auf diesen Tatbestand zurückkommt, auf<lb/>
+diese Erläuternden Bemerkungen verwiesen, die allerdings von der<lb/>
+Sowjetunion nicht anerkannt wird, da eine schriftliche Vereinbarung<lb/>
+darüber nicht existiert. Ein weiterer Punkt bei der Vorbesprechung<lb/>
+bildete die industriell-technische Zusammenarbeit mit der Schweiz.<lb/>
+In der Schweiz selbst ist <name type="person" ref="#per__149327">Walkard</name>, der Generalsekretär des Schweizeri<lb break="no"/>schen Departements damit betraut und er hätte auch im Budget nach<lb/>
+Auffassung von Dr. <name type="person" ref="#per__149328">Scheuch</name> 80 Millionen Sfrs. zur Verfügung. Ein weiterer<lb/>
+Punkt sei die Patentproblematik, die von der Schweiz jetzt ganz gross<lb/>
+in Angriff genommen wird. Weiters hielten wir bei der Vorbesprechung<lb/>
+fest, dass die bilateralen Besprechungen über eine Entwicklungshilfe<lb/>
+Rahmenabkommen wo gemeinsame Projekte z.B. in Angriff genommen werden<lb/>
+sollten, leider nicht viel weiter kommen. In unserem Budget sind <lb/>
+keine zusätzlichen Mitteln vorgesehen, sodass die paar Millionen für<lb/>
+<pb n="03-0604" facs="03_1970-10-02_0604.jpg"/>Fortsetzungsprojekte verwendet werden müssen. Wir kamen allerdings<lb/>
+überein, dass wenn wir angesprochen werden, bezüglich des Geologen,<lb/>
+der für ein Projekt in Uganda verwendet werden sollte, doch positiv<lb/>
+dazu stellungnehmen wollen. Alle diese Punkte kamen aber bei der<lb/>
+Aussprache gar nicht zur Debatte. <name type="person" ref="#per__97867">Reiterer</name> musste eine Stunde vorher <lb/>
+die Vorbesprechung verlassen, da er mit <name type="person" ref="#per__118681">Jolles</name> über eine Abschöpfungs<lb break="no"/>frage bei Schokolade diskutierte. Die Schweizer sollen, dass der <lb/>
+Anteil für Trockenmilch, der bis zu 20 % betragen kann, nicht mehr <lb/>
+geschöpft werden soll, weil nämlich die Schweizer Trockenmilch teurer<lb/>
+ist als die österreichische. Als ich diesbezügliche Fragen über die<lb/>
+Preise stellte, konnte sie mir <name type="person" ref="#per__97867">Reiterer</name> im Detail nicht beantworten,<lb/>
+es entspricht seinem Arbeitsstil, dass er scheinbar in Verhandlungen<lb/>
+mit den Schweizern geht, wenn er ihnen aber positiv den Antrag erledigt<lb/>
+über Details gar nicht mehr mit ihnen debattiert. Bei Zucker teilte<lb/>
+er mir mit, dass die Schweiz keine Wünsche diesbezüglich hätten,<lb/>
+denn es wäre der Zuckerpreis bei uns mit S 6.50 um 3.- 3 höher als<lb/>
+in der Schweiz. Der Anteil sei 27 bis 60 %, allerdings Gewichtsprozent<lb/>
+und er erinnerte sich, dass er seinerzeit von den Industrie-Vertretern<lb/>
+Dr. <name type="person">Patacky</name> vom Fachverband der Nahrungs- und Genussmittelindustrie<lb/>
+hineingelegt wurde, weil er damals angenommen hatte, es handle sich<lb/>
+um sogenannte Wertprozente (Schillingprozente).</p>
+            <p xml:space="preserve">Die Verhandlungen waren glaube ich ganz erfolgreich, denn ich konnte<lb/>
+erstens <name type="person" ref="#per__97375">Brugger</name> versichern, dass die österreichische Bundesregierung<lb/>
+<name type="person" ref="#per__97668">Kreisky</name> und <name type="person" ref="#per__97632">Kirchschläger</name> hatten ihm das ja schon bestätigt und ich<lb/>
+war ja gerade zu diesem Zweck zu ihm gekommen, mit der Schweiz in<lb/>
+jeder Beziehung als neutrales und gut nachbarliches Land die ersten<lb/>
+Kontakte wollen und bezüglich der EWG vollkommen vorzugehen. <name type="person" ref="#per__118681">Jolles</name><lb/>
+erklärte noch im besonderen, warum sie nicht imstande sind, mit der<lb/>
+Landwirtschaft auch nur im entferntesten ein Arrangement mit der EWG<lb/>
+anzustreben. Ihr Preisniveau liegt um 30 % höher und die Schweiz<lb/>
+würde einen entsprechenden Einkommensverlust für die Landwirtschaft<lb/>
+herausbekommen. Aus neutralitätspolitischen Gründen müssten sie die<lb/>
+50 %ige Selbstversorgungsquote gegenüber Österreich, wo 82 % sind.<lb/>
+Sie wollen deshalb für die Landwirtschaft eine pragmatische Regelung<lb/>
+und keinesfalss die Agrarmarktordnung übernehmen. Auch Österreich<lb/>
+meinten sie, müsste sich entscheiden, ob dieses Endziel die Über<lb break="no"/>nahme der Agrarmarktordnung, die nebenbei bemerkt die ÖVP-Regierung<lb/>
+scheinbar angestrebt hatte, tatsächlich aufrechterhalten bleibt.</p>
+            <pb n="03-0605" facs="03_1970-10-02_0605.jpg"/>
+            <p xml:space="preserve"><name type="person" ref="#per__137933">Marquet</name> sagte sofort, dass wir nur eine Regelung anstreben werden,<lb/>
+die uns bei der Referenzpreiserstellung mehr entgegenkommt. Derzeit ist<lb/>
+der Viehreferenzpreis zum grössten Teil auf die Preise von Irland und<lb/>
+Dänemark aufgebaut und der Österreich-Anteil beträgt an diesem Referenz<lb break="no"/>preis nur 15 %. Die andere Situation der EWG gegenüber der Schweiz im<lb/>
+Verhältnis zu Österreich ergibt sich daraus, dass die Schweiz wesentliche<lb/>
+Futtermittelimporte aus der EWG hat. Diese Futtermittel werden von der EWG<lb/>
+sehr stark subventioniert und <name type="person">Weidenauer</name> meint, man könnte sich hier <lb/>
+vorstellen, dass eine gewisse Entlastung des Agrarfonds erfolgt, dass<lb/>
+diese Subventionen nicht mehr in die Schweiz notwendig werden. Export<lb break="no"/>seitig hätte die Schweiz nur ein Interesse, Emmentaler in die EWG<lb/>
+zu liefern und dies könnte mit einem vernünftigen Mindestpreis und<lb/>
+einem Zoll von derzeit 5 % leicht überwunden werden. Bezüglich der<lb/>
+weiteren Vorgangsweise meinten die Vertreter der Schweiz, es sei frag<lb break="no"/>lich, ob es zweckmässig ist, jetzt in der EFTA noch grosse gemeinsame<lb/>
+<lb/>
+Wege zu besprechen, denn die Koordination mit Grossbritannien wird immer<lb/>
+schwieriger, <name type="person" ref="#per__137933">Marquet</name> erinnerte <name type="person" ref="#per__118681">Jolles</name> an die letzte Tagung, wo es ihm<lb/>
+nur mit äusserster Anstrengung geglückt ist, die Engländer zu einer Koor<lb break="no"/>dinationsklausel zu bringen, die von diesen immer bekämpft wird und be<lb break="no"/>kämpft wurde. Der Vorschlag, Dänemark Arbeitsgruppen einzusetzen, soll<lb/>
+deshalb nicht mehr forciert werden.</p>
+            <p xml:space="preserve">Bezüglich Osthandels haben sie seit 1948 einen Vertrag, der uneinge<lb break="no"/>schränkt die Meistbegünstigung vorsieht, freie Devisenbezahlung und <lb/>
+Errichtung einer Handelsvertretung in Bern. Sie haben deshalb, wie <lb/>
+<name type="person">Weidenauer</name> glaubt, den Russen nichts mehr zu bieten, und <name type="person" ref="#per__112951">Patolitschew</name>,<lb/>
+der bereits 1969 eingeladen wurde, hat bisher nicht eine konkrete<lb/>
+Zusage seines Kommens gemacht. Es gibt derzeit nur einen Rahmen<lb break="no"/>-Uhren-Vertrag, der im Juni 1970 abgeschlossen wurde und der die Technik,<lb/>
+das know how vorsieht, dass die Russen erwerben können. Aber gleich<lb break="no"/>zeitig sollten entsprechende Markenbestimmungen und vor allem eine<lb/>
+Handelsmöglichkeit in Fertigprodukten eröffnen. Der Vertrag ist aber noch<lb/>
+nicht sehr wirksam geworden. Mit den anderen Oststaaten gibt es entsprechende<lb/>
+bilaterale Abkommen, welches allerdings mit Jugoslawien in der<lb/>
+Zwischenzeit aufgehoben wurde und mit Polen soll dies in der nächsten<lb/>
+Zeit geschehen. Für die anderen Staaten aber gibt es noch ein spezielles<lb/>
+Textil-Clearing-Abkommen, insbesondere mit der CSSR, Polen und Ungarn.</p>
+            <pb n="03-0606" facs="03_1970-10-02_0606.jpg"/>
+            <p xml:space="preserve">Betreffend DDR wurden von ihnen Verhandlungen jetzt geführt. Wie<lb/>
+mir <name type="person" ref="#per__97632">Kirchschläger</name> allerdings mitteilte, hatten sie dies ihm nicht<lb/>
+mitgeteilt, sondern er selbst hatte über seine Freunde im Ausland<lb/>
+erfahren, dass sie solche Verhandlungen in Kommissionen bereits in<lb/>
+Angriff genommen hatten. Das Problem der Schweizer ist, dass sie einer<lb break="no"/>seits nicht im Kielwasser der BRD schwimmen wollen andererseits natürlich<lb/>
+mit der DDR nicht in zu engen Kontakt kommen wollen. Sie sagen,<lb/>
+dass wir in Österreich besser dran sind, weil wir auf Handelskammer<lb break="no"/>ebene einen Vertrag, haben, währenddem die DDR mit ihnen jetzt nur<lb/>
+mehr über eine offizielle Handelsvertretung plus einem konsularischen<lb/>
+Agendenvertrag verhandeln wollen. Die 1 1/2 Stunden Arbeitssitzung<lb/>
+waren verhältnismässig sehr bald um und ich konnte zum Abschluss<lb/>
+und beim Essen nur neuerdings <name type="person" ref="#per__97375">Brugger</name> versichern, dass wir nicht<lb/>
+mehr in Zukunft als unsichere Kantonisten gelten wollen. Wir verein<lb/>
+barten, dass die Informationen sehr intensiv sein sollten und in jeder<lb/>
+Phase erfolgen müssten. Dies trifft zu besonders für die Verhand<lb break="no"/>lungen mit der EWG nach den Eröffnungsgesprächen, da anzunehmen ist,<lb/>
+dass die Europäische Gemeinschaftsverhandler, jede Detail <lb/>
+einem Land getrennt führen und das zweite Land dann entsprechend<lb/>
+ausgespielt werden kann, wenn nicht die Information lückenlos<lb/>
+erfolgt. Ich glaube, dass die Schweizer Vertreter aus der bisherigen<lb/>
+Art unserer Information sehr befriedigt sind und sagten zu, dass sie<lb/>
+in Zukunft an dieser festhalten wollen.</p>
+            <p xml:space="preserve">Bei der Heimreise mussten wir in Zürich-Kloten über 3 Stunden warten<lb/>
+und letzten Endes wurde ich noch – so wie alle anderen Passagiere –<lb/>
+ganz genau einer Leibesvisitation unterzogen.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__118681">
+               <persName type="label">Jolles, Paul</persName>
+               <persName><surname>Jolles</surname><forename>Paul</forename></persName>
+               <occupation>Schweizer Diplomat</occupation>
+               <ptr type="mentioned" target="#staribacher__19710212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710331.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710511.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710927.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800610.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+            </person>
+            <person xml:id="per__112951">
+               <persName type="label">Patolitschew, Nikolaj S.</persName>
+               <persName><surname>Patolitschew</surname><forename>Nikolaj S.</forename></persName>
+               <occupation>sowj. Außenhandelsminister</occupation>
+               <ptr type="mentioned" target="#staribacher__19710315.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801121.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810402.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810511.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810706.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810818.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810824.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810831.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+            </person>
+            <person xml:id="per__137933">
+               <persName type="label">Marquet, Alois</persName>
+               <persName><surname>Marquet</surname><forename>Alois</forename></persName>
+               <occupation>Botschafter, Onkel v. Louis Marquet; evtl.
+                  Falschidentifikation</occupation>
+               <ptr type="mentioned" target="#staribacher__19711213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720121.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+            </person>
+            <person xml:id="per__97867">
+               <persName type="label">Reiterer, Rudolf</persName>
+               <persName><surname>Reiterer</surname><forename>Rudolf</forename></persName>
+               <occupation>Sektionschef HM, Diplomat, Verteter bei der EG</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720414.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720415.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+            </person>
+            <person xml:id="per__97375">
+               <persName type="label">Brugger, Ernst</persName>
+               <persName><surname>Brugger</surname><forename>Ernst</forename></persName>
+               <occupation>Schweizer BR f. Wirtsch.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710325.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710331.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710511.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720410.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780301.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+            </person>
+            <person xml:id="per__97668">
+               <persName type="label">Kreisky, Bruno</persName>
+               <persName><surname>Kreisky</surname><forename>Bruno</forename></persName>
+               <occupation>Bundeskanzler</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118566512</idno>
+               <ptr type="mentioned" target="#staribacher__19700423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__97632">
+               <persName type="label">Kirchschläger, Rudolf</persName>
+               <persName><surname>Kirchschläger</surname><forename>Rudolf</forename></persName>
+               <occupation>Außenminister, Bundespräsident</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118723189</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810311.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810521.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810609.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810710.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

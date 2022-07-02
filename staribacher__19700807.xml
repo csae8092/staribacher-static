@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700807.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700806.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700901.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der  7. August 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band02_1970-08-07</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-08-07">Freitag, 7. August 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-05">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0463" facs="02_1970-08-07_0463.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-08-07">Freitag, den 7. August</date>
+            </dateline>
+            <p xml:space="preserve">Kollege <name type="person" ref="#per__111702">Deutsch</name> der Betriebsratsobmann von der Anker-Brotfabrik<lb/>
+und Bezirksverantwortlicher für den 10. Bezirk der Sozialistischen<lb/>
+Gewerkschaftsfraktion kam mit Wienerberger Gewerkschaftskollegen.<lb/>
+Die Wienerberger ist ein Konzernbetrieb mit 1127 Arbeitern und<lb/>
+365 Angestellten. Die Mutter hat 780 Arbeiter und 230 Angestellte.<lb/>
+Ein Teil des Konzerns ist die Tonwarenfabrik – beschäftigt ca. 265<lb/>
+Arbeiter und 45 Angestellte. Die Kollegen waren nun der Meinung,<lb/>
+daß die Tonwarenfabrik, wo ca. 130 in der Ofenproduktion und 130 in<lb/>
+der Steinzeugproduktion verankert sind, deshalb aufgeteilt wurde, um<lb/>
+die Betriebsräte zu schwächen. Sie hatten allerdings bereits zugestimmt,<lb/>
+daß eine entsprechende Umorganisation der Tonwarenfabrik erfolgt.<lb/>
+Die Direktion hat deshalb mit Zustimmung des Aufsichtsrates, aber<lb/>
+auch mit Zustimmung der Gewerkschaft und des Betriebsrates, die<lb/>
+Steinzeugerzeugung aus der Tonwarenfabrik herausgelöst und zur<lb/>
+ÖSDG, das ist die Vertriebsgesellschaft, hinübergegeben, das heißt<lb/>
+die Steinzeugfabrik an die Vertriebsgesellschaft verpachtet. Die<lb/>
+Vertriebsgesellschaft selbst hat nur mehr 20 Angestellte, und jetzt<lb/>
+130 Arbeiter. Die Absicht der Direktion ist – wie ich aus dem Gespräch<lb/>
+entnehmen konnte – ich hatte das ja vermutet und den Betriebsräten<lb/>
+sofort auf den Kopf zugesagt – ausschließlich, einen gesunden Betrieb,<lb/>
+nämlich die Steinzeugerzeugung herauszulösen und die Ofenerzeugung<lb/>
+in der Tonwarenfabrik zu behalten, die aber früher oder später sicher<lb/>
+zu Grunde geht, weil derzeit 30 % nach Jugoslawien exportiert werden,<lb/>
+und dieser Export auf die Dauer sicher nicht aufrechterhalten werden kann.</p>
+            <p xml:space="preserve">Dr. <name type="person" ref="#per__97860">Rauter</name> , vom Konsumverband, und <name type="person">Mittermayer</name>, von der GÖC,<lb/>
+kamen um darauf hinzuweisen, daß die in der Kennzeichnungsverordnung<lb/>
+vorgesehene Kennzeichnung der spanischen Sardinen und Fischkonserven<lb/>
+nicht möglich ist. Wenn das Sozialministerium auf diesem Verordnungs<lb break="no"/>punkt beharrt – die Verordnung wurde vom Handelsministerium 1968<lb/>
+erlassen – dann könnten mit Ende des Jahres nicht mehr die Fische in<lb/>
+der jetzigen Preislage abgegeben werden, da die Firma eine eigene<lb/>
+Etikettierorganisation – entweder maschinell oder händisch – aufbauen<lb/>
+müßte. Da <name type="person">Mittermayer</name> den Vorschlag machte, das Sozialministerium<lb/>
+sollte die nicht auf die Lagerung und auf die Konservierung hinweisende<lb/>
+Bestimmung verzichten, oder zumindest – wenn sie nicht darauf ist –<lb/>
+tolerieren, hatte ich die Möglichkeit, sie an das Sozialministerium zu<lb/>
+verweisen. Angeblich gibt es derzeit schon bei den kalifornischen<lb/>
+Pfirsichen eine solche Tolerierung, denn dort ist Stärkesirup drinnen<lb/>
+und dies ist nach österreichischem Lebensmittelrecht verboten.</p>
+            <pb n="02-0464" facs="02_1970-08-07_0464.jpg"/>
+            <p xml:space="preserve">Wir besuchten die ZAE und Dr. <name type="person">Bodenstein</name> und der ehemalige Sekretär<lb/>
+von <name type="person" ref="#per__97749">Mitterer</name>, Dr. <name type="person" ref="#per__114663">Fischer</name>, führte uns durch das Haus. Ich hatte den<lb/>
+Eindruck, daß dies dort noch alles sehr umständlich – allerdings sehr<lb/>
+genau und exakt geführt wird, aber wir doch schauen sollten, durch<lb/>
+Liberalisierung gegenüber dem Osten, so schnell wie möglich diese<lb/>
+ganze Irrsinns -bürokratische Arbeit auflassen können.</p>
+            <p xml:space="preserve">Der bulgarische Handelsrat und Attachés kamen um mich auch noch<lb/>
+persönlich vom bulgarischen Außenhandelsminister zur Messe nach<lb/>
+Sofia einzuladen. Ich konnte ihnen erklären, daß ich infolge des zu<lb/>
+erwartenden Wahlkampfes im September unmöglich Wien verlassen<lb/>
+könnte. Allerdings erwiderten sie, daß die nächste Gemischte Kommission<lb/>
+unter Vorsitz des Außenhandelsministers in Bulgarien stattfinden müßte,<lb/>
+denn die war für Februar 1970 in Wien geplant und wurde infolge der<lb/>
+Wahlen auf den Herbst verschoben. Nach Rücksprache mit <name type="person" ref="#per__97632">Kirchschläger</name>,<lb/>
+der mich ebenfalls aufforderte , unbedingt zuerst in ein kleines Land<lb/>
+nach dem Osten zu fahren, schrieb ich einen Brief, wo ich in Aussicht<lb/>
+stellte vom 8. bis 10. September in Sofia bei Abschluß des Vertrages<lb/>
+anwesend zu sein. <name type="person" ref="#per__97632">Kirchschläger</name> steht auf dem Standpunkt, es wäre sehr<lb/>
+zweckmäßig, wenn ich vorher in ein kleines Land,wie Bulgarien, fahre,<lb/>
+bevor ich im Jänner – zur Gemischten Kommission – nach Moskau fahre.<lb/>
+Er glaubt überhaupt, daß meine Einstellung – mich überhaupt nie ins<lb/>
+Ausland zu begeben – auf die Dauer vollkommen unhaltbar ist, und daß<lb/>
+ich schon allein aus außenpolitischen und handelspolitischen Gründen<lb/>
+auf alle Fälle mich in die ausländischen Städte begeben müßte. Er selbst<lb/>
+bezeichnete dies treffend so, daß wenn man mit einem Staat Handel<lb/>
+betreibt, auch der Handelsminister in diesem Staat in Erscheinung treten<lb/>
+muß. Daß ich über diese Eröffnung überhaupt nicht glücklich bin, brauche<lb/>
+ich hier nicht besonders zu betonen.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97749">
+               <persName type="label">Mitterer, Otto</persName>
+               <persName><surname>Mitterer</surname><forename>Otto</forename></persName>
+               <occupation>Handelsminister, ÖVP, Präs. HK Wien</occupation>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720411.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780523.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780530.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780805.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+            </person>
+            <person xml:id="per__114663">
+               <persName type="label">Fischer, C</persName>
+               <persName><surname>Fischer</surname><forename>C</forename></persName>
+               <occupation>Beamter HM (Rochusplatz), ehem. Sekr. Bock, Mitterer</occupation>
+               <ptr type="mentioned" target="#staribacher__19710305.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800722.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800826.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800827.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810302.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810304.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810401.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810521.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+            </person>
+            <person xml:id="per__97860">
+               <persName type="label">Rauter, Anton</persName>
+               <persName><surname>Rauter</surname><forename>Anton</forename></persName>
+               <occupation>Konsum</occupation>
+               <ptr type="mentioned" target="#staribacher__19710226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780807.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781017.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810304.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+            </person>
+            <person xml:id="per__111702">
+               <persName type="label">Deutsch, Josef</persName>
+               <persName><surname>Deutsch</surname><forename>Josef</forename></persName>
+               <occupation>BV Wien-Favoriten, Wr. SPÖ-GR-Abg., stv. LUGA-Vors., BRO
+                  Ankerbrot</occupation>
+               <ptr type="mentioned" target="#staribacher__19710330.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720315.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801025.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810604.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810905.xml"/>
+            </person>
+            <person xml:id="per__97632">
+               <persName type="label">Kirchschläger, Rudolf</persName>
+               <persName><surname>Kirchschläger</surname><forename>Rudolf</forename></persName>
+               <occupation>Außenminister, Bundespräsident</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118723189</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810311.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810521.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810609.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810710.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810912.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

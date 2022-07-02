@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19800705.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19800704.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19800707.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  5. Juli 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band55_1980-07-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-07-05">Samstag, 5. Juli 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-12-07">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="55-0861" facs="55_1980-07-05_0861.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 5. Juli 1980<lb/>
+</p>
+            <p xml:space="preserve">Das Arbeitsessen mit dem nigerianischen Gouverneur und seinen<lb/>
+acht Begleitern und den Steyr-Daimler-Puch Leuten verlief er<lb break="no"/>wartungsgemäß. Die Unterlagen, die ich bekommen habe, sind ver<lb break="no"/>altet, derzeit wird nicht 1 LKW pro Tag in Bauchi assembliert,<lb/>
+sondern schon sechs. Wichtig für Steyr ist aber, daß durch diese<lb/>
+Montageanlage, mehr ist sie ja nicht, größere Niger-Geschäfte mit<lb/>
+Nigeria getätigt werden konnten. Erst jetzt wurde ein Vertrag<lb/>
+auf 351 Mio. S, 448 Pinzgauer, 200 LKW abgeschlossen. Neuerdings<lb/>
+werden auch Kürassiere geliefert, sollte sich dieser Panzer in<lb/>
+Nigeria bewähren, und das ist sicherlich der Fall, besteht eine<lb/>
+große Liefermöglichkeit für die Militärs. In der Montagefabrik<lb/>
+wurden bis jetzt 700 Mio. S investiert, davon 300 Mio. S aus<lb/>
+Österreich. Der Gouverneur und seine Begleitung erklärten mir<lb/>
+immer wieder, daß sie mit der Entwicklung in Bauchi sehr zufrieden<lb/>
+sind und auf weitere Zusammenarbeit rechnen. Ich habe ihnen zuge<lb break="no"/>sagt, daß Österreich und ganz besonders das Handelsministerium<lb/>
+jedwede Unterstützung geben wird. Der typischste Beweis für die<lb/>
+Nigerianer war, daß ich damals zur Vertragsunterzeichnung extra<lb/>
+nach Lagos geflogen bin. Jetzt wünschen sie allerdings zusätzlich,<lb/>
+daß ich zumindestens einmal das Werk in Bauchi besuchen müßte.<lb/>
+Eine ähnliche Forderung wurde mir auch von seiten Steyr-Daimler-<lb/>
+Puchs gesagt. Hier allerdings handelt es sich nicht um eine<lb/>
+Forderung, sondern um ein höfliches Ersuchen. Zugesagt habe ich<lb/>
+für diesen Punkt natürlich überhaupt nichts.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back/></text>
+</TEI>

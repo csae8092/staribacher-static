@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700905.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700904.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700906.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  5. September 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-09-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-09-05">Samstag, 5. September 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0485" facs="02_1970-09-05_0485.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-09-05">Samstag, 5. September 1970</date>
+            </dateline>
+            <p xml:space="preserve">Die AEG-Austria hat auf der Messe einen ganz grossen eigenen<lb/>
+Pavillon errichtet und mit all ihren Produkten ausgestattet.<lb/>
+Die Firma hat mich ersucht, die Eröffnungsansprache zu halten<lb/>
+und bei dieser Gelegenheit habe ich auch die Möglichkeit, Direktor<lb/>
+Prof. <name type="person" ref="#per__149318">Schmitt</name> vom Vorstand in Frankfurt kennenzulernen. <name type="person" ref="#per__149318">Schmitt</name> sagte<lb/>
+mir bei seiner Vorbesprechung, dass er hört, dass die österr. Indu<lb break="no"/>strie grosse Angst hat, weil die Westdeutschen mit Russland<lb/>
+jetzt bessere Handelsbeziehungen haben und grössere Lieferungen<lb/>
+durchführen werden. Es dürfte also bereits auf wirtschaftlichem<lb/>
+Sektor die Entspannung , die <name type="person" ref="#per__114110">Brandt</name> eingeleitet hat, ihren Nieder<lb break="no"/>schlag finden. Ich nützte die Gelegenheit, ich hatte <name type="person" ref="#per__149318">Schmitt</name><lb/>
+es vorher ja bereits gesagt, um in einer Ansprache darauf zurück<lb break="no"/>zukommen, wobei ich allerdings erklärte, wir wissen, dass die<lb/>
+deutsche Konkurrenz keine <choice><choice><sic>Quantität negligabel</sic><corr>quantité négligeable</corr></choice></choice> sein wird, aber<lb/>
+fürchten in diesem Sinne tun wir uns nicht, sondern man muss sich<lb/>
+eben auch österreichischerseits entsprechend darauf vorbereiten.</p>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__114110">
+               <persName type="label">Brandt, Willy</persName>
+               <persName><surname>Brandt</surname><forename>Willy</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710521.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720121.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720413.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780330.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780403.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780920.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800520.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800916.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810714.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810922.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

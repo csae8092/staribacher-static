@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19730224.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730223.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19730225.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 24. Februar 1973</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band14_1973-02-24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1973-02-24">Samstag, 24. Februar 1973</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-10-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band14/">
+      <body>
+         <pb n="14-0234" facs="14_1973-02-24_0234.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, 24. Feber 1973</p><p xml:space="preserve">Die Landeskonferenz von Niederösterreich und Burgenland der Lebens<lb break="no"/>mittelarbeiter, wo ich ein Referat über wirtschaftliche und gewerk<lb break="no"/>schaftspolitische Absichten und Situation hielt, hat keinerlei Dis<lb break="no"/>kussion ausgelöst. Darüber war ich sehr unglücklich. <name type="person" ref="#per__114535">Staudinger</name> der<lb/>
+Landessekretär sagte mir allerdings, daß sie dies sogar beabsichtigt<lb/>
+haben. Hätte sich der ÖAAB gemeldet, dann wäre natürlich eine Dis<lb break="no"/>kussion entbrannt, da dieser aber bevorzugt zu schweigen, haben unsere<lb/>
+Genossen sich nicht gemeldet. Richtig ist, daß ich den ÖAAB kaum eine<lb/>
+Möglichkeit gegeben habe einzugreifen. Ich habe nämlich dezidiert er<lb break="no"/>klärt, und daß ist meine innerste Überzeugung, daß sowohl in der Ko<lb break="no"/>alitionsregierung als auch in der monochromen ÖVP-Regierung als auch<lb/>
+jetzt gegenüber der soz. Regierung die Lebensmittelarbeiter gar keine<lb/>
+andere Möglichkeit haben und gar keine andere Taktik verfolgen, als<lb/>
+immer die Interessen der Arbeiterinnen und Arbeiter in unserer Branche<lb/>
+bestmöglichst zu vertreten. Auch an das Referat von Koll <name type="person" ref="#per__97357">Blüml</name> als<lb/>
+Zentralsekretär kann keine Diskussion zu stande. <name type="person" ref="#per__114535">Staudinger</name> hat diese<lb/>
+Organisation fest in der Hand und auch der Obmann der nö. Lebensmittel<lb break="no"/>arbeiter, NR. <name type="person" ref="#per__98016">Tonn</name> ist unumstritten. In der Pause kamen dann einige<lb/>
+Genossen die mich beglückwünschten für die Arbeit die wir leisten und<lb/>
+nur besorgt sind, daß ich mich vielleicht doch zu sehr überanstrenge.<lb/>
+Das Vertrauen ehrt mich, die Ruhe aber beängstigt mich.</p></div>
+      </body>
+      <back><listPerson><person xml:id="per__97357">
+               <persName type="label">Blümel, Kurt</persName>
+               <persName><surname>Blümel</surname><forename>Kurt</forename></persName>
+               <occupation>LUGA-Zentralsekretär</occupation>
+               <ptr type="mentioned" target="#staribacher__19710114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810323.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810324.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810325.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810601.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810604.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811019.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+            </person>
+            <person xml:id="per__114535">
+               <persName type="label">Staudinger, Franz</persName>
+               <persName><surname>Staudinger</surname><forename>Franz</forename></persName>
+               <occupation>LUGA-Sekr., stv. Obmann Milchwirtschaftsfonds</occupation>
+               <ptr type="mentioned" target="#staribacher__19710114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780622.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780707.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780713.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780914.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781113.xml"/>
+            </person>
+            <person xml:id="per__98016">
+               <persName type="label">Tonn, Rudolf</persName>
+               <persName><surname>Tonn</surname><forename>Rudolf</forename></persName>
+               <occupation>Bgm. von Schwechat, Nationalratsabg. SPÖ, BRO Schwechater</occupation>
+               <ptr type="mentioned" target="#staribacher__19710401.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780302.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780315.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780904.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810601.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811019.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

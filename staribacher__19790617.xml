@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19790617.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19790615.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19790618.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 17. Juni 1979</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band48_1979-06-17</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1979-06-17">Sonntag, 17. Juni 1979</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-07-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="48-0685" facs="48_1979-06-17_0685.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 17. Juni 1979<lb/>
+</p>
+            <p xml:space="preserve">Der dritte Österreichische Radfahrertag zu den mich unser Bezirks<lb break="no"/>vorsteher <name type="person" ref="#per__97347">Berger</name> auf die Landstrasse eingeladen hatte, war für<lb/>
+mich eine grosse Überraschung. Durch das Schlechtwetter bedingt,<lb/>
+waren fast nur junge Menschen Teilnehmer und keinesfalls so viel<lb/>
+als erwartet. Angeblich wurde gesagt, der Rathausplatz ist voll,<lb/>
+was aber keineswegs stimmte. Einzelne Schulen, auch in der Land<lb break="no"/>strasse waren geschlossen gekommen, sodass allein von der Hörndlgasse<lb/>
+130 Schüler mitfuhren. Dies wusste ich deshalb so genau, weil die<lb/>
+Lehrerin, lustig verkleidet, mit den Landstrasser Bezirkszug<lb/>
+mitfuhr. Begleitfahrzeug der Polizei führte den Konvoi an, da<lb/>
+aber die Ampeln nicht besetzt waren, wurde er sehr bald durch Rot<lb/>
+zerrissen. Da musste ich erleben, dass Kinder und Jugendliche das<lb/>
+Gefühl hatten, sie seien eine geschlossene Formation und fuhren<lb/>
+daher auch bei Rot teilweise über die Kreuzung. Die grösste Über<lb break="no"/>raschung erlebte ich aber am Rathausplatz, wo sich herausstellte,<lb/>
+dass die einzelnen, unter der ÖVP-Patronanz stehenden Organi<lb break="no"/>sationen wie z.B. der Handel von Wien oder Firmen wie z.B. Persil<lb/>
+und Kurier, Spenden und auch Pokale stifteten. Für den jüngsten,<lb/>
+für den ältesten, für den hübschesten, für den dicksten Teilnehmer<lb/>
+Prämiert wurde auch dann das provokanteste Fahrrad. Hier hatte ein<lb/>
+Schüler eine ausgesprochen exotische Konstruktion selbst gebastelt.<lb/>
+Den meisten Streit gab es über die schönste Radfahrerin. Ing. <name type="person" ref="#per__107940">Dittrich</name>,<lb/>
+Präsident der Wiener Handelskammer, der in der Jury war, mich hat<lb/>
+-<choice><choice><sic>an</sic><corr>?</corr></choice></choice> dann auch ersucht daran teilzunehmen und auch andere Juroren,<lb/>
+entschieden sich natürlich für ein womöglich sehr junges Mädchen.<lb/>
+Die Jüngste 3 Jahre, der Älteste 72, der Dickste 160 Kilogramm, waren<lb/>
+natürlich verhältnismässig objektiv festzustellen. Ausser Stadtrat<lb/>
+<name type="person" ref="#per__97913">Peter Schieder</name>, der mit Penzing angeradelt kam, war sonst wirklich<lb/>
+niemand anderer von uns zu sehen. Wieder einmal war eine Veran<lb break="no"/>staltung ausschliesslich ÖVP-dominiert abgelaufen.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__109811">BURIAN</name>: Erkundige Dich einmal, wer dies eigentlich<lb/>
+organisierte.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97347">
+               <persName type="label">Berger, Jakob</persName>
+               <persName><surname>Berger</surname><forename>Jakob</forename></persName>
+               <occupation>BV Landstraße</occupation>
+               <ptr type="mentioned" target="#staribacher__19780123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780411.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780531.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780606.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800411.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810616.xml"/>
+            </person>
+            <person xml:id="per__109811">
+               <persName type="label">Burian, Ferdinand</persName>
+               <persName><surname>Burian</surname><forename>Ferdinand</forename></persName>
+               <occupation>MR, Büro des Bundesministers</occupation>
+               <ptr type="mentioned" target="#staribacher__19780109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            <person xml:id="per__97913">
+               <persName type="label">Schieder, Peter</persName>
+               <persName><surname>Schieder</surname><forename>Peter</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710713.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780413.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780919.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800414.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800624.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+            </person>
+            <person xml:id="per__107940">
+               <persName type="label">Dittrich, Karl</persName>
+               <persName><surname>Dittrich</surname><forename>Karl</forename></persName>
+               <occupation>Präs. Wr. HK</occupation>
+               <ptr type="mentioned" target="#staribacher__19780522.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800312.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800417.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800514.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810312.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810924.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

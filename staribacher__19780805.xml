@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19780805.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19780804.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19780807.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  5. August 1978</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band44_1978-08-05</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1978-08-05">Samstag, 5. August 1978</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-06-26">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="44-0880" facs="44_1978-08-05_0880.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 5. August 1978<lb/>
+</p>
+            <p xml:space="preserve">Bei einem Sommerfest des Freien Wirtschaftsverbandes Margareten,<lb/>
+wo ich durch Zufall ebenfalls kurz anwesend war, hatte ich Gelegen<lb break="no"/>heit, nicht nur mit etlichen Bezirksobmännern des Freien Wirtschafts<lb break="no"/>verbandes, sondern auch mit dem Vizepräsidenten der Handelskammer<lb/>
+Wien, gleichzeitig Vertreter der Sektion Handel des Freien Wirt<lb break="no"/>schaftsverbandes, <name type="person" ref="#per__115709">Bartl</name>, längere Zeit zu reden. Wir unterhielten<lb/>
+uns im Prinzip insbesondere über den Präsidenten der Handelskammer<lb/>
+Wien. <name type="person" ref="#per__115709">Bartl</name> teile meine Meinung, dass <name type="person" ref="#per__107940">Dittrich</name> wesentlich<lb/>
+aggressiver, brutaler, mit einem Wort unzugänglicher ist als<lb/>
+<name type="person" ref="#per__97893">Sallinger</name>. <name type="person" ref="#per__107940">Dietrich</name> hat auch mit seinen eigenen Leuten, insbe<lb break="no"/>sondere aber mit den Angestellten der Handelskammer grösste Schwie<lb break="no"/>rigkeiten. Seine Art wird von jedermann abgelehnt. <name type="person" ref="#per__115709">Bartl</name> glaubt<lb/>
+aber dennoch, dass er grosse Chancen hat, früher oder später der<lb/>
+Nachfolger <name type="person" ref="#per__97893">Sallingers</name> zu werden. Da <name type="person" ref="#per__97893">Sallinger</name> nicht imstande war<lb/>
+den Präsidenten der burgenländischen Handelskammer, <name type="person" ref="#per__97487">Graf</name>, in<lb/>
+Position zu bringen, glaubt er, wird <name type="person" ref="#per__107940">Dittrich</name> der einzige Kandidat<lb/>
+als Nachfolger dann bleiben. <name type="person" ref="#per__107940">Dittrich</name> hat zwar gegen <name type="person" ref="#per__97749">Mitterer</name> nur<lb/>
+mit 4 Stimmen Mehrheit sich durchsetzen könne, doch auch bei<lb/>
+dieser Wahl vor Jahren zum Wiener Handelskammerpräsidenten hat<lb/>
+<name type="person" ref="#per__97893">Sallinger</name> eigentlich auch gegen <name type="person" ref="#per__107940">Dittrich</name> verloren. Konzilianz ist<lb/>
+scheinbar weder gegenüber dem Gegner, ja nicht einmal mehr in den<lb/>
+eigenen Reihen in der Politik gefragt. Diese Entwicklung beängstigt<lb/>
+mich eigentlich sehr.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97749">
+               <persName type="label">Mitterer, Otto</persName>
+               <persName><surname>Mitterer</surname><forename>Otto</forename></persName>
+               <occupation>Handelsminister, ÖVP, Präs. HK Wien</occupation>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720411.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780523.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780530.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780805.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+            </person>
+            <person xml:id="per__115709">
+               <persName type="label">Bartl, Erich</persName>
+               <persName><surname>Bartl</surname><forename>Erich</forename></persName>
+               <occupation>HK Wien, FWV, Vors. Kreditverein; evtl. Falschidentifikation</occupation>
+               <ptr type="mentioned" target="#staribacher__19780805.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800617.xml"/>
+            </person>
+            <person xml:id="per__107940">
+               <persName type="label">Dittrich, Karl</persName>
+               <persName><surname>Dittrich</surname><forename>Karl</forename></persName>
+               <occupation>Präs. Wr. HK</occupation>
+               <ptr type="mentioned" target="#staribacher__19780522.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800312.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800417.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800514.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810127.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810312.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810924.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            <person xml:id="per__97487">
+               <persName type="label">Graf, Robert</persName>
+               <persName><surname>Graf</surname><forename>Robert</forename></persName>
+               <occupation>ÖVP-NR-Abg., Präs. HK Bgld.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810331.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810520.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810616.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            <person xml:id="per__97893">
+               <persName type="label">Sallinger, Rudolf</persName>
+               <persName><surname>Sallinger</surname><forename>Rudolf</forename></persName>
+               <occupation>Handelskammer-Präsident</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

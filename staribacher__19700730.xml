@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700730.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700729.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700731.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 30. Juli 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band02_1970-07-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-07-30">Donnerstag, 30. Juli 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-04">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0430" facs="02_1970-07-30_0430.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-07-30">Donnerstag, der 30. Juli</date>
+            </dateline>
+            <p xml:space="preserve">Im Institut für Gesellschaftspolitik war wieder die Fraktion<lb/>
+der Fremdenverkehrsfachleute der Partei. Da ich mit den<lb/>
+einzelnen Landesparteiverantwortlichen, Landesobmann oder Landes<lb break="no"/>hauptleute oder Landeshauptmannstellvertreter, vereinbart hatte,<lb/>
+daß diese Fraktion für Fremdenverkehr bindende Beschlüsse fassen<lb/>
+konnte, hatte ich angenommen, daß es schwieriger sein würde<lb/>
+konkrete Ergebnisse durchzusetzen. Zu meiner größten Verwun<lb break="no"/>derung hat es aber überhaupt keine Schwierigkeiten gegeben.Die<lb/>
+wichtigsten Punkte und Beschlüsse waren:<lb/>
+1.) Die Organisation der Fremdenverkehrswerbung wird von uns<lb/>
+entsprechend beeinflußt und der Auftrag den der Arbeitsausschuß<lb/>
+der FVW erhalten hat, wonach die Bundesländer-Vorschläge und die<lb/>
+Vorschläge der Handelskammer und die Vorschläge der Ratio ent<lb break="no"/>sprechend auszuarbeiten sind, wird jetzt ergänzt durch Vorschläge,<lb/>
+die wir als Fremdenverkehrsfraktion jetzt gefaßt haben. Es wird<lb/>
+Aufgabe von <name type="person" ref="#per__97543">Heindl</name> sein diese dem Geschäftsführer <name type="person" ref="#per__97684">Langer-Hansel</name><lb/>
+– ohne ihm ein konkretes Papier zu geben - aber doch inhaltlich<lb/>
+zu impotieren.<lb/>
+2.) Die finanzielle Organisation der Fremdenverkehrsförderung<lb/>
+wird geändert, Es wird a) bei behördlichen Kreditinstituten in<lb/>
+Zukunft um Zinszuschüße und Bürgschaften einzureichen sein;<lb/>
+b) es wird von den Ländern ein entsprechender Zinszuschuß gegeben;<lb/>
+c) es wird beim Handelsministerium die derzeitige ERP-Fachkommission<lb/>
+auch dafür verwendet um diese Zinszuschüße zu begutachten. Die<lb/>
+Zinszuschüße die der Bund maximal mit 2 % geben wird, können nur<lb/>
+dann in dieser Höhe gegeben werden, wenn das Land mindestens diese<lb/>
+2 % ebenfalls gibt. Derzeit gibt der Bund 2 1/2 % Zinsenzuschuß<lb/>
+und das Land ist verhalten genau denselben Prozentsatz zu geben,<lb/>
+darf aber darüberhinaus nicht gehen. In der neuen Regelung soll<lb/>
+jedes Bundesland mehr und höhere Zinsenzuschüße geben können.<lb/>
+Wie weit die BÜRGES bei diesen Aktionen ausgeschalten werden<lb/>
+kann, muß noch im Detail untersucht werden, sicher wird es<lb/>
+schwierig sein, sie auf Grund des Gewerbestrukturverbesserungs<lb break="no"/>gesetzes und der bei ihr lagernden – bereits zugesagten – lebenden<lb/>
+Krediten auszuschalten. Auf alle Fälle wird Dr. <name type="person" ref="#per__116108">Haiden</name>, von der Z, mit<lb/>
+<name type="person">Uher</name>, von der Länderbank, versuchen eine Konstruktion zu finden<lb/>
+wo die Organisation und Überprüfung der Kreditgewährung bei<lb/>
+behördlichen Kreditinstituten verankert bleibt. Der Wunsch<lb/>
+<pb n="02-0431" facs="02_1970-07-30_0431.jpg"/>"der Kreditgenossen" die die Umwandlung der 80 %igen Ausfalls<lb break="no"/>haftung, wie ich sie mir vorstelle, in eine 100 %ige Bürger- u.<lb/>
+Zahlerverpflichtung gegenüber den behördlichen Kreditinstituten<lb/>
+wird sicherlich nicht zu erfüllen sein – ich selbst bin schwer<lb/>
+dagegen, weil dadurch nur ein Verlagern des Risikos auf die<lb/>
+öffentliche Hand Platz greift. Die Mittel für diese Aktion hoffe<lb/>
+ich durch die AHV-Anteile, die derzeit 0,3 % betragen, und dem<lb/>
+Finanzministerium – respective den Großteil der Handelskammer –<lb/>
+zufließt, zu erhalten. Der Wunsch in meinem Ministerium eine<lb/>
+eigene Sektion zu schaffen konnte ich den Genossen sofort aus<lb break="no"/>reden, indem ich sie darauf hinwies, daß derzeit nur zwei Abtei<lb break="no"/>lungen überhaupt existieren, wobei die fremdenverkehrspolitische<lb/>
+überhaupt nur mit Sektionsrat <name type="person" ref="#per__111367">Würzel</name> besetzt ist. Die Genossen<lb/>
+waren auch damit einverstanden, wenn wir eine Gruppe bilden. Über<lb/>
+die Besetzung dieser Gruppe konnte kein wie immer gearteter,<lb/>
+wirklich positiver Vorschlag gemacht werden.<lb/>
+Am Nachmittag kam Sektionschef <name type="person" ref="#per__97867">Reiterer</name> mit 2 Herren, Dr. <name type="person">Fuchs</name><lb/>
+von der MAG (das ist eine Maschinenfabrik in Graz, die eine<lb/>
+Schwester von Eldra ist, und Lackdrahtmaschinen erzeugt). Diese<lb/>
+Firma hatte bis jetzt ihren Export mit 50 % in den Westen und<lb/>
+einen Großteil in den Osten getätigt. In den letzten Jahren<lb/>
+hatte aber der Osten italienischen Maschinen den Vorzug gegeben<lb/>
+und die Sowjetunion hat Kooperationen mit italienischen Firmen<lb/>
+aufgenommen. Dadurch hat Italien auch die billigen Folgeaufträge<lb/>
+erhalten. Nach mühsamen Verhandlungen ist es der MAG gelungen<lb/>
+nach Polen neuerdings Lackdrahtmaschinen zu liefern und nun<lb/>
+hofft sie, daß mit der Sowjetunion 2 Lackdrahtfabriken in Koope<lb break="no"/>ration errichtet werden können. Die Firma ersuchte mich, bei<lb/>
+dem Besuch Patolitschew ihr Ansuchen zu unterstützen. Diese<lb/>
+Zusage konnte ich selbstverständlich sehr leicht geben, da bis<lb/>
+jetzt eigentlich ja nur wenige Punkte mit den Russen zu besprechen<lb/>
+sind – nämlich, so viel ich weiß, Erdöl, Erdgas, Koks, Schiffs<lb break="no"/>werft Korneuburg und MAG. Was mich am meisten verwundert ist, daß<lb/>
+sich nicht mehrere Firmen oder Ihteressensgruppen bis jetzt<lb/>
+gemeldet haben, die um Unterstützung ersuchen. Ich fragte aus<lb break="no"/>drücklich noch einmal <name type="person" ref="#per__97867">Reiterer</name> ob wir mit dieser meiner Aufzählung<lb/>
+auch tatsächlich alle offenen Punkte bereits hatten. Er selbst<lb/>
+sagte, dies würde der Fall sein.</p>
+            <pb n="02-0432" facs="02_1970-07-30_0432.jpg"/>
+            <p xml:space="preserve">Ich hatte in Erfahrung gebracht, daß der Verband für die Fettindu<lb break="no"/>strie, das heißt die Margarine- und Speiseölhersteller sich<lb/>
+nachmittags treffen würden, um endgültig über das Anbot der<lb/>
+Bundesregierung – die Umsatzsteuer von 5,5 auf 1,7 zu senken –<lb/>
+zu beraten. Da Gen.Dir. <name type="person">Seifert</name> im Ausland weilte und er jetzt<lb/>
+erst zurückkam hatte ich mich bei seinen Leuten angemeldet,<lb/>
+daß ich an dieser Sitzung teilnehmen würde. Ich kam tatsächlich<lb/>
+zu der Sitzung als sie ihre Vorbesprechung scheinbar bereits<lb/>
+abgehalten hatten, denn sie waren sehr in einer privaten Bespre<lb break="no"/>chung in lockeren Gruppen versammelt. Zur Eröffnung schilderte<lb/>
+ich den Werdegang dieser Idee und wies darauf hin, daß es sich<lb/>
+doch um eine Art "Wiedergutmachung" gegenüber der Industrie, aber<lb/>
+auch gegenüber den Konsumenten handelt, denn 1968 wurde entgegen<lb/>
+dieser Gruppen eine Erhöhung der Umsatzsteuer auf Wunsch der<lb/>
+Bauern von 1,7 auf 5,5 im Parlament durchgedrückt. Die Vertreter<lb/>
+der Industrie hatten meine Ausführungen, die sehr umfangreich und<lb/>
+sehr detailliert waren,ohne ein Anzeichen ob sie dem zustimmen,<lb/>
+zur Kennntnis genommen. Ich hatte deshalb aber guten Grund anzunehmen,<lb/>
+daß die Sache positiv laufen würde, umso mehr als die ersten<lb/>
+Diskussionsredner sich gegen die Unilever-Vertreter Dkfm. <name type="person" ref="#per__97936">Seefranz</name><lb/>
+wendeten, der ihrer Meinung nach die Lage zu positiv dargestellt<lb/>
+hatte. <name type="person" ref="#per__97936">Seefranz</name> selbst hat ja bei den Besprechungen mit mir immer<lb/>
+wieder darauf hingewiesen, man müßte mit dem Rechenstift genau<lb/>
+ausrechnen wie weit eine Möglichkeit besteht, die Vorschläge der<lb/>
+Bundesregierung – die er sehr positiv beurteilte – zu verwirklichen.<lb/>
+Zu meiner größten Verwunderung mischte sich aber im Laufe der<lb/>
+Debatte GenDir. <name type="person">Seifert</name>, der Unilever, der gleichzeitig auch der<lb/>
+Vorsitzende dieser Fachgruppe ist, ein und erklärte, warum sie<lb/>
+nicht den Vorschlag der Bundesregierung annehmen könnten. Seiner<lb/>
+Meinung nach handelt es sich um einen Wechsel für die Zukunft,<lb/>
+dessen Einlösung nicht sicher ist. Außerdem würden die Rohstoff<lb break="no"/>preise weiter steigen und es sollte die Bundesregierung eben<lb/>
+versuchen die Umsatzsteuer zu senken um dann im Herbst oder Winter<lb/>
+mit der Margarinindustrie zu verhandeln wie weit dann diese<lb/>
+Umsatzsteuersenkung auf die Letztverbraucher wieder weitergegeben<lb/>
+werden könnte, oder – wie GenDir. <name type="person">Erhart</name>, der ehemalige Geschäfts<lb break="no"/>führer vom Milchwirtschaftsfond und derzeit bei Ebhart &amp; Herout<lb/>
+beschäftigt, sagte adiert werden sollte. Ich erklärte, daß es<lb/>
+sich um einen unfreundlichen Akt gegen die Bundesregierung handelt<lb/>
+und die Bundesregierung wird sich vorbehalten, wie sie auf diese<lb/>
+<pb n="02-0433" facs="02_1970-07-30_0433.jpg"/>Stellungnahme reagieren wird. Ich selbst würde mich unverzüglich<lb/>
+zum Bundeskanzler begeben. Man versuchte mir noch einzureden,<lb/>
+daß es sich um keine politische sondern um eine wirtschaftliche<lb/>
+Notwendigkeit handelt und er hätte einmal gegen die Bundesregierung<lb/>
+– unter <name type="person">Klaus</name> bereits – Waschmittelpreise erhöht, auch gegen die<lb/>
+damalige Paritätische Kommission, die 5 Monate hindurch keinen<lb/>
+Entscheid gegeben hatte. Man versuchte mir noch einzureden, daß<lb/>
+man keine andere Möglichkeit gesehen hätte, da sie – insbeson<lb break="no"/>dere Ebhart &amp; Herout – bereits in roten Ziffern seien seit 1970<lb/>
+und bis 31.12. ein weiteres Defizit von 1,2 Millionen S erleiden<lb/>
+müßten. Als von den Wiener Ölwerken, Dir. <name type="person">Weinig</name>, meinte, daß<lb/>
+das Defizit eigentlich nachgewiesen sei, sagte ich sofort,<lb/>
+davon könnte keine Rede sein und ich fragte KomRat <name type="person">Erhart</name> ob er<lb/>
+bereit wäre einen Buchprüfer – den er übrigens in seinem Diskus<lb break="no"/>sionsbeitrag angeboten hatte - auch tatsächlich bei ihm einsetzen<lb/>
+dürfte, der die Kalkulationen und die Betriebsabrechnung prüfen<lb/>
+dürfte, lief er rot an und sagte man müßte ihm doch als Mann<lb/>
+glauben, wenn er das Wort gibt, daß sie in roten Ziffern seien.<lb/>
+Ich zog mich sofort aus dieser Diskussion heraus indem ich<lb/>
+sagte, ich hab keinen Grund seine Aussagen zu bezweifeln, aber<lb/>
+nachgewiesen sei das Defizit keinesfalls. Die anderen Herren von<lb/>
+der Ölindustrie, Vegetatile Estermann wollten ja und werden in<lb/>
+den nächsten Wochen ihre Preisanträge über erhöhte Ölpreise<lb/>
+ebenfalls in der Paritätischen Kommission einbringen. Abschließend<lb/>
+erklärte ich, daß ich bei ihrer Beschlußfassung garnicht anwesend<lb/>
+sein will und deshalb die Sitzung auf alle Fälle nach stunden<lb break="no"/>langen Debatten verlassen werde, daß ich ihnen aber doch zu<lb/>
+überlegen gebe, daß sie nicht kurzfristig und kurzsichtig einer<lb/>
+Lösung – nämlich Erhöhung der Margarinepreise – zustimmen sollten,<lb/>
+sondern sich doch den weiteren und längerfristig wirkenden Weg<lb/>
+der Umsatzsteuersenkung gehen sollten.<lb/>
+<name type="person" ref="#per__97668">Kreisky</name>, der mich am Vormittag bereits angerufen hatte und mir<lb/>
+sagte, die Margarineindustrie hätte bereits die Erhöhung beschlos<lb break="no"/>sen, war – wie ich glaube mit ruhigem Gewissen sagen zu können -<lb/>
+zu diesem Zeitpunkt falsch informiert, da erst der Beschluß<lb/>
+scheinbar endgültig gefaßt wurde nachdem <name type="person">Seifert</name> zurückgekommen<lb/>
+ist. Ich konnte ihm deshalb am Anfang gleich mitteilen, daß er<lb/>
+zwar falsch informiert, aber in der Sache rechtgehabt hat, denn<lb/>
+sie wollten also die Preise auf alle Fälle jetzt erhöhen. Die<lb/>
+Sekretärin von <name type="person" ref="#per__97668">Kreisky</name>, Frau <name type="person" ref="#per__97920">Schmid</name>, konnte über das Finanzmini<lb break="no"/>sterium erheben, daß für Margarine ein Anwendungszollsatz gemäß<lb/>
+<pb n="02-0434" facs="02_1970-07-30_0434.jpg"/>§ 6 von 18 % des Wertes derzeit erhoben wird. Der allgemeine<lb/>
+Zollsatz ist 22 % und der vertragsmäßige Zollsatz 3,15 S pro kg.<lb/>
+Nach stundenlangen Suchen gelang es dann am späten Abend <name type="person">Seifert</name><lb/>
+in der Wohnung zu erreichen und <name type="person" ref="#per__97668">Kreisky</name> eröffnete ihm, daß die<lb/>
+Bundesregierung beabsichtige den Zollsatz auf 0 zu senken, wenn<lb/>
+es nicht doch der Margarineindustrie lieber ist auf die Preis<lb break="no"/>erhöhung zu verzichten. Außerdem kündigte er ihm auch einen<lb/>
+Kampf bezüglich der Waschmittel an, denn er sagte er würde sich<lb/>
+und die Bundesregierung es nicht gefallen lassen, daß ein<lb/>
+Monopol – die Unilever – eine derartige Politik betreibt, ohne<lb/>
+auf die Bedürfnisse der Regierung Rücksicht zu nehmen. Kreisky<lb/>
+ist überzeugt, daß es sich bei diesem Kampf um eine ähnliche<lb/>
+Frage handelt wie <name type="person" ref="#per__97620">Kennedy</name> mit der Stahlindustrie ausgefochten hat<lb/>
+und hofft, daß dieser Kampf positiv entschieden werden kann.<lb/>
+Ich glaube, daß tatsächlich, wenn die Zölle auf 0 gesenkt werden –<lb/>
+dazu muß allerdings Finanzminister <name type="person" ref="#per__97311">Androsch</name> noch gefragt werden,<lb/>
+der nicht erreicht werden konnte – müßte es tatsächlich Außen<lb break="no"/>seiter geben, die Margarine nach Österreich einführen.<lb/>
+<name type="person">Seifert</name> selbst war auch daher sofort bereit und ersuchte, ob wir<lb/>
+nicht noch eine Aussprache haben könnten, die für Freitag 1/2 10<lb/>
+Uhr vor der Bauernversammlung – um 10 Uhr - vereinbart wurde.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97311">
+               <persName type="label">Androsch, Hannes</persName>
+               <persName><surname>Androsch</surname><forename>Hannes</forename></persName>
+               <occupation>Finanzminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118503049</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810820.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            <person xml:id="per__111367">
+               <persName type="label">Würzl, Anton</persName>
+               <persName><surname>Würzl</surname><forename>Anton</forename></persName>
+               <occupation>MR, Leiter Gruppe FV u. Gewerbeförd. HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810828.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810928.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811010.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            <person xml:id="per__97867">
+               <persName type="label">Reiterer, Rudolf</persName>
+               <persName><surname>Reiterer</surname><forename>Rudolf</forename></persName>
+               <occupation>Sektionschef HM, Diplomat, Verteter bei der EG</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720414.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720415.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720427.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720504.xml"/>
+            </person>
+            <person xml:id="per__97684">
+               <persName type="label">Langer-Hansel, Harald</persName>
+               <persName><surname>Langer-Hansel</surname><forename>Harald</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/136291708</idno>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710810.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710914.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710919.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720302.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720411.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800722.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801007.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811005.xml"/>
+            </person>
+            <person xml:id="per__97920">
+               <persName type="label">Schmidt, Margit</persName>
+               <persName><surname>Schmidt</surname><forename>Margit</forename></persName>
+               <occupation>Sekr. Kreisky</occupation>
+               <ptr type="mentioned" target="#staribacher__19781003.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            <person xml:id="per__116108">
+               <persName type="label">Haiden, René Alfons</persName>
+               <persName><surname>Haiden</surname><forename>René Alfons</forename></persName>
+               <occupation>GD-Stv. Z</occupation>
+               <ptr type="mentioned" target="#staribacher__19710315.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780830.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+            </person>
+            <person xml:id="per__97620">
+               <persName type="label">Kennedy, John F.</persName>
+               <persName><surname>Kennedy</surname><forename>John F.</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19780110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781026.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+            </person>
+            <person xml:id="per__97668">
+               <persName type="label">Kreisky, Bruno</persName>
+               <persName><surname>Kreisky</surname><forename>Bruno</forename></persName>
+               <occupation>Bundeskanzler</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118566512</idno>
+               <ptr type="mentioned" target="#staribacher__19700423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__97543">
+               <persName type="label">Heindl, Kurt</persName>
+               <persName><surname>Heindl</surname><forename>Kurt</forename></persName>
+               <occupation>1970-1973 Büro Staribacher, SPÖ-NR-Abg., stv. Vors.
+                  SPÖ-Landstraße</occupation>
+               <idno type="GND">http://d-nb.info/gnd/102318379X</idno>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            <person xml:id="per__97936">
+               <persName type="label">Seefranz, Eberhard</persName>
+               <persName><surname>Seefranz</surname><forename>Eberhard</forename></persName>
+               <occupation>Unilever</occupation>
+               <ptr type="mentioned" target="#staribacher__19710712.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780512.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780704.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780804.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19710501.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710430.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710503.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der  1. Mai 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band05_1971-05-01</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-05-01">Samstag, 1. Mai 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-30">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="05-0536" facs="05_1971-05-01_0536.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 1. Mai 1971<lb/>
+</p>
+            <p xml:space="preserve">Trotz eines furchtbaren Wetters war die Beteiligung an dem Auf<lb break="no"/>marsch wesentlich höher als wir uns alle erwartet hatten.<lb/>
+Natürlich wäre bei Schönwetter ein triumphaler Aufmarsch zustande<lb/>
+gekommen. Gerade wenn aber ein so mieses Wetter ist und wenn der<lb/>
+1. Mai so günstiger oder ungünstig – von welchem Standpunkt man es<lb/>
+immer betrachtet – fällt, wenn nämlich am nächsten Tag ein Sonntag<lb/>
+ist, dann denke ich immer, ob es nicht zielführend wäre, schön<lb/>
+langsam zu einer anderen Feier des 1. Mai zu gelangen. Ich hätte<lb/>
+ja überhaupt alle diese Feiertage, die vereinzelt in den Monaten<lb/>
+des Frühjahres und des Herbstes anfallen, gegen eine Woche Urlaubs<lb break="no"/>verlängerung schon längst aufgegeben. Von Erholungswert und<lb/>
+vom wirtschaftlichen Standpunkt wäre eine solche Regelung sicher<lb/>
+zielführend.<lb/>
+</p>
+            <p xml:space="preserve">Nachmittags holte ich den amerikanischen Handelsminister <name type="person" ref="#per__136692">Stans</name> in<lb/>
+Schwechat ab. Das Fernsehen hatte eine stumme Aufnahme von der An<lb break="no"/>kunft gefilmt und abends auch gesendet. Bei der Ankunft aber fragte<lb/>
+Stand doch, ob seine Erklärungen nicht aufgezeichnet werden. Wie<lb/>
+<name type="person" ref="#per__97646">Koppe</name> dann mitteilte, hätte wir auf alle Fälle eine solche Aufnahme<lb/>
+machen sollen.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97646">
+               <persName type="label">Koppe, Fritz</persName>
+               <persName><surname>Koppe</surname><forename>Fritz</forename></persName>
+               <occupation>Sekr. JS, ab 1973 GF VKI</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__136692">
+               <persName type="label">Stans, Maurice</persName>
+               <persName><surname>Stans</surname><forename>Maurice</forename></persName>
+               <occupation>US-HM bis 1972</occupation>
+               <ptr type="mentioned" target="#staribacher__19710329.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710416.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710501.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710504.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

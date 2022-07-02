@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19710116.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710115.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710118.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 16. Jänner 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band04_1971-01-16</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-01-16">Samstag, 16. Januar 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-07-24">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="04-0049" facs="04_1971-01-16_0049.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 16. Jänner 1971<lb/>
+</p>
+            <p xml:space="preserve">Auch grosse internationale Konzerne haben manchmal komische Einfälle.<lb/>
+Der Generaldirektor von BP, British Petrol, <name type="person" ref="#per__134378">Armstrong</name>, wollte mich<lb/>
+unbedingt sprechen. Er erklärte, er hätte von London direkt den Auf<lb break="no"/>trag, wer in der österreichischen Bundesregierung bereit wäre zuständig<lb/>
+wäre, eine äusserst wichtige Botschaft zu übernehmen. Da ich krank im<lb/>
+Bett lag, versuchte ich, ihm auseinanderzusetzen, dass das Handelsmini<lb break="no"/>sterium zuständig sei und er von uns hören würde. <name type="person" ref="#per__97543">Heindl</name> konnte ich leider<lb/>
+nicht erreichen, sodass <name type="person" ref="#per__98053">Wanke</name> einspringen musste. <name type="person" ref="#per__98053">Wanke</name> versuchte ihm<lb/>
+klarzumachen, dass er gegebenenfalls er mir ja diese wichtige Botschaft<lb/>
+auch telefonisch mitteilen könnte. Nach längerem scheinbar Hin und Her<lb/>
+entschloss er sich, mich neuerlich anzurufen. Er wollte noch immer zu<lb/>
+mir persönlich kommen, um mir wie er sagte, die jetzt in Übersetzung<lb/>
+befindliche Botschaft mir zu übermitteln. Letzten Endes entschloss er<lb/>
+sich endlich um 2 Uhr den Klartext auch auf telefonischem Wege mir<lb/>
+mitzuteilen. Nachdem die Verhandlungen mit den Exportölländern, den<lb/>
+sogenannten <choice><choice><sic>Opets</sic><corr>OPEC</corr></choice></choice>, gescheitert waren, nahm ich an, dass vielleicht die<lb/>
+Ölfirmen Boykottmassnahmen gegenüber den <choice><choice><sic>Opets-Ländern</sic><corr>OPEC-Ländern</corr></choice></choice> beschlossen haben<lb/>
+und in dem Fall, die Regierungen aufmerksam machen, dass mit Versorgungs<lb break="no"/>schwierigkeiten zu rechnen ist. In diesem Fall hätten wir sofort Gegen<lb break="no"/>massnahmen ergreifen müssen und ich versuchte deshalb, den ganzen Vor<lb break="no"/>mittag auch schon mit der ÖMV in Verbindung zu kommen. Bestärkt wurde ich<lb/>
+noch in dieser Meinung, dass <name type="person" ref="#per__134378">Armstrong</name> erklärte, er fürchte, dass die<lb/>
+Telefone abgehört werden und die Konzerne erst weltweit um 17.00 Uhr<lb/>
+MEZ diese äusserst Wichtige Botschaft bekanntgeben werden. Um 14 Uhr teilte<lb/>
+er mir dann die Botschaft mit. Sie enthielt nichts anderes, als dass<lb/>
+die internationalen Ölkonzerne weiter verhandeln wollen. Kein einziges<lb/>
+Massenmedium brachte diese Nachricht.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97543">
+               <persName type="label">Heindl, Kurt</persName>
+               <persName><surname>Heindl</surname><forename>Kurt</forename></persName>
+               <occupation>1970-1973 Büro Staribacher, SPÖ-NR-Abg., stv. Vors.
+                  SPÖ-Landstraße</occupation>
+               <idno type="GND">http://d-nb.info/gnd/102318379X</idno>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            <person xml:id="per__134378">
+               <persName type="label">Armstrong, Derek F.</persName>
+               <persName><surname>Armstrong</surname><forename>Derek F.</forename></persName>
+               <occupation>GD BP</occupation>
+               <ptr type="mentioned" target="#staribacher__19710116.xml"/>
+            </person>
+            <person xml:id="per__98053">
+               <persName type="label">Wanke, Otto</persName>
+               <persName><surname>Wanke</surname><forename>Otto</forename></persName>
+               <occupation>SChef HM</occupation>
+               <idno type="GND">http://d-nb.info/gnd/12195126X</idno>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810413.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

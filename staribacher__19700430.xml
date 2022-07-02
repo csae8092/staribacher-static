@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700430.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700429.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700501.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Donnerstag, der 30. April 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band01_1970-04-30</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-04-30">Donnerstag, 30. April 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-03-02">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band01/">
+      <body>
+         <pb n="01-0047" facs="01_1970-04-30_0047.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-04-30">Donnerstag, 30. April 1970</date>
+            </dateline>
+            <p xml:space="preserve">Zur Eröffnung der Grazer Messe hatte ich nur eine Einladung<lb/>
+bekommen, ohne daß vorgesehen war, daß ich dort auch eine<lb/>
+Ansprache halten sollte. Bisher hatten immer der Handelsmin<lb break="no"/>ister oder der Finanzminister eine solche Ansprache gehalten.<lb/>
+Ich hatte deshalb dem Büro den Auftrag gegeben nur mitzuteilen,<lb/>
+daß ich eine Begrüßungsadresse schicken würde. Auf Intervention<lb/>
+<name type="person" ref="#per__97818">Pittermann</name> erklärte ich mich bereit, dann doch zur Grazer Messe<lb/>
+zu fahren, wenn ich eine entsprechende Sprechmöglichkeit bekomme.<lb/>
+Dies ist letztenendes auch gelungen und ich wurde zwischen den Er<lb break="no"/>klärungen des Landeshauptmann <name type="person" ref="#per__97664">Krainer</name> und der Eröffnungsrede<lb/>
+des Bundespräsidenten eingeschoben.</p>
+            <p xml:space="preserve">Beim Empfang auf der Burg vom Landeshauptmann versuchte<lb/>
+ich bereits mit den Handelskammer- und Industriellenvereinigungs<lb break="no"/>leuten Kontakt zu bekommen. Leider war aber keiner anwesend.<lb/>
+Bei der Messeeröffnung konnte ich dann den Grund feststellen, warum ich<lb/>
+scheinbar nicht reden sollte. <name type="person" ref="#per__97664">Krainer</name>, der eine sehr gut vorbe<lb break="no"/>reitete Rede las, kam darauf zu sprechen, daß sich die<lb/>
+politische Landschaft geändert hätte und man jetzt insbesondere<lb/>
+der Entwicklung genaues Augenmerk zuwenden müßte. Besonders<lb/>
+der Schutz des Eigentums müßte gesichert werden. Ich hatte in<lb/>
+meiner verhältnismäßig sehr kurzen Rede Gelegenheit diesen<lb/>
+<pb n="01-0048" facs="01_1970-04-30_0048.jpg"/>Angriff sofort zu parieren in dem ich erklärte, auch für uns<lb/>
+steht der Schutz des Eigentums außer jeder Diskussion.</p>
+            <p xml:space="preserve">Hier hatte ich als einziger von den Begrüßungsansprachen einen<lb/>
+Beifall, wahrscheinlich von den sozialistischen Zuhörern erhalten.<lb/>
+Nach Beendigung meiner Rede mußte ich mich wieder neben den Landes<lb break="no"/>hauptmann setzen und zu meiner größten Verwunderung spendete<lb/>
+er mir ein ganz großes Lob in dem er sagte "Sehr gut gemacht,<lb/>
+echt Krainerisch". lm folgenden hatte ich Gelegenheit beim Durch<lb break="no"/>gang der Messe die Herren der Industriellenvereinigung und der<lb/>
+Handelskammer kennen zu lernen und mit ihnen Gespräche zu<lb/>
+führen. Zu meiner größten Verwunderung waren sie sehr<lb/>
+erfreut über meine Erklärung bezüglich des Eigentums, denn<lb/>
+sie sagten , vom Landeshauptmann hätten sie sich eine positive<lb/>
+Stellungnahme dazu erwartet. Scheinbar aber nicht von der so<lb break="no"/>zialistischens Regierung. Ich glaube es ist mir gelungen, sie<lb/>
+einigermaßen zu beruhigen. Da ich mittags noch ein Pressegespäch<lb/>
+im Steirerhof abführte, mußte ich mich vorzeitig vom Bundes<lb break="no"/>präsidenten verabschieden, der mir zu meiner größten Überraschung<lb/>
+mitteilte, er hätte gerne gesehen, wenn ich mit ihm in seinem Salon<lb break="no"/>wagen nach Wien zurückgefahren wäre, um mit mir 1 Stunde zu<lb/>
+debattieren. Ich mußte mich bei ihm entschuldigen, da ich um 16.00<lb/>
+Uhr in Wien einen Termin hatte. und habe mit Kabinettsdirektor<lb/>
+<name type="person" ref="#per__97399">Drescher</name> ausgemacht, daß, sobald der Herr Bundespräsident Zeit<lb/>
+hat, ich jederzeit zu einer Aussprache zur Verfügung stehe. Ich<lb/>
+mußte dann noch die Flecktierschau von Präsident <name type="person" ref="#per__149055">Wallner</name> <add>[evtl. Falschidentifikation, Anm.]</add> seinem<lb/>
+Zuchtverband besichtigen und anschließend mit Redakteur <name type="person" ref="#per__134222">Riedler</name><lb/>
+<pb n="01-0049" facs="01_1970-04-30_0049.jpg"/>von der "Neuen Zeit" auch den Druckereistand von Leykam be<lb break="no"/>sichtigen. Er ärgerte sieh maßlos weil, als wir dort hin kamen,<lb/>
+der vorgesehene Fotograf nicht vorhanden war, ich aber keine<lb/>
+Zeit mehr hatte zu warten, da ich die Pressegespräche im Steirer<lb break="no"/>hof führen mußte.</p>
+            <p xml:space="preserve">Anmerkung für Fritz:<lb/>
+Eventuell Pressegespräch schildern, von mir aus nicht notwendig.</p>
+            <p xml:space="preserve">Nach dem Pressegespräch fuhren wir unverzüglich nach Wien,<lb/>
+da ich um 16.00 das wirtschaftspolitische Komitee der SPÖ<lb/>
+einberufen hatte.<lb/>
+Zu unserer größten Verwunderung ist unser amerikaniseher<lb/>
+Schlitten knapp vor Vösendorf ausgefallen und der ARBÖ<lb/>
+mußte ihn abschleppen. Wir selbst wurden durch die Gendarmerie<lb/>
+nach Wien gebracht, so daß ich mit einiger Verspätung doch noch<lb/>
+zur Sitzung kommen konnte.</p>
+            <p xml:space="preserve">Anmerkung für <name type="person" ref="#per__98053">Otto</name>:<lb/>
+Bitte die Sitzsng schildern. Ich glaube, deren Verlauf und Inhalt ist<lb/>
+wichtig. da ich vom Anfang an nicht anwesend war und nicht weiß,<lb/>
+wer das Papier vorgelegt hat. (auch dieses mitteilen).</p>
+            <p xml:space="preserve">Abends fand der Fackelzug der sozialistischen Jugend Wiens statt.<lb/>
+Gott sei dank bewegte er sich derzeit nur vomn Heldenplatz bis zum<lb/>
+Rathaus. Ich sage deshalb Gott sei dank, weil in den vergangenen Jahren<lb/>
+<pb n="01-0050" facs="01_1970-04-30_0050.jpg"/>immer wieder ein Anmarsch zum Sammelplatz Schwarzenbergplatz<lb/>
+von den einzelnen Bezirken sich meist wüste Elemente, meistens<lb/>
+ganze Platten, in den Zug eingeschlichen hatten, und dadurch der<lb/>
+Eindruck entstand, als bestehe die sozialistische Jugend nur aus<lb/>
+lauter Rowdis und Gammlern und sonstigen unseriösen Elementen.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__97818">
+               <persName type="label">Pittermann, Bruno</persName>
+               <persName><surname>Pittermann</surname><forename>Bruno</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/118761595</idno>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720315.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780313.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800326.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800618.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810302.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810707.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__97664">
+               <persName type="label">Krainer, Josef sen.</persName>
+               <persName><surname>Krainer</surname><forename>Josef sen.</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710509.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710905.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710919.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710923.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800827.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800927.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+            </person>
+            <person xml:id="per__134222">
+               <persName type="label">Riedler, Josef</persName>
+               <persName><surname>Riedler</surname><forename>Josef</forename></persName>
+               <occupation>CR "Neue Zeit"</occupation>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            <person xml:id="per__98053">
+               <persName type="label">Wanke, Otto</persName>
+               <persName><surname>Wanke</surname><forename>Otto</forename></persName>
+               <occupation>SChef HM</occupation>
+               <idno type="GND">http://d-nb.info/gnd/12195126X</idno>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781213.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800212.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810413.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

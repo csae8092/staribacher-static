@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701024.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701023.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701025.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 24. Oktober 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Joseph Staribacher</collection>
+                  <idno type="signature">Band03_1970-10-24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-10-24">Samstag, 24. Oktober 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-25">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0698" facs="03_1970-10-24_0698.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-10-24">Samstag, 24. Oktober 1970</date>
+            </dateline>
+            <p xml:space="preserve">Mit den Vertretern der Ölfirmen und den Professoren der Techni<lb break="no"/>schen Hochschule sprach ich die Möglichkeit, die Bleizusätze bei<lb/>
+Benzin abzusenken. Ich verlangte die entsprechenden statistischen<lb/>
+Unterlagen und glaube, dass ich imstande bin, mit Mitte des näch<lb break="no"/>sten Jahres, die schwedische Verordnung für Benzinzusätze auch für<lb/>
+Österreich einzuführen. Derzeit beträgt die Grenze 0,85 Gramm pro<lb/>
+Liter und sollte nach meinem Vorschlag auf 0,7 Gramm pro Liter ge<lb break="no"/>senkt werden. Bei dieser Gelegenheit konnte ich feststellen, dass<lb/>
+die Gewerbeabteilung, Min.Rat <name type="person" ref="#per__134819">Haselberger</name>, sehr gute Kenntnisse über<lb/>
+dieses Problem verfügt, dass aber scheinbar die anderen Herren, in<lb/>
+der Sektion oder in anderen Sektionen, die mit Öl zu tun haben, gar<lb/>
+nicht wussten, wie wir über dieses Problem eigentlich informiert<lb/>
+sind. Ein weiteres Beispiel der mangelnden Koordination und des<lb/>
+mangelnden Informationsflusses.</p>
+            <p xml:space="preserve">Bei der Landeskonferenz des Freien Wirtschaftsverbandes in Graz<lb/>
+hatte ich Gelegenheit, die Wünsche und Sorgen des FWV neuerdings<lb/>
+zu hören. Ich hatte aber so wie bei allen Versammlungen bis jetzt<lb/>
+die Gewohnheit auf alle, auch unpopulären Fragen nicht nur einzu<lb break="no"/>gehen, sondern auch mich dagegen zustellen, wenn Forderungen erhoben<lb/>
+wurden, die beim besten Willen nicht zu erfüllen sind. Ich halte per<lb break="no"/>sönlich gar nichts davon, den Leuten nach dem Munde zu reden, ob<lb break="no"/>wohl ich die sachlichen Erwiderungen auch mit Beispieln und sehr<lb/>
+humorvoll vorbringe. Abends traf ich Philipp Rieger, den Sekretär<lb/>
+vom Kautsky-Kreis. Ich bekam das erste Mal eine identische Inter<lb break="no"/>pretation des seinerzeitigen von <name type="person" ref="#per__97311">Androsch</name> so hart kritisierten Vor<lb break="no"/>trages von <name type="person" ref="#per__97676">Tommy Lachs</name> und dessen Angriffe auf die Bundesregierung,<lb/>
+insbesondere auf <name type="person" ref="#per__97311">Androsch</name>. Ich sage <name type="person" ref="#per__97873">Philipp</name> sofort, dass ich voll<lb break="no"/>stens Verständnis habe, wenn unsere Genossen die Regierung kriti<lb break="no"/>sieren. Damit muss man sich auch auseinandersetzen. Was ich aller<lb break="no"/>dings so verwerflich bei <name type="person" ref="#per__97676">Tommy Lachs</name> finde, ist , dass er behauptet,<lb/>
+es besteht keine Kontaktmöglichkeit. Er weiss ganz genau und ich<lb/>
+habe mich ja deshalb so bemüht, im Institut die Mittagsrunde zusammen<lb break="no"/>zubringen, dass er dort alle Informationen von mir oder von den<lb/>
+Sekretären von anderen Ministern bekommen kann.</p>
+         </div>
+      </body>
+    
+  <back><listPerson><person xml:id="per__134819">
+               <persName type="label">Haselberger, Josef</persName>
+               <persName><surname>Haselberger</surname><forename>Josef</forename></persName>
+               <occupation>Beamter HM/VM (Ministerienneuorganisation 1974)</occupation>
+               <ptr type="mentioned" target="#staribacher__19710301.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710809.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710810.xml"/>
+            </person>
+            <person xml:id="per__97873">
+               <persName type="label">Rieger, Philipp</persName>
+               <persName><surname>Rieger</surname><forename>Philipp</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19720119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780516.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810409.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810505.xml"/>
+            </person>
+            <person xml:id="per__97676">
+               <persName type="label">Lachs, Thomas</persName>
+               <persName><surname>Lachs</surname><forename>Thomas</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800220.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801024.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810227.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810306.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810904.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__97311">
+               <persName type="label">Androsch, Hannes</persName>
+               <persName><surname>Androsch</surname><forename>Hannes</forename></persName>
+               <occupation>Finanzminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118503049</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810820.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

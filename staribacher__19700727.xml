@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19700727.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700724.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19700728.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Montag, der 27. Juli 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band02_1970-07-27</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-07-27">Montag, 27. Juli 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-04">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-19" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band02/">
+      <body>
+         <pb n="02-0414" facs="02_1970-07-27_0414.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-07-27">Montag, den 27. Juli</date>
+            </dateline>
+            <p xml:space="preserve">Mr. <name type="person">Robison</name> vom Stanford Research Institute-Vizepräsident aus<lb/>
+Zürich, kam um mir Vorschläge zu unterbreiten, wie seine Institu<lb break="no"/>tion ein Elaborat über die österreichische Investitions- und<lb/>
+Wirtschaftspolitik ausarbeiten würde. Da ich bereits General<lb/>
+Electric, Tempo als auch Booz-Allen im Hinblick auf die budgetäre<lb/>
+Lage – und da ich garnicht die Absicht hatte, diese ausländischen<lb/>
+Research-Abteilungen mit Aufträgen zu versorgen, abgewimmelt<lb/>
+hatte – blieb mir natürlich auch bei Stanford Research garnichts<lb/>
+anderes übrig. Obwohl es sich hier um ein nicht auf Profit<lb/>
+gerichtetes Unternehmen handelt, so ist doch kaum damit zu<lb/>
+rechnen, daß wir wirklich eine preiswerte Studie bekommen könnten.<lb/>
+Da <name type="person" ref="#per__97493">Gröger</name> den Vizepräsidenten kannte und bei der Besprechung<lb/>
+anwesend war, hatte ich ihn ersucht er sollte natürlich alles<lb/>
+Material das wir haben Stanford Research – wenn es daran Interesse<lb/>
+hat – zur Verfügung stellen, und andererseits aber würden wir<lb/>
+natürlich gerne jedwedes Material, das uns finanziell nicht<lb/>
+belastet, von Stanford Research gerne erhalten.<lb/>
+Präsident <name type="person">Grundemann</name> und Hammer vom österreichischen Gemeinde<lb break="no"/>bund kamen um drei Forderungen zu unterbreiten. Erstens hatten<lb/>
+sie erstmalig im Budget von <name type="person" ref="#per__97749">Mitterer</name> 2 Millionen Schilling für<lb/>
+die Gemeinden erhalten und hoffen, daß es im nächsten Jahr mehr<lb/>
+werden wird. Ich hatte ihnen keinerlei Zusagen gemacht, sondern<lb/>
+auf <name type="person" ref="#per__97311">Androsch</name> und die Budgetsituation verwiesen. Auf alle Fälle<lb/>
+erwarten sie aber, daß die Mittel nicht an die Länder abgetreten<lb/>
+werden sondern zentralisiert vom Handelsministerium vergeben.<lb/>
+Zweitens im Jahre 1969 haben sie einen Wettbewerb über die<lb/>
+schönen Ortsbilder und deren Verbesserung gemacht, an dem sich<lb/>
+260 Erholungsdörfer beteiligten und das Bundesministerium ihnen<lb/>
+dafür 30.000 S zur Verfügung gestellt hatte. Die Handelskammer<lb/>
+hat 15.000 S dazugeschossen. Nun wollen sie für 1971 diesen<lb/>
+Wettbewerb mit 1.400 Fremdenverkehrsgemeinden starten und die<lb/>
+Handelskammer hat ihnen bereits 30.000 S zugesagt und sie erwarten<lb/>
+einen entsprechend höheren Anteil vom Handelsministerium. Auch<lb/>
+hier konnte ich nur auf die Budgetsituation verweisen. Drittens<lb/>
+hatten sie eine Broschüre herausgegeben, wo die Erholungsdörfer,<lb/>
+die mit 99 begonnen und jetzt 260 betragen, aufgezählt sind. Der<lb/>
+<pb n="02-0415" facs="02_1970-07-27_0415.jpg"/>Fremdenverkehr hat sich nach ihren Erfahrungen in diesen Dörfern<lb/>
+um 300 % erhöht, währenddem die anderen Gemeinden nur 140 %<lb/>
+Steigerung zu verzeichnen ist. Sie erwarten, daß entweder das<lb/>
+Handelsministerium oder die Fremdenverkehrswerbung einen diesbe<lb break="no"/>züglichen Zuschuß gibt. Vor allem wollen sie in den Erholungs<lb break="no"/>dörfern versuchen im Winter Gäste zu bekommen, die nicht nur<lb/>
+Schifahrer sind und im Sommer sollten die Erholungsdörfer für<lb/>
+kinderreiche Familien gewonnen werden und es sollten durch Spiel<lb break="no"/>plätze und Kindergarten für diese speziellen Familien vorgesorgt<lb/>
+werden. Ich habe zwar den beiden gegenüber nichts gesagt, aber<lb/>
+ich mache darauf aufmerksam, daß hier von seiten des Rechnungs<lb break="no"/>hofes in seiner letzten Einschau heftigste Kritik an dieser Tätig<lb break="no"/>keit der Fremdenverkehrswerbung und des Handelsministeriums<lb/>
+geübt wurde.<lb/>
+Die Pressekonferenz, die ich ja dem Handelsminister <name type="person" ref="#per__97749">Mitterer</name><lb/>
+angeboten hatte, da sie ja den Tätigkeitsbericht über seine Zeit<lb/>
+diskutieren sollte, ging letzten Endes nach Referaten der Sektions<lb break="no"/>chefs sofort in eine Diskussion über die zukünftige Arbeit des<lb/>
+Ministeriums über. <name type="person" ref="#per__97646">Koppe</name> und meine Presseabteilung hatten die<lb/>
+Pressekonferenz sehr gut vorbereitet, zum Unterschied von anderen<lb/>
+Pressekonferenzen, die ich mit Bundeskanzler und sonstigen schon<lb/>
+erlebt hatte – auch die Presse mit entsprechendem Material ver<lb break="no"/>sorgt. Dieses Material muß für die Presse ensprechend ausge<lb break="no"/>arbeitet sein, damit es unmittelbarvon dem Schreiber dazu benützt<lb/>
+werden kann Artikeln oder zumindest Kommentare zu verfassen. Wenn<lb/>
+dann noch – und das glaube ich beherrsche ich wirklich – einige<lb/>
+gute Gags ankommen, dann kann man sicher damit rechnen, daß in<lb/>
+den nächsten Tagen in der Presse einiges über die Pressekonferenz<lb/>
+berichtet wird.Die heißen Eisen die angepackt wurden, konnten<lb/>
+eigentlich alle befriedigend geklärt werden, ein einziger Punkt<lb/>
+– Dr. <name type="person">Leibnitz</name>, von der ÖVP, fragte immer wieder, wie ich beab<lb break="no"/>sichtige das Preisregelungsgesetz und Preistreibereigesetz zu<lb/>
+novellieren – konnte ich, oder, wollte ich nicht beantworten, da<lb/>
+ich hier noch immer hoffe, daß wir in der Grundsatzabteilung mit<lb/>
+der Bundeskammer zu einem Akord kommen. Wenn dies nicht der Fall<lb/>
+ist ergibt sich ja sowieso die Notwendigkeit unsere Vorschläge<lb/>
+entsprechend radikal zu formulieren, damit sie dann wenigstens<lb/>
+optisch und propagandistisch am Ende des Jahres und im nächsten<lb/>
+Jahr gut ausgewertet werden können.</p>
+            <pb n="02-0416" facs="02_1970-07-27_0416.jpg"/>
+            <p xml:space="preserve">Zum ersten mal wurde das Investorenkomitee, welches in Zukunft<lb/>
+auch die Arbeit zu leisten hat, einberufen. Ich selbst führte<lb/>
+den Vorsitz und werde das wahrscheinlich auch – soweit es irgend<lb break="no"/>wie geht – in Zukunft tun müssen, weil hier mehrere höhere Beamte<lb/>
+als der Sektionsrat <name type="person" ref="#per__97493">Gröger</name> anwesend sind. Wir kamen überein daß<lb/>
+1) bei großen Investitionsvorhaben dieses Komitee aprupt zusammen<lb break="no"/>gerufen werden soll um ihm die Möglichkeit zu geben über das<lb/>
+Projekt zu diskutieren und festzulegen wie diesem Investor<lb/>
+geholfen werden kann;<lb/>
+2) wollen wir darüberhinaus aber zumindest einmal im Monat,die<lb/>
+nächste Sitzung allerdings infolge des Urlaubes erst Mitte<lb/>
+September, uns treffen;<lb/>
+3) werden wir versuchen, alle Detailfragen in einem losen Blatt-Buch<lb/>
+zusammenzufassen, und es gelang mir bei dieser Sitzung die<lb/>
+Nationalbank, das Sozialministerium und das Finanzministerium<lb/>
+dafür zu gewinnen, daß sie entsprechende Unterlagen liefern.<lb/>
+Ebenso wird das Land- und Forstwirtschaftsministerium – die<lb/>
+Wasserbehörde – eine diesbezügliche Unterlage zur Verfügung<lb/>
+stellen.<lb/>
+Der Wunsch von Ministerialrat <name type="person">Bernfeld</name>, wir sollten doch versuchen,<lb/>
+die Gebiete festzulegen,wo Investitionen durchgeführt werden soll<lb break="no"/>ten oder sogar die Branchen zu bestimmen, wo Investitionen inter<lb break="no"/>essant sind, wurde nicht nur vom Finanzministerium-Vertreter und<lb/>
+den anderen Vertretern abgelehnt, sondern auch ich mußte <name type="person">Bärenfeld</name><lb/>
+sagen, daß ich zwar auf dem Standpunkt stehe, daß nicht jede<lb/>
+Investition in Österreich zweckmäßig ist - wir können eine solche<lb/>
+allerdings nicht verhindern, wenn ein Investor kommen will – daß<lb/>
+wir aber darüberhinaus Wachstumsbranchen kaum feststellen können,<lb/>
+denn es kann sich herausstellen, daß in einer Branche ein einzelnes<lb/>
+Produkt einen riesen Wachstumszuwachs hat während andere Produkte<lb/>
+stagniersn und es kann sogar soweit gehen, daß ein einzelnes<lb/>
+Unternehmen auch in einem Wachstumsprodukt große Erfolge erzielt<lb/>
+wo andere bereits versagen und andererseits es ein Produkt geben<lb/>
+kann das überhaupt nicht mehr (wie z.B. beim Textilsektor) eine<lb/>
+Absatzchance hat und dann ein neues Unternehmen kommt und gerade<lb/>
+auf diesem Produkt ganz große Umsatzerfolge und Profite machen<lb/>
+kann.<lb/>
+Die Margarineindustrie hatte ich eingeladen um ihr mitzuteilen,<lb/>
+daß die Bundesregierung beabsichtigt die Umsatzsteuer von 5,5<lb/>
+auf 1,7 zu senken. Diese Umsatzsteuererhöhung hatte die österr.<lb/>
+Bundesregierung 1968 beschlossen um den Bauern eine befriedigende<lb/>
+<pb n="02-0417" facs="02_1970-07-27_0417.jpg"/>Lösung anzubieten. Damals hatten die Landwirtschaftsvertreter<lb/>
+verlangt, daß auf Rohfettstoffe eine entsprechende Abgabe gelegt<lb/>
+werden sollte. Es war dies der berühmte <name type="person" ref="#per__149055">Wallner</name>-Schilling<lb/>
+(<name type="person" ref="#per__149055">Wallner</name> ist der Präsident des Bauernbundes gewesen, der für eine<lb/>
+Erhöhung der Kunstspeisefettpreise eingetreten ist). Dies konnte<lb/>
+damals abgewehrt werden, mußte aber letzen Endes dazu führen, daß<lb/>
+den Bauern als Äquivalent eben von der ÖVP-Regierung wenigstens die<lb/>
+Erhöhung der Umsatzsteuer zugesichert und letzten Endes auch<lb/>
+beschlossen wurde. Die Margarineindustrie hat nun bei den<lb/>
+Verhandlungen in der Paritätischen-Kommission zu erkennen gegeben,<lb/>
+daß sie die Rohstoffverteuerung, die in den letzten Monaten ca.<lb/>
+15 % mindestens aber wahrscheinlich sogar – wie sie behaupteten –<lb/>
+18 und 20 % betragen hat, daß sie diese Rohstoffverteuerung nicht<lb/>
+auf die Konsumenten überwälzen würden wenn eine entsprechende<lb/>
+Absenkung der Umsatzsteuer erfolgte. DDieser Vorschlag ist nämlich<lb/>
+von der Arbeiterkammer und dem Österreichischen Gewerkschafts<lb break="no"/>bund bei der Vorverhandlung in der Paritätischen Kommission<lb/>
+gemacht worden. Die Vertreter der Landwirtschaft hatten sich<lb/>
+selbstverständlich sofort ganz entschieden dagegen ausgesprochen<lb/>
+und auch <name type="person">Musil</name> von der Handelskammer hatte vorerst seinen Mit<lb break="no"/>gliedern in der Paritätischen Kommission und im Unterausschuß<lb/>
+diese Haltung empfohlen. Erst auf Grund der intensiven Forderung<lb/>
+unsererseits, daß wir die Verteuerung nicht akzeptieren wollten,<lb/>
+hat er dann in der Paritätischen Kommission vorgeschlagen, daß<lb/>
+der Unterausschuß sich neuerdings mit dieser Frage und wie ich<lb/>
+sie formulierte – mit Beschluß-Auftrag – entsprechend beschäftigen<lb/>
+sollte. Nun hatte der Unterausschuß anstelle der ca. 1,3 %igen<lb/>
+Erhöhung eine 6,7 %ige Erhöhung genehmigt, das heißt er hatte den<lb/>
+Beschluß gefaßt, daß die Margarine pro 1/4 kg um 25 – maximal<lb/>
+30 Groschen erhöht werden dürfte. Dies hätte eine Erhöhung<lb/>
+bei Rama von derzeit 5,20 S auf 5,50 S (der beantragte Preis<lb/>
+war 5,70 S) und Thea von 3,70 8 auf 4,-- s (der beantragte Preis<lb/>
+war 4,05 S) bedeutet. Da nun die ÖVP immer behauptet, daß die<lb/>
+Regierung nichts gegen Preiserhöhungen unternimmt, hat <name type="person" ref="#per__97668">Kreisky</name><lb/>
+mich, <name type="person" ref="#per__97311">Androsch</name> und <name type="person" ref="#per__98055">Weihs</name> zu sich gebeten und eben ersucht wir<lb/>
+sollten am nächsten Dienstag im Ministerrat einen diesbezüglichen<lb/>
+Antrag stellen. Ich wurde beauftragt, die entsprechenden Vorver<lb break="no"/>handlungen mit der Margarineindustrie zu führen. Da <name type="person">Seifert</name>, der<lb/>
+Generaldirektor der Unilever im Ausland weilte, konnten wir nur<lb/>
+"2. Garnitur" einladen und Dkfm. <name type="person" ref="#per__97936">Seefranz</name> von der Unilever und<lb/>
+Dir.Dr. <name type="person">Sedlitzky</name> sowie Ing. <name type="person">Ragendorfer</name> von Ebhart &amp; Herout<lb/>
+<pb n="02-0418" facs="02_1970-07-27_0418.jpg"/>waren bei dieser Sitzung anwesend. Diese beiden Firmen<lb/>
+produzieren ca. 95 % der österreichischen Margarine die<lb/>
+ca. 40.000 t im Jahr erzeugt. In der Bundeskammer waren<lb/>
+Dr. <name type="person" ref="#per__134294">Zajicek</name> und vom Finanzreferat Dr. <name type="person">Kopetzky</name> anwesend.<lb/>
+Der Fachverband für die Nahrungsmittelindustrie Dr. <name type="person">Smolta</name><lb/>
+schlug nur vor, daß man jedenfalls auch auf die Speise<lb break="no"/>fett- und auf die Ölpreise bei dieser Aktion Rücksicht<lb/>
+nehmen muß. Der Vorschlag der Margarineindustrie, gegebenen<lb break="no"/>falls die Preise, wenn die Umsatzsteuer im Herbst gesenkt<lb/>
+wird, wieder zurückzuführen, hat sogar bei Ministerialrat<lb/>
+<name type="person" ref="#per__112946">Schleifer</name> einen wirklichen, vom Herzen kommenden Wutanfall<lb/>
+ausgelöst in dem er erklärte, die Margarineindustrie müßte<lb/>
+doch im Stande sein, die drei Monate noch zu überbrücken<lb/>
+und nicht jetzt mit entsprechender Erhöhung vorgehen und<lb/>
+dann wieder die Preise zurückzuführen. Auch <name type="person" ref="#per__134294">Zajicek</name><lb/>
+meinte, daß die Verluste von drei Monaten übernommen<lb/>
+werden müßten, er selbst sagte nur, es müßte die Sozial<lb break="no"/>partnerschaft aus dieser Diskussion herausgehalten werden.<lb/>
+Dies konnte ich zusichern, ebenso daß ich zwar für die<lb/>
+Bundesregierung, nicht aber für den Nationalrat sprechen<lb/>
+könnte. Ich bin allerdings überzeugt, daß was alle<lb/>
+beteiligten Stellen und sogar im ÖVP-Blatt verlangt in<lb/>
+Kärnten, die Margarinepreise nicht erhöht werden dürfen<lb/>
+und die Umsatzsteuer zu senken wäre, daß dieser Antrag<lb/>
+der Bundesregierung auch im Nationalrat seine Zustimmung<lb/>
+finden wird, selbst wenn einige Bauernvertreter dagegen<lb/>
+sein sollten. <name type="person" ref="#per__97936">Seefranz</name> wollte dann mit <name type="person" ref="#per__134294">Zajicek</name> zusammen<lb/>
+noch irgendwelche Zusagen von mir, bezüglich des<lb/>
+Zeitplanes oder einer eventuellen Ablehnung durch den<lb/>
+Nationalrat erhalten. Ich konnte ihnen bezüglich der Ab<lb break="no"/>lehnung nichts sagen, <name type="person" ref="#per__134294">Zajicek</name> meinte, dann müßte halt<lb/>
+der Preis im Herbst ein bischen höher festgesetzt werden,<lb/>
+bezüglich des Zeitplanes konnte ich ihnen mitteilen,<lb/>
+frühestens mit 1.1.1971 die Herabsetzung der Umsatz<lb break="no"/>steuer gerechnet werden könnte.</p>
+            <pb n="02-0419" facs="02_1970-07-27_0419.jpg"/>
+            <p xml:space="preserve">Montag,<add/> 27.7.<add/><lb/>
+Überschneidung – da erster Teil des ursprünglichen<lb/>
+Diktats versehentlich gelöscht !<lb/>
+......zu einer Besprechung über Senkung der Umsatzsteuer für<lb/>
+Margarine von 5,5 auf 1,7 % zu organisieren. Mein Hinweis, daß<lb/>
+die Bundesregierung am nächsten Tag einen diesbezüglichen Antrag<lb/>
+stellen wird und deshalb von der Margarineindustrie erwartet, daß<lb/>
+sie die Margarinepreiserhöhung um 30 Groschen zurückstellt wurde<lb/>
+von dem Vertretern der Margarineindustrie – wie sie sich ausdrückten –<lb/>
+positiv zur Kenntnis genommen. Die Absenkung der Umsatzsteuer<lb/>
+würde ihnen die Möglichkeit geben die zu erwartenden Preissteigerun<lb break="no"/>gen auf dem Rohmaterialsektor für die nächsten 7 Jahre – wie sie<lb/>
+sich ausdrückten – wahrscheinlich aufzufangen. Die Butteraktion,<lb/>
+die ihnen 5.100 t mit 26,- S den Markt sehr verdorben hat, wurde<lb/>
+von mir als weitere Drohung angekündigt, denn der Überschuß von Milch<lb/>
+würde die Bundesregierung in Zukunft wahrscheinlich nicht durch<lb/>
+Export ins Ausland, sondern doch auch durch inländischen Absatz<lb/>
+versuchen wegzubringen. Nach Mitteilung der Margarineindustrie hat<lb/>
+diese Butteraktion ihnen ca. 1/3 ihres Absatzes, das sind 1.500 bis<lb/>
+1.700 t gekostet. Umso mehr, erklärte ich, müßten sie, größten Wert<lb/>
+darauf legen, daß sich ihre Kostenlage verbessert und eine Umsatz<lb break="no"/>steuersenkung würde dies ja herbeiführen. Sie wiesen allerdings<lb/>
+darauf hin, daß außer dem Margarinepreis auch der Speiseölpreis<lb/>
+sehr gefährdet ist, weil auch dort die Rohstoffe entsprechend<lb/>
+gestiegen sind und ja zu 100 % Öl verarbeitet werden, während bei<lb/>
+Margarine ja bekanntlicherweise 18 % Wasser mitverarbeitet wird.<lb/>
+Sie möchten deshalb wahrscheinlich sehr gerne, daß wir außer der<lb/>
+Senkung der Umsatzsteuer für Margarine auch eine Umsatzsteuersenkung<lb/>
+bei Öl herbeiführen. Ich hatte ihnen dazu allerdings keinerlei<lb/>
+Zusagen gemacht, sondern nur darauf hingewiesen, daß die Paritätische<lb/>
+Kommission sich ja noch nicht mit diesem Problem beschäftigt hat.<lb/>
+Außerdem vertritt zwar Unilever und Ebhart &amp; Herout mindestens 95 %<lb/>
+der Margarineproduktion aber nur 20 % der Speiseölproduktion. Nicht<lb/>
+zu vergessen ist dabei, daß die Marke "Bona" von Unilever allerdings<lb/>
+eine Preisführerschaft abzielt. Die Vertreter der Marga<lb break="no"/>rineindustrie erklären nun, daß sie mit 1. August die Preise erhöhen,<lb/>
+um dann – wenn im Parlament die entsprechenden Beschlüsse gefaßt<lb/>
+werden – sie sofort wieder die Preise senken würden. Dieser Vorschlag<lb/>
+wurde nicht einmal von MinRat <name type="person" ref="#per__112946">Schleifer</name>, den ich zur Sitzung beige<lb break="no"/>zogen hatte, und MinRat <name type="person" ref="#per__113621">Anreiter</name> – das ist der Fachreferent für<lb/>
+Lebensmittel – geteilt. <name type="person" ref="#per__113621">Anreiter</name> hat zwar kein Wort verloren, aber<lb/>
+<name type="person" ref="#per__112946">Schleifer</name> selbst hat sich gewichtigst ins Zeug gelegt und diesen<lb/>
+Vorschlag ganz entschieden abgelehnt. <name type="person" ref="#per__134294">Zajicek</name> meinte dann, daß wenn die<lb/>
+<pb n="02-0420" facs="02_1970-07-27_0420.jpg"/>Margarineindustrie dem Vorschlag zustimmt und keinerlei Preiser<lb break="no"/>höhung jetzt vornimmt, für sie das Risiko eintritt, daß das<lb/>
+Parlament im Herbst diesen Antrag der Bundesregierung nicht beschließen<lb/>
+wird. Er selbst konnte ja nur für die Sozialpartner sprechen und da<lb/>
+kann er nur feststellen, daß keine Übereinstimmung zu erzielen war.<lb/>
+Dies hatte ich ihm ja gleich eingangs bestätigt und ihm erklärt, daß die<lb/>
+Bundesregierung über die Stellungnahme der Sozialpartner hinaus, wenn<lb/>
+es zu keiner einvernehmlichen Auffassung kommt, eben regieren muß<lb/>
+und eben jetzt diesen entsprechenden Beschluß fassen wird. Ich könnte<lb/>
+mir nicht vorstellen, daß im Nationalrat,wo viele Gesetze im Herbst<lb/>
+zur Diskussion stehen werden, dieses Gesetz, das jetzt von der<lb/>
+Opposition bezüglich Maßnahmen gegen Teuerungen immer wieder verlangt<lb/>
+wird, nicht beschlossen werden würde. Der Margarineindustrievertreter<lb/>
+Dkfm. <name type="person" ref="#per__97936">Seefranz</name> meinte allerdings, wenn es zu keiner Regelung käme<lb/>
+mit Absenkung der Umsatzsteuer, würden sie einen Verlust von ca.<lb/>
+10 Millionen S in diesem Zeitraum in Kauf nehmen um allerdings dann<lb/>
+von der Paritätischen Kommission zu erwarten, daß ihr Antrag eben<lb/>
+nicht mit durchschnittlich 6,7 % sondern mit einem höheren Prozent<lb break="no"/>satz ca. 9 % genehmigt werden sollte. Auf die Frage des Dir. <name type="person">Sedlisky</name> von<lb/>
+Unilever, ob gegebenenfalls eben im November bereits mit einer Senkung<lb/>
+der Umsatzsteuer gerechnet werden könnte, sagte ich daß dies unmög<lb break="no"/>lich ist, aber daß wir – glaube ich – schon in Aussicht nehmen können,<lb/>
+daß spätestens mit 1.1.1971 eine Umsatzsteuersenkung möglich wäre,<lb/>
+denn bis dorthin müßten viele andere Gesetze noch beschlossen werden –<lb/>
+als auch insbesondere natürlich die Budgetansätze ja dann bereits<lb/>
+bekannt seien. Nach einer stundenlangen Debatte nahmen die Vertreter<lb/>
+den Wunsch der Bundesregierung – wie sie sich ausgedruckt haben –<lb/>
+positiv zur Kenntnis, werden ihren Stellen berichten und mir dann<lb/>
+unverzüglich Bescheid sagen. Ich glaube, daß ich auf alle Fälle in<lb/>
+der Regierung berichten werde, wir müßten den Beschluß fassen – wie<lb/>
+immer sich die Margarineindustrie dazu stellt – daß wir eine Umsatz<lb break="no"/>steuersenkung beantragen werden und es wird sich, meiner Meinung nach,<lb/>
+dann ja sehr bald herausstellen, wer gegen eine solche Umsatzsteuer<lb break="no"/>senkung ist – nämlich ich bin überzeugt davon, daß es die Bauern<lb break="no"/>vertreter sind und damit die Österr. Volkspartei dieser Maßnahme<lb/>
+kaum wird zustimmen können. Auf alle Fälle hat aber dann die Regierung<lb/>
+bewiesen, daß sie entsprechende Beschlüsse faßt, wenn die Sozial<lb break="no"/>partner zu keiner Übereinstimmung kommen können.</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__97749">
+               <persName type="label">Mitterer, Otto</persName>
+               <persName><surname>Mitterer</surname><forename>Otto</forename></persName>
+               <occupation>Handelsminister, ÖVP, Präs. HK Wien</occupation>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720317.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720411.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780523.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780530.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780602.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780805.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+            </person>
+            <person xml:id="per__112946">
+               <persName type="label">Schleifer, Kurt</persName>
+               <persName><surname>Schleifer</surname><forename>Kurt</forename></persName>
+               <occupation>MR HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710509.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710517.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710628.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710708.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710716.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710915.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711013.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780206.xml"/>
+            </person>
+            <person xml:id="per__97311">
+               <persName type="label">Androsch, Hannes</persName>
+               <persName><surname>Androsch</surname><forename>Hannes</forename></persName>
+               <occupation>Finanzminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118503049</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810820.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            <person xml:id="per__113621">
+               <persName type="label">Anreiter, Walter</persName>
+               <persName><surname>Anreiter</surname><forename>Walter</forename></persName>
+               <occupation>Beamter HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780310.xml"/>
+            </person>
+            <person xml:id="per__134294">
+               <persName type="label">Zajicek, Kurt</persName>
+               <persName><surname>Zajicek</surname><forename>Kurt</forename></persName>
+               <occupation>BHK, Gremium für den Brennstoffhandel 1971</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710226.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710510.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711124.xml"/>
+            </person>
+            <person xml:id="per__98055">
+               <persName type="label">Weihs, Oskar</persName>
+               <persName><surname>Weihs</surname><forename>Oskar</forename></persName>
+               <occupation>Landwirtschaftsminister bis 1976</occupation>
+               <idno type="GND">http://d-nb.info/gnd/130620351</idno>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720315.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720404.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720414.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780328.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780516.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780526.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780601.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781130.xml"/>
+            </person>
+            <person xml:id="per__97646">
+               <persName type="label">Koppe, Fritz</persName>
+               <persName><surname>Koppe</surname><forename>Fritz</forename></persName>
+               <occupation>Sekr. JS, ab 1973 GF VKI</occupation>
+               <ptr type="mentioned" target="#staribacher__19710108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810612.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810811.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810817.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+            </person>
+            <person xml:id="per__97668">
+               <persName type="label">Kreisky, Bruno</persName>
+               <persName><surname>Kreisky</surname><forename>Bruno</forename></persName>
+               <occupation>Bundeskanzler</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118566512</idno>
+               <ptr type="mentioned" target="#staribacher__19700423.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__97493">
+               <persName type="label">Gröger, Adolf</persName>
+               <persName><surname>Gröger</surname><forename>Adolf</forename></persName>
+               <occupation>MR HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810318.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810330.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810430.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810520.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810527.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810627.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810703.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810731.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+            </person>
+            <person xml:id="per__97936">
+               <persName type="label">Seefranz, Eberhard</persName>
+               <persName><surname>Seefranz</surname><forename>Eberhard</forename></persName>
+               <occupation>Unilever</occupation>
+               <ptr type="mentioned" target="#staribacher__19710712.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780508.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780512.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780630.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780704.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780804.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780913.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781122.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800208.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810911.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

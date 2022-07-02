@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19740518.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19740517.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19740519.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 18. Mai 1974</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band21_1974-05-18</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1974-05-18">Samstag, 18. Mai 1974</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-12-28">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:base="http://192.168.0.9/staribacher/src/scans/Band21/">
+      <body>
+         <pb n="21-0611" facs="21_1974-05-18_0611.jpg"/>
+         <div type="entry" xml:space="preserve"><p xml:space="preserve">Samstag, 18. Mai 1974</p><p xml:space="preserve">In Salzburg wurde das Aussstellungszentrum vom Landeshauptmann<lb/>
+eröffnet, wie mir gleich <name type="person" ref="#per__125829">Salfenauer</name> mitteilte, als ich ankam.<lb/>
+Scheinbar hat man vergessen, als man mich dazu einlud, dass <name type="person" ref="#per__137200">Lechner</name><lb/>
+sich diese Gelegenheit nicht nehmen lassen wird. Für mich persönlich<lb/>
+war das ja ziemlich egal, ich kam auf alle Fälle nach ihm zum<lb/>
+Sprechen und konnte daher auf seine Andeutungen, dass der Export und<lb/>
+der Fremdenverkehr gefährdet wird, insbesondere durch die Schillingauf<lb break="no"/>wertung, replizieren. Interessant war, dass das Ausstellungsunterneh<lb break="no"/>men Henhapel. glaube ich heisst es, die laufende Schmuck- und Diamanten-<lb/>
+sowie Uhrenausstellung nur für 3 Tage arrangierte. Innerhalb einer Woche<lb/>
+muss die Ausstellung auf- und wieder abgebaut sein. Die Firmen<lb/>
+müssen 460.- S für den m3 bezahlen und dennoch hofften die Aussteller,<lb/>
+dass sie auf ihre Rechnung kommen. Nach dem Essen setzten wir uns<lb/>
+zusammen und <name type="person" ref="#per__97994">Steinocher</name> beschwerte sich bei mir, dass er keine Freunde<lb/>
+mehr, weder in Salzburg noch im Bund in der Partei hat. Seine Wahl<lb break="no"/>niederlage führt er auch drauf zurück, dass drei Tage vorher der<lb/>
+Molkereiarbeiterstreik, d.h. die Nichtauslieferung einen Tag einen<lb/>
+Teil von Salzburg ohne Milch war und deshalb sich die Frauen be<lb break="no"/>schwerten. LH-Stellvertreter <name type="person" ref="#per__113822">Haslauer</name> wollte von mir eine Zusage,<lb/>
+dass wir für das Wifi Salzburg einen entsprechenden Betrag reservieren,<lb/>
+resp. Zinsenstützung übernehmen. Ich habe dies rundweg abgelehnt, da<lb break="no"/>rauf hingewiesen, dass ich mehr als mein Amtsvorgänger überhaupt für die<lb/>
+Wifis ausschütte, dass ich mich aber in die Aufteilung nicht einmische.</p></div>
+      </body>
+      <back><listPerson><person xml:id="per__125829">
+               <persName type="label">Salfenauer, Heinrich</persName>
+               <persName><surname>Salfenauer</surname><forename>Heinrich</forename></persName>
+               <occupation>Bgm. Sbg.</occupation>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800519.xml"/>
+            </person>
+            <person xml:id="per__97994">
+               <persName type="label">Steinocher, Karl</persName>
+               <persName><surname>Steinocher</surname><forename>Karl</forename></persName>
+               <occupation>LH-Stv. Sbg., SPÖ</occupation>
+               <ptr type="mentioned" target="#staribacher__19710917.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+            </person>
+            <person xml:id="per__137200">
+               <persName type="label">Lechner, Hans</persName>
+               <persName><surname>Lechner</surname><forename>Hans</forename></persName>
+               <occupation>LH Sbg.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710524.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+            </person>
+            <person xml:id="per__113822">
+               <persName type="label">Haslauer, Wilfried</persName>
+               <persName><surname>Haslauer</surname><forename>Wilfried</forename></persName>
+               <occupation>LH Sbg.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800707.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801017.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801128.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810704.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810804.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810818.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810921.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811023.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

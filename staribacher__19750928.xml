@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19750928.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750927.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19750929.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 28. September 1975</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band27_1975-09-28</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1975-09-28">Sonntag, 28. September 1975</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-12-20">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="27-1064" facs="27_1975-09-28_1064.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 28. September 1975<lb/>
+</p>
+            <p xml:space="preserve">Die Versammlungen in Oberösterreich waren gemischt. Die erste in<lb/>
+einem kleinen Dorf gigantisch, weil sie unmittelbar nach dem Kirchgang<lb/>
+vor der Kirche abgehalten wurde und der Dechant dort sogar die Messe<lb/>
+um eine halbe Stunde vorverlegte, damit die Versammlung dort statt<lb break="no"/>finden konnte. In Braunau am Hauptplatz war sie auch gut besucht,<lb/>
+obwohl der Bürgermeister meinte, für ihn seien zu wenige gekommen.<lb/>
+Vorher hat mich der Reit- und Fahrverein Braunau mit Fiaker abgeholt<lb/>
+und ich bin huldvollst am Hauptplatz eingefahren. Die Braunauer<lb/>
+Freien Wirtschaftsverbändler ersuchten mich nachher, ich solle wegen<lb/>
+einer Kooptierung des Freien Wirtschaftsverbandvertreters ins Präsi<lb break="no"/>dium in Oberösterreich mit Landesrat <name type="person" ref="#per__114520">Trauner</name> sprechen. Gleichzeitig<lb/>
+wollten sie auch, dass die Kommerzialratsaufteilung 8:5 verbleibt.<lb/>
+Sie sehen allerdings ein, dass man darüber verhandeln muss. In Hoch<lb break="no"/>burg hatte ich zur Überraschung wieder eine sehr gut besuchte Ver<lb break="no"/>sammlung und meinte einleitend gleich, ich habe gar nicht gewusst,<lb/>
+dass ich in eine Hochburg der Sozialisten komme. In Riedersbach waren<lb/>
+natürlich viele SAKOG-Arbeiter und deren Angehörige. Was mich ver<lb break="no"/>wunderte war, dass um 4 Uhr die letzte Versammlung stattgefunden hat.<lb/>
+Dass ich allerdings dann durch ständige Verstopfung auf der<lb/>
+Autobahn erst knapp vor 10 Uhr nach Wien kam, ist eine zweite Sache.<lb/>
+Zum Glück hatte ich die Möglichkeit im FS 2 die Diskussion zwischen<lb/>
+<name type="person" ref="#per__97311">Androsch</name>, <name type="person" ref="#per__97647">Koren</name> und <name type="person" ref="#per__112588">Broesigke</name> zu hören. Die Diskussion interessierte<lb/>
+mich sehr und ich glaube auch <name type="person" ref="#per__97311">Androsch</name> hat gut abgeschnitten. Die<lb/>
+Materie beherrscht er blendend. Gegenüber dem zynischen <name type="person" ref="#per__97647">Koren</name> muss<lb/>
+er auch optisch sehr gut ankommen. Wie er allerdings die Budgetfrage<lb/>
+wirklich löst, bin ich schon sehr gespannt.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97647">
+               <persName type="label">Koren, Stephan</persName>
+               <persName><surname>Koren</surname><forename>Stephan</forename></persName>
+               <occupation>Finanzminister, ÖVP-NR-Abg., OeNB-Präs.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720320.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800225.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800429.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800616.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810402.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810522.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__114520">
+               <persName type="label">Trauner, Rudolf</persName>
+               <persName><surname>Trauner</surname><forename>Rudolf</forename></persName>
+               <occupation>oö. ÖVP-LR</occupation>
+               <ptr type="mentioned" target="#staribacher__19780503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781004.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800409.xml"/>
+            </person>
+            <person xml:id="per__112588">
+               <persName type="label">Broesigke, Tassilo</persName>
+               <persName><surname>Broesigke</surname><forename>Tassilo</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710310.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711004.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780905.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800311.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800618.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800801.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810219.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810617.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810624.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810702.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810713.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811110.xml"/>
+            </person>
+            <person xml:id="per__97311">
+               <persName type="label">Androsch, Hannes</persName>
+               <persName><surname>Androsch</surname><forename>Hannes</forename></persName>
+               <occupation>Finanzminister</occupation>
+               <idno type="GND">http://d-nb.info/gnd/118503049</idno>
+               <ptr type="mentioned" target="#staribacher__19710109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720503.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810729.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810820.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810901.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810902.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811015.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811028.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811030.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811118.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

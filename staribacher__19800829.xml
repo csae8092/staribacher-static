@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19800829.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19800828.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19800831.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Freitag, der 29. August 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band56_1980-08-29</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-08-29">Freitag, 29. August 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-01-03">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="56-1063" facs="56_1980-08-29_1063.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Freitag, 29. August 1980<lb/>
+</p>
+            <p xml:space="preserve">Bei der Staatswappenverleihung an die Fa. Datentechnik, Neufeld,<lb/>
+erlebte ich die Überraschung, daß ganz junge Leute sich in dem schwie<lb break="no"/>rigsten Gebiet der Datenübertragung in einem Zweifamilienhaus fast<lb/>
+100 Mio. S Umsatz machten. Ing. <name type="person" ref="#per__126888">Hoffmann</name> kam von Olivetti, sein Kompag<lb break="no"/>non von der Post und durch know how haben sie neue Geräte entwickelt,<lb/>
+die selbst ITT, Siemens, Kapsch und Schrack nicht erzeugen können.<lb/>
+Die Post bezieht von ihnen heute Meßgeräte, die sie allerdings nur<lb/>
+über Kapsch und Schrack anbieten können. Ihr großer Durchbruch ist<lb/>
+gelungen, als auch die Deutsche Post ihre Geräte bezieht. Als die<lb/>
+ersten deutschen Beamten zum Abschluß von Verträgen zu ihnen kamen,<lb/>
+waren sie überrascht, anstelle einer Fabrik ein Zweifamilienhaus<lb/>
+vorzufinden, wo im Keller das Lager und im Parterre produziert wird<lb/>
+und im ersten Stock die Techniker sitzen, die die neuen Geräte ent<lb break="no"/>wickelten. Da ich am Vortag bei Siemens Austria war, wo man mir die<lb/>
+neuesten Anlagen, die Siemens selbstverständlich hat, zur Produktion<lb/>
+zeigte, konnte ich dies umso mehr vergleichen. Für Millionenapparate,<lb/>
+die Siemens gekauft hat, haben sie ein Backrohr und einen Kühlschrank<lb/>
+und können auch die Eiskaltproben durchführen. Jetzt bauen sie eine<lb/>
+neue Fabrik. Der Rohbau steht schon. Auch dort geschieht alles sehr<lb/>
+schnell, daß sie fest davon überzeugt sind, noch heuer einziehen zu<lb/>
+können. Ihr größter Wunsch wäre, wenn die Post direkt bei ihnen be<lb break="no"/>ziehen würde und sie direkt in die Postlieferung eingeschaltet werden<lb/>
+können. Ich versprach nur, darüber mit GD <name type="person" ref="#per__121800">Übleis</name> zu reden. Ob es<lb/>
+tatsächlich möglich ist, in die ÖFEG-Firmen aufgenommen zu werden,<lb/>
+die heute die Postaufträge sich untereinander aufteilen, bezweifle<lb/>
+ich. Einen Versuch werde ich aber unternehmen, ob vielleicht wirklich<lb/>
+eine Teillieferungsmöglichkeit direkt für gewisse Apparate besteht.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__125291">MARTIN</name>: Bitte mit <name type="person" ref="#per__121800">Übleis</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve">Die Fa. Thonet in der 5. Generation, in Friedberg eine Sesselproduktions<lb break="no"/>stätte seit ein paar Jahren, hat ganz eine andere Tradition. Während<lb/>
+bei den <choice><choice><sic>Elektro-Data-Leuten</sic><corr>?</corr></choice></choice> das know how überwiegt, die Software als<lb/>
+das Entscheidende ist, ist es bei der Holzproduktion der traditions<lb break="no"/>reiche Name und<add>[das]</add> vom Ur-Urgroßvater erfundene System des Holzbiegens<lb/>
+zu sogenannten <choice><choice><sic>Bugmöbeln</sic><corr>Bugholzmöbeln</corr></choice></choice>. Der berühmteste Thonet-Sessel Nr. 14 wurde<lb/>
+bis 1930 <choice><choice><sic>50 Mio S</sic><corr>50 Millionen mal</corr></choice></choice> verkauft und in der Zeit bisher wahrscheinlich noch<lb/>
+<pb n="56-1064" facs="56_1980-08-29_1064.jpg"/>etliche Millionen dazu. Mit steigendem Lebensstandard allerdings<lb/>
+kommen immer mehr die gepolsterten Sessel zum Verkauf.<lb/>
+</p>
+            <p xml:space="preserve">Der dritte Betrieb, den ich auszeichnete, war die Fa. Saniped in Groß<lb break="no"/>petersdorf, also wieder im Burgenland. Diese Firma wurde genau vor<lb/>
+10 Jahren gegründet. Der Bürgermeister, gleichzeitig 3. Präsident des<lb/>
+burgenländischen Landtages, <name type="person" ref="#per__126889">Krutzler</name>, war glücklich, daß tatsächlich<lb/>
+noch, trotz der Kürze der Zeit, ich sozusagen als zwölfter Redner<lb/>
+dann das Staatswappen der Firma überreichen konnte. Scholl hat sich<lb/>
+jetzt bereits mit einer zweiten großen amerikanischen Firma liiert.<lb/>
+Vor 10 Jahren war es sehr problematisch, heute werden 30.000 Paar Ge<lb break="no"/>sundheitssandalen pro Tag erzeugt, in Kürze wird man auf 35.000 Paar<lb/>
+gehen. Mir ist es eigentlich unerklärlich, wie man eine so große An<lb break="no"/>zahl an so schweren Gütern, deren Herstellung eigentlich ja kein Pro<lb break="no"/>blem ist, preiswert weltweit verkaufen kann. Der Vorteil liegt eben<lb/>
+darin, kein eigener Vertriebsapparat, sondern alles wird über die<lb/>
+Schollgesellschaften, eine Art Fußgesundheitsorganisation, vertrieben.<lb/>
+Den Betrieb habe ich vorher besichtigt und feststellen können, daß doch<lb/>
+immerhin 119 Mio. S, wie mir dann der Generaldirektor sagte, inve<lb break="no"/>stiert werden mußten. Die hohe Qualität und ganz besonders die exakte<lb/>
+Fertigung ist das Um und Auf von Sandalen. Da verständlicherweise<lb/>
+der vorletzte Redner, LH <name type="person" ref="#per__114583">Kery</name> bereits darauf verwies, daß wir alle die<lb/>
+Betriebsangehörigen, die im Schulzentrum von Großpetersdorf, das übri<lb break="no"/>gens auch von der Firma mitfinanziert wurde, versammelt waren, nicht<lb/>
+über Gebühr beansprucht werden sollten, hat <name type="person" ref="#per__114583">Kery</name> verhältnismäßig<lb/>
+kurz geredet und gemeint, ich werde als sonniger Mensch schon die<lb/>
+notwendige Ansprache halten. Natürlich ließ ich dann dort den Wiener<lb/>
+Schmäh rennen, beginnend, daß man vor 10 Jahren mir sagte, in Groß<lb break="no"/>petersdorf wollen sie jetzt Holzschlapfen erzeugen. Dieser Ausdruck<lb/>
+war furchtbar schwer für den amerikanischen Präsidenten <name type="person" ref="#per__126890">Benet</name> zu über<lb break="no"/>setzen, obwohl dieser ganz gut Deutsch verstanden hat, ja auch eine<lb/>
+deutsche Ansprache, allerdings vom Blatt runtergelesen hat. Zum Schluß<lb/>
+bemerkte er zu mir, er hätte zwar die Rede nicht verstanden, aber<lb/>
+allein aus dem Beifall und den Gesichtern aller Teilnehmern müßte sie<lb/>
+sehr gut gewesen sein. Tatsache ist, daß jetzt mit 1150 Beschäftigten<lb/>
+Saniped der größte burgenländische Industriebetrieb ist. Natürlich<lb/>
+appellierte ich an die Präsidenten der Organisation, sie sollten doch<lb/>
+noch weitere Produkte nach Österreich verlegen.<lb/>
+</p>
+            <pb n="56-1065" facs="56_1980-08-29_1065.jpg"/>
+            <p xml:space="preserve">Präsident <name type="person" ref="#per__97487">Graf</name> von der burgenländischen Handelskammer, der insbesondere<lb/>
+auf die Risikobereitschaft der Amerikaner einging und sagte, er könne<lb/>
+dies am besten verstehen, weil er in Amerika geboren ist, heute im<lb/>
+Burgenland lebt und dieses Land am meisten liebt, unterstrich beson<lb break="no"/>ders die Sozialpartnerschaft. Bei diesem Zusammentreffen erinnerte<lb/>
+mich <name type="person" ref="#per__97487">Graf</name> neuerdings daran, daß wir vereinbart hatten im Herbst ei<lb break="no"/>nen Besuch von Klubobmann <name type="person" ref="#per__97444">Fischer</name> und mir.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__125291">MARTIN</name>: Bitte mit <name type="person" ref="#per__97444">Fischer</name> verbinden.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__114583">
+               <persName type="label">Kery, Theodor</persName>
+               <persName><surname>Kery</surname><forename>Theodor</forename></persName>
+               <occupation>bgld. LH</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800520.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800527.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800829.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801009.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810114.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810224.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810513.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810619.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810918.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+            </person>
+            <person xml:id="per__126888">
+               <persName type="label">Hoffmann, Winfried</persName>
+               <persName><surname>Hoffmann</surname><forename>Winfried</forename></persName>
+               <occupation>Vertriebsdir. Fa. Olivetti</occupation>
+               <ptr type="mentioned" target="#staribacher__19800829.xml"/>
+            </person>
+            <person xml:id="per__125291">
+               <persName type="label">Martin, A</persName>
+               <persName><surname>Martin</surname><forename>A</forename></persName>
+               <occupation>Sekr. Büro Staribacher</occupation>
+               <ptr type="mentioned" target="#staribacher__19800527.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810925.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811008.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811021.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811029.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811104.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__126889">
+               <persName type="label">Krutzler, Hans</persName>
+               <persName><surname>Krutzler</surname><forename>Hans</forename></persName>
+               <occupation>3. Präs. bgld. LT, SPÖ</occupation>
+               <ptr type="mentioned" target="#staribacher__19800829.xml"/>
+            </person>
+            <person xml:id="per__97444">
+               <persName type="label">Fischer, Heinz</persName>
+               <persName><surname>Fischer</surname><forename>Heinz</forename></persName>
+               <occupation>SPÖ-Klubsekr./-obmann</occupation>
+               <ptr type="mentioned" target="#staribacher__19710302.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811006.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811014.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__121800">
+               <persName type="label">Übleis, Heinrich</persName>
+               <persName><surname>Übleis</surname><forename>Heinrich</forename></persName>
+               <occupation>GD Post</occupation>
+               <ptr type="mentioned" target="#staribacher__19800207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800828.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800829.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801002.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810311.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810312.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810713.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+            </person>
+            <person xml:id="per__97487">
+               <persName type="label">Graf, Robert</persName>
+               <persName><surname>Graf</surname><forename>Robert</forename></persName>
+               <occupation>ÖVP-NR-Abg., Präs. HK Bgld.</occupation>
+               <ptr type="mentioned" target="#staribacher__19710505.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810331.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810407.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810504.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810519.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810520.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810616.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810625.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810715.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810930.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811027.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811103.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+            </person>
+            <person xml:id="per__126890">
+               <persName type="label">Benet, A</persName>
+               <persName><surname>Benet</surname><forename>A</forename></persName>
+               <occupation>Präs. Fa. Saniped, Großpetersdorf (Bgld.); wohl
+                  Falschschreibung</occupation>
+               <ptr type="mentioned" target="#staribacher__19800829.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

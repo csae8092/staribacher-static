@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19710321.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710320.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19710322.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 21. März 1971</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band05_1971-03-21</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1971-03-21">Sonntag, 21. März 1971</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2018-08-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">removed empty back element by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="05-0362" facs="05_1971-03-21_0362.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 21. März 1971<lb/>
+</p>
+            <p xml:space="preserve">Aus mir zuerst unerklärlichen Gründen wurde ich in Nieder<lb break="no"/>österreich im Bezirk Horn in sehr vielen kleinen Dörfern<lb/>
+als Redner eingeteilt und vorgesehen. Wir hatten die ganzen<lb/>
+Veranstaltungen immer im Freien, damit doch vielleicht die<lb/>
+Leute, die zu einer Versammlung nie kommen würden, über die<lb/>
+Lautsprecher in ihren Wohnungen etwas über unsere Auffassung<lb/>
+erfahren. Zum Glück hatte ich den Anhaltspunkt der Demon<lb break="no"/>stration des ÖVP-Bauernbundes und konnte unsere Agrarpolitik<lb/>
+erklären. Ich konnte allerdings nicht verstehen, warum wir<lb/>
+nicht in Horn eine Veranstaltung haben. In Horn war Vor<lb break="no"/>mittag der <name type="person" ref="#per__114093">Waldheim</name> und ich hätte es als sinnvoll empfunden,<lb/>
+am Nachmittag z.B. dort ebenfalls eine Diskussion auf offener<lb/>
+Straße abzuhalten. Die Horner hatten ihre Bezirkskonferenz<lb/>
+der SPÖ vormittags in Drosendorf gehabt und daher konnte ich<lb/>
+keinen genauen Bericht bekommen, wie <name type="person" ref="#per__114093">Waldheim</name> im Bezirk an<lb break="no"/>gekommen ist. Die Hollabrunner hatten vormittags ihre Bezirks<lb break="no"/>konferenz und bei dieser Gelegenheit konnte ich als Referent<lb/>
+ihnen unsere Politik erklären. Am Abend gestand mir dann der<lb/>
+Bezirksverantwortliche Mandatar, daß sie deshalb Horn ausge<lb break="no"/>lassen haben, weil in 14 Tagen kommt der <name type="person" ref="#per__97607">Jonas</name> nach<lb/>
+Horn. Ich glaube, daß es trotzdem zielführender gewesen wäre,<lb/>
+sofort auf <name type="person" ref="#per__114093">Waldheim</name> zu reagieren, da ich zweifelsohne vielleicht<lb/>
+einige Passagen sagen konnte, die <name type="person" ref="#per__97607">Jonas</name> natürlich in 14 Tagen<lb/>
+überhaupt nicht mehr benützen kann und er als eigener Wahl<lb break="no"/>werber natürlich ganz anders auftreten muß als ein Minister,<lb/>
+der auf eine Versammlung, die am Vormittag stattgefunden hat,<lb/>
+reagiert.<lb/>
+</p>
+            <p xml:space="preserve">Also <name type="person" ref="#per__97525">Rudi</name> hat bei der ganzen Kampagne den Eindruck, daß es<lb/>
+sich hier nur um eine Aktivität des Zentralsekretariates<lb/>
+handelt, die in irgendeiner Weise nachweisen wollen, daß sie<lb/>
+etwas für die Wahl <name type="person" ref="#per__97607">Jonas</name>' machen. Sie setzen deshalb die<lb/>
+Referenten oft ganz sinnlos nach seiner Meinung und nach<lb/>
+gar keinem systematischen Plan ein. Ich hatte eigentlich,<lb/>
+muß ich gestehen, auch diesen Eindruck.<lb/>
+</p>
+         </div>
+      </body>
+      
+   <back><listPerson><person xml:id="per__97525">
+               <persName type="label">Häuser, Rudolf</persName>
+               <persName><surname>Häuser</surname><forename>Rudolf</forename></persName>
+               <occupation>Vizekanzler, Sozialminister</occupation>
+               <ptr type="mentioned" target="#staribacher__19710107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720228.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720307.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720308.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720316.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720415.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720421.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720424.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720426.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780904.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780905.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801013.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801031.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810314.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810407.xml"/>
+            </person>
+            <person xml:id="per__97607">
+               <persName type="label">Jonas, Franz</persName>
+               <persName><surname>Jonas</surname><forename>Franz</forename></persName>
+               <occupation>Bundespräsident bis 1974</occupation>
+               <ptr type="mentioned" target="#staribacher__19710115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710629.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710701.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710712.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710929.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711020.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711102.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711106.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711115.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720309.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720502.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780209.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800624.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810907.xml"/>
+            </person>
+            <person xml:id="per__114093">
+               <persName type="label">Waldheim, Kurt</persName>
+               <persName><surname>Waldheim</surname><forename>Kurt</forename></persName>
+               <occupation>UNO-Generalsekretär</occupation>
+               <ptr type="mentioned" target="#staribacher__19710125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710205.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710321.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710322.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710420.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710422.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710424.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710707.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720229.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780329.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800311.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800408.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800425.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800514.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810903.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

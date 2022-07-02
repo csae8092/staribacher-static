@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19701213.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701212.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19701214.xml">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 13. Dezember 1970</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Matthias Trinkaus</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band03_1970-12-13</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1970-12-13">Sonntag, 13. Dezember 1970</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2016-04-27">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-02-27" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+  <text xml:base="http://192.168.0.9/staribacher/src/scans/Band03/">
+      <body>
+         <pb n="03-0912" facs="03_1970-12-13_0912.jpg"/>
+         <div type="entry">
+            <dateline>
+               <date when="1970-12-13">Sonntag, 13. Dezember 1970</date>
+            </dateline>
+            <p xml:space="preserve">Die <name type="person" ref="#per__97869">Renner</name>-Feier der Sozialistischen Partei im Konzerthaus war<lb/>
+wieder nicht vollkommen. Erstens hatte der Saal noch immer ver<lb break="no"/>einzelt Lücken, da nummerierte Plätze ausgegeben wurden, natürlich<lb/>
+einige Ausfälle zu verzeichnen waren. Zweitens wurde nach der Fest<lb break="no"/>rede von <name type="person" ref="#per__98043">Waldbrunner</name> eine zweite Festrede in Form eines Festspiels<lb/>
+vorgetragen. <name type="person" ref="#per__97364"><sic>Karl Heiinz</sic> Böhm</name> hat den Text gelesen und drei andere<lb/>
+Schauspieler hatten ebenfalls Textstellen vorzutragen. Zwischendurch<lb/>
+wurden einzelne Szenen eingestreut, sehr primitiv und gar nicht dem<lb/>
+hohen Niveau <name type="person" ref="#per__97869">Karl Renners</name> angepasst. Darüber hinaus wurden Filme<lb/>
+eingeschaltet, die ganz eindrucksvoll teilweise waren, allerdings<lb/>
+nicht synchron mit der Zeit liefen. D.h. es wurde 1921, dann wieder<lb/>
+1938, 1945, dann aber wieder Zwischenkriegszeiten eingeblendet oder<lb/>
+überschnitten, mit einem Wort ein richtiges chronologisches Kudel<lb break="no"/>mudel. Der grossen Leistung <name type="person" ref="#per__97869">Karl Renners</name> wurde dieses Festspiel<lb/>
+wahrlich nicht gerecht. Nur rot-weiss-rote Fahnen und überhaupt<lb/>
+kein Parteiemblem oder rote Nelken genügen halt auch nicht, um<lb/>
+eine Partei als staatstragend zu bezeichnen, und darzustellen.<lb/>
+Ich muss allerdings zugegeben, dass ich auf der Heimfahrt einige<lb/>
+kleine Funktionäre traf und die erzählten mir alle, dass es sehr,<lb/>
+sehr schön gewesen ist.</p>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__97364">
+               <persName type="label">Böhm, Karlheinz</persName>
+               <persName><surname>Böhm</surname><forename>Karlheinz</forename></persName>
+               <occupation>Schauspieler</occupation>
+               <ptr type="mentioned" target="#staribacher__19720228.xml"/>
+            </person>
+            <person xml:id="per__97869">
+               <persName type="label">Renner, Karl</persName>
+               <persName><surname>Renner</surname><forename>Karl</forename></persName>
+               <occupation/>
+               <ptr type="mentioned" target="#staribacher__19710518.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810528.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810709.xml"/>
+            </person>
+            <person xml:id="per__98043">
+               <persName type="label">Waldbrunner, Karl</persName>
+               <persName><surname>Waldbrunner</surname><forename>Karl</forename></persName>
+               <occupation/>
+               <idno type="GND">http://d-nb.info/gnd/114650888</idno>
+               <ptr type="mentioned" target="#staribacher__19710112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720406.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720412.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720413.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780110.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780111.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780131.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780206.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780330.xml"/>
+               <ptr type="mentioned" target="#staribacher__19780416.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781009.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781025.xml"/>
+               <ptr type="mentioned" target="#staribacher__19781207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800618.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800911.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810107.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810826.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

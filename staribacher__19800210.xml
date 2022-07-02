@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19800210.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19800208.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19800211.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Sonntag, der 10. Februar 1980</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band53_1980-02-10</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1980-02-10">Sonntag, 10. Februar 1980</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2017-08-29">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="53-0165" facs="53_1980-02-10_0165.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Sonntag, 10. Februar 1980<lb/>
+</p>
+            <p xml:space="preserve">Sportklub Handelsministerium mit seinen 30-jährigen Jubiläums<lb break="no"/>veranstaltungen hat auch für die Foto-Sektion eine besondere Aus<lb break="no"/>stellung im Technischen Museum organisiert. Ein ganz neuer Sek<lb break="no"/>tionsleiter, <name type="person" ref="#per__121997">Hutterer</name>, seit 4 Jahren Mitglied des Sportklubs und<lb/>
+seit 2 Jahren schon Sektionsleiter, hat also, wie ich dann auch bei<lb/>
+der Ansprache ausführte, eine Blitzkarriere hinter sich. Der neue<lb/>
+Obmann des Sportklubs <name type="person" ref="#per__121996">Kretschmer</name> erzählte mir, daß dies einer<lb/>
+seiner aktivsten Sektionsleiter ist. Ein deutscher Fotoklub aus<lb/>
+Preußen hätte sollen ebenfalls Fotos nach Österreich bringen, der<lb/>
+Vertreter des deutschen Klubs hat dann erklärt, dies dürfe in<lb/>
+Deutschland hängen geblieben sein, obwohl sie zeitgerecht die<lb/>
+Bilder aufgegeben haben. Ich fürchtete schon, daß neuerdings ein<lb/>
+österreichisches Zolldebakel oder Postversendungsschwierigkeit<lb/>
+die Ursache war. Überrascht war ich, als der Sektionsleiter er<lb break="no"/>wähnte, der Wanderpokal, der vor Jahren von mir gestiftet wurde,<lb/>
+kommt jetzt, nach dem drei Jahre hindurch ein Fotograf ihn gewon<lb break="no"/>nen hat, in den Besitz dieses Mannes. Freudestrahlend erzählte<lb/>
+er aber, daß ich sofort einen anderen Pokal gestiftet habe. Es<lb/>
+hätte mich sehr gefreut, wenn ich davon auch etwas vorher gewußt<lb/>
+hätte.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__109811">BURIAN</name>: Bitte mich vorher doch auch entsprechend<lb/>
+über Pokale und Auszeichnungen zu informieren<lb/>
+</p>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__121997">
+               <persName type="label">Hutterer, A</persName>
+               <persName><surname>Hutterer</surname><forename>A</forename></persName>
+               <occupation>SL; Mitglied Sportklub HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19800210.xml"/>
+            </person>
+            <person xml:id="per__109811">
+               <persName type="label">Burian, Ferdinand</persName>
+               <persName><surname>Burian</surname><forename>Ferdinand</forename></persName>
+               <occupation>MR, Büro des Bundesministers</occupation>
+               <ptr type="mentioned" target="#staribacher__19780109.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811116.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811201.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811217.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811223.xml"/>
+            </person>
+            <person xml:id="per__121996">
+               <persName type="label">Kretschmer, Wilhelm</persName>
+               <persName><surname>Kretschmer</surname><forename>Wilhelm</forename></persName>
+               <occupation>Obmann Sportklub HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19800124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800704.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>

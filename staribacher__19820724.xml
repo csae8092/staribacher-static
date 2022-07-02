@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://id.acdh.oeaw.ac.at/staribacher" xml:id="staribacher__19820724.xml" prev="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19820723.xml" next="https://id.acdh.oeaw.ac.at/staribacher/staribacher__19820726.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samstag, der 24. Juli 1982</title>
+            <title type="sub">Tagebuch Josef Staribacher: Digitale Edition</title>
+            <author>Josef Staribacher</author>
+            <respStmt>
+               <resp>Conversion to TEI</resp>
+               <persName>Gustav Graf</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Digitisation, OCR correction and named entities tagging</resp>
+               <persName>Thomas Tretzmüller</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Kreisky Archiv, Wien</publisher>
+            <availability>
+               <licence>CC BY-NC 4.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Kreisky Archiv</institution>
+                  <collection>Nachlass Josef Staribacher</collection>
+                  <idno type="signature">Band66_1982-07-24</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1982-07-24">Samstag, 24. Juli 1982</date>
+         </creation>
+      </profileDesc>
+      <revisionDesc>
+         <change type="creation" when="2019-11-06">exported as basic TEI from corrected tesseract output.</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">cleaned automatic tesseract-export by cleanExport.xsl script</change>
+         <change type="update" when="2020-06-25" who="acdh:ds">moved first pb element out of attachment divs by cleanExport-patch2.xsl</change>
+         <change type="update" when="2016-08-11" who="acdh:ds">find and note personalAgenda as a subtype cleanExport-patch.xsl</change>
+         <change type="update" when="2016-08-19" who="acdh:ds">whitespace in paragraphs, lb and pb fixes by cleanExport-patch3.xsl</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="66-0875" facs="66_1982-07-24_0875.jpg"/>
+         <div type="entry">
+            <p xml:space="preserve">Samstag, 24. Juli 1982<lb/>
+</p>
+            <p xml:space="preserve">Der Fachverband für Fahrzeugindustrie hat zu seinem 75-jährigen<lb/>
+Bestehen auf Schloß Grafenegg eine Ausstellung Österreichische Auto<lb break="no"/>mobile einst und jetzt, leider nur bis zum 1. August, aufgebaut. Von der<lb/>
+Steyr-Puch-Fahrradvertrieb hat Ing. <name type="person" ref="#per__1137951">Ehn</name> in Eggenburg das erste öster<lb break="no"/>reichische Motorrad- und Technikmuseum größtenteils mit seinen Exponaten<lb/>
+gegründet. <name type="person" ref="#per__1137951">Ehn</name> hatte ich vor längerer Zeit schon versprochen, daß ich<lb/>
+sein Museum einmal besuchen werde. Jetzt ergab sich eine günstige<lb/>
+Gelegenheit durch eine vom Fachverband mit der Stadtgemeinde Eggenburg<lb/>
+durchgeführte Besichtigungsfahrt. Außerdem wurde der erste österreichi<lb break="no"/>sche Motorrad- und Mopedwanderweg in der Eggenburger Gegend offiziell<lb/>
+eröffnet. Drei Fliegen auf einen Schlag. Unser Pressereferent <name type="person" ref="#per__123301">Vecsei</name><lb/>
+hatte mit der Organisation nichts zu tun, dann aber doch mit seinem<lb/>
+ganzen <choice><choice><sic>Werf</sic><corr>Verve?</corr></choice></choice> reingestürzt, weil die Einladung unzweckmäßig war, die notwen<lb break="no"/>digen Journalisten gar nicht verständigt wurden, so daß, wenn er es nicht<lb/>
+in die Hand genommen hätte, sicherlich ein Drittel der sonst anwesenden<lb/>
+Zeitungen und der ORF gekommen wären. Da die beiden größten österrei<lb break="no"/>chischen Mopederzeuger Puch und KTM, jeweils eins uns verkauftes Moped<lb/>
+dorthin transportiert hatten, für die Journalisten sogar weitere 10<lb/>
+für die Eröffnung des Mopedweges bereit standen, vor allem aber ein reger<lb/>
+Motorradklub Eggenburg mit seinen Mitgliedern dort anwesend war, ergab<lb/>
+sich eine ganz schöne Kolonne bei der Fahrt durch die Gegend. Der Fach<lb break="no"/>verbandsgeschäftsführer <name type="person" ref="#per__140404">Kraus</name> und die anwesenden ÖAMTC-Leute, die<lb/>
+ja die Autoausstellung mitorganisiert hatten, waren über die verhältnis<lb break="no"/>mäßig große Beteiligung dann doch sehr zufrieden. <name type="person" ref="#per__123301">Vecsei</name> gebührt<lb/>
+in dieser Beziehung wirklich Dank und Anerkennung. Bei der Presserund<lb break="no"/>fahrt war auch vom ÖAMTC <name type="person" ref="#per__131314">Soche</name> dabei, der dann unbedingt drängte, ich sollte<lb/>
+für den zweiten Teil des Motorfahrweges einen ÖAMTC-Helm tragen. Da wir<lb/>
+vorher von der Fa. <choice><choice><sic>Leld</sic><corr>Held?</corr></choice></choice>, dem einzig österreichischen Sturzhelmerzeuger aus<lb break="no"/>gestattet wurden, habe ich diesen ausdrücklich um seine Erlaubnis gefragt,<lb/>
+da eben der ÖAMTC auch importierte Helme nur besitzt. Wegen des Gags<lb/>
+habe ich aber absichtlich gemacht, um den ÖAMTC-Vertretern, insbesondere<lb/>
+dem Gen.Sekr. <name type="person" ref="#per__122942">Schuchlenz</name> zu erklären, jetzt könnte sich der ÖAMTC nicht<lb/>
+mehr aufregen, wenn ich immer mit ARBÖ-Kapperln und sonstigen Ausrüstun<lb break="no"/>gen fahre. Die Gleichheit ist hergestellt, so behauptete zumindestens ich,<lb/>
+obwohl ich sicherlich kaum mehr ÖAMTC-Klamotten anlegen werde, solange<lb/>
+es sich nicht um eine ausgesprochene ÖAMTC-Veranstaltung handelt.<lb/>
+</p>
+            <p xml:space="preserve">Bei der Pressekonferenz konnte ich auf die Bedeutung der Zweirad-, oder<lb/>
+richtiger gesagt der einspurigen Fahrzeuge verweisen. Immerhin war 1980<lb/>
+<pb n="66-0876" facs="66_1982-07-24_0876.jpg"/>die Produktion 1,7 Mrd. S, die allerdings dann infolge Exportrückgänge<lb/>
+und auch Rückgang im Inlandsverkauf auf 1,4 Mrd. S 1981 zurückgefallen<lb/>
+ist. Ich selbst bin überzeugt, daß es wieder eine Zweiradwelle kommen<lb/>
+wird, natürlich wurde ich dann auch gefragt, was ein so ein Wander- oder<lb/>
+Mopedweg überhaupt für einen Sinn hat, der ja doch über Straßen in der<lb/>
+Eggenburger Gegend führt. Die einfachste Erklärung ist, daß es eine<lb/>
+gute Idee von Ing. <name type="person" ref="#per__1137951">Ehn</name>, Leute zum Museumsbesuch einzuladen, der Motor<lb break="no"/>radklub Eggenburg kann sich dann auch um andere Klubs bemühen und Ge<lb break="no"/>meinschaftstreffen veranstalten, und letzten Endes ist es immer noch<lb/>
+besser, man fährt ein bißchen in der freien Natur als ausschließlich<lb/>
+in den Städten.<lb/>
+</p>
+            <p xml:space="preserve">Überrascht war ich, daß in die Ausstellung Automobile einst und jetzt,<lb/>
+wo vielleicht 2 Dutzend wie ich zugebe sehr interessante Objekte stehen,<lb/>
+immerhin über 25.000 Besucher gekommen sind. Die Ausstellung kann leider<lb/>
+nicht über den ganzen Sommer beibehalten werden, denn die Besitzer der<lb/>
+alten Autos möchten an Rallyes teilnehmen und wollen so bald als mög<lb break="no"/>lich ihre kostbaren Gefährte wieder zurückbekommen.<lb/>
+</p>
+            <p xml:space="preserve">Der ÖAMTC teilte mir auch mit, daß er eine Motorradrallye im 83er-Jahr<lb/>
+nach Melk in NÖ bringen wird. Da an dieser größeren 2000 bis 3000<lb/>
+Teilnehmer zu erwarten sind aus 12 Ländern, erscheint es mir vom Fremden<lb break="no"/>verkehr äußerst interessant. Ich habe zwar niemandem eine finanzielle<lb/>
+Unterstützung zugesagt, ganz im Gegenteil immer wieder erklärt, daß das<lb/>
+Handelsministerium keinerlei Budgetmittel hat, wohl aber zugesichert,<lb/>
+daß die ÖFVW diese Aktivitäten mit Informationen versorgen und auch im<lb/>
+Ausland entsprechende Informationen darüber geben wird. Ing. <name type="person" ref="#per__1137951">Ehn</name>, der<lb/>
+das Motorradmuseum, und Gen.Sekr. <name type="person" ref="#per__122942">Schuchlenz</name> für den ÖAMTC waren dafür<lb/>
+sehr dankbar.<lb/>
+</p>
+            <p xml:space="preserve">ANMERKUNG FÜR <name type="person" ref="#per__108746">HAFFNER</name>: Bitte die ÖFVW soll sich mit beiden ins Einver<lb break="no"/>nehmen setzen.<lb/>
+</p>
+            <p xml:space="preserve">Das Schloß Grafenegg hat in den letzten Jahrzehnt den Besitzer gewech<lb break="no"/>selt und jetzt insgesamt schon an die 17 Mio. investiert. Das Schloß<lb/>
+war von Russen besetzt und man überlegt allen Ernstes, durch den deso<lb break="no"/>laten Zustand bedingt, ob man es nicht abreißen sollte. Zum Glück<lb/>
+ist diese Entscheidung in den 50 Jahren nicht getroffen worden. Jetzt<lb/>
+wird dieses historische Schloß vortrefflich restauriert, Landesaus<lb break="no"/>stellungen, jetzt eine über Amsterdam, nicht gerade überwältigend, 1983<lb/>
+oder 84 dann aber große Kaiserausstellungen vom Lande Niederösterreich<lb/>
+<pb n="66-0877" facs="66_1982-07-24_0877.jpg"/>resp. des Bundes wird dieses Schloß dann in seiner ganzen Herrlichkeit<lb/>
+sehen. Die Zeit des Historismus, den man ja in der ersten Republik und<lb/>
+dann vor allem anfangs der zweiten Republik abgelehnt hat, ist jetzt<lb/>
+endgültig vorbei, nicht nur die Ringstraße, sondern auch solche Schlösser<lb/>
+und Burgen, die um die Jahrhundertwende gebaut wurden, haben heute<lb/>
+kunsthistorisch einen bedeutenden Platz im Ausstellungswesen, auch die<lb/>
+Automobilausstellung ist durch den jetzt neu restaurierten freien<lb/>
+Reitstall günstig in Grafenegg <choice><choice><sic>lotiert</sic><corr>loziert?</corr></choice></choice>. Typisch für das Schloß, auch wenn<lb/>
+es um die Jahrhundertwende umgebaut wurde ist, daß in hunderten von<lb/>
+Zimmern eine einzige Badeanlage existiert. Ich bewundere Leute die aus<lb/>
+welchen Gründen immer bereit sind, solche alten Schlösser und Burgen zu<lb/>
+kaufen und dann doch größtenteils mit ihren eigenen Mitteln zu restau<lb break="no"/>rieren und dann zu erhalten. Ob dies der ehemalige Handelsminister<lb/>
+Dr. <name type="person" ref="#per__133333">Illig</name> in Schlaining, Burgenland war oder <choice><choice><sic><name type="person" ref="#per__1137952">Graf Waretzky</name></sic><corr>?</corr></choice></choice> in Grafenegg.<lb/>
+</p>
+            <p xml:space="preserve"/>
+         </div>
+      </body>
+      <back><listPerson><person xml:id="per__108746">
+               <persName type="label">Haffner, Konrad</persName>
+               <persName><surname>Haffner</surname><forename>Konrad</forename></persName>
+               <occupation>MR HM</occupation>
+               <ptr type="mentioned" target="#staribacher__19711113.xml"/>
+               <ptr type="mentioned" target="#staribacher__19720207.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811119.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811120.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811123.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811124.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811125.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811126.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811130.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811204.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811210.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811211.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811214.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811215.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811216.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811218.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811221.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811222.xml"/>
+            </person>
+            <person xml:id="per__123301">
+               <persName type="label">Vecsei, Paul</persName>
+               <persName><surname>Vecsei</surname><forename>Paul</forename></persName>
+               <occupation>Pressesprecher Staribachers</occupation>
+               <ptr type="mentioned" target="#staribacher__19800117.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800409.xml"/>
+               <ptr type="mentioned" target="#staribacher__19800507.xml"/>
+               <ptr type="mentioned" target="#staribacher__19801129.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810303.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810405.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810428.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810609.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810710.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810717.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810718.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810721.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810727.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810803.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810825.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811012.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811022.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811105.xml"/>
+               <ptr type="mentioned" target="#staribacher__19811106.xml"/>
+            </person>
+            <person xml:id="per__131314">
+               <persName type="label">Soche, Peter</persName>
+               <persName><surname>Soche</surname><forename>Peter</forename></persName>
+               <occupation>Jurist ÖAMTC</occupation>
+               <ptr type="mentioned" target="#staribacher__19710604.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710616.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710618.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710623.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710728.xml"/>
+               <ptr type="mentioned" target="#staribacher__19710907.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711004.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711108.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711112.xml"/>
+               <ptr type="mentioned" target="#staribacher__19711203.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810223.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810922.xml"/>
+            </person>
+            <person xml:id="per__133333">
+               <persName type="label">Illig, Udo</persName>
+               <persName><surname>Illig</surname><forename>Udo</forename></persName>
+               <occupation>Handelsminister, ÖVP</occupation>
+               <ptr type="mentioned" target="#staribacher__19720202.xml"/>
+               <ptr type="mentioned" target="#staribacher__19810619.xml"/>
+            </person>
+            <person xml:id="per__122942">
+               <persName type="label">Schuchlenz, Walter</persName>
+               <persName><surname>Schuchlenz</surname><forename>Walter</forename></persName>
+               <occupation>GS ÖAMTC</occupation>
+               <ptr type="mentioned" target="#staribacher__19800222.xml"/>
+            </person>
+            </listPerson></back></text>
+</TEI>
