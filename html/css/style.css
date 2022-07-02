@@ -118,3 +118,18 @@ button#ssDoSearch {
 #github-logo:hover {
     transform: scale(1.05);
 }
+
+#years-table .btn-light:focus, #years-table .btn-light.focus {
+    box-shadow: 0 0 0 0.2rem var(--schnitzler-green);
+}
+
+.yearbtn {
+    padding: 2px;
+    font-size: 0.9rem;
+    border: none;
+    background-color: transparent;
+}
+
+.fokus {
+    color: red;
+}
